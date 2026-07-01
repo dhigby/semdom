@@ -1,0 +1,27 @@
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/content/pages
+    format: yaml-frontmatter
+    view:
+      fields: [title, menuOrder]
+      primary: title
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: menuTitle
+        label: Menu label (short label shown in navigation; defaults to Title)
+        type: string
+      - name: menuOrder
+        label: Menu order
+        type: number
+      - name: showInMenu
+        label: Show in main navigation
+        type: boolean
+        default: true
+      - name: body
+        label: Content
+        type: rich-text

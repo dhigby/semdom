@@ -1,0 +1,14 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../components/Layout.astro';
+
+const entry = await getEntry('pages', 'home');
+const { Content } = await render(entry!);
+---
+
+<Layout title={entry!.data.title}>
+  <div class="content-page" data-pagefind-body>
+    <h1>{entry!.data.title}</h1>
+    <Content />
+  </div>
+</Layout>

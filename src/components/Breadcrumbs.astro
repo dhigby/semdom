@@ -1,0 +1,23 @@
+---
+import { getAncestors } from '../lib/semdom';
+import type { Domain } from '../lib/semdom';
+
+interface Props {
+  domain: Domain;
+}
+
+const { domain } = Astro.props;
+const ancestors = getAncestors(domain);
+---
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="/">Home</a>
+  {ancestors.map((a) => (
+    <>
+      {' » '}
+      <a href={`/v4/${a.code}/`}>{a.code} {a.name}</a>
+    </>
+  ))}
+  {' » '}
+  <span>{domain.code} {domain.name}</span>
+</nav>

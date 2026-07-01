@@ -1,0 +1,25 @@
+---
+import { getPrevNext, getAncestors } from '../lib/semdom';
+import type { Domain } from '../lib/semdom';
+
+interface Props {
+  domain: Domain;
+}
+
+const { domain } = Astro.props;
+const { prev, next } = getPrevNext(domain);
+const ancestors = getAncestors(domain);
+const parent = ancestors.length > 0 ? ancestors[ancestors.length - 1] : null;
+---
+
+<nav class="domain-nav" aria-label="Domain navigation">
+  <span>
+    {prev ? <a href={`/v4/${prev.code}/`}>&larr; {prev.code} {prev.name}</a> : <span />}
+  </span>
+  <span>
+    {parent ? <a href={`/v4/${parent.code}/`}>&uarr; {parent.code} {parent.name}</a> : <a href="/v4/">&uarr; All domains</a>}
+  </span>
+  <span>
+    {next ? <a href={`/v4/${next.code}/`}>{next.code} {next.name} &rarr;</a> : <span />}
+  </span>
+</nav>

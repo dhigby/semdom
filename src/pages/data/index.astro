@@ -1,0 +1,22 @@
+---
+import Layout from '../../components/Layout.astro';
+---
+
+<Layout title="Data" description="Download the Semantic Domains list as XML or JSON.">
+  <div class="content-page">
+    <h1>Data</h1>
+    <p>
+      The full Semantic Domains v4 list is available for download in its original
+      FieldWorks XML format, or as JSON generated from it.
+    </p>
+    <ul>
+      <li><a href="/SemDom.xml" download>SemDom.xml</a> — the source-of-truth FieldWorks list</li>
+      <li><a href="/data/semdom.json" download>semdom.json</a> — the same data as JSON</li>
+    </ul>
+    <p>
+      This data is licensed under a
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+      by SIL International.
+    </p>
+  </div>
+</Layout>

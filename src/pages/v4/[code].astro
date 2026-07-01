@@ -1,0 +1,70 @@
+---
+import Layout from '../../components/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SidebarTree from '../../components/SidebarTree.astro';
+import DomainNav from '../../components/DomainNav.astro';
+import { getAllDomains, getChildren, resolveRelated } from '../../lib/semdom';
+
+export async function getStaticPaths() {
+  return getAllDomains().map((domain) => ({
+    params: { code: domain.code },
+    props: { domain },
+  }));
+}
+
+const { domain } = Astro.props;
+const children = getChildren(domain);
+const related = resolveRelated(domain);
+---
+
+<Layout title={`${domain.code} ${domain.name}`} description={domain.description}>
+  <article data-pagefind-body data-pagefind-meta={`title:${domain.code} ${domain.name}`}>
+    <Breadcrumbs domain={domain} />
+
+    <h1><span class="domain-code">{domain.code}</span> {domain.name}</h1>
+
+    {domain.description && <p class="domain-description">{domain.description}</p>}
+
+    {domain.questions.length > 0 && (
+      <ol class="domain-questions">
+        {domain.questions.map((q) => (
+          <li class="domain-question">
+            <p class="q-text">{q.question}</p>
+            {q.exampleWords && <p class="example-words"><strong>Example words:</strong> {q.exampleWords}</p>}
+            {q.exampleSentences && <p class="example-sentence">{q.exampleSentences}</p>}
+          </li>
+        ))}
+      </ol>
+    )}
+
+    {children.length > 0 && (
+      <div class="domain-children">
+        <h2>Sub-domains</h2>
+        <ul>
+          {children.map((c) => (
+            <li><a href={`/v4/${c.code}/`}>{c.code} {c.name}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {related.length > 0 && (
+      <div class="domain-related">
+        <h2>Related domains</h2>
+        <ul>
+          {related.map((r) => (
+            <li><a href={`/v4/${r.code}/`}>{r.code} {r.name}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <DomainNav domain={domain} />
+
+    <p class="domain-meta">
+      Permanent link: <code>https://semdom.org/v4/{domain.code}/</code> · GUID: {domain.guid}
+    </p>
+  </article>
+
+  <SidebarTree current={domain} slot="sidebar" />
+</Layout>

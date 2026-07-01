@@ -1,0 +1,27 @@
+---
+import TreeNode from './TreeNode.astro';
+import { getRootDomains, getAncestors } from '../lib/semdom';
+import type { Domain } from '../lib/semdom';
+
+interface Props {
+  current?: Domain;
+}
+
+const { current } = Astro.props;
+
+const expanded = new Set<string>();
+if (current) {
+  for (const a of getAncestors(current)) expanded.add(a.code);
+  expanded.add(current.code);
+}
+
+const roots = getRootDomains();
+---
+
+<nav class="sidebar sidebar-tree" aria-label="Semantic domain tree">
+  <ul>
+    {roots.map((root) => (
+      <TreeNode domain={root} expanded={expanded} currentCode={current?.code} />
+    ))}
+  </ul>
+</nav>

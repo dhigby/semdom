@@ -1,0 +1,22 @@
+---
+import Layout from '../../components/Layout.astro';
+import TreeNode from '../../components/TreeNode.astro';
+import { getRootDomains } from '../../lib/semdom';
+
+const roots = getRootDomains();
+const expanded = new Set(roots.map((r) => r.code));
+---
+
+<Layout title="Browse Semantic Domains" description="Browse the full hierarchy of semantic domains.">
+  <div class="v4-index">
+    <h1>Semantic Domains</h1>
+    <p>Browse the nine major categories below, or use search to jump directly to a domain.</p>
+    <nav class="sidebar-tree" aria-label="Semantic domain categories">
+      <ul>
+        {roots.map((root) => (
+          <TreeNode domain={root} expanded={expanded} />
+        ))}
+      </ul>
+    </nav>
+  </div>
+</Layout>
