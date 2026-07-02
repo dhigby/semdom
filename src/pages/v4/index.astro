@@ -1,22 +1,58 @@
 ---
 import Layout from '../../components/Layout.astro';
-import TreeNode from '../../components/TreeNode.astro';
+import BrowseTreeNode from '../../components/BrowseTreeNode.astro';
 import { getRootDomains } from '../../lib/semdom';
 
 const roots = getRootDomains();
-const expanded = new Set(roots.map((r) => r.code));
 ---
 
 <Layout title="Browse Semantic Domains" description="Browse the full hierarchy of semantic domains.">
   <div class="v4-index">
     <h1>Semantic Domains</h1>
-    <p>Browse the nine major categories below, or use search to jump directly to a domain.</p>
-    <nav class="sidebar-tree" aria-label="Semantic domain categories">
-      <ul>
+    <p>Browse the nine major categories below. Select a domain to expand its subdomains, or use search to jump directly to any domain.</p>
+
+    <div class="browse-controls">
+      <button type="button" class="browse-btn" data-action="expand-all">Expand all</button>
+      <button type="button" class="browse-btn" data-action="collapse-all">Collapse all</button>
+    </div>
+
+    <nav class="browse-tree" aria-label="Semantic domain categories">
+      <ul role="tree">
         {roots.map((root) => (
-          <TreeNode domain={root} expanded={expanded} />
+          <BrowseTreeNode domain={root} />
         ))}
       </ul>
     </nav>
   </div>
 </Layout>
+
+<script>
+  const tree = document.querySelector<HTMLElement>('.browse-tree');
+  if (tree) {
+    const setExpanded = (item: HTMLElement, expanded: boolean) => {
+      const group = item.querySelector<HTMLElement>(':scope > .browse-group');
+      if (!group) return;
+      item.setAttribute('aria-expanded', String(expanded));
+      group.hidden = !expanded;
+    };
+
+    // Toggle a single node when its chevron button is clicked.
+    tree.addEventListener('click', (e) => {
+      const toggle = (e.target as HTMLElement).closest<HTMLElement>('.browse-toggle');
+      if (!toggle || toggle.classList.contains('browse-toggle--leaf')) return;
+      const item = toggle.closest<HTMLElement>('.browse-item');
+      if (!item) return;
+      setExpanded(item, item.getAttribute('aria-expanded') !== 'true');
+    });
+
+    // Expand-all / collapse-all controls.
+    document.querySelector('.browse-controls')?.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest<HTMLElement>('.browse-btn');
+      if (!btn) return;
+      const expand = btn.dataset.action === 'expand-all';
+      tree.querySelectorAll<HTMLElement>('.browse-item[aria-expanded]').forEach((item) => {
+        setExpanded(item, expand);
+      });
+    });
+  }
+</script>

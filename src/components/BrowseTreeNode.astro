@@ -1,0 +1,40 @@
+---
+import { getChildren } from '../lib/semdom';
+import type { Domain } from '../lib/semdom';
+import { withBase } from '../lib/url';
+
+interface Props {
+  domain: Domain;
+  depth?: number;
+}
+
+const { domain, depth = 0 } = Astro.props;
+const children = getChildren(domain);
+const hasChildren = children.length > 0;
+---
+
+<li class="browse-item" role="treeitem" aria-expanded={hasChildren ? 'false' : undefined} data-depth={depth}>
+  <div class="browse-row">
+    {hasChildren ? (
+      <button type="button" class="browse-toggle" aria-label={`Expand ${domain.code} ${domain.name}`}>
+        <svg class="browse-chevron" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+    ) : (
+      <span class="browse-toggle browse-toggle--leaf" aria-hidden="true"></span>
+    )}
+    <a class="browse-link" href={withBase(`/v4/${domain.code}/`)}>
+      <span class="browse-code">{domain.code}</span>
+      <span class="browse-name">{domain.name}</span>
+      {hasChildren && <span class="browse-count">{children.length}</span>}
+    </a>
+  </div>
+  {hasChildren && (
+    <ul class="browse-group" role="group" hidden>
+      {children.map((child) => (
+        <Astro.self domain={child} depth={depth + 1} />
+      ))}
+    </ul>
+  )}
+</li>

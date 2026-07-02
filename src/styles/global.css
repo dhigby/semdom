@@ -184,9 +184,30 @@ h3 {
 }
 
 .site-search {
+  position: relative;
   min-width: 200px;
   flex: 1 1 200px;
   max-width: 300px;
+}
+
+/* Pagefind renders its results inside .pagefind-ui__drawer directly after the
+   search input. By default that grows the header; float it as a dropdown panel
+   anchored to the search box instead. */
+.site-search .pagefind-ui__drawer:not(.pagefind-ui__hidden) {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  width: min(440px, 92vw);
+  max-height: min(70vh, 620px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  z-index: 100;
+  padding: 0.75rem 1rem 1rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  scrollbar-width: thin;
 }
 
 /* ------------------------------------------------------------------ layout */
@@ -471,17 +492,173 @@ h3 {
   border-left-color: var(--sil-cyan);
 }
 
-/* v4 landing categories reuse the tree styling but as roomier cards */
+/* ------------------------------------------------ browse (interactive tree) */
+
 .v4-index h1 {
   font-size: 2rem;
 }
 
-.v4-index .sidebar-tree {
-  margin-top: 1.5rem;
+.browse-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1.5rem 0 1rem;
 }
 
-.v4-index .sidebar-tree > ul > li {
-  margin: 0.35rem 0;
+.browse-btn {
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--sil-blue);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  padding: 0.35rem 0.8rem;
+  cursor: pointer;
+  transition: background 0.15s var(--ease), border-color 0.15s var(--ease),
+    color 0.15s var(--ease);
+}
+
+.browse-btn:hover {
+  background: var(--bg-tint);
+  border-color: var(--sil-cyan);
+}
+
+.browse-tree ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Every nested level indents by a fixed step and shows its own vertical
+   guide line, so depth reads clearly (1 → 1.1 → 1.1.1 → 1.1.1.1 …).
+   Scoped under .browse-tree so it out-specifies the `.browse-tree ul`
+   reset above, which would otherwise zero the margin/padding. */
+.browse-tree .browse-group {
+  margin-left: 0.9rem;
+  padding-left: 1.15rem;
+  border-left: 2px solid #ccd8e6;
+}
+
+.browse-row {
+  display: flex;
+  align-items: stretch;
+  gap: 0.15rem;
+  margin: 2px 0;
+}
+
+.browse-toggle {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.7rem;
+  padding: 0;
+  color: var(--muted);
+  background: none;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.14s var(--ease), color 0.14s var(--ease);
+}
+
+.browse-toggle:hover {
+  background: var(--bg-tint);
+  color: var(--sil-blue);
+}
+
+.browse-toggle--leaf {
+  cursor: default;
+}
+
+.browse-chevron {
+  transition: transform 0.18s var(--ease);
+}
+
+.browse-item[aria-expanded="true"] > .browse-row > .browse-toggle .browse-chevron {
+  transform: rotate(90deg);
+}
+
+.browse-link {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  padding: 0.4rem 0.6rem;
+  border-radius: 7px;
+  text-decoration: none;
+  color: var(--text);
+  border-left: 2px solid transparent;
+  transition: background 0.14s var(--ease), color 0.14s var(--ease),
+    border-color 0.14s var(--ease);
+}
+
+.browse-link:hover {
+  background: var(--bg-tint);
+  color: var(--sil-blue);
+}
+
+.browse-code {
+  flex: 0 0 auto;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.browse-link:hover .browse-code {
+  color: var(--sil-blue);
+}
+
+.browse-name {
+  flex: 1 1 auto;
+}
+
+.browse-count {
+  flex: 0 0 auto;
+  align-self: center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--muted);
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+}
+
+/* Top-level (root) categories render as prominent cards. */
+.browse-tree > ul > .browse-item {
+  margin: 0.5rem 0;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.18s var(--ease), border-color 0.18s var(--ease);
+}
+
+.browse-tree > ul > .browse-item:hover {
+  border-color: var(--sil-cyan);
+  box-shadow: var(--shadow-md);
+}
+
+.browse-tree > ul > .browse-item > .browse-row {
+  margin: 0;
+  padding: 0.35rem 0.4rem;
+}
+
+.browse-tree > ul > .browse-item > .browse-row .browse-link {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--sil-navy);
+}
+
+.browse-tree > ul > .browse-item > .browse-row .browse-code {
+  color: var(--sil-blue);
+}
+
+/* First level inside a root card keeps the same left indent + guide line as
+   deeper levels, plus a little bottom/right breathing room within the card. */
+.browse-tree > ul > .browse-item > .browse-group {
+  margin: 0 0.75rem 0.6rem 0.85rem;
 }
 
 /* -------------------------------------------------------------------- footer */
@@ -524,13 +701,3 @@ h3 {
   color: var(--sil-cyan);
 }
 
-/* ------------------------------------------------------------------ misc */
-
-.v4-index ul {
-  list-style: none;
-  padding: 0;
-}
-
-.v4-index li {
-  margin: 0.5rem 0;
-}
