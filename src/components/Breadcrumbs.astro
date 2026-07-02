@@ -1,6 +1,7 @@
 ---
 import { getAncestors } from '../lib/semdom';
 import type { Domain } from '../lib/semdom';
+import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
@@ -11,11 +12,11 @@ const ancestors = getAncestors(domain);
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <a href="/">Home</a>
+  <a href={withBase('/')}>Home</a>
   {ancestors.map((a) => (
     <>
       {' » '}
-      <a href={`/v4/${a.code}/`}>{a.code} {a.name}</a>
+      <a href={withBase(`/v4/${a.code}/`)}>{a.code} {a.name}</a>
     </>
   ))}
   {' » '}

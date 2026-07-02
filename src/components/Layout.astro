@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { withBase } from '../lib/url';
 import '../styles/global.css';
 
 interface Props {
@@ -12,6 +13,8 @@ const { title, description } = Astro.props;
 const pages = (await getCollection('pages'))
   .filter((p) => p.data.showInMenu)
   .sort((a, b) => (a.data.menuOrder ?? 99) - (b.data.menuOrder ?? 99));
+
+const pagefindBase = withBase('/pagefind');
 ---
 
 <!doctype html>
@@ -21,19 +24,19 @@ const pages = (await getCollection('pages'))
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title} | Semantic Domains</title>
     {description && <meta name="description" content={description} />}
-    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <link rel="stylesheet" href={`${pagefindBase}/pagefind-ui.css`} />
   </head>
   <body>
     <header class="site-header">
       <div class="site-header-inner">
-        <a class="site-title" href="/">Semantic Domains</a>
+        <a class="site-title" href={withBase('/')}>Semantic Domains</a>
         <nav aria-label="Main">
           <ul class="site-nav">
             {pages.map((p) => (
-              <li><a href={p.id === 'home' ? '/' : `/${p.id}/`}>{p.data.menuTitle ?? p.data.title}</a></li>
+              <li><a href={withBase(p.id === 'home' ? '/' : `/${p.id}/`)}>{p.data.menuTitle ?? p.data.title}</a></li>
             ))}
-            <li><a href="/v4/">Browse Domains</a></li>
-            <li><a href="/data/">Data</a></li>
+            <li><a href={withBase('/v4/')}>Browse Domains</a></li>
+            <li><a href={withBase('/data/')}>Data</a></li>
           </ul>
         </nav>
         <div id="search" class="site-search"></div>
@@ -52,11 +55,11 @@ const pages = (await getCollection('pages'))
       </div>
     </footer>
 
-    <script type="module">
-      import('/pagefind/pagefind-ui.js')
+    <script define:vars={{ pagefindBase }}>
+      import(`${pagefindBase}/pagefind-ui.js`)
         .then(() => {
           // eslint-disable-next-line no-undef
-          new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+          new PagefindUI({ element: '#search', bundlePath: `${pagefindBase}/`, showSubResults: true, showImages: false });
         })
         .catch(() => {
           /* search index not built yet (e.g. dev mode before first build) */

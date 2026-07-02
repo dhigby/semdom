@@ -2,6 +2,7 @@
 import TreeNode from './TreeNode.astro';
 import { getChildren } from '../lib/semdom';
 import type { Domain } from '../lib/semdom';
+import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
@@ -15,7 +16,7 @@ const children = expanded.has(domain.code) ? getChildren(domain) : [];
 ---
 
 <li class:list={{ current: isCurrent }}>
-  <a href={`/v4/${domain.code}/`} aria-current={isCurrent ? 'page' : undefined}>
+  <a href={withBase(`/v4/${domain.code}/`)} aria-current={isCurrent ? 'page' : undefined}>
     {domain.code} {domain.name}
   </a>
   {children.length > 0 && (

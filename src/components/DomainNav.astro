@@ -1,6 +1,7 @@
 ---
 import { getPrevNext, getAncestors } from '../lib/semdom';
 import type { Domain } from '../lib/semdom';
+import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
@@ -14,12 +15,12 @@ const parent = ancestors.length > 0 ? ancestors[ancestors.length - 1] : null;
 
 <nav class="domain-nav" aria-label="Domain navigation">
   <span>
-    {prev ? <a href={`/v4/${prev.code}/`}>&larr; {prev.code} {prev.name}</a> : <span />}
+    {prev ? <a href={withBase(`/v4/${prev.code}/`)}>&larr; {prev.code} {prev.name}</a> : <span />}
   </span>
   <span>
-    {parent ? <a href={`/v4/${parent.code}/`}>&uarr; {parent.code} {parent.name}</a> : <a href="/v4/">&uarr; All domains</a>}
+    {parent ? <a href={withBase(`/v4/${parent.code}/`)}>&uarr; {parent.code} {parent.name}</a> : <a href={withBase('/v4/')}>&uarr; All domains</a>}
   </span>
   <span>
-    {next ? <a href={`/v4/${next.code}/`}>{next.code} {next.name} &rarr;</a> : <span />}
+    {next ? <a href={withBase(`/v4/${next.code}/`)}>{next.code} {next.name} &rarr;</a> : <span />}
   </span>
 </nav>

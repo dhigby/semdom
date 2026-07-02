@@ -4,6 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import SidebarTree from '../../components/SidebarTree.astro';
 import DomainNav from '../../components/DomainNav.astro';
 import { getAllDomains, getChildren, resolveRelated } from '../../lib/semdom';
+import { withBase } from '../../lib/url';
 
 export async function getStaticPaths() {
   return getAllDomains().map((domain) => ({
@@ -42,7 +43,7 @@ const related = resolveRelated(domain);
         <h2>Sub-domains</h2>
         <ul>
           {children.map((c) => (
-            <li><a href={`/v4/${c.code}/`}>{c.code} {c.name}</a></li>
+            <li><a href={withBase(`/v4/${c.code}/`)}>{c.code} {c.name}</a></li>
           ))}
         </ul>
       </div>
@@ -53,7 +54,7 @@ const related = resolveRelated(domain);
         <h2>Related domains</h2>
         <ul>
           {related.map((r) => (
-            <li><a href={`/v4/${r.code}/`}>{r.code} {r.name}</a></li>
+            <li><a href={withBase(`/v4/${r.code}/`)}>{r.code} {r.name}</a></li>
           ))}
         </ul>
       </div>
