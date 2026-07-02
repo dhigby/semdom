@@ -4,10 +4,11 @@ import Layout from '../../components/Layout.astro';
 import PageSequenceNav from '../../components/PageSequenceNav.astro';
 
 export async function getStaticPaths() {
-  // 'home' has its own route (src/pages/index.astro) and 'bibliography' has a
-  // dedicated route that also renders the Data download section, so both are
+  // 'home' has its own route (src/pages/index.astro), 'bibliography' has a
+  // dedicated route that also renders the Data download section, and 'contact'
+  // has a dedicated route that appends the contact form — so all three are
   // excluded here to avoid duplicate-route collisions.
-  const excluded = new Set(['home', 'bibliography']);
+  const excluded = new Set(['home', 'bibliography', 'contact']);
   const pages = await getCollection('pages');
   return pages
     .filter((p) => !excluded.has(p.id))

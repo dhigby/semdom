@@ -1,0 +1,85 @@
+---
+/**
+ * Contact form that posts to Web3Forms (https://web3forms.com), which forwards
+ * submissions to the SIL address tied to the access key below. The site is a
+ * static GitHub Pages build with no backend, so a hosted form backend is what
+ * lets a real form work here.
+ *
+ * The access key is public by design — it only authorises *sending* to the
+ * pre-configured destination address, which is never exposed in the page. The
+ * form is submitted with a small client-side fetch so the visitor stays on the
+ * page and sees an inline result (no redirect → no base-path handling needed).
+ */
+const ACCESS_KEY = '434076d1-63e6-4036-9b1a-02086259eef7';
+const FALLBACK_EMAIL = 'doug_higby@sil.org';
+---
+
+<form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+  <input type="hidden" name="access_key" value={ACCESS_KEY} />
+  <input type="hidden" name="subject" value="semdom.org contact form" />
+  <input type="hidden" name="from_name" value="Semantic Domains website" />
+
+  <!-- Honeypot: bots fill this hidden field; Web3Forms silently drops those. -->
+  <input type="checkbox" name="botcheck" class="contact-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+  <div class="contact-field">
+    <label for="cf-name">Name</label>
+    <input type="text" id="cf-name" name="name" required autocomplete="name" />
+  </div>
+
+  <div class="contact-field">
+    <label for="cf-email">Email</label>
+    <input type="email" id="cf-email" name="email" required autocomplete="email" />
+  </div>
+
+  <div class="contact-field">
+    <label for="cf-message">Message</label>
+    <textarea id="cf-message" name="message" rows="6" required></textarea>
+  </div>
+
+  <button type="submit" class="contact-submit">Send message</button>
+
+  <p class="contact-status" id="contact-status" role="status" aria-live="polite" hidden></p>
+</form>
+
+<script define:vars={{ fallbackEmail: FALLBACK_EMAIL }}>
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('contact-status');
+  const button = form.querySelector('.contact-submit');
+
+  function setStatus(kind, html) {
+    status.className = 'contact-status contact-status--' + kind;
+    status.innerHTML = html;
+    status.hidden = false;
+  }
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    button.disabled = true;
+    setStatus('pending', 'Sending…');
+
+    const payload = Object.fromEntries(new FormData(form).entries());
+
+    try {
+      const res = await fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      const data = await res.json();
+      if (data.success) {
+        form.reset();
+        setStatus('success', 'Thanks — your message has been sent. We’ll be in touch.');
+      } else {
+        throw new Error(data.message || 'Submission failed');
+      }
+    } catch (err) {
+      setStatus(
+        'error',
+        'Sorry, something went wrong sending your message. Please email us directly at ' +
+          '<a href="mailto:' + fallbackEmail + '">' + fallbackEmail + '</a>.'
+      );
+      button.disabled = false;
+    }
+  });
+</script>

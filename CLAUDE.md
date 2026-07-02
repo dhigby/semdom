@@ -35,7 +35,17 @@ Node 20 (matches CI). `dist/`, `node_modules/`, and `.astro/` are gitignored.
   init), `SidebarTree.astro` + `TreeNode.astro` (the domain-page sidebar tree,
   auto-expanded to the current domain), `BrowseTreeNode.astro` (the recursive
   collapsible tree on the Browse page), `Breadcrumbs.astro`,
-  `PageSequenceNav.astro`.
+  `PageSequenceNav.astro`, `ContactForm.astro`.
+- **Contact form**: `ContactForm.astro` posts to
+  [Web3Forms](https://web3forms.com) (a hosted form backend — there is no
+  server), which forwards submissions to an SIL email tied to its access key.
+  It submits via client-side `fetch` (inline success/error, no redirect, so no
+  base-path handling needed). Rendered by `src/pages/contact/index.astro`, a
+  dedicated route that mirrors the bibliography route: it renders the
+  CMS-editable `contact.md` intro text and then appends the form. Because of
+  this, `'contact'` (like `'home'` and `'bibliography'`) is excluded from the
+  generic `src/pages/[slug]` route. The Web3Forms access key is public by design
+  — safe to commit.
 - **Styles**: a single global stylesheet, `src/styles/global.css` (SIL brand
   palette in `:root`). No CSS framework.
 - **Search**: Pagefind indexes `dist/` after the Astro build (see the `build`

@@ -661,6 +661,107 @@ h3 {
   margin: 0 0.75rem 0.6rem 0.85rem;
 }
 
+/* -------------------------------------------------------------- contact form */
+
+.contact-form {
+  margin-top: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+/* Honeypot — visually and interaction-hidden, but not display:none (some bots
+   skip display:none fields). */
+.contact-honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+
+.contact-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.contact-field label {
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--sil-navy);
+}
+
+.contact-field input,
+.contact-field textarea {
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  transition: border-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
+}
+
+.contact-field textarea {
+  resize: vertical;
+  min-height: 8rem;
+}
+
+.contact-field input:focus,
+.contact-field textarea:focus {
+  outline: none;
+  border-color: var(--sil-cyan);
+  box-shadow: 0 0 0 3px rgba(0, 167, 225, 0.18);
+}
+
+.contact-submit {
+  align-self: flex-start;
+  font: inherit;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 0.6rem 1.4rem;
+  cursor: pointer;
+  transition: background 0.15s var(--ease), transform 0.15s var(--ease);
+}
+
+.contact-submit:hover {
+  background: var(--accent-hover);
+}
+
+.contact-submit:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.contact-status {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.contact-status--pending {
+  color: var(--muted);
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+}
+
+.contact-status--success {
+  color: #14532d;
+  background: #ecfdf3;
+  border: 1px solid #abefc6;
+}
+
+.contact-status--error {
+  color: #7a271a;
+  background: #fef3f2;
+  border: 1px solid #fecdca;
+}
+
 /* -------------------------------------------------------------------- footer */
 
 .site-footer {

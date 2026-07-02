@@ -1,0 +1,20 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import ContactForm from '../../components/ContactForm.astro';
+
+// Dedicated route (mirrors src/pages/bibliography/index.astro): renders the
+// CMS-editable contact.md intro text, then appends the contact form. Because
+// this route exists, 'contact' is excluded from the generic src/pages/[slug]
+// route to avoid a duplicate-route collision.
+const entry = await getEntry('pages', 'contact');
+const { Content } = await render(entry!);
+---
+
+<Layout title={entry!.data.title} description="Get in touch about the Semantic Domains website — its content or functionality.">
+  <div class="content-page" data-pagefind-body>
+    <h1>{entry!.data.title}</h1>
+    <Content />
+    <ContactForm />
+  </div>
+</Layout>
