@@ -8,9 +8,9 @@ Built with **Astro 5** (static output), searched with **Pagefind**, deployed to
 ## Commands
 
 ```bash
-npm run dev      # Astro dev server — honors the base path, but NO search index
+npm run dev      # Astro dev server — NO search index
 npm run build    # astro build + pagefind index (writes to dist/)
-npm run preview  # serves dist/ — see the base-path gotcha below
+npm run preview  # serves dist/ at the root
 ```
 
 Node 20 (matches CI). `dist/`, `node_modules/`, and `.astro/` are gitignored.
@@ -52,32 +52,12 @@ Node 20 (matches CI). `dist/`, `node_modules/`, and `.astro/` are gitignored.
   script). `Layout.astro` dynamically imports `pagefind-ui.js` and mounts it
   into `#search`. In `npm run dev` there is no index, so search silently no-ops.
 
-## The base-path gotcha (important for local testing)
-
-`astro.config.mjs` sets `base: '/semdom'` **temporarily**, so the site currently
-deploys under `https://dhigby.github.io/semdom/` for testing before DNS points
-semdom.org at GitHub Pages. Because of this base:
-
-- All hardcoded in-site links go through `withBase()` in `src/lib/url.ts`
-  (Astro does not rewrite hardcoded `href="/..."` strings). **Use `withBase()`
-  for any absolute path** you add (links, images, the Pagefind bundle path).
-- `npm run preview` serves `dist/` at the **root** (`/`) and ignores the base,
-  so base-prefixed assets (`/semdom/_astro/*.css`, `/semdom/pagefind/*`) 404 and
-  the page looks unstyled / search-less. To preview the built site faithfully,
-  serve `dist/` under a `/semdom/` path — e.g. a junction named `semdom` pointing
-  at `dist/` inside a scratch dir, served with a **threaded** static server
-  (Python's single-threaded `http.server` drops concurrent asset requests with
-  `ERR_EMPTY_RESPONSE`; use `ThreadingHTTPServer`). Then open
-  `http://localhost:<port>/semdom/v4/`.
-- When DNS is cut over, remove `base` from `astro.config.mjs` (or set `'/'`);
-  `withBase()` then becomes a no-op and preview works normally.
-
 ## Verifying visual/UI changes
 
 UI changes should be verified in a real browser (the Kapture MCP browser tools
-work well here): build, serve under the base path as above, navigate, interact
-(expand tree nodes, run a search), and screenshot. For layout/indent questions,
-measure real element bounds (`elements` tool) rather than eyeballing a scaled
+work well here): build, run `npm run preview`, navigate, interact (expand tree
+nodes, run a search), and screenshot. For layout/indent questions, measure
+real element bounds (`elements` tool) rather than eyeballing a scaled
 screenshot — CSS specificity bugs (e.g. a `.browse-tree ul` reset out-specifying
 `.browse-group`) look like value bugs but aren't.
 
