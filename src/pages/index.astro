@@ -1,6 +1,7 @@
 ---
 import { getEntry, render } from 'astro:content';
 import Layout from '../components/Layout.astro';
+import PageSequenceNav from '../components/PageSequenceNav.astro';
 
 const entry = await getEntry('pages', 'home');
 const { Content } = await render(entry!);
@@ -10,5 +11,6 @@ const { Content } = await render(entry!);
   <div class="content-page" data-pagefind-body>
     <h1>{entry!.data.title}</h1>
     <Content />
+    <PageSequenceNav current="home" />
   </div>
 </Layout>

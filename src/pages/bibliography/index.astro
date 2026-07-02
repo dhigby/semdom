@@ -1,0 +1,33 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import { withBase } from '../../lib/url';
+
+const entry = await getEntry('pages', 'bibliography');
+const { Content } = await render(entry!);
+---
+
+<Layout title={entry!.data.title} description="Download the Semantic Domains data and browse the bibliography of sources behind the list.">
+  <div class="content-page" data-pagefind-body>
+    <h1>{entry!.data.title}</h1>
+
+    <section aria-labelledby="data-heading">
+      <h2 id="data-heading">Data</h2>
+      <p>
+        The full Semantic Domains v4 list is available for download in its original
+        FieldWorks XML format, or as JSON generated from it.
+      </p>
+      <ul>
+        <li><a href={withBase('/SemDom.xml')} download>SemDom.xml</a> — the source-of-truth FieldWorks list</li>
+        <li><a href={withBase('/data/semdom.json')} download>semdom.json</a> — the same data as JSON</li>
+      </ul>
+      <p>
+        This data is licensed under a
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+        by SIL International.
+      </p>
+    </section>
+
+    <Content />
+  </div>
+</Layout>

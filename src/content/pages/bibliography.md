@@ -1,9 +1,14 @@
 ---
-title: Bibliography
-menuTitle: Bibliography
-menuOrder: 5
+title: Data & Bibliography
+menuTitle: Data & Bibliography
+menuOrder: 3
 showInMenu: true
 ---
+
+## Bibliography
+
+The list of semantic domains draws on a wide range of published and unpublished
+work. The sources below are grouped by language family and region.
 
 ### INDO-EUROPEAN LANGUAGES
 

@@ -10,9 +10,34 @@ interface Props {
 
 const { title, description } = Astro.props;
 
-const pages = (await getCollection('pages'))
+// Build the main navigation from content pages flagged showInMenu, plus the
+// "Browse Domains" section (a route, not a content page). Everything is sorted
+// by menuOrder so editors can reorder from the CMS.
+type NavItem = { href: string; label: string; order: number };
+
+const pageItems: NavItem[] = (await getCollection('pages'))
   .filter((p) => p.data.showInMenu)
-  .sort((a, b) => (a.data.menuOrder ?? 99) - (b.data.menuOrder ?? 99));
+  .map((p) => ({
+    href: withBase(p.id === 'home' ? '/' : `/${p.id}/`),
+    label: p.data.menuTitle ?? p.data.title,
+    order: p.data.menuOrder ?? 99,
+  }));
+
+const navItems: NavItem[] = [
+  ...pageItems,
+  { href: withBase('/v4/'), label: 'Browse Domains', order: 2 },
+].sort((a, b) => a.order - b.order);
+
+// Normalise paths (strip trailing slashes) so active-state comparison is
+// robust regardless of the base path or trailing-slash config.
+const norm = (p: string) => p.replace(/\/+$/, '') || '/';
+const currentPath = norm(Astro.url.pathname);
+const homePath = norm(withBase('/'));
+const isActive = (href: string) => {
+  const target = norm(href);
+  if (target === homePath) return currentPath === homePath;
+  return currentPath === target || currentPath.startsWith(target + '/');
+};
 
 const pagefindBase = withBase('/pagefind');
 ---
@@ -29,14 +54,17 @@ const pagefindBase = withBase('/pagefind');
   <body>
     <header class="site-header">
       <div class="site-header-inner">
-        <a class="site-title" href={withBase('/')}>Semantic Domains</a>
+        <a class="site-brand" href={withBase('/')}>
+          <img class="site-logo" src={withBase('/sil-logo.webp')} alt="SIL International" width="63" height="34" />
+          <span class="site-title">Semantic Domains<small>SIL International</small></span>
+        </a>
         <nav aria-label="Main">
           <ul class="site-nav">
-            {pages.map((p) => (
-              <li><a href={withBase(p.id === 'home' ? '/' : `/${p.id}/`)}>{p.data.menuTitle ?? p.data.title}</a></li>
+            {navItems.map((item) => (
+              <li>
+                <a href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>{item.label}</a>
+              </li>
             ))}
-            <li><a href={withBase('/v4/')}>Browse Domains</a></li>
-            <li><a href={withBase('/data/')}>Data</a></li>
           </ul>
         </nav>
         <div id="search" class="site-search"></div>
@@ -50,8 +78,13 @@ const pagefindBase = withBase('/pagefind');
 
     <footer class="site-footer">
       <div class="site-footer-inner">
-        The content on this website by SIL International is licensed under a
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        <a href="https://www.sil.org" aria-label="SIL International">
+          <img class="footer-logo" src={withBase('/sil-logo-white.png')} alt="SIL International" width="63" height="34" />
+        </a>
+        <div class="site-footer-text">
+          The content on this website by SIL International is licensed under a
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        </div>
       </div>
     </footer>
 

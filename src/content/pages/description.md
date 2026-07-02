@@ -2,7 +2,7 @@
 title: What is a semantic domain?
 menuTitle: Description
 menuOrder: 2
-showInMenu: true
+showInMenu: false
 ---
 
 A semantic domain is an area of meaning and the words used to talk about it. A domain is often given a name consisting of a common word in the domain. For instance English has a domain 'Rain', which includes words such as *rain, drizzle, downpour, raindrop, puddle*. We use these words to talk about the rain.

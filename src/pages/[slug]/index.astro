@@ -1,11 +1,16 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../components/Layout.astro';
+import PageSequenceNav from '../../components/PageSequenceNav.astro';
 
 export async function getStaticPaths() {
+  // 'home' has its own route (src/pages/index.astro) and 'bibliography' has a
+  // dedicated route that also renders the Data download section, so both are
+  // excluded here to avoid duplicate-route collisions.
+  const excluded = new Set(['home', 'bibliography']);
   const pages = await getCollection('pages');
   return pages
-    .filter((p) => p.id !== 'home')
+    .filter((p) => !excluded.has(p.id))
     .map((p) => ({ params: { slug: p.id }, props: { entry: p } }));
 }
 
@@ -17,5 +22,6 @@ const { Content } = await render(entry);
   <div class="content-page" data-pagefind-body>
     <h1>{entry.data.title}</h1>
     <Content />
+    <PageSequenceNav current={entry.id} />
   </div>
 </Layout>

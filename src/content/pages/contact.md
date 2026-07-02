@@ -1,7 +1,7 @@
 ---
 title: Contact
 menuTitle: Contact
-menuOrder: 6
+menuOrder: 4
 showInMenu: true
 ---
 

@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import { withBase } from '../lib/url';
+
+interface Props {
+  /** id of the current page within the reading sequence */
+  current: string;
+}
+
+const { current } = Astro.props;
+
+/** The guided reading order for the "About" content that was removed from the
+ * main menu. Home links forward into it; each page then links on to the next. */
+const SEQUENCE = ['home', 'description', 'development', 'usage'];
+
+const pages = await getCollection('pages');
+const byId = new Map(pages.map((p) => [p.id, p]));
+
+const label = (id: string) => {
+  const p = byId.get(id);
+  return p?.data.menuTitle ?? p?.data.title ?? id;
+};
+const href = (id: string) => withBase(id === 'home' ? '/' : `/${id}/`);
+
+const idx = SEQUENCE.indexOf(current);
+const prevId = idx > 0 ? SEQUENCE[idx - 1] : null;
+const nextId = idx >= 0 && idx < SEQUENCE.length - 1 ? SEQUENCE[idx + 1] : null;
+---
+
+{(prevId || nextId) && (
+  <nav class="page-sequence" aria-label="Reading sequence">
+    {prevId && (
+      <a class="seq-prev" href={href(prevId)}>
+        <span class="seq-label">&larr; Previous</span>
+        <span class="seq-title">{label(prevId)}</span>
+      </a>
+    )}
+    {nextId && (
+      <a class="seq-next" href={href(nextId)}>
+        <span class="seq-label">Next &rarr;</span>
+        <span class="seq-title">{label(nextId)}</span>
+      </a>
+    )}
+  </nav>
+)}
