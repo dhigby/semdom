@@ -5,7 +5,7 @@ menuOrder: 1
 showInMenu: true
 ---
 
-This website contains a list of nearly 1800 semantic domains. They are organized in a hierarchy under nine major headings so that similar domains can be found together. The list of domains was developed by Ron Moe, a linguist working with SIL International, as a tool for collecting the words of a language and developing a dictionary. But researchers have been finding other uses for the list.
+This website contains a list of nearly 1800 semantic domains. They are organized in a hierarchy under nine major headings so that similar domains can be found together. The list of domains was developed by Ron Moe, a linguist working with SIL Global, as a tool for collecting the words of a language and developing a dictionary. But researchers have been finding other uses for the list.
 
 Each domain includes
 
