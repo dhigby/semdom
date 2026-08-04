@@ -1,28 +1,29 @@
 ---
 import TreeNode from './TreeNode.astro';
 import { getChildren } from '../lib/semdom';
-import type { Domain } from '../lib/semdom';
+import type { Domain, Version } from '../lib/semdom';
 import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
   expanded: Set<string>;
   currentCode?: string;
+  version?: Version;
 }
 
-const { domain, expanded, currentCode } = Astro.props;
+const { domain, expanded, currentCode, version = 'v4' } = Astro.props;
 const isCurrent = domain.code === currentCode;
-const children = expanded.has(domain.code) ? getChildren(domain) : [];
+const children = expanded.has(domain.code) ? getChildren(domain, version) : [];
 ---
 
 <li class:list={{ current: isCurrent }}>
-  <a href={withBase(`/v4/${domain.code}/`)} aria-current={isCurrent ? 'page' : undefined}>
+  <a href={withBase(`/${version}/${domain.code}/`)} aria-current={isCurrent ? 'page' : undefined}>
     {domain.code} {domain.name}
   </a>
   {children.length > 0 && (
     <ul>
       {children.map((child) => (
-        <TreeNode domain={child} expanded={expanded} currentCode={currentCode} />
+        <TreeNode domain={child} expanded={expanded} currentCode={currentCode} version={version} />
       ))}
     </ul>
   )}

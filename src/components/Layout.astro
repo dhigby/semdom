@@ -6,9 +6,11 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  /** Keep the page out of search engines — used by the unpublished /v5/ draft. */
+  noindex?: boolean;
 }
 
-const { title, description } = Astro.props;
+const { title, description, noindex = false } = Astro.props;
 
 // Build the main navigation from content pages flagged showInMenu, plus the
 // "Browse Domains" section (a route, not a content page). Everything is sorted
@@ -23,6 +25,9 @@ const pageItems: NavItem[] = (await getCollection('pages'))
     order: p.data.menuOrder ?? 99,
   }));
 
+// The /v5/ draft is deliberately absent here: it is deployed live but unlinked
+// so reviewers can reach it by direct URL without it looking published. Add an
+// entry back when v5 is promoted.
 const navItems: NavItem[] = [
   ...pageItems,
   { href: withBase('/v4/'), label: 'Browse Domains', order: 2 },
@@ -49,6 +54,7 @@ const pagefindBase = withBase('/pagefind');
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title} | Semantic Domains</title>
     {description && <meta name="description" content={description} />}
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
     <link rel="stylesheet" href={`${pagefindBase}/pagefind-ui.css`} />
   </head>
   <body>

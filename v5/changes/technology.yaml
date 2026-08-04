@@ -1,0 +1,133 @@
+# Technology change-set (workstream 2) — add the modern-world vocabulary v4
+# lacks entirely. Target communities are overwhelmingly mobile-first, so the
+# emphasis is phones, internet access, and mobile money rather than desktop
+# computing. All numbers verified free against public/SemDom.xml.
+
+# --- Mobile phones (child of 3.5.9.2 Telephone) ----------------------------
+- op: add
+  code: "3.5.9.2.1"
+  parent: "3.5.9.2"
+  name: "Mobile phone"
+  description: >-
+    Use this domain for words related to mobile (cell) phones and smartphones,
+    including the device, its parts, and the services used with it.
+  questions:
+    - q: "What words refer to a mobile phone?"
+      words: "mobile phone, cell phone, cellphone, smartphone, handset"
+    - q: "What words refer to the parts of a mobile phone?"
+      words: "screen, touchscreen, SIM card, battery, charger, camera, button"
+    - q: "What words refer to the services or costs of using a mobile phone?"
+      words: "airtime, credit, data, top up, recharge, network, coverage, signal"
+    - q: "What words refer to sending a short written message on a phone?"
+      words: "text message, text (v), SMS, message"
+    - q: "What words refer to a program on a smartphone?"
+      words: "app, application, install, download"
+  rationale: "v4 mentioned 'cell phone' only as a stray example word; mobile phones are central to daily life in target communities."
+
+# --- Internet (child of 3.5.9 Mass communication) --------------------------
+- op: add
+  code: "3.5.9.7"
+  parent: "3.5.9"
+  name: "Internet"
+  description: >-
+    Use this domain for words related to the internet — connecting to it,
+    finding things on it, and communicating through it.
+  questions:
+    - q: "What words refer to the internet?"
+      words: "internet, the net, the web, world wide web, cyberspace"
+    - q: "What words refer to connecting to the internet?"
+      words: "go online, offline, connect, wifi, network, data, hotspot"
+    - q: "What words refer to a place or page on the internet?"
+      words: "website, web page, site, link, address, URL"
+    - q: "What words refer to finding information on the internet?"
+      words: "search, look up, browse, search engine, download, upload"
+    - q: "What words refer to sending messages over the internet?"
+      words: "email, e-mail, send, receive, inbox, attachment"
+    - q: "What words refer to controlling who can use an account or device?"
+      words: "password, PIN, log in, log out, account, username"
+  rationale: "No internet/web/email/password vocabulary existed anywhere in v4."
+
+# --- Social media & messaging (child of 3.5.9) -----------------------------
+- op: add
+  code: "3.5.9.8"
+  parent: "3.5.9"
+  name: "Social media, online messaging"
+  description: >-
+    Use this domain for words related to communicating with others through
+    social media and online messaging services.
+  questions:
+    - q: "What words refer to social media?"
+      words: "social media, platform, feed, timeline"
+    - q: "What words refer to things people do on social media?"
+      words: "post, share, like, comment, follow, block, tag, upload a photo"
+    - q: "What words refer to messaging or calling people online?"
+      words: "chat, message, group, video call, voice note, forward"
+  rationale: "Online social communication has no home in v4."
+
+# --- Computers & software (child of 6.6.8 Working with machines) -----------
+- op: add
+  code: "6.6.8.2"
+  parent: "6.6.8"
+  name: "Computers, software"
+  description: >-
+    Use this domain for words related to computers and the programs that run on
+    them.
+  questions:
+    - q: "What words refer to a computer?"
+      words: "computer, laptop, desktop, tablet, device"
+    - q: "What words refer to the parts of a computer?"
+      words: "screen, monitor, keyboard, mouse, hard drive, memory, processor"
+    - q: "What words refer to programs that run on a computer?"
+      words: "program, software, app, application, operating system"
+    - q: "What words refer to using a computer?"
+      words: "type, click, save, delete, open, close, print, file, folder, copy, paste"
+  rationale: "v4 collapsed all computing into the single word 'computer' under 1960s-style 'machines'."
+
+# --- Mobile money & digital money (child of 6.8.6 Money) -------------------
+- op: add
+  code: "6.8.6.2"
+  parent: "6.8.6"
+  name: "Mobile money, digital money"
+  description: >-
+    Use this domain for words related to storing and sending money
+    electronically, especially by mobile phone, and to bank cards.
+  questions:
+    - q: "What words refer to money kept or sent electronically?"
+      words: "mobile money, digital money, e-money, electronic transfer"
+    - q: "What words refer to sending or receiving mobile money?"
+      words: "send money, transfer, receive, cash in, cash out, withdraw, deposit"
+    - q: "What words refer to a person or place that handles mobile money?"
+      words: "agent, kiosk, mobile money account, wallet"
+    - q: "What words refer to paying without cash?"
+      words: "bank card, debit card, credit card, tap, swipe, scan, QR code"
+  rationale: "Mobile-money systems are a primary way money moves in many target communities; absent from v4."
+
+# --- Example-word refreshes on existing domains (indices verified) ---------
+- op: revise
+  code: "3.5.9.2"
+  set-question:
+    - index: 1
+      words: "telephone, phone, cell phone, mobile phone, smartphone, landline"
+      why: "'cell phone' was the only mobile reference in v4."
+  rationale: "Modernize telephone vocabulary; mobile detail lives in new 3.5.9.2.1."
+
+- op: revise
+  code: "6.6.5.2"
+  set-question:
+    - index: 4
+      words: "camera, digital camera, video camera, phone camera, webcam"
+      why: "Add digital/phone cameras."
+
+- op: revise
+  code: "6.6.8.1"
+  add-questions:
+    - q: "What words refer to generating or storing electricity locally?"
+      words: "solar panel, solar power, generator, inverter, charger, rechargeable battery, power bank, grid"
+  rationale: "Off-grid/solar power is common in target communities."
+
+- op: revise
+  code: "2.5.7.2"
+  add-questions:
+    - q: "What words refer to preventing disease with an injection or dose?"
+      words: "vaccine, vaccination, vaccinate, immunize, immunization, booster, jab"
+  rationale: "Vaccination vocabulary absent from the Medicine domain."

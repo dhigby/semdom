@@ -1,0 +1,64 @@
+---
+import Layout from '../../components/Layout.astro';
+import BrowseTreeNode from '../../components/BrowseTreeNode.astro';
+import DraftBanner from '../../components/DraftBanner.astro';
+import { getRootDomains } from '../../lib/semdom';
+import { withBase } from '../../lib/url';
+
+const roots = getRootDomains('v5');
+---
+
+<Layout title="Browse Semantic Domains (v5 draft)" description="Browse the proposed v5 draft hierarchy of semantic domains." noindex>
+  <div class="v4-index">
+    <DraftBanner />
+    <h1>Semantic Domains <span class="v5-badge v5-badge--revised">v5 draft</span></h1>
+    <p>
+      Browse the proposed v5 hierarchy below — select a domain to expand its
+      subdomains. Site search covers the published v4 domains only, so while
+      this draft is under review, reach v5 domains through this tree or the
+      <a href={withBase('/v5/changelog/')}>list of changes</a>.
+    </p>
+
+    <div class="browse-controls">
+      <button type="button" class="browse-btn" data-action="expand-all">Expand all</button>
+      <button type="button" class="browse-btn" data-action="collapse-all">Collapse all</button>
+    </div>
+
+    <nav class="browse-tree" aria-label="Semantic domain categories">
+      <ul role="tree">
+        {roots.map((root) => (
+          <BrowseTreeNode domain={root} version="v5" />
+        ))}
+      </ul>
+    </nav>
+  </div>
+</Layout>
+
+<script>
+  const tree = document.querySelector<HTMLElement>('.browse-tree');
+  if (tree) {
+    const setExpanded = (item: HTMLElement, expanded: boolean) => {
+      const group = item.querySelector<HTMLElement>(':scope > .browse-group');
+      if (!group) return;
+      item.setAttribute('aria-expanded', String(expanded));
+      group.hidden = !expanded;
+    };
+
+    tree.addEventListener('click', (e) => {
+      const toggle = (e.target as HTMLElement).closest<HTMLElement>('.browse-toggle');
+      if (!toggle || toggle.classList.contains('browse-toggle--leaf')) return;
+      const item = toggle.closest<HTMLElement>('.browse-item');
+      if (!item) return;
+      setExpanded(item, item.getAttribute('aria-expanded') !== 'true');
+    });
+
+    document.querySelector('.browse-controls')?.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest<HTMLElement>('.browse-btn');
+      if (!btn) return;
+      const expand = btn.dataset.action === 'expand-all';
+      tree.querySelectorAll<HTMLElement>('.browse-item[aria-expanded]').forEach((item) => {
+        setExpanded(item, expand);
+      });
+    });
+  }
+</script>

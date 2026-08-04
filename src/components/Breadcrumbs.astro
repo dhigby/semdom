@@ -1,14 +1,15 @@
 ---
 import { getAncestors } from '../lib/semdom';
-import type { Domain } from '../lib/semdom';
+import type { Domain, Version } from '../lib/semdom';
 import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
+  version?: Version;
 }
 
-const { domain } = Astro.props;
-const ancestors = getAncestors(domain);
+const { domain, version = 'v4' } = Astro.props;
+const ancestors = getAncestors(domain, version);
 ---
 
 <nav class="breadcrumbs" aria-label="Breadcrumb">
@@ -16,7 +17,7 @@ const ancestors = getAncestors(domain);
   {ancestors.map((a) => (
     <>
       {' » '}
-      <a href={withBase(`/v4/${a.code}/`)}>{a.code} {a.name}</a>
+      <a href={withBase(`/${version}/${a.code}/`)}>{a.code} {a.name}</a>
     </>
   ))}
   {' » '}

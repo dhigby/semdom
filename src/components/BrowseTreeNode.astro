@@ -1,15 +1,16 @@
 ---
 import { getChildren } from '../lib/semdom';
-import type { Domain } from '../lib/semdom';
+import type { Domain, Version } from '../lib/semdom';
 import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
   depth?: number;
+  version?: Version;
 }
 
-const { domain, depth = 0 } = Astro.props;
-const children = getChildren(domain);
+const { domain, depth = 0, version = 'v4' } = Astro.props;
+const children = getChildren(domain, version);
 const hasChildren = children.length > 0;
 ---
 
@@ -24,7 +25,7 @@ const hasChildren = children.length > 0;
     ) : (
       <span class="browse-toggle browse-toggle--leaf" aria-hidden="true"></span>
     )}
-    <a class="browse-link" href={withBase(`/v4/${domain.code}/`)}>
+    <a class="browse-link" href={withBase(`/${version}/${domain.code}/`)}>
       <span class="browse-code">{domain.code}</span>
       <span class="browse-name">{domain.name}</span>
       {hasChildren && <span class="browse-count">{children.length}</span>}
@@ -33,7 +34,7 @@ const hasChildren = children.length > 0;
   {hasChildren && (
     <ul class="browse-group" role="group" hidden>
       {children.map((child) => (
-        <Astro.self domain={child} depth={depth + 1} />
+        <Astro.self domain={child} depth={depth + 1} version={version} />
       ))}
     </ul>
   )}

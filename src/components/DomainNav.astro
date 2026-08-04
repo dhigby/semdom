@@ -1,26 +1,27 @@
 ---
 import { getPrevNext, getAncestors } from '../lib/semdom';
-import type { Domain } from '../lib/semdom';
+import type { Domain, Version } from '../lib/semdom';
 import { withBase } from '../lib/url';
 
 interface Props {
   domain: Domain;
+  version?: Version;
 }
 
-const { domain } = Astro.props;
-const { prev, next } = getPrevNext(domain);
-const ancestors = getAncestors(domain);
+const { domain, version = 'v4' } = Astro.props;
+const { prev, next } = getPrevNext(domain, version);
+const ancestors = getAncestors(domain, version);
 const parent = ancestors.length > 0 ? ancestors[ancestors.length - 1] : null;
 ---
 
 <nav class="domain-nav" aria-label="Domain navigation">
   <span>
-    {prev ? <a href={withBase(`/v4/${prev.code}/`)}>&larr; {prev.code} {prev.name}</a> : <span />}
+    {prev ? <a href={withBase(`/${version}/${prev.code}/`)}>&larr; {prev.code} {prev.name}</a> : <span />}
   </span>
   <span>
-    {parent ? <a href={withBase(`/v4/${parent.code}/`)}>&uarr; {parent.code} {parent.name}</a> : <a href={withBase('/v4/')}>&uarr; All domains</a>}
+    {parent ? <a href={withBase(`/${version}/${parent.code}/`)}>&uarr; {parent.code} {parent.name}</a> : <a href={withBase(`/${version}/`)}>&uarr; All domains</a>}
   </span>
   <span>
-    {next ? <a href={withBase(`/v4/${next.code}/`)}>{next.code} {next.name} &rarr;</a> : <span />}
+    {next ? <a href={withBase(`/${version}/${next.code}/`)}>{next.code} {next.name} &rarr;</a> : <span />}
   </span>
 </nav>

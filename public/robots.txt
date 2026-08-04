@@ -1,0 +1,6 @@
+# The /v5/ draft is deployed live but unpublished — it is under review and is
+# not a standard yet. The v5 pages also send <meta name="robots" content="noindex">.
+# If the review URL is ever posted publicly, drop this Disallow so crawlers can
+# actually read that noindex.
+User-agent: *
+Disallow: /v5/

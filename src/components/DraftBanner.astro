@@ -1,0 +1,36 @@
+---
+import { withBase } from '../lib/url';
+---
+
+<aside class="draft-banner" role="note">
+  <strong>Draft — Semantic Domains v5.</strong>
+  This is a proposed revision for review, not a published standard. Existing v4
+  domain numbers keep their meaning; v5 adds new domains and reframes wording.
+  See the <a href={withBase('/v5/changelog/')}>list of changes</a>, the
+  <a href={withBase('/v4/')}>current v4 domains</a>, or
+  <a href={withBase('/contact/')}>send feedback on this draft</a>.
+</aside>
+
+<style>
+  .draft-banner {
+    background: #fff6e5;
+    border: 1px solid #e6b566;
+    border-left: 4px solid #d98a1f;
+    color: #6b4a12;
+    padding: 0.65rem 0.9rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    margin-bottom: 1.25rem;
+  }
+  .draft-banner a { color: #a8630c; }
+  @media (prefers-color-scheme: dark) {
+    .draft-banner {
+      background: #33280f;
+      border-color: #7a5a1f;
+      border-left-color: #d98a1f;
+      color: #f0dcb8;
+    }
+    .draft-banner a { color: #f2c67a; }
+  }
+</style>

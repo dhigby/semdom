@@ -1,0 +1,27 @@
+# Question-quality change-set (workstream 4) — EXEMPLAR rewrites demonstrating
+# v5/STYLE-GUIDE.md. The full rewrite of all ~7,900 questions is iterative
+# follow-on work; this file shows the target style on a few representative cases
+# flagged by v5/derived/lint-questions.md, so reviewers can judge the direction.
+# (Domains here are deliberately not touched by other change-sets, so indices are
+# stable.)
+
+- op: revise
+  code: "1.1.3.3"
+  set-question:
+    - index: 7
+      q: "What words refer to a single drop of rain?"
+      why: "Convert the non-template 'What is a single drop of rain?' to the standard 'What words refer to…' frame (STYLE-GUIDE §Templates)."
+
+- op: revise
+  code: "2.3.2.3"
+  set-question:
+    - index: 17
+      q: "What words refer to sounds a person makes with the mouth, other than speech or song?"
+      why: "Reframe 'What sounds do people make with their mouths…' to a word-eliciting frame; shorten and plainen for translation."
+
+- op: revise
+  code: "7.2.1.1"
+  set-question:
+    - index: 10
+      q: "What words refer to walking in an unusual way?"
+      why: "v4 'walking in various manners' is vague; a clearer prompt elicits better."

@@ -279,6 +279,32 @@ h3 {
   font-weight: 400;
 }
 
+/* v5 draft badges */
+.v5-badge {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.6em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 0.15em 0.55em;
+  border-radius: 999px;
+  margin-left: 0.5rem;
+}
+.v5-badge--new {
+  background: #1f7a3f;
+  color: #fff;
+}
+.v5-badge--revised {
+  background: #d98a1f;
+  color: #fff;
+}
+.v5-was {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-top: -0.35rem;
+}
+
 .domain-description {
   font-size: 1.1rem;
   color: var(--text);

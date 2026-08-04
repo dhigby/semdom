@@ -59,12 +59,21 @@ function text(node: TextNode | undefined): string {
   return node['#text'] !== undefined ? String(node['#text']) : '';
 }
 
-let cache: { domains: Domain[]; byCode: Map<string, Domain>; byGuid: Map<string, Domain> } | null = null;
+export type Version = 'v4' | 'v5';
 
-export function loadSemDom() {
-  if (cache) return cache;
+const SOURCES: Record<Version, string> = {
+  v4: '../../public/SemDom.xml',
+  v5: '../../public/SemDom5-draft.xml',
+};
 
-  const xmlPath = fileURLToPath(new URL('../../public/SemDom.xml', import.meta.url));
+type Cache = { domains: Domain[]; byCode: Map<string, Domain>; byGuid: Map<string, Domain> };
+const caches = new Map<Version, Cache>();
+
+export function loadSemDom(version: Version = 'v4'): Cache {
+  const cached = caches.get(version);
+  if (cached) return cached;
+
+  const xmlPath = fileURLToPath(new URL(SOURCES[version], import.meta.url));
   const xml = readFileSync(xmlPath, 'utf-8');
 
   const parser = new XMLParser({
@@ -121,33 +130,34 @@ export function loadSemDom() {
     walk(root, null);
   }
 
-  cache = { domains, byCode, byGuid };
-  return cache;
+  const result: Cache = { domains, byCode, byGuid };
+  caches.set(version, result);
+  return result;
 }
 
-export function getAllDomains(): Domain[] {
-  return loadSemDom().domains;
+export function getAllDomains(version: Version = 'v4'): Domain[] {
+  return loadSemDom(version).domains;
 }
 
-export function getDomain(code: string): Domain | undefined {
-  return loadSemDom().byCode.get(code);
+export function getDomain(code: string, version: Version = 'v4'): Domain | undefined {
+  return loadSemDom(version).byCode.get(code);
 }
 
-export function getRootDomains(): Domain[] {
-  return loadSemDom().domains.filter((d) => d.parentCode === null);
+export function getRootDomains(version: Version = 'v4'): Domain[] {
+  return loadSemDom(version).domains.filter((d) => d.parentCode === null);
 }
 
 /** Sibling domains (including self) in document order, sharing the same parent. */
-export function getSiblings(domain: Domain): Domain[] {
-  const { byCode } = loadSemDom();
+export function getSiblings(domain: Domain, version: Version = 'v4'): Domain[] {
+  const { byCode } = loadSemDom(version);
   const siblingCodes =
-    domain.parentCode === null ? getRootDomains().map((d) => d.code) : byCode.get(domain.parentCode)!.childCodes;
+    domain.parentCode === null ? getRootDomains(version).map((d) => d.code) : byCode.get(domain.parentCode)!.childCodes;
   return siblingCodes.map((c) => byCode.get(c)!);
 }
 
 /** Previous domain in the flattened document-order traversal (for prev/next paging). */
-export function getPrevNext(domain: Domain): { prev: Domain | null; next: Domain | null } {
-  const { domains } = loadSemDom();
+export function getPrevNext(domain: Domain, version: Version = 'v4'): { prev: Domain | null; next: Domain | null } {
+  const { domains } = loadSemDom(version);
   const idx = domains.findIndex((d) => d.code === domain.code);
   return {
     prev: idx > 0 ? domains[idx - 1] : null,
@@ -156,8 +166,8 @@ export function getPrevNext(domain: Domain): { prev: Domain | null; next: Domain
 }
 
 /** Ancestor chain from root to (excluding) this domain. */
-export function getAncestors(domain: Domain): Domain[] {
-  const { byCode } = loadSemDom();
+export function getAncestors(domain: Domain, version: Version = 'v4'): Domain[] {
+  const { byCode } = loadSemDom(version);
   const chain: Domain[] = [];
   let code = domain.parentCode;
   while (code) {
@@ -168,12 +178,12 @@ export function getAncestors(domain: Domain): Domain[] {
   return chain;
 }
 
-export function getChildren(domain: Domain): Domain[] {
-  const { byCode } = loadSemDom();
+export function getChildren(domain: Domain, version: Version = 'v4'): Domain[] {
+  const { byCode } = loadSemDom(version);
   return domain.childCodes.map((c) => byCode.get(c)!);
 }
 
-export function resolveRelated(domain: Domain): Domain[] {
-  const { byGuid } = loadSemDom();
+export function resolveRelated(domain: Domain, version: Version = 'v4'): Domain[] {
+  const { byGuid } = loadSemDom(version);
   return domain.relatedGuids.map((g) => byGuid.get(g)).filter((d): d is Domain => !!d);
 }

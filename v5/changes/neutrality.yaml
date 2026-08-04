@@ -1,0 +1,158 @@
+# Neutrality change-set (workstream 1) — de-moralize classification per
+# v5/PRINCIPLES.md "Neutrality policy". Grounded in v5/derived/audit-language.md.
+# Numbers/GUIDs are never redefined; orientation and violence are split into new
+# sibling domains; loaded framing is reworded to be community-relative.
+
+# --- Split "Sexual immorality" (2.6.2.3) -----------------------------------
+- op: add
+  code: "2.6.2.4"
+  parent: "2.6.2"
+  name: "Sexual orientation"
+  description: >-
+    Use this domain for words referring to sexual orientation — which sex or
+    sexes a person is attracted to. Orientation is a description of a person,
+    not a category of behavior; words expressing approval or disapproval belong
+    in other domains, not here.
+  louwNidaCodes: "88J Sexual Behavior"
+  questions:
+    - q: "What words refer to sexual orientation in general?"
+      words: "sexual orientation, sexuality"
+    - q: "What words refer to a person who is attracted to people of the opposite sex?"
+      words: "heterosexual, straight"
+    - q: "What words refer to a person who is attracted to people of the same sex?"
+      words: "homosexual, gay, lesbian"
+    - q: "What words refer to a person who is attracted to both sexes?"
+      words: "bisexual"
+  migrate:
+    - from: "2.6.2.3"
+      note: "Senses about same-sex attraction/relations previously tagged 2.6.2.3 Q18 → re-tag 2.6.2.4."
+  rationale: >-
+    v4 filed homosexuality as question 18 of "Sexual immorality", between rape
+    and child abuse, glossed "pervert, perverted". Orientation is not a moral
+    category and gets its own neutral domain.
+
+- op: add
+  code: "2.6.2.5"
+  parent: "2.6.2"
+  name: "Sexual violence"
+  description: >-
+    Use this domain for words referring to forced or non-consensual sexual acts,
+    including sexual assault and the sexual abuse of children. These are acts of
+    violence and coercion; they are grouped here with harm and crime, not with
+    consensual behavior a community may disapprove of.
+  related: ["4.8.2.3", "4.8.2.8"]
+  louwNidaCodes: "88J' Sexual Misbehavior"
+  questions:
+    - q: "What words refer to forcing a person to have sex?"
+      words: "rape, sexually assault, force, sexual assault, rapist"
+    - q: "What words refer to unwanted sexual attention or pressure?"
+      words: "sexual harassment, molest, molestation, sexual abuse"
+    - q: "What words refer to sexual acts against a child?"
+      words: "child sexual abuse, molest a child, pedophile, pederasty"
+  migrate:
+    - from: "2.6.2.3"
+      note: "Rape (Q17), child sexual abuse (Q19), and marital sexual abuse (Q5) previously tagged 2.6.2.3 → re-tag 2.6.2.5."
+  rationale: "Non-consensual acts are violence, not 'immorality'."
+
+- op: revise
+  code: "2.6.2.3"
+  name: "Sexual relations considered improper"
+  description: >-
+    Use this domain for words a language community uses for consensual sexual
+    relations it considers improper or shameful — for example sex outside
+    marriage, adultery, promiscuity, or prostitution. Which relations are
+    considered improper differs greatly between communities; this domain
+    collects the vocabulary a community uses to express that judgment, not a
+    fixed moral standard. Forced or non-consensual acts belong in 2.6.2.5
+    (Sexual violence); sexual orientation belongs in 2.6.2.4.
+  # Reword the general framing questions to be community-relative (indices are
+  # 1-based into the v4 list; set-question runs before removals).
+  set-question:
+    - index: 1
+      q: "What general words does this community use for sexual behavior it considers improper?"
+      why: "v4 'What general words refer to sexual immorality?' had the list asserting the judgment."
+    - index: 2
+      q: "What words does this community use for a person seen as sexually improper?"
+    - index: 3
+      q: "What words describe a person the community sees as sexually improper?"
+      why: "Also fixes the v4 grammar error 'someone who is sexual immoral'."
+  # Remove questions that are about violence (5 marital abuse, 17 rape,
+  # 19 child abuse) or orientation (18) — moved to 2.6.2.5 / 2.6.2.4.
+  remove-questions: [5, 17, 18, 19]
+  # (migration rows for the moved questions are recorded on the 2.6.2.4 / 2.6.2.5
+  # add ops above, to avoid duplicate entries.)
+  rationale: >-
+    Renamed away from the list asserting "immorality"; scope reframed as
+    community-relative and narrowed only by moving violence/orientation into
+    their own new sibling domains (nothing consensual is orphaned).
+
+# --- Reframe general "Bad, immoral" (4.3.1.1) ------------------------------
+- op: revise
+  code: "4.3.1.1"
+  description: >-
+    Use this domain for words a community uses for behavior it considers bad or
+    wrong, and for words describing a person the community judges to be bad.
+    Communities differ in what they judge this way; this domain collects the
+    vocabulary of such judgments rather than asserting a fixed standard.
+  rationale: "Descriptive reframe; the evaluative vocabulary itself is kept — languages genuinely have it."
+
+# --- Reframe "Irreligion" (4.9.9) as anthropological ------------------------
+- op: revise
+  code: "4.9.9"
+  name: "Nonreligion"
+  description: >-
+    Use this domain for words about not following a religion, and for words that
+    religious communities use for beliefs, people, or acts they regard as
+    outside or opposed to their religion. Terms such as "infidel", "heathen",
+    "pagan", or "godless" are evaluations used by religious speakers about
+    others and are not neutral descriptions.
+  set-question:
+    - index: 1
+      q: "What words refer to a person who does not follow a religion?"
+      words: "atheist, agnostic, nonbeliever, secularist, freethinker, humanist; (as named by believers:) unbeliever, infidel, pagan, heathen"
+      why: "Lead with neutral self-descriptions; mark believer-perspective terms as such."
+    - index: 4
+      q: "What words refer to not believing in a god or gods?"
+      words: "disbelief, unbelief, doubt, skepticism, agnosticism, atheism"
+      why: "Reframe 'thinking against God' neutrally; drop 'paganism' as a belief-of-others term."
+    - index: 6
+      q: "What words refer to treating sacred things without respect?"
+      words: "desecrate, sacrilege, profane, defile, blasphemy"
+      why: "Reframe 'acting against God'; drop the othering 'ungodly/godlessness'."
+    - index: 7
+      q: "What words describe someone who rejects or disrespects religion?"
+      words: "impious, irreligious, profane"
+    - index: 10
+      q: "What words refer to extreme or intolerant religious or ideological views?"
+      words: "fanatic, fanaticism, bigot, bigotry, extremism"
+      why: "v4 framed these as 'beliefs that are evil'."
+  rationale: "Descriptive/anthropological reframe; religious vocabulary retained."
+
+# --- Remove gratuitous slurs from mental-illness vocabulary (2.5.8) --------
+- op: revise
+  code: "2.5.8"
+  set-question:
+    - index: 6
+      q: "What words refer to partial or total mental disability?"
+      words: "mild disability, severe disability, intellectual disability"
+      why: "Remove the slur 'vegetable' and dated 'retardation' as lead terms."
+    - index: 7
+      q: "What words refer to a mentally ill person?"
+      words: "madman, crazy man, hypochondriac, lunatic, maniac, psychopath, schizophrenic"
+      why: "Remove the slur 'retard'."
+  rationale: "Slurs should not be lead example words (STYLE-GUIDE); clinical vocabulary retained."
+
+# --- Replace scripture-style example sentences -----------------------------
+- op: revise
+  code: "1"
+  set-question:
+    - index: 1
+      sentence: "Astronomers try to understand how <the universe> began."
+      why: "Neutral example sentence in place of a scripture quotation."
+
+- op: revise
+  code: "9.1.1.1"
+  set-question:
+    - index: 1
+      sentence: "<There is> a man....; <There was> a man....; <There exists> evidence....; Evidence <exists>....; I think, therefore I <am>.; Once upon a time <there lived> a man...."
+      why: "Drop the 'God exists' clause; keep the grammatical illustrations."

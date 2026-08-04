@@ -1,0 +1,66 @@
+---
+import Layout from '../../components/Layout.astro';
+import DraftBanner from '../../components/DraftBanner.astro';
+import { getAllDomains, getDomain } from '../../lib/semdom';
+import { withBase } from '../../lib/url';
+
+const v5 = getAllDomains('v5');
+const v4codes = new Set(getAllDomains('v4').map((d) => d.code));
+
+const added = v5.filter((d) => !v4codes.has(d.code));
+
+type Change = { code: string; name: string; kinds: string[] };
+const revised: Change[] = [];
+for (const d of v5) {
+  const old = getDomain(d.code, 'v4');
+  if (!old || d.code === '' || added.includes(d)) continue;
+  const kinds: string[] = [];
+  if (old.name !== d.name) kinds.push(`renamed from "${old.name}"`);
+  if (old.description !== d.description) kinds.push('description reframed');
+  if (JSON.stringify(old.questions) !== JSON.stringify(d.questions)) {
+    const delta = d.questions.length - old.questions.length;
+    kinds.push(delta === 0 ? 'questions edited' : `questions ${delta > 0 ? '+' : ''}${delta}`);
+  }
+  if (kinds.length) revised.push({ code: d.code, name: d.name, kinds });
+}
+---
+
+<Layout title="What's changing in v5 (draft)" description="Summary of the proposed v5 changes to the Semantic Domains." noindex>
+  <article>
+    <DraftBanner />
+    <h1>What's changing in v5</h1>
+    <p>
+      This draft never changes the meaning of an existing v4 domain number, so
+      dictionaries already tagged against v4 stay valid. Improvements are made by
+      <strong>adding</strong> new domains and by <strong>revising</strong> names,
+      descriptions, and elicitation questions. The lists below are computed
+      directly from the draft data.
+    </p>
+
+    <h2>New domains ({added.length})</h2>
+    <ul class="changelog-list">
+      {added.map((d) => (
+        <li>
+          <a href={withBase(`/v5/${d.code}/`)}><span class="domain-code">{d.code}</span> {d.name}</a>
+          {d.description && <span class="changelog-desc"> — {d.description}</span>}
+        </li>
+      ))}
+    </ul>
+
+    <h2>Revised domains ({revised.length})</h2>
+    <ul class="changelog-list">
+      {revised.map((c) => (
+        <li>
+          <a href={withBase(`/v5/${c.code}/`)}><span class="domain-code">{c.code}</span> {c.name}</a>
+          <span class="changelog-desc"> — {c.kinds.join('; ')}</span>
+        </li>
+      ))}
+    </ul>
+  </article>
+</Layout>
+
+<style>
+  .changelog-list { list-style: none; padding: 0; }
+  .changelog-list li { padding: 0.4rem 0; border-bottom: 1px solid var(--border, #e2e2e2); }
+  .changelog-desc { color: var(--muted, #666); font-size: 0.92rem; }
+</style>

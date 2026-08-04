@@ -1,0 +1,99 @@
+---
+import Layout from '../../components/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SidebarTree from '../../components/SidebarTree.astro';
+import DomainNav from '../../components/DomainNav.astro';
+import DraftBanner from '../../components/DraftBanner.astro';
+import { getAllDomains, getChildren, resolveRelated, getDomain } from '../../lib/semdom';
+import { withBase } from '../../lib/url';
+
+export async function getStaticPaths() {
+  return getAllDomains('v5').map((domain) => ({
+    params: { code: domain.code },
+    props: { domain },
+  }));
+}
+
+const { domain } = Astro.props;
+const children = getChildren(domain, 'v5');
+const related = resolveRelated(domain, 'v5');
+
+// Compare against v4 to label what changed in the draft.
+const v4 = getDomain(domain.code, 'v4');
+let status: 'new' | 'revised' | 'unchanged' = 'unchanged';
+if (!v4) status = 'new';
+else if (
+  v4.name !== domain.name ||
+  v4.description !== domain.description ||
+  JSON.stringify(v4.questions) !== JSON.stringify(domain.questions)
+)
+  status = 'revised';
+---
+
+<Layout title={`${domain.code} ${domain.name} (v5 draft)`} description={domain.description} noindex>
+  {/*
+    No data-pagefind-body here (unlike v4/[code].astro): while any page on the
+    site carries the marker, Pagefind indexes only marked pages, which keeps the
+    draft out of site search. Add the marker — plus data-pagefind-meta, mirroring
+    v4 — when v5 is promoted.
+  */}
+  <article>
+    <DraftBanner />
+    <Breadcrumbs domain={domain} version="v5" />
+
+    <h1>
+      <span class="domain-code">{domain.code}</span> {domain.name}
+      {status === 'new' && <span class="v5-badge v5-badge--new">New in v5</span>}
+      {status === 'revised' && <span class="v5-badge v5-badge--revised">Revised in v5</span>}
+    </h1>
+
+    {status === 'revised' && v4 && v4.name !== domain.name && (
+      <p class="v5-was">Was in v4: <strong>{v4.code} {v4.name}</strong></p>
+    )}
+
+    {domain.description && <p class="domain-description">{domain.description}</p>}
+
+    {domain.questions.length > 0 && (
+      <ol class="domain-questions">
+        {domain.questions.map((q) => (
+          <li class="domain-question">
+            <p class="q-text">{q.question}</p>
+            {q.exampleWords && <p class="example-words"><strong>Example words:</strong> {q.exampleWords}</p>}
+            {q.exampleSentences && <p class="example-sentence">{q.exampleSentences}</p>}
+          </li>
+        ))}
+      </ol>
+    )}
+
+    {children.length > 0 && (
+      <div class="domain-children">
+        <h2>Sub-domains</h2>
+        <ul>
+          {children.map((c) => (
+            <li><a href={withBase(`/v5/${c.code}/`)}>{c.code} {c.name}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {related.length > 0 && (
+      <div class="domain-related">
+        <h2>Related domains</h2>
+        <ul>
+          {related.map((r) => (
+            <li><a href={withBase(`/v5/${r.code}/`)}>{r.code} {r.name}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <DomainNav domain={domain} version="v5" />
+
+    <p class="domain-meta">
+      Draft link: <code>https://semdom.org/v5/{domain.code}/</code> · GUID: {domain.guid}
+      {v4 && <> · <a href={withBase(`/v4/${domain.code}/`)}>Compare with v4</a></>}
+    </p>
+  </article>
+
+  <SidebarTree current={domain} version="v5" slot="sidebar" />
+</Layout>

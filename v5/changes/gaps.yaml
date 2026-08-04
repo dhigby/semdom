@@ -1,0 +1,66 @@
+# Coverage-gap change-set (workstream 3) — SEEDED set of clearly-missing
+# modern-life domains, from v5/derived/audit-gaps.md. This file is meant to grow:
+# remaining flagged themes still needing placement (checked against v4 first) are
+# listed at the bottom as candidates, not yet added. Numbers verified free.
+
+# --- Environmental damage & pollution (child of 1.7 Nature, environment) ---
+- op: add
+  code: "1.7.2"
+  parent: "1.7"
+  name: "Pollution, environmental damage"
+  description: >-
+    Use this domain for words related to harm done to the natural environment,
+    to waste, and to efforts to reduce that harm.
+  questions:
+    - q: "What words refer to dirtying or harming the environment?"
+      words: "pollute, pollution, contaminate, poison, spoil, degrade"
+    - q: "What words refer to waste and rubbish?"
+      words: "rubbish, garbage, trash, waste, litter, plastic, sewage"
+    - q: "What words refer to reducing harm to the environment?"
+      words: "recycle, recycling, reuse, clean up, conservation, protect"
+    - q: "What words describe long-term changes in weather and environment?"
+      words: "climate change, global warming, drought, deforestation"
+  rationale: "v4 has no domain for pollution, waste, recycling, or climate — all flagged as unowned by the gap audit."
+
+# --- Elections & voting (child of 4.6 Government) --------------------------
+- op: add
+  code: "4.6.8"
+  parent: "4.6"
+  name: "Elections, voting"
+  description: >-
+    Use this domain for words related to choosing leaders or deciding questions
+    by voting.
+  questions:
+    - q: "What words refer to an election?"
+      words: "election, vote, ballot, poll, referendum"
+    - q: "What words refer to taking part in an election?"
+      words: "vote (v), cast a ballot, register, campaign, run for office, stand for election"
+    - q: "What words refer to people involved in an election?"
+      words: "voter, candidate, electorate, observer, returning officer"
+    - q: "What words refer to the result of an election?"
+      words: "win, lose, elect, majority, turnout, results"
+  rationale: "'vote'/'election' flagged as unowned; civic participation vocabulary was missing."
+
+# --- Aid & development organizations (child of 6.9 Business organization) --
+- op: add
+  code: "6.9.7"
+  parent: "6.9"
+  name: "Aid and development organization"
+  description: >-
+    Use this domain for words related to non-governmental, charitable, and
+    development organizations and the aid work they do.
+  questions:
+    - q: "What words refer to an aid or development organization?"
+      words: "NGO, charity, nonprofit, aid agency, foundation, mission, cooperative"
+    - q: "What words refer to the help such organizations provide?"
+      words: "aid, relief, donation, grant, funding, development, project, volunteer"
+    - q: "What words refer to people helped by or working for such organizations?"
+      words: "beneficiary, recipient, volunteer, aid worker, donor"
+  rationale: "'NGO' flagged as unowned; aid/development work is a major part of daily life in target communities."
+
+# --- Candidates still to place (not yet added; check against v4 first) ------
+# - Refugees / displacement / migration  (likely child of 4.6 or 4.1)
+# - Modern schooling: grades, exams, certificates (extend 3.6 Teach subtree)
+# - Banking beyond mobile money: account, loan, interest (extend 6.8 Finance)
+# - Public health: epidemic, quarantine, sanitation (extend 2.5 subtree)
+# - Plastics/manufactured materials as substances (extend 1.2.3 / 6.6 material)
