@@ -90,9 +90,8 @@ Node 20 (matches CI). `dist/`, `node_modules/`, and `.astro/` are gitignored.
   Invariants for v4, worth asserting after any XML refresh: 738 Louw-Nida codes
   in 93 groups, 750 OCM codes in 82 groups. A code cited with two different
   labels and not pinned in `CANONICAL_LABEL` logs a build warning — that is how
-  a refreshed export announces drift, so do not silence it. (It currently fires
-  once for the v5 draft, where domain `2.6.2.4` cites `88J` where its siblings
-  correctly cite `88J′`.)
+  a refreshed export announces drift, so do not silence it. (It is currently
+  silent for both v4 and the v5 draft.)
 
   Neither system's *descriptions* may be republished: HRAF's Outline is
   all-rights-reserved and Louw & Nida's lexicon is © United Bible Societies. Both
