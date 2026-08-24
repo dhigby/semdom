@@ -9,12 +9,19 @@ interface Props {
 
 const { current } = Astro.props;
 
-/** The guided reading order for the "About" content that was removed from the
- * main menu. Home links forward into it; each page then links on to the next. */
-const SEQUENCE = ['home', 'description', 'development', 'usage'];
-
 const pages = await getCollection('pages');
 const byId = new Map(pages.map((p) => [p.id, p]));
+
+/** The guided reading order: home, then every page in the About section by its
+ * menuOrder. Derived rather than hardcoded so adding a section page is purely a
+ * content change. */
+const SEQUENCE = [
+  'home',
+  ...pages
+    .filter((p) => p.data.section === 'about')
+    .sort((a, b) => (a.data.menuOrder ?? 99) - (b.data.menuOrder ?? 99) || a.id.localeCompare(b.id))
+    .map((p) => p.id),
+];
 
 const label = (id: string) => {
   const p = byId.get(id);

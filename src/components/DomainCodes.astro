@@ -1,0 +1,184 @@
+---
+/**
+ * The Louw-Nida and OCM equivalent codes a semantic domain carries.
+ *
+ * Both are recorded in the FieldWorks export and were published by the old Drupal site,
+ * but were never surfaced here. Each system's label links to the page explaining it,
+ * because a bare number under the word "OCM" tells a visitor nothing.
+ *
+ * Codes that more than one semantic domain cites get a count badge and open a panel
+ * listing the others; the ~90% that only one domain cites render as plain text, so the
+ * affordance never promises something it cannot deliver.
+ */
+import type { CodeEntry, CodeSystem, Domain, Version } from '../lib/semdom';
+import { codeSlug, getCodeRefs, getDomainsForCode, groupCodeRefs } from '../lib/semdom';
+import { withBase } from '../lib/url';
+
+interface Props {
+  domain: Domain;
+  version?: Version;
+}
+
+const { domain, version = 'v4' } = Astro.props;
+
+/** Above this many codes a list is rolled up into its groups. One domain cites 23 OCM
+ * categories, which is a wall of chips flat but five labelled rows grouped. */
+const GROUP_ABOVE = 4;
+
+const SYSTEMS: { system: CodeSystem; label: string; href: string; title: string }[] = [
+  {
+    system: 'louwNida',
+    label: 'Louw-Nida',
+    href: withBase('/louw-nida/'),
+    title: 'What the Louw-Nida codes are',
+  },
+  { system: 'ocm', label: 'OCM', href: withBase('/ocm/'), title: 'What the OCM codes are' },
+];
+
+type Row = { heading: string | null; codes: CodeEntry[] };
+
+/** Resolved up front so the markup stays flat. */
+const blocks = SYSTEMS.map((meta) => {
+  const entries = getCodeRefs(domain, meta.system, version);
+  const shared = new Map<string, Domain[]>();
+  for (const entry of entries) {
+    const others = getDomainsForCode(meta.system, entry.code, version).filter(
+      (d) => d.code !== domain.code
+    );
+    if (others.length > 0) shared.set(entry.code, others);
+  }
+  const rows: Row[] =
+    entries.length > GROUP_ABOVE
+      ? groupCodeRefs(entries, meta.system, version).map((g) => ({
+          heading: g.name ? `${g.group} ${g.name}` : g.group,
+          codes: g.codes,
+        }))
+      : [{ heading: null, codes: entries }];
+  return { ...meta, entries, shared, rows };
+}).filter((b) => b.entries.length > 0);
+
+const panelId = (system: CodeSystem, code: string) => `codes-${system}-${codeSlug(code)}`;
+---
+
+{
+  blocks.length > 0 && (
+    <section class="domain-codes" aria-label="Equivalent codes in other classification systems">
+      {blocks.map((block) => (
+        <div class="code-system">
+          <a class="code-system-label" href={block.href} title={block.title}>
+            {block.label}
+          </a>
+
+          <div class="code-system-body">
+            {block.rows.map((row) => (
+              <div class="code-row">
+                {row.heading && <p class="code-row-head">{row.heading}</p>}
+
+                <ul class="code-list">
+                  {row.codes.map((entry) => {
+                    const others = block.shared.get(entry.code);
+                    const id = panelId(block.system, entry.code);
+                    return (
+                      <li class="code-item">
+                        {others ? (
+                          <button
+                            type="button"
+                            class="code-pill code-pill--shared"
+                            aria-expanded="false"
+                            aria-controls={id}
+                            data-panel={id}
+                            aria-label={`${entry.code} ${entry.label} — also used by ${others.length} other semantic ${others.length === 1 ? 'domain' : 'domains'}`}
+                          >
+                            <span class="code-pill-num">{entry.code}</span>
+                            <span class="code-pill-label">
+                              {entry.label}
+                              {entry.aliases.length > 0 && (
+                                <i class="code-pill-alias">{entry.aliases.join('; ')}</i>
+                              )}
+                            </span>
+                            <span class="code-pill-count">{others.length}</span>
+                          </button>
+                        ) : (
+                          <span class="code-pill">
+                            <span class="code-pill-num">{entry.code}</span>
+                            <span class="code-pill-label">
+                              {entry.label}
+                              {entry.aliases.length > 0 && (
+                                <i class="code-pill-alias">{entry.aliases.join('; ')}</i>
+                              )}
+                            </span>
+                          </span>
+                        )}
+                      </li>
+                    );
+                  })}
+                </ul>
+
+                {/* Panels sit after the row rather than inside the flex list, so an open one
+                    drops below its codes instead of stretching the line. Kept out of the
+                    search index: the contents are other pages' own titles. */}
+                {row.codes
+                  .filter((entry) => block.shared.has(entry.code))
+                  .map((entry) => {
+                    const others = block.shared.get(entry.code)!;
+                    return (
+                      <div
+                        class="code-panel"
+                        id={panelId(block.system, entry.code)}
+                        hidden
+                        data-pagefind-ignore
+                      >
+                        <p class="code-panel-intro">
+                          <span class="code-pill-num">{entry.code}</span>{' '}
+                          {entry.label} is also used by
+                        </p>
+                        <ul>
+                          {others.map((d) => (
+                            <li>
+                              <a href={withBase(`/${version}/${d.code}/`)}>
+                                <span class="code-panel-code">{d.code}</span>{' '}{d.name}
+                              </a>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  })}
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+  )
+}
+
+<script>
+  // One delegated listener, matching the browse-tree script in src/pages/v4/index.astro:
+  // state lives on the button's aria-expanded, visibility on the panel's hidden property.
+  const codes = document.querySelector<HTMLElement>('.domain-codes');
+  if (codes) {
+    const panelOf = (btn: HTMLElement) => document.getElementById(btn.dataset.panel ?? '');
+
+    codes.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest<HTMLElement>('.code-pill--shared');
+      if (!btn) return;
+      const open = btn.getAttribute('aria-expanded') !== 'true';
+      btn.setAttribute('aria-expanded', String(open));
+      const panel = panelOf(btn);
+      if (panel) panel.hidden = !open;
+    });
+
+    // Not required for an inline disclosure, but it is what people reach for once
+    // something is open, and it costs six lines.
+    codes.addEventListener('keydown', (e) => {
+      if (e.key !== 'Escape') return;
+      const btn = codes.querySelector<HTMLElement>('.code-pill--shared[aria-expanded="true"]');
+      if (!btn) return;
+      btn.setAttribute('aria-expanded', 'false');
+      const panel = panelOf(btn);
+      if (panel) panel.hidden = true;
+      btn.focus();
+    });
+  }
+</script>

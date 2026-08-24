@@ -1,8 +1,9 @@
 ---
 title: Data & Bibliography
 menuTitle: Data & Bibliography
-menuOrder: 3
+menuOrder: 4
 showInMenu: true
+summary: "Download the full domain list, and browse the sources it draws on."
 ---
 
 ## Bibliography

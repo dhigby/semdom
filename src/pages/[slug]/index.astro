@@ -2,13 +2,14 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../components/Layout.astro';
 import PageSequenceNav from '../../components/PageSequenceNav.astro';
+import SectionLink from '../../components/SectionLink.astro';
 
 export async function getStaticPaths() {
-  // 'home' has its own route (src/pages/index.astro), 'bibliography' has a
-  // dedicated route that also renders the Data download section, and 'contact'
-  // has a dedicated route that appends the contact form — so all three are
-  // excluded here to avoid duplicate-route collisions.
-  const excluded = new Set(['home', 'bibliography', 'contact']);
+  // Every page with a dedicated route under src/pages must be excluded here or the
+  // build fails on a duplicate route: 'home' lives at /, 'bibliography' also renders the
+  // data downloads, 'contact' appends the form, 'about' appends its section cards, and
+  // 'louw-nida' / 'ocm' each append a generated cross-reference table.
+  const excluded = new Set(['home', 'bibliography', 'contact', 'about', 'louw-nida', 'ocm']);
   const pages = await getCollection('pages');
   return pages
     .filter((p) => !excluded.has(p.id))
@@ -19,8 +20,9 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 ---
 
-<Layout title={entry.data.title}>
+<Layout title={entry.data.title} description={entry.data.summary} section={entry.data.section}>
   <div class="content-page" data-pagefind-body>
+    {entry.data.section && <SectionLink section={entry.data.section} />}
     <h1>{entry.data.title}</h1>
     <Content />
     <PageSequenceNav current={entry.id} />

@@ -1,0 +1,27 @@
+---
+/**
+ * Explains the OCM codes shown on domain pages, then cross-references the whole system
+ * against this list. Mirrors src/pages/louw-nida/index.astro.
+ *
+ * Because this route exists, 'ocm' is excluded from src/pages/[slug].
+ */
+import { getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import CodeReference from '../../components/CodeReference.astro';
+import PageSequenceNav from '../../components/PageSequenceNav.astro';
+import SectionLink from '../../components/SectionLink.astro';
+
+const entry = await getEntry('pages', 'ocm');
+const { Content } = await render(entry!);
+---
+
+<Layout title={entry!.data.title} description={entry!.data.summary} section="about">
+  <div class="content-page" data-pagefind-body>
+    <SectionLink section="about" />
+    <h1>{entry!.data.title}</h1>
+    <Content />
+    <PageSequenceNav current="ocm" />
+  </div>
+
+  <CodeReference system="ocm" title="The OCM major categories" prefix="ocm" />
+</Layout>

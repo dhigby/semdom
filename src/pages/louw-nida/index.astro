@@ -1,0 +1,31 @@
+---
+/**
+ * Explains the Louw-Nida codes shown on domain pages, then cross-references the whole
+ * system against this list. Follows the pattern of src/pages/bibliography/index.astro:
+ * CMS-editable prose plus a generated section.
+ *
+ * The reference table is a sibling of .content-page rather than a child, so it gets the
+ * full page-shell width instead of the 720px reading column.
+ *
+ * Because this route exists, 'louw-nida' is excluded from src/pages/[slug].
+ */
+import { getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import CodeReference from '../../components/CodeReference.astro';
+import PageSequenceNav from '../../components/PageSequenceNav.astro';
+import SectionLink from '../../components/SectionLink.astro';
+
+const entry = await getEntry('pages', 'louw-nida');
+const { Content } = await render(entry!);
+---
+
+<Layout title={entry!.data.title} description={entry!.data.summary} section="about">
+  <div class="content-page" data-pagefind-body>
+    <SectionLink section="about" />
+    <h1>{entry!.data.title}</h1>
+    <Content />
+    <PageSequenceNav current="louw-nida" />
+  </div>
+
+  <CodeReference system="louwNida" title="The 93 Louw-Nida domains" prefix="ln" />
+</Layout>

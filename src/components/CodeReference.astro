@@ -1,0 +1,96 @@
+---
+/**
+ * The full cross-reference between one classification system and this list of semantic
+ * domains: every code, grouped under its Louw-Nida domain or OCM major category, with the
+ * semantic domains that cite it.
+ *
+ * Built entirely from public/SemDom.xml. Neither HRAF's scope notes nor Louw and Nida's
+ * lexicon entries may be reproduced, but the code names are in SIL's own data — enough to
+ * render the whole framework and make the mapping browsable in both directions.
+ *
+ * Deliberately flat rather than collapsible: this is a table people reach for with Ctrl-F,
+ * and every row is a fragment target, so nothing may be hidden behind a disclosure.
+ *
+ * v4 only. The v5 draft carries codes too, but these are indexed pages and must not
+ * publish draft domain names.
+ */
+import type { CodeSystem } from '../lib/semdom';
+import { codeSlug, getCodeIndex, getDomain } from '../lib/semdom';
+import { withBase } from '../lib/url';
+
+interface Props {
+  system: CodeSystem;
+  /** Heading for the section, e.g. "The 93 Louw-Nida domains". */
+  title: string;
+  /** Prefix for fragment ids, keeping the two systems' anchors distinct. */
+  prefix: string;
+}
+
+const { system, title, prefix } = Astro.props;
+
+const index = getCodeIndex(system);
+const groups = index.groups;
+
+const totalCodes = index.byCode.size;
+const totalLinks = new Set(
+  [...index.byCode.values()].flatMap((e) => e.domainCodes)
+).size;
+
+/** Group anchors need their own namespace: a group's head code is itself a code — the
+ * Louw-Nida domain 33 is cited as bare "33 Communication" — so sharing one scheme would
+ * emit id="ln-33" twice on the page. */
+const groupAnchor = (group: string) => `${prefix}-g-${codeSlug(group)}`;
+const anchor = (code: string) => `${prefix}-${codeSlug(code)}`;
+---
+
+<section class="code-reference" data-pagefind-ignore aria-labelledby={`${prefix}-ref-title`}>
+  <h2 id={`${prefix}-ref-title`}>{title}</h2>
+
+  <p class="code-ref-intro">
+    {totalCodes} codes in {groups.length} groups, cited by {totalLinks} of this list's
+    semantic domains. Every name here comes from SIL's own data.
+  </p>
+
+  <nav class="code-ref-jump" aria-label={`Jump to a ${prefix === 'ln' ? 'Louw-Nida domain' : 'major category'}`}>
+    {groups.map((g) => (
+      <a href={`#${groupAnchor(g.group)}`}>{g.group}</a>
+    ))}
+  </nav>
+
+  {groups.map((g) => (
+    <div class="code-ref-group" id={groupAnchor(g.group)}>
+      <h3>
+        <span class="code-ref-num">{g.group}</span>
+        {g.name ? <>{' '}{g.name}</> : <span class="code-ref-unnamed"> — not named in this data</span>}
+        <span class="code-ref-count">{g.codes.length}</span>
+      </h3>
+
+      <ul class="code-ref-list">
+        {g.codes.map((entry) => (
+          <li id={anchor(entry.code)}>
+            <span class="code-ref-code">{entry.code}</span>
+            <span class="code-ref-label">
+              {entry.label}
+              {entry.aliases.length > 0 && (
+                <i class="code-ref-alias">{entry.aliases.join('; ')}</i>
+              )}
+            </span>
+            <span class="code-ref-domains">
+              {entry.domainCodes.map((c, i) => {
+                const d = getDomain(c);
+                return (
+                  <>
+                    {i > 0 && <span class="code-ref-sep">·</span>}
+                    <a href={withBase(`/v4/${c}/`)}>
+                      <span class="code-ref-dcode">{c}</span>{' '}{d?.name ?? ''}
+                    </a>
+                  </>
+                );
+              })}
+            </span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</section>

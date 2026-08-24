@@ -1,6 +1,7 @@
 ---
 import Layout from '../../components/Layout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import DomainCodes from '../../components/DomainCodes.astro';
 import SidebarTree from '../../components/SidebarTree.astro';
 import DomainNav from '../../components/DomainNav.astro';
 import DraftBanner from '../../components/DraftBanner.astro';
@@ -64,6 +65,8 @@ else if (
         ))}
       </ol>
     )}
+
+    <DomainCodes domain={domain} version="v5" />
 
     {children.length > 0 && (
       <div class="domain-children">

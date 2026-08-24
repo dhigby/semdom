@@ -5,7 +5,7 @@ content:
     path: src/content/pages
     format: yaml-frontmatter
     view:
-      fields: [title, menuOrder]
+      fields: [title, section, menuOrder]
       primary: title
     fields:
       - name: title
@@ -16,12 +16,20 @@ content:
         label: Menu label (short label shown in navigation; defaults to Title)
         type: string
       - name: menuOrder
-        label: Menu order
+        label: Order (position in the main menu, or within the About section)
         type: number
       - name: showInMenu
         label: Show in main navigation
         type: boolean
         default: true
+      - name: section
+        label: Section (groups this page under a hub page instead of the main menu)
+        type: select
+        options:
+          values: ['', 'about']
+      - name: summary
+        label: Summary (one sentence; shown on the section page and to search engines)
+        type: text
       - name: body
         label: Content
         type: rich-text

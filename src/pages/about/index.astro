@@ -1,0 +1,38 @@
+---
+/**
+ * The About hub. Renders about.md, then a card for every page in the About section.
+ *
+ * The section exists because the main nav is a flat list with no room to grow: it now
+ * carries one item instead of five, and it also gives /description/, /development/ and
+ * /usage/ a home — until now they were reachable only through the pager at the foot of
+ * the home page.
+ */
+import { getCollection, getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import { withBase } from '../../lib/url';
+
+const entry = await getEntry('pages', 'about');
+const { Content } = await render(entry!);
+
+const cards = (await getCollection('pages'))
+  .filter((p) => p.data.section === 'about')
+  .sort((a, b) => (a.data.menuOrder ?? 99) - (b.data.menuOrder ?? 99) || a.id.localeCompare(b.id));
+---
+
+<Layout title={entry!.data.title} description={entry!.data.summary}>
+  <div class="content-page" data-pagefind-body>
+    <h1>{entry!.data.title}</h1>
+    <Content />
+
+    <ul class="hub-grid">
+      {cards.map((p) => (
+        <li>
+          <a class="hub-card" href={withBase(`/${p.id}/`)}>
+            <span class="hub-card-title">{p.data.title}</span>
+            {p.data.summary && <span class="hub-card-summary">{p.data.summary}</span>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Layout>

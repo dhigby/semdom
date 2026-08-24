@@ -8,14 +8,17 @@ interface Props {
   description?: string;
   /** Keep the page out of search engines — used by the unpublished /v5/ draft. */
   noindex?: boolean;
+  /** Section this page belongs to, so its hub's nav item is marked while you are
+   * on one of its pages. Section pages keep their own URLs at the site root. */
+  section?: string;
 }
 
-const { title, description, noindex = false } = Astro.props;
+const { title, description, noindex = false, section } = Astro.props;
 
 // Build the main navigation from content pages flagged showInMenu, plus the
 // "Browse Domains" section (a route, not a content page). Everything is sorted
 // by menuOrder so editors can reorder from the CMS.
-type NavItem = { href: string; label: string; order: number };
+type NavItem = { href: string; label: string; order: number; id?: string };
 
 const pageItems: NavItem[] = (await getCollection('pages'))
   .filter((p) => p.data.showInMenu)
@@ -23,6 +26,7 @@ const pageItems: NavItem[] = (await getCollection('pages'))
     href: withBase(p.id === 'home' ? '/' : `/${p.id}/`),
     label: p.data.menuTitle ?? p.data.title,
     order: p.data.menuOrder ?? 99,
+    id: p.id,
   }));
 
 // The /v5/ draft is deliberately absent here: it is deployed live but unlinked
@@ -43,6 +47,11 @@ const isActive = (href: string) => {
   if (target === homePath) return currentPath === homePath;
   return currentPath === target || currentPath.startsWith(target + '/');
 };
+
+// A section page such as /description/ is not under /about/, so the prefix match
+// above cannot find its hub. Mark it separately: aria-current="true" says "in this
+// part of the site", while "page" stays reserved for the page you are actually on.
+const isSection = (item: NavItem) => !!section && item.id === section;
 
 const pagefindBase = withBase('/pagefind');
 ---
@@ -68,7 +77,10 @@ const pagefindBase = withBase('/pagefind');
           <ul class="site-nav">
             {navItems.map((item) => (
               <li>
-                <a href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>{item.label}</a>
+                <a
+                  href={item.href}
+                  aria-current={isActive(item.href) ? 'page' : isSection(item) ? 'true' : undefined}
+                >{item.label}</a>
               </li>
             ))}
           </ul>

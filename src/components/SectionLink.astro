@@ -1,0 +1,26 @@
+---
+/**
+ * A back-link to a section's hub page, shown above the h1.
+ *
+ * Section pages keep their URLs at the site root (/description/, /ocm/), so there is no
+ * breadcrumb trail to climb. Most visitors reach /ocm/ from a code label on a domain page
+ * with no idea the About section exists; this is what orients them.
+ */
+import { getEntry } from 'astro:content';
+import { withBase } from '../lib/url';
+
+interface Props {
+  section: string;
+}
+
+const { section } = Astro.props;
+const hub = await getEntry('pages', section);
+---
+
+{
+  hub && (
+    <a class="section-link" href={withBase(`/${section}/`)}>
+      &lsaquo; {hub.data.menuTitle ?? hub.data.title}
+    </a>
+  )
+}
