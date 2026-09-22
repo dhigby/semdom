@@ -5,7 +5,7 @@
  *   - `scripts/validate.mjs`  (the CI gate)
  *
  * It is plain ESM, not TypeScript, precisely so the node scripts can import it without
- * a build step or type-stripping (CI runs Node 20). One loader means the validator and
+ * a build step or type-stripping, on any Node. One loader means the validator and
  * the site cannot drift — which matters, because the validator's job is to assert they
  * agree.
  *
