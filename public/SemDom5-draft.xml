@@ -6086,7 +6086,7 @@
 <AUni ws="en">(2) What are the parts of the head?</AUni>
 </Question>
 <ExampleWords>
-<AUni ws="en">head, ear, eye, nose, muzzle, maw, snout, trunk (of an elephant), proboscis, mouth, tooth, fang , tusk, tongue, neck, horn, antler, dewlap</AUni>
+<AUni ws="en">head, ear, eye, nose, muzzle, maw, snout, trunk (of an elephant), proboscis, mouth, tooth, fang, tusk, tongue, neck, horn, antler, dewlap</AUni>
 </ExampleWords>
 </CmDomainQ>
 <CmDomainQ>
@@ -13673,7 +13673,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to pain</Run>
+<Run ws="en">Use this domain for words related to pain.</Run>
 </AStr>
 </Description>
 <LouwNidaCodes>
@@ -16982,7 +16982,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to old age and older persons?</Run>
+<Run ws="en">Use this domain for words related to old age and older persons.</Run>
 </AStr>
 </Description>
 <OcmCodes>
@@ -29397,7 +29397,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words referring to admitting something--saying that you have done wrong, or that your beliefs were wrong</Run>
+<Run ws="en">Use this domain for words referring to admitting something--saying that you have done wrong, or that your beliefs were wrong.</Run>
 </AStr>
 </Description>
 <LouwNidaCodes>
@@ -39561,7 +39561,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for general words referring to prosperity and trouble</Run>
+<Run ws="en">Use this domain for general words referring to prosperity and trouble.</Run>
 </AStr>
 </Description>
 <LouwNidaCodes>
@@ -42567,7 +42567,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to the countryside--the area away from a city</Run>
+<Run ws="en">Use this domain for words related to the countryside--the area away from a city.</Run>
 </AStr>
 </Description>
 <LouwNidaCodes>
@@ -46779,7 +46779,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to sacred writings. Examples are only given for the Christian sacred writings. However you should include words referring to the holy books of all religions .</Run>
+<Run ws="en">Use this domain for words related to sacred writings. Examples are only given for the Christian sacred writings. However you should include words referring to the holy books of all religions.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -63856,7 +63856,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(2) What words refer to money given to a person for betraying or murdering someone.</AUni>
+<AUni ws="en">(2) What words refer to money given to a person for betraying or murdering someone?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">murder money, blood money, cursed money</AUni>
@@ -68666,7 +68666,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for verbs for catching something that is thrown or dropped</Run>
+<Run ws="en">Use this domain for verbs for catching something that is thrown or dropped.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -70025,7 +70025,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words referring to preventing someone or something from moving</Run>
+<Run ws="en">Use this domain for words referring to preventing someone or something from moving.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -75130,7 +75130,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(3) What words indicate that most of a group is of one kind.</AUni>
+<AUni ws="en">(3) What words indicate that most of a group is of one kind?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">mostly, mainly, largely, predominantly, predominate, be in the majority, a preponderance</AUni>
@@ -80159,7 +80159,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words that describe something that is symmetrical--having the same shape on both sides</Run>
+<Run ws="en">Use this domain for words that describe something that is symmetrical--having the same shape on both sides.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -92624,7 +92624,7 @@
 <Questions>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(1) What words indicate that the speaker is encouraging or inciting someone to action.</AUni>
+<AUni ws="en">(1) What words indicate that the speaker is encouraging or inciting someone to action?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">urge, request, let, why don't, please</AUni>
@@ -96306,7 +96306,7 @@
 </Name>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for common nicknames--an additional name given to a person later in life, often descriptive. Also include general names used to call or refer to someone when you don't know their name</Run>
+<Run ws="en">Use this domain for common nicknames--an additional name given to a person later in life, often descriptive. Also include general names used to call or refer to someone when you don't know their name.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -96320,7 +96320,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(2) What names are used to refer to someone when you don't know their name.</AUni>
+<AUni ws="en">(2) What names are used to refer to someone when you don't know their name?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">John Doe, Jane Doe, Joe Blow, GI Joe</AUni>
