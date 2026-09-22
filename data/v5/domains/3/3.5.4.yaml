@@ -1,0 +1,16 @@
+code: "3.5.4"
+guid: 3160B7AD-E4E8-4A46-8E2E-D5E601969547
+name: Story
+description: Use this domain for words referring to a story.
+louwNidaCodes: 33C Discourse Types
+questions:
+  - q: What words refer to a story?
+    words: story, tale
+  - q: What words refer to telling a story?
+    words: tell a story, relate, narrate
+  - q: What words refer to a story about a person's life?
+    words: >-
+      my/your/his story, tell about yourself, biography, biographical, biographer,
+      autobiography, autobiographical
+  - q: What words refer to someone who tells a story?
+    words: storyteller, narrator

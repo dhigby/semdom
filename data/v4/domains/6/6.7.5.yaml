@@ -1,0 +1,19 @@
+code: "6.7.5"
+guid: 5CD2F365-2D84-451E-9F2D-BC2561EFF909
+name: Fastening tool
+description: Use this domain for words related to fastening tools.
+louwNidaCodes: 6D Instruments Used in Binding and Fastening
+related: ["7.5.4.1"]
+questions:
+  - q: What words refer to something used to join things together?
+    words: >-
+      adhesive, band, belt, binder, binding, bolt, bond, brace, bracket, brad, buckle,
+      button, cable, cement, chain, cinch, clamp, clasp, clip, clothespin, cord, cotter,
+      coupler, dowel, fastener, fastening, fetter, glue, gum, guy, handcuff, hasp, hemp,
+      hinge, hitch, hook, knot, lace, lacing, lariat, lashing, lasso, latch, line, linkage,
+      lock, loop, manacle, mooring, nail, nut, padlock, paste, peg, pin, safety pin,
+      straight pin, plaster, putty, rivet, rope, screw, shackle, shoelace, shoestring, snap,
+      solder, staple, stay, stitch, stocks, strap, string, tack, tape, thong, thread,
+      thumbtack, truss, twine, wedge, wire, wrap, wrapping, yarn, zipper
+  - q: What words refer to a tool used to join things together?
+    words: screwdriver

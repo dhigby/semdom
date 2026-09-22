@@ -1,0 +1,17 @@
+code: "2.2.3"
+guid: 75825D72-695B-4E92-9F33-0F3AB4D7DD11
+name: Spit, saliva
+description: Use this domain for words related to spitting.
+questions:
+  - q: What words refer to spitting?
+    words: spit, spit out, expectorate, spew
+  - q: What words refer to saliva?
+    words: saliva, spit, spittle, sputum, phlegm, drool, slobber, drivel
+  - q: What words refer to letting saliva run out of your mouth?
+    words: drool, slobber, drivel, dribble
+  - q: What words refer to the production of saliva?
+    words: salivate, mouth waters, juices flow, salivation
+  - q: What words refer to not having any saliva in your mouth?
+    words: mouth is dry
+  - q: What words refer to the sound made when spitting?
+    words: ptui

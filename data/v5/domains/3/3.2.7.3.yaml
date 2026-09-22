@@ -1,0 +1,10 @@
+code: "3.2.7.3"
+guid: C956A98A-4C85-4C85-868D-F27F44BD6422
+name: Predict
+description: >-
+  Use this domain for words referring to predicting the future--saying what you think will
+  happen.
+related: ["4.9.4.6"]
+questions:
+  - q: What words refer to predicting what you think will happen in the future?
+    words: claim, forecast, foretell, predict, prognosticate, prophesy

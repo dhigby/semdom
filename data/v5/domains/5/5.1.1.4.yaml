@@ -1,0 +1,11 @@
+code: "5.1.1.4"
+guid: FE89A0F4-2155-424B-BF90-C1133DC41C8D
+name: Cabinet
+description: Use this domain for words related to a cabinet.
+questions:
+  - q: What kinds of cabinets are there?
+    words: >-
+      cabinet, dresser, chest of drawers, wardrobe, buffet, bookshelf, set of shelves,
+      cupboard, drawer, shelf
+  - q: What do people do with cabinets?
+    words: put things away, store, open a drawer, close a drawer, put things on a shelf

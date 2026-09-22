@@ -1,0 +1,8 @@
+code: "6.9.1"
+guid: 0B98FB79-222F-418C-8107-5D4E791D329C
+name: Management
+description: Use this domain for words related to managing something.
+ocmCodes: 429 Administration
+questions:
+  - q: What words refer to managing something?
+    words: organization, management, administration, direct, manage, regulate

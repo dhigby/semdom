@@ -1,0 +1,35 @@
+code: "1.2.1.1"
+guid: 0AC5E5F9-E7FE-4D37-A631-EAB1CEB1F8AE
+name: Mountain
+description: Use this domain for words related to mountains.
+louwNidaCodes: 1G Elevated Land Formations
+related: ["1.2.1.2", "9.7.2.7"]
+questions:
+  - q: What types of mountains are there?
+    words: >-
+      mountain, mount, hill, volcano, plateau, moor, butte, crag, dome, height, highland,
+      upland, uplift, mound, formation
+  - q: What words refer to a mountain with a flat top?
+    words: plateau, mesa, tableland
+  - q: What words describe land that has many mountains?
+    words: mountain range, mountainous, the hills, hilly, rolling hills, highlands
+  - q: What words refer to the top of a mountain?
+    words: top, summit, peak, pinnacle
+  - q: What words refer to the side of a mountain?
+    words: face, mountainside, hillside, slope, shoulder, foothill, saddle
+  - q: What words refer to a steep place on a mountain?
+    words: cliff, bluff, butte, escarpment, ridge, precipice, brow, ledge
+  - q: What words describe how steep a mountain is?
+    words: slope, steep, gentle, contour, gradient
+  - q: What words refer to the bottom of a mountain?
+    words: foot, bottom
+  - q: What words refer to snow on a mountain?
+    words: snowcap, glacier
+  - q: What words refer to rocks at the bottom of a mountain?
+    words: moraine, talus
+  - q: What words refer to when part of a mountain falls?
+    words: landslide, avalanche
+  - q: What do people do to mountains?
+    words: climb
+  - q: What words refer to a place you can travel through the mountains?
+    words: pass, tunnel

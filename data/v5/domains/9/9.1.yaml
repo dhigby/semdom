@@ -1,0 +1,16 @@
+code: "9.1"
+guid: 3A2C0773-6B3E-4F8B-909D-C8F84D66D4F4
+name: General words
+description: >-
+  Use the following section for words that don't belong in any other domain because they are
+  so general in meaning that you can use them to talk about any topic. Use this domain for
+  general and indefinite words that can be used in the place of any word. Some languages
+  have a general word that can replace a noun or a verb. For instance some Philippine
+  languages use the word 'kwan' in this way. Colloquial German can use the word 'dings' as a
+  noun or verb. Often these words are used when you can't remember the particular word you
+  are trying to think of. In English we use the word 'blank' when we don't want to say a
+  word, for instance when we are testing someone and want them to say the word.
+louwNidaCodes: 13 Be, Become, Exist, Happen
+questions:
+  - q: What words can be used in the place of any word?
+    words: blank, ... (ellipsis), you know what I mean

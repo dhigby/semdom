@@ -1,0 +1,10 @@
+code: "3.5.4.1"
+guid: F0404B23-DB91-46C7-87E1-9F1BE0712980
+name: Fable, myth
+description: >-
+  Use this domain for words referring to a fable or myth--a story that people tell that is
+  not true.
+ocmCodes: 118 Fiction
+questions:
+  - q: What words refer to fables?
+    words: fable, myth, tale, fairytale, tall tale, legend, fiction, folklore, lore, parable

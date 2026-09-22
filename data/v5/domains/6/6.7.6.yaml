@@ -1,0 +1,10 @@
+code: "6.7.6"
+guid: B2FEE662-C451-4D32-ACA5-A913CA0B2164
+name: Holding tool
+description: >-
+  Use this domain for words related to holding tools--tools used to grip and hold things so
+  that they don't move, and tools used to hold things that you can't hold with your hand,
+  such as very hot things.
+questions:
+  - q: What tools are used for holding things?
+    words: clamp, vise, pliers, tongs, tweezers, hot pad

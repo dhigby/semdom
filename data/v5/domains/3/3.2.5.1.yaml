@@ -1,0 +1,36 @@
+code: "3.2.5.1"
+guid: C0F4715E-55C9-4379-AB6F-AD561A5E7151
+name: Believe
+description: Use this domain for words referring to believing that something is true.
+louwNidaCodes: 31F Believe To Be True; 31J Be a Believer, Christian Faith
+questions:
+  - q: What words refer to believing that something is true?
+    words: >-
+      believe, faith, trust, accept, confidence, give credence to, consider, count on, rely
+      on, reliance, depend on, dependence, swear by, take for granted, bet on, bank on, buy,
+      take at face value, store, stock, take someone's word for it, cling to, be convinced,
+      be dogmatic, follow, heed, receive, think something is true
+  - q: What words refer to believing that someone is truthful?
+    words: >-
+      believe in, have confidence in, have faith in, put your trust in, take your word for,
+      pin your hopes on, give the benefit of the doubt
+  - q: What words describe something or someone that can be believed?
+    words: >-
+      believable, convincing, indubitable, undeniable, indisputable, incontrovertible,
+      credible, trustworthy, faithful, dependable, to be depended on, probable, persuasive,
+      plausible, authoritative, reliable, have a ring of truth, sounds right, certain,
+      convincing, sure
+  - q: What words refer to putting too much faith in something?
+    words: presumption, credulous, gullible, superstitious, unquestioning
+  - q: What words refer to believing something that other people do not believe?
+    words: belief, superstition, old wives' tale
+  - q: What words refer to believing something that is not true?
+    words: >-
+      illusion, fallacy, myth, delusion, mistaken belief, misconception, live in a fantasy
+      world, swallow
+  - q: What words refer to a person who believes?
+    words: believer, follower
+  - q: What words refer to something that a person believes?
+    words: belief
+  - q: What words refer to the reason a person believes something?
+    words: evidence, grounds, basis

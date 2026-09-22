@@ -1,0 +1,8 @@
+code: "6.5.4.2"
+guid: 73ADCFBE-8A74-4FDA-969F-616964226B9B
+name: Boundary
+description: Use this domain for words related to the boundary of an area.
+louwNidaCodes: 80B Limits, Boundaries of Space
+questions:
+  - q: What words refer to the boundary of an area?
+    words: boundary, border

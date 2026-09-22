@@ -1,0 +1,37 @@
+code: "1.1.3.4"
+guid: AB8F12FB-57B0-4D61-8AE0-50D7CBC412DF
+name: Snow, ice
+description: Use this domain for words related to snow, ice, sleet, and hail.
+questions:
+  - q: What words refer to different kinds of snow?
+    words: snow (n), sleet, sleety, hail, hailstorm, snowstorm, ice storm, blizzard, snow flurry
+  - q: What does the snow do?
+    words: snow (v), fall, snowfall, drift, blow, cover (the ground), blanket (v), snow in
+  - q: What words refer to a piece of snow or ice?
+    words: snowflake, hailstone, block of ice, ice cube
+  - q: What words refer to snow or ice on the ground?
+    words: >-
+      ice, drift, snowbank, blanket, snow cover, dusting, icicle, sheet of ice, iceberg,
+      glacier
+  - q: What words refer to snow on a mountain?
+    words: glacier, snowcap, snowfield, avalanche
+  - q: What words refer to frost (frozen dew)?
+    words: frost
+  - q: What do people do with snow?
+    words: shovel, plow
+  - q: What do people make with snow?
+    words: snowball, snowman, igloo
+  - q: What tools do people use with snow?
+    words: ice axe, snow shovel, snowplow
+  - q: What words refer to moving on snow or ice?
+    words: ski, skate, sled, sleigh, sledge, snowshoes, skis, ice-skates, slide, slip
+  - q: What words refer to water turning into ice?
+    words: freeze, frozen, ice over/up
+  - q: What words refer to snow and ice turning into water?
+    words: melt, melt water, thaw, slush, turn to slush
+  - q: What words refer to frozen ground?
+    words: permafrost
+  - q: What words describe a time when it snows?
+    words: snowy
+  - q: What words describe something that has snow or ice on it?
+    words: snowy, snow covered, icy, frosty

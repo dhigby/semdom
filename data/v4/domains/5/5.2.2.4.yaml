@@ -1,0 +1,19 @@
+code: "5.2.2.4"
+guid: 12B6934D-3A4A-4623-995F-865F401349AB
+name: Manner of eating
+description: Use this domain for words describing the manner in which a person eats.
+questions:
+  - q: What words refer to eating before others?
+    words: eat before others, eat early
+  - q: What words refer to tasting a little food to see if it tastes good?
+    words: taste, test, sample
+  - q: What words refer to eating a little?
+    words: eat a little, nibble, snack, go on a diet, to diet, diet (n)
+  - q: What words refer to eating a lot?
+    words: eat a lot, eat too much, be a glutton, gluttony, eat like a pig, pig out
+  - q: What words refer to eating fast?
+    words: gobble, inhale, wolf down, devour, eat fast
+  - q: What words refer to eating more than your share?
+    words: eat more than your share, be greedy
+  - q: What words refer to eating two things together?
+    words: (no words in English, but some in North American Indian languages)

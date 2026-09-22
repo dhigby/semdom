@@ -1,0 +1,26 @@
+code: "2.6.3.1"
+guid: 3CB4C07C-8760-4FF9-8D45-1C0BED80FFB3
+name: Pregnancy
+description: Use this domain for words related to being pregnant.
+ocmCodes: 843 Pregnancy; 842 Conception
+questions:
+  - q: What words refer to a man causing a woman to become pregnant?
+    words: >-
+      beget, begetting, begotten, impregnate, get (her) pregnant, father (v) a child,
+      procreate, procreation, reproduce, sire, engender, generate
+  - q: What words refer to a woman becoming pregnant?
+    words: conceive, conception, become pregnant
+  - q: What words refer to a woman being pregnant?
+    words: >-
+      be pregnant, be going to have a baby, be having a baby, be expecting, bear, carry,
+      carry to term
+  - q: What words describe a woman who is pregnant?
+    words: pregnant, big as a house, expectant, expecting
+  - q: What words refer to the time period when a woman is pregnant?
+    words: pregnancy, gestation period, term, full term, trimester, antenatal, prenatal
+  - q: What words refer to what a baby does?
+    words: kick, turn, drop
+  - q: >-
+      What words refer to the part from the father and the part from the mother that make a
+      baby?
+    words: egg, sperm, gamete, ovum, gene

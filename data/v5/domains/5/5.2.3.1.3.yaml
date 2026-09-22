@@ -1,0 +1,11 @@
+code: "5.2.3.1.3"
+guid: 929720F5-C264-49FD-B817-3E1EBFF6E1DE
+name: Food from vegetables
+description: Use this domain for words related to food from vegetables.
+questions:
+  - q: What types of vegetables are eaten?
+    words: >-
+      vegetable, tomato, leek, squash, carrot, beans, greens, spinach, cabbage, lettuce,
+      eggplant, okra, pumpkin, cucumber, red pepper, green pepper, cassava leaf
+  - q: What types of gourds are eaten?
+    words: gourd, pumpkin, squash, eggplant

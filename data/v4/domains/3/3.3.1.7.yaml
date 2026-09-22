@@ -1,0 +1,22 @@
+code: "3.3.1.7"
+guid: CC121082-2D07-484E-8A6F-7382F7D71F39
+name: Stubborn
+description: >-
+  Use this domain for words related to being stubborn--to be unwilling to change a decision;
+  to be unwilling to do something someone wants you to do; or to do what you want to do,
+  even though other people do not want you to do it.
+louwNidaCodes: 88B' Stubbornness
+questions:
+  - q: What words describe someone who is stubborn?
+    words: >-
+      stubborn, adamant, bull-headed, conservative, dogged, enduring, hardened, hardheaded,
+      headstrong, immovable, impenitent, incorrigible, indomitable, inflexible, intractable,
+      mulish, obdurate, obstinate, persistent, pig-headed, recalcitrant, relentless,
+      stiff-necked, strong-willed, stubborn, as stubborn as a mule, tenacious, unbending,
+      uncompromising, ungovernable, unmanageable, unrepentant, unyielding, willful
+  - q: What words refer to a stubborn person?
+    words: stubborn fool, mule, bulldog
+  - q: What words refer to being stubborn?
+    words: refuse to obey/listen, won't listen to reason, stick to your guns
+  - q: What words refer to the quality of being stubborn?
+    words: stubbornness, inflexibility, obstinacy, tenacity, sticktoitiveness

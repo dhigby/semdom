@@ -1,0 +1,16 @@
+code: "7.2.5.3"
+guid: 902CFCBE-6E42-4E55-B2A5-9146702FC16B
+name: Guide
+description: >-
+  Use this domain for words related to guiding someone--to show someone where to go by going
+  ahead of them.
+louwNidaCodes: 15S Come/Go With, Travel With
+related: ["4.5.3.1"]
+questions:
+  - q: What words refer to guiding someone?
+    words: >-
+      guide, lead, show, usher, shepherd, take the lead, lead on, lead the way, show the
+      way, show someone to a place, blaze a trail, conduct, escort, precede, go before,
+      marshal
+  - q: What words refer to a person who guides?
+    words: guide, leader, pilot, point man, usher

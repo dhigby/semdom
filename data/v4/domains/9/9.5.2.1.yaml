@@ -1,0 +1,13 @@
+code: "9.5.2.1"
+guid: 42B21A6E-E2F3-4468-9E92-49EE4DE6909A
+name: Together
+description: >-
+  Use this domain for words indicating when two or more people each do the same thing and do
+  it together, or when they do it separately.
+questions:
+  - q: What words indicate that some people do something together?
+    words: together
+    sentence: John and David went to town <together>.; We all went <together>.
+  - q: What words indicate that some people do something separately?
+    words: separately
+    sentence: John and David went to town <separately>.

@@ -1,0 +1,36 @@
+code: "7.9.1"
+guid: EB00B4C2-5B87-4EF8-9548-800FC5C9B524
+name: Damage
+description: >-
+  Use this domain for words referring to damaging something--to do something bad to
+  something, but not completely ruin it so that it can't be used any more.
+louwNidaCodes: 20 Violence, Harm, Destroy, Kill; 20B Harm, wound
+related: ["2.5.3"]
+questions:
+  - q: What words refer to damaging something?
+    words: >-
+      damage, do damage, cause damage, break, bust, chip, corrode, corrupt, deface, dent,
+      erode, harm, do harm, hurt, impair, injure, maltreat, mar, mess up, nick, sabotage,
+      score, scratch, spoil, vandalize
+  - q: What words refer to deliberately damaging something?
+    words: vandalize, vandal, smash up, sabotage, tamper with, deface, desecrate
+  - q: What words refer to something being damaged over a long period of time?
+    words: wear away, corrode, erode
+  - q: What words refer to using something for a long time until it is damaged?
+    words: wear away, wear out
+  - q: What words refer to the act of damaging something?
+    words: corrosion, detriment, erosion, maltreatment, mischief, vandalism
+  - q: What words refer to the damage done to something?
+    words: damage (n), scar, wear (n), wear and tear
+  - q: What words refer to a person who damages things?
+    words: vandal, saboteur, bull in a china shop
+  - q: What words refer to something that damages things?
+    words: blight
+  - q: What words describe something that damages things?
+    words: harmful, toxic, toxicity, unwholesome, dangerous
+  - q: What words refer to something that has been damaged?
+    words: breakages, damaged goods
+  - q: What words describe something that has been damaged?
+    words: spoiled, broken, busted, messed up, damaged, crumbling, moth-eaten
+  - q: What words describe something that can be damaged easily?
+    words: vulnerable

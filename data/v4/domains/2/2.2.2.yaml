@@ -1,0 +1,16 @@
+code: "2.2.2"
+guid: 8B52A9D6-A07E-4ac8-8F84-6EB5BA578D97
+name: Cough, sneeze
+description: >-
+  Use this domain for words related to coughing, sneezing, and other actions of the mouth
+  and nose.
+louwNidaCodes: 23B Processes Involving the Mouth, Other Than Eating and Drinking
+questions:
+  - q: What words refer to coughing?
+    words: cough, cough (n)
+  - q: What words refer to sneezing?
+    words: sneeze, sneeze (n)
+  - q: What words refer to burping?
+    words: burp, burp (n), belch, belch (n)
+  - q: What words refer to hiccupping?
+    words: hiccup (v), hiccup (n), have the hiccups

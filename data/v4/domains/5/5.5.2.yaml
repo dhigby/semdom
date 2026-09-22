@@ -1,0 +1,33 @@
+code: "5.5.2"
+guid: 9A456463-3C71-4F9A-8117-DC2FCB087BD3
+name: Tend a fire
+description: >-
+  Use this domain for words that refer to tending a fire--to keep a fire burning so that it
+  burns well and does not go out.
+questions:
+  - q: What words refer to keeping a fire burning?
+    words: tend a fire
+  - q: What words refer to adding fuel to a fire?
+    words: feed a fire, stoke a fire, throw another log on the fire
+  - q: What words refer to blowing on a fire to make it bigger?
+    words: fan a fire, fan into flames, blow on a fire, bellows, pump bellows
+  - q: What words refer to making a fire bigger?
+    words: build up a fire
+  - q: What words refer to restarting a fire that has died down?
+    words: rekindle
+  - q: >-
+      What words refer to keeping a fire from going out, such as covering a fire with ashes
+      to keep it from going out during the night?
+    words: bank a fire
+  - q: What words refer to taking something out of a fire?
+    words: pull out of the fire, snatch from the flames
+  - q: What words refer to something taken out of a fire?
+    words: firebrand
+  - q: What words refer to a person who is responsible to make sure the fire does not go out?
+    words: preserver of the fire
+  - q: What words refer to sharing fire with a neighbor whose fire has gone out?
+    words: (no words in English)
+  - q: What things are used to carry fire?
+    words: fire pan, brazier
+  - q: What tools are used to tend a fire?
+    words: poker, tongs, wick trimmer, snuffer

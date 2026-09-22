@@ -1,0 +1,23 @@
+code: "7.5.8"
+guid: 467DD680-AC64-4DC4-8A17-1CFE297D3392
+name: Simple, complicated
+description: >-
+  Use this domain for words related to being simple or complicated--words describing the
+  organization of a group of things.
+questions:
+  - q: What words describe something that is simple?
+    words: >-
+      simple, basic, crude, elemental, elementary, neat, plain, primitive, rudimentary,
+      single, uniform, unsophisticated, low-tech
+  - q: What words describe something that is complicated?
+    words: >-
+      complicated, complex, intricate, elaborate, convoluted, sophisticated, tortuous,
+      variable
+  - q: What words refer to making something simpler?
+    words: simplify
+  - q: What words refer to making something more complicated?
+    words: complicate
+  - q: What words describe a simple connection between two things?
+    words: simple, one to one
+  - q: What words describe a complex connection between two things?
+    words: complex, complicated, one to many

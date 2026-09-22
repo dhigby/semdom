@@ -1,0 +1,11 @@
+code: "8.3.6.3"
+guid: 314C8FEA-4BDB-4BC8-AB67-A26A9C5ABBD4
+name: Stiff, flexible
+description: Use this domain for words that describe something that is stiff--not easy to bend.
+questions:
+  - q: What words describe something that is not easy to bend?
+    words: stiff, strong, inflexible, unbendable, unbending, rigid, brittle, crisp, crispy
+  - q: What words describe something that is easy to bend?
+    words: flexible, flexibility, flimsy, pliable, bendable, weak
+  - q: What words refer to something becoming more stiff?
+    words: stiffen, rigidify

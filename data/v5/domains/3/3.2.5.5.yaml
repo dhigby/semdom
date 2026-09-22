@@ -1,0 +1,13 @@
+code: "3.2.5.5"
+guid: B8E633F7-CA67-40CB-84E7-8B42887D161B
+name: Philosophy
+description: Use this domain for words referring to a set of beliefs about truth.
+ocmCodes: 100 Orientation
+louwNidaCodes: 11E Philosophical
+questions:
+  - q: What words refer to a set of beliefs about truth?
+    words: philosophy, orientation, frame of reference, worldview
+  - q: What words refer to a person who attempts to define a set of beliefs?
+    words: philosopher, sage
+  - q: What words refer to a group of philosophers?
+    words: Epicurean, Stoic, school (of thought)

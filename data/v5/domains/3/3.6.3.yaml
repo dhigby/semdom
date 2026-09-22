@@ -1,0 +1,11 @@
+code: "3.6.3"
+guid: 1FA683B9-78FD-4FEB-9978-55D5953F38EC
+name: Subject of teaching
+description: >-
+  Use this domain for words related to a subject that is taught or a subject that you study
+  at school.
+questions:
+  - q: What words refer to a subject that is taught?
+    words: subject, major, discipline, field
+  - q: What words refer to all the subjects that you study at school?
+    words: course, syllabus, curriculum

@@ -1,0 +1,13 @@
+code: "9.4.2.2"
+guid: AB8D8DC9-EEB7-41FF-93A9-CBBD50B89A73
+name: Can't
+description: Use this domain for words related to being incapable of doing something.
+questions:
+  - q: What words describe a person's inability to do a job?
+    words: >-
+      can't do something, not be able to do something, cannot, be incapable of, not be
+      capable of, be unable to do something, someone's inability to do something,
+      incompetent, unqualified, unfitted, untrained, not be equipped, be ill-equipped,
+      powerless
+  - q: What words refer to a person's inability to do a job?
+    words: incapacity, incompetence, inability, deficiency, lack of training

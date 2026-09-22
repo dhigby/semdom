@@ -1,0 +1,11 @@
+code: "5.2.3.3.4"
+guid: E11D6360-6FA9-45A9-A23E-2252A301CF86
+name: Leaven
+description: Use this domain for leaven--things that are added to food to make them ferment.
+questions:
+  - q: What words refer to leaven?
+    words: leaven, yeast, baking powder (sodium bicarbonate), rising agent
+  - q: What words refer to adding leaven to food?
+    words: leaven
+  - q: What words refer to what happens to food when leaven is added?
+    words: rise, ferment

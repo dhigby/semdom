@@ -1,0 +1,9 @@
+code: "1.6.2.4"
+guid: 0A37E7D5-B10E-4F1D-BAF0-E71668425B3E
+name: Parts of an insect
+description: Use this domain for the parts of an insect.
+questions:
+  - q: What are the parts of insects?
+    words: >-
+      head, abdomen, thorax, carapace, exoskeleton, wing, horn, stinger, sting, segment,
+      antenna, feeler, forewing, hind wing, proboscis, compound eye, spinneret

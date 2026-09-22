@@ -1,0 +1,18 @@
+code: "4.6.6"
+guid: 5E7A5899-DF78-4AA7-BEC9-B354ACFE087F
+name: Government functions
+description: Use this domain for words related to government functions--the things a government does.
+ocmCodes: >-
+  626 Social Control; 650 Government Activities; 653 Public Works; 654 Research and
+  Development; 655 Government Enterprises; 656 Government Regulation; 657 Public Welfare;
+  658 Public Education; 659 Miscellaneous Government Activities; 744 Public Health and
+  Sanitation; 745 Social Insurance; 746 Public Assistance
+related: ["6.8.8"]
+questions:
+  - q: What are the functions of government?
+    words: >-
+      regulation of trade, regulation of finance, coinage, printing money, public works,
+      keeping the peace, waging war, putting down rebellion, passing laws, enforcing the
+      law, punishing crime
+  - q: What words refer to the postal system?
+    words: mail, post, post office, stamp, postman, postal

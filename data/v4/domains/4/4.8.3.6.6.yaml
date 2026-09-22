@@ -1,0 +1,19 @@
+code: "4.8.3.6.6"
+guid: 98830EDA-3997-4F4A-9BA4-664DF669E7E2
+name: Fort
+description: Use this domain for words related to a fort.
+questions:
+  - q: What words refer to a fort?
+    words: fort, fortress, base, castle, bunker, post
+  - q: What words refer to a place that is made into a fort for a short time?
+    words: fortification, fortified position, prepared position, camp
+  - q: What words refer to a hole dug in the ground to protect soldiers?
+    words: foxhole, trench
+  - q: What words refer to the parts of a fort?
+    words: tower, barracks, dungeon, keep, moat, gatehouse, turret, blockhouse
+  - q: What words refer to a wall around a fort?
+    words: wall, palisade, rampart
+  - q: What words refer to things place around a fort to keep enemies away?
+    words: barbed wire, obstacles, mine
+  - q: What words refer to making a fort?
+    words: fortify, entrench, strengthen, dig in

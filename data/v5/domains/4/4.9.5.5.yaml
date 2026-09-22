@@ -1,0 +1,15 @@
+code: "4.9.5.5"
+guid: 9F792202-8023-4EF3-B269-5AE4B6908A0B
+name: Offering, sacrifice
+description: Use this domain for words related to offering a sacrifice.
+ocmCodes: 782 Prayers and Sacrifices; Propitiation; 782 Propitiation
+louwNidaCodes: 53B Offering, Sacrifice
+questions:
+  - q: What words refer to offering a sacrifice?
+    words: sacrifice, offer a sacrifice, offer up, burn on the altar, devote, consecrate
+  - q: What words refer to offering a sacrifice?
+    words: sacrifice, offering, devotion, consecration
+  - q: What words refer to what is sacrificed?
+    words: sacrifice, offering, burnt offering, votive offering, gift
+  - q: What words describe a sacrifice?
+    words: sacrificial (giving, lamb), devoted, consecrated

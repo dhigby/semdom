@@ -1,0 +1,7 @@
+code: "1.6.1.3.4"
+guid: C21C28E8-9731-4EE0-ACBB-32501BF8ABD1
+name: Crocodile
+description: Use this domain for words referring to crocodiles.
+questions:
+  - q: What species of crocodiles are there?
+    words: alligator, caiman, crocodile

@@ -1,0 +1,33 @@
+code: "1.2.3.1"
+guid: F56A2511-10CC-4829-940D-49051429BFBA
+name: Liquid
+description: Use this domain for words referring to liquids.
+questions:
+  - q: What general words refer to liquid?
+    words: liquid, fluid, moisture
+  - q: What words describe something that is liquid?
+    words: liquid (adj), molten
+  - q: What words describe liquids?
+    words: liquid (state), juicy, wet
+  - q: What words describe a liquid that is almost solid?
+    words: thick, stiff, creamy, smooth, lumpy, viscid, viscous, paste, concentrated
+  - q: What words refer to making a liquid thicker?
+    words: thicken, concentrate
+  - q: What words refer to becoming thicker?
+    words: thicken, get thicker, set, congeal, clot
+  - q: What words refer to how thick or thin a liquid is?
+    words: thickness, consistency, viscosity
+  - q: What words describe a liquid that is very fluid?
+    words: fluid, watery, thin, runny, diluted
+  - q: What words refer to making a liquid thinner?
+    words: dilute
+  - q: What words refer to the top of a liquid?
+    words: surface
+  - q: What words refer to the thick part that can form on the top of a liquid?
+    words: skin, scum, crust, slime, slimy
+  - q: What words refer to removing the thick part on top?
+    words: skim
+  - q: What words describe a liquid with lumps in it?
+    words: lumpy, smooth
+  - q: What words refer to bubbles in or on a liquid?
+    words: bubble (n), bubble (v), bubbly, suds, foam

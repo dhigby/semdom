@@ -5,7 +5,7 @@ import DomainCodes from '../../components/DomainCodes.astro';
 import SidebarTree from '../../components/SidebarTree.astro';
 import DomainNav from '../../components/DomainNav.astro';
 import DraftBanner from '../../components/DraftBanner.astro';
-import { getAllDomains, getChildren, resolveRelated, getDomain } from '../../lib/semdom';
+import { getAllDomains, getChildren, resolveRelated, getDomain, getEditUrl } from '../../lib/semdom';
 import { withBase } from '../../lib/url';
 
 export async function getStaticPaths() {
@@ -94,6 +94,7 @@ else if (
 
     <p class="domain-meta">
       Draft link: <code>https://semdom.org/v5/{domain.code}/</code> · GUID: {domain.guid}
+      · <a href={getEditUrl(domain, 'v5')}>Suggest an edit</a>
       {v4 && <> · <a href={withBase(`/v4/${domain.code}/`)}>Compare with v4</a></>}
     </p>
   </article>

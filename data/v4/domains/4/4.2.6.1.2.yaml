@@ -1,0 +1,26 @@
+code: "4.2.6.1.2"
+guid: 2D92E248-1512-4E89-B886-425814C6DD32
+name: Chess
+description: >-
+  Use this domain for words related to a particular game. The example words are from the
+  game of chess. If you do not play chess in your culture, you can rename this domain and
+  use it for one of your games. Add other domains for each of your games.
+questions:
+  - q: What is the game called?
+    words: chess, chess game
+  - q: What is one game called?
+    words: chess match
+  - q: What is a group of games called?
+    words: chess tournament
+  - q: What is a player called?
+    words: chess player, grand master
+  - q: What is each side called?
+    words: white, black
+  - q: What events make up the game?
+    words: >-
+      opening move, opening, move, queen to king's knight 4, advance, castle, capture, take,
+      lose a piece, check, checkmate, concede
+  - q: What equipment is used to play the game?
+    words: >-
+      chess board, square, white square, black square, chess piece, king, queen, rook,
+      knight/horse, bishop, pawn

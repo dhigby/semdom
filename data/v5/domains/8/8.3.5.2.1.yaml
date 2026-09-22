@@ -1,0 +1,43 @@
+code: "8.3.5.2.1"
+guid: 99B5B80A-A2D6-4820-ADFC-1DA72528C272
+name: Same
+description: >-
+  Use this domain for words describing something that is the same thing as you just
+  mentioned, or describing two things that are exactly the same.
+louwNidaCodes: 58E Same or Equivalent Kind or Class
+questions:
+  - q: What words refer to the same person or thing, not a different one?
+    words: the same, the very same, the self-same, one and the same, common
+    sentence: >-
+      This is <the same> man that I saw yesterday.; This isn't <the same> man, it's another
+      man.
+  - q: What words describe two things that are the same?
+    words: >-
+      same, identical, indistinguishable, can't tell the difference, can't tell them apart,
+      be no different from, match, be a carbon copy, word for word, be synonymous with, be
+      no better than, be nothing more than
+    sentence: This is <the same> as that.; The twins are <the same> in every way.
+  - q: What words indicate that two numbers or amounts are the same?
+    words: the same, equal, equivalent, even, level
+  - q: What words describe someone or something that is the same as before?
+    words: be the same, unchanged, hasn't changed a bit, hasn't changed at all, unaffected
+  - q: What words describe someone or something that never changes?
+    words: the same, consistent, unchanging, constant
+  - q: What words describe something that is the same in all its parts?
+    words: uniform, homogeneous
+  - q: What words refer to making all the things in a group the same?
+    words: standardize, bring something into line
+  - q: What words indicate that two things that people said are the same?
+    words: correspond, be consistent with, agree, tally, coincide, match up
+  - q: >-
+      What words indicate that something in one group is the same in some way as something
+      in another group?
+    words: corresponding, equivalent, counterpart, opposite number
+  - q: What words refer to thinking the same as someone else?
+    words: like-minded, be on the same wavelength, be in tune with, be in harmony
+  - q: What words indicate that a part of one thing is the same as part of something else?
+    words: overlap
+  - q: What words indicate that two things are the same in some way?
+    words: equally, of equal, equal in, just as, as...as, every bit as, even, evenly
+  - q: What words refer to saying that two things are the same in some way?
+    words: equate

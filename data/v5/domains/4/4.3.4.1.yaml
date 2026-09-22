@@ -1,0 +1,22 @@
+code: "4.3.4.1"
+guid: EC79E90E-ECD3-497F-BC14-AC64181F53D7
+name: Do evil to
+description: Use this domain for words related to doing evil to someone.
+louwNidaCodes: 88P Treat Badly
+related: ["2.5.3", "7.9.1"]
+questions:
+  - q: What words refer to doing evil to someone?
+    words: >-
+      do evil to, harm, hurt, offend, offense, hurt someone's feelings, damage, impair, hit
+      hard, work against, be a serious blow to, be detrimental to, at the expense of, to the
+      detriment of
+  - q: What words refer to doing evil to yourself?
+    words: >-
+      harm yourself, cut your own throat, be your own worst enemy, shoot yourself in the
+      foot, rebound on, come back to haunt you
+  - q: What words describe something that harms someone?
+    words: harmful, damaging, be bad for
+  - q: What words describe something that harms your health?
+    words: harmful, poisonous, toxic, noxious
+  - q: What words describe something that does not harm anything?
+    words: harmless, innocuous, do no harm

@@ -1,0 +1,17 @@
+code: "8.3.3.1"
+guid: A7824686-A3F3-4C8A-907E-5D841CF846C8
+name: Shine
+description: Use this domain for words related to a light source shining--for something to make light.
+questions:
+  - q: What words refer to a light source shining?
+    words: shine, glow, gleam, blaze, shed light, radiate
+  - q: >-
+      What words refer to something shining for a very short time and then becoming dark
+      again?
+    words: flash, flare, spark, scintillate
+  - q: What words refer to something shining with small points of light?
+    words: twinkle, glitter, shimmer, flicker, glimmer
+  - q: What words refer to something shining brighter and dimmer again and again?
+    words: flicker, blink
+  - q: What words describe something that shines dimly in the dark?
+    words: luminous, fluorescent, glow in the dark, glimmer

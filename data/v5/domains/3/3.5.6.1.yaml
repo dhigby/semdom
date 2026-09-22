@@ -1,0 +1,15 @@
+code: "3.5.6.1"
+guid: 96A1AD48-1A70-425B-BD20-59294902581F
+name: Gesture
+description: >-
+  Use this domain for words referring to gesturing--moving a part of the body to communicate
+  a message.
+ocmCodes: 201 Gestures and Signs
+louwNidaCodes: 33D" Non-Verbal Communication
+questions:
+  - q: What words refer to gesturing?
+    words: >-
+      gesture (v), gesticulate, sign (v), make a sign, signal, give the signal, beckon,
+      indicate, motion, nod, non-verbal, shrug, nudge, wave, wink, thumb your nose at
+  - q: What words refer to a gesture?
+    words: gesture (n), sign (n), signal

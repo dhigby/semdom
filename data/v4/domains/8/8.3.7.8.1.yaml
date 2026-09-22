@@ -1,0 +1,17 @@
+code: "8.3.7.8.1"
+guid: 94F50CB8-9A59-42CC-9891-247CC3DE7428
+name: Rust
+description: Use this domain for words related to metal rusting--when metal becomes bad.
+questions:
+  - q: What words refer to metal rusting?
+    words: rust, corrode, oxidize, tarnish, rust away
+  - q: What words describe metal that has rusted?
+    words: rusty, corroded, tarnished, rusted, eaten away, eaten through
+  - q: What words refer to making metal rust?
+    words: corrode, eat away, eat through
+  - q: What words refer to the process of rusting?
+    words: corrosion, oxidation
+  - q: What words refer to rust?
+    words: rust, tarnish
+  - q: What words describe something that makes metal rust?
+    words: corrosive

@@ -1,0 +1,14 @@
+code: "9.5.3.1"
+guid: CA0F9B9B-31FC-4AE6-9563-ABEDC4A5AF98
+name: Beneficiary (of a patient)
+description: >-
+  Use this domain for words that mark the beneficiary of the Patient of an activity. The
+  Patient is often expressed as the object of a sentence. In the sentence "John built a
+  house for his parents," the house is the Patient. It is the house that benefits the
+  parents, not the building of the house.
+questions:
+  - q: What words mark the beneficiary of a Patient?
+    words: for
+    sentence: John built a house <for> his parents.
+  - q: In English the Beneficiary can be the object, but many languages do not allow this.
+    sentence: John bought Mary some medicine.

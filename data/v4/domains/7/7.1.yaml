@@ -1,0 +1,19 @@
+code: "7.1"
+guid: 9F3B4CAB-DC8A-430E-88F3-D3002DF64FB8
+name: Posture
+description: >-
+  Use this domain for general words indicating the posture or stance of a person's body. Use
+  the domains in this section for specific words for postures and for moving parts of the
+  body. Many of these words have two meanings. One meaning is stative, indicating that the
+  body is in a particular posture, but not moving. The other meaning is active, indicating
+  that the person is moving his body into a particular posture. Some of these words can be
+  used of animals or even things, if the things are perceived as being similar in posture to
+  that of a human body.
+ocmCodes: 516 Postures
+louwNidaCodes: 17 Stances and Events Related to Stances
+related: ["7.2"]
+questions:
+  - q: What general words refer to a person's posture?
+    words: posture, stance, pose, position
+  - q: What general words refer to changing your posture?
+    words: change your posture/stance, pose, shift, squirm

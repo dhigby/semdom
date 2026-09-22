@@ -1,0 +1,10 @@
+code: "9.2.8"
+guid: 8206415E-A915-4842-A46A-FBEA64F1A0E3
+name: Ideophones
+description: >-
+  Use this domain to list all ideophones. If there are many ideophones in your language, it
+  is probably not worth the trouble to list them here. Dictionary programs can sort your
+  dictionary by part of speech, if needed.
+questions:
+  - q: What ideophones are in your language?
+    words: knick-knack, flimflam

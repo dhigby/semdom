@@ -1,0 +1,12 @@
+code: "9.5.3.2"
+guid: 99C51A2C-AD49-48A6-BB0B-F059DA745EC4
+name: Recipient (of a patient)
+description: >-
+  Use this domain for words that mark the recipient of the Patient of an activity. The
+  Patient is usually expressed as the object of a sentence.
+questions:
+  - q: What words mark the recipient of a patient?
+    words: to
+    sentence: John gave a ring <to> Mary.
+  - q: In English the Recipient can be the object, but many languages do not allow this.
+    sentence: John gave Mary a ring.

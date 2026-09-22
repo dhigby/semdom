@@ -1,0 +1,27 @@
+code: "4.4.5.1"
+guid: 99B40843-54BF-4C59-AE1D-D7146CEBEC48
+name: Lucky
+description: Use this domain for words related to being lucky.
+questions:
+  - q: What words refer to being lucky on a particular occasion?
+    words: >-
+      lucky, fortunate, be in luck, have the good fortune to do something, fall on your
+      feet, be in the right place at the right time, luck out
+  - q: What words refer to being lucky all the time?
+    words: >-
+      lucky, fortunate, some people have all the luck, lead a charmed life, not know you're
+      born, it's all right for some
+  - q: What words describe something good that happens as a result of good luck?
+    words: lucky, fortunate, miraculous, a good thing, a good job, stroke of luck, fluke
+  - q: What words refer to something that makes good things happen to someone?
+    words: luck, a run of good luck
+  - q: What words describe something that makes you lucky?
+    words: lucky (charm/number/day)
+  - q: What words indicate that something bad did not happen as a result of luck?
+    words: luckily, fortunately, happily
+  - q: What words refer to something that seems unlucky but turns out to be good?
+    words: blessing in disguise
+  - q: What do people say when they hope someone will be lucky?
+    words: wish someone luck, good luck, best of luck
+  - q: What do people say to try to prevent bad luck?
+    words: knock on wood, touch wood, keep your fingers crossed

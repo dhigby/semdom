@@ -1,0 +1,16 @@
+code: "4.3.1.5"
+guid: AFC25FBB-9060-4AF2-8225-3FDDBAB2227D
+name: Patient
+description: >-
+  Use this domain for words related to being patient--if you are patient, you don't get
+  angry or do anything bad even though something bad happens to you for a long time.
+louwNidaCodes: 25O Patience, Endurance, Perseverance
+questions:
+  - q: What words describe someone who is patient?
+    words: patient, persevering, accommodating
+  - q: What words refer to being patient?
+    words: be patient, bear, endure, persevere, patiently, persist, plod, plug, tolerate
+  - q: What words refer to the quality of being patient?
+    words: patience, constancy, endurance, steadfastness
+  - q: What words describe a situation that a person can endure?
+    words: bearable, endurable, tolerable

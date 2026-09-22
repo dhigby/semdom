@@ -1,0 +1,22 @@
+code: "7.2.4.1.1"
+guid: 1E102423-6167-486A-BFEF-DAD1C9CDF1EB
+name: Vehicle
+description: Use this domain for things used to move.
+louwNidaCodes: 6I Vehicles
+questions:
+  - q: What kinds of vehicles are there?
+    words: vehicle, car, auto, truck, motorcycle, bicycle, cycle, bus, taxi
+  - q: What kinds of vehicles are used by children or for play?
+    words: tricycle, scooter, skateboard, roller-skates, roller blades, ice-skates
+  - q: What kinds of vehicles are pulled by animals?
+    words: wagon, cart, chariot, carriage
+  - q: What words refer to moving in a vehicle?
+    words: drive, cycle, pedal, ride
+  - q: What are the parts of a vehicle?
+    words: >-
+      chassis, body, engine, brake, gas pedal, brakes, gear, steering wheel, windshield,
+      windshield wiper, horn
+  - q: What are the parts of a bicycle?
+    words: handle bars, kick stand, bike bell, tire pump
+  - q: What are the parts of a wheel?
+    words: wheel, tire, rim, spokes, hub, axle

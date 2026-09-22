@@ -1,0 +1,7 @@
+code: "9.2.9.2"
+guid: A4F4943F-AD94-4736-BF5D-F8A3CB15919F
+name: Noun affixes
+description: Use this domain to list all noun affixes.
+questions:
+  - q: What affixes can be joined to nouns?
+    words: '-s, -en'

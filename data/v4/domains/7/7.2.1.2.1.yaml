@@ -1,0 +1,18 @@
+code: "7.2.1.2.1"
+guid: E442AFE1-E7CD-4AB2-B456-963E2E041A1E
+name: Move slowly
+description: Use this domain for words referring to moving slowly.
+related: ["8.4.8.2"]
+questions:
+  - q: What words refer to moving slowly?
+    words: >-
+      crawl, move at a snail's pace, creep along, inch forward, poke along, slowpoke, drag,
+      mosey along, slow motion, plod, dawdle
+  - q: What words refer to moving more slowly?
+    words: >-
+      slow down, slow up, decelerate, coast to a stop, (its) speed fell, ease off, reduce
+      your speed, decrease your speed, come to a stop
+  - q: What do you say to someone when you want him to slow down?
+    words: Slow down! Whoa! (horse) Wait, wait! Wait for me! Wait a minute! Can we slow down?
+  - q: What ideophones are used of moving slowly?
+    words: chug

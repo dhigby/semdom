@@ -1,0 +1,14 @@
+code: "7.3.4.1"
+guid: C35CBA91-742C-4B98-B848-DFD520D959CF
+name: Touch
+description: >-
+  Use this domain for words referring to touching something with your hand without moving
+  the thing.
+louwNidaCodes: 24E Touch, Feel
+related: ["8.5.1.5"]
+questions:
+  - q: What words refer to touching something?
+    words: >-
+      touch, feel, run your hand over, brush, caress, contact, feel, finger, fondle, glance,
+      graze, handle, handling, kiss, lick, massage, nuzzle, palm, palpate, paw, rub, scrape,
+      sense, skim, stroke, sweep, thumb, tickle, tickling

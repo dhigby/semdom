@@ -1,0 +1,11 @@
+code: "3.4.1.1.7"
+guid: 4AEDD6D3-8F4B-4986-8D51-B0ACE0137BF0
+name: Happy for
+description: >-
+  Use this domain for words related to feeling happy for someone--to feel good because
+  something good happened to someone. The opposite is jealousy and envy.
+questions:
+  - q: What words refer to feeling good about someone's good fortune?
+    words: be happy for, rejoice with, be glad for
+  - q: What words refer to expressing your joy about someone's good fortune?
+    words: cheer for, applaud, congratulate

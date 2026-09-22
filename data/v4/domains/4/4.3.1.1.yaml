@@ -1,0 +1,45 @@
+code: "4.3.1.1"
+guid: 744D1402-05F5-4491-9C15-A5AF03595EDB
+name: Bad, immoral
+description: >-
+  Use this domain for words related to being bad or immoral in behavior, and for words
+  describing a bad person.
+ocmCodes: >-
+  680 Offenses and Sanctions; 682 Offenses against Life; 683 Offenses against the Person;
+  684 Sex and Marital Offenses; 685 Property Offenses; 686 Nonfulfillment of Obligations;
+  687 Offenses against the State; 688 Religious Offenses; 689 Social Offenses
+louwNidaCodes: >-
+  88H' Impurity; 88T Act Shamefully; 88I' Licentiousness, Perversion; 88L' Sin, Wrongdoing,
+  Guilt
+related: ["8.3.7.1"]
+questions:
+  - q: What words describe someone who is bad?
+    words: >-
+      bad, base, carnal, corrupt, dangerous, decadent, degenerate, depraved, dishonorable,
+      evil, felonious, foul, heinous, immoral, improper, impure, iniquitous, low-minded,
+      low, miscreant, nasty, nefarious, no good, reprobate (adj), sinful, sinister,
+      terrible, unethical, unholy, unjust, unrighteous, vile, villainous, wicked
+  - q: What words describe someone who is very bad?
+    words: twisted, sick, perverted, depraved, terrible
+  - q: What words refer to a bad person?
+    words: miscreant, reprobate (n), scoundrel, sinner, black sheep, villain, knave
+  - q: What words refer to someone who is very bad?
+    words: monster, pervert
+  - q: What words refer to doing something bad?
+    words: >-
+      sin (v), behave badly, misbehave, do wrong, be up to something, get into, indulge in,
+      commit, stoop
+  - q: What words refer to the quality of being bad?
+    words: sinfulness, depravity, evil (n), iniquity
+  - q: What words refer to something someone does that is bad?
+    words: sin (n), misbehavior
+  - q: What words describe something someone does that is bad?
+    words: bad, blameworthy, sinful, wrong
+  - q: What words describe someone who plans to do something bad?
+    words: calculating, scheming
+  - q: What words describe a place where bad people often go?
+    words: seedy, sleazy, haunt, den of iniquity
+  - q: What words refer to someone becoming bad?
+    words: go bad, go wrong, turn to crime, fall, fall into sin
+  - q: What words refer to one person causing another person to be bad?
+    words: tempt, corrupt, pervert, turn

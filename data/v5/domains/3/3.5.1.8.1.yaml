@@ -1,0 +1,30 @@
+code: "3.5.1.8.1"
+guid: C79D49F1-74EC-4DBA-A5AA-5E861AF63D05
+name: Blame
+description: >-
+  Use this domain for words related to blaming someone for something--to say that someone
+  did something, and because of this something bad happened.
+related: ["4.7.6.3"]
+questions:
+  - q: What words refer to blaming someone for something?
+    words: >-
+      blame someone for something, blame something on someone, say something is somebody's
+      fault, put the blame on, lay the blame on, apportion blame, hold someone responsible
+  - q: What words refer to blaming yourself for something?
+    words: blame yourself, reproach yourself
+  - q: What words refer to being blamed for something?
+    words: >-
+      get the blame, get blamed for, take the blame, take the rap, carry the can, take the
+      fall
+  - q: What words refer to someone who is unfairly blamed for something?
+    words: scapegoat, fall guy
+  - q: What words refer to blaming someone else for something that is your fault?
+    words: shift the blame, pass the buck
+  - q: What words refer to saying that someone is not to blame for something?
+    words: exonerate, give someone the benefit of the doubt
+  - q: What words refer to people blaming each other for something?
+    words: recriminations
+  - q: >-
+      What words refer to feeling bad about someone because you think they are to blame for
+      something?
+    words: reproach (n)

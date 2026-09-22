@@ -1,0 +1,9 @@
+code: "6.6.7.3"
+guid: 6F83B918-DC9F-4053-90A4-A6B9E750DB29
+name: Controlling water
+description: Use this domain for words related to controlling the movement of water.
+questions:
+  - q: What words refer to stopping the flow of water?
+    words: dam, block, stop up, divert, dike, flood control
+  - q: What words refer to a dam used to stop the flow of water?
+    words: dam, dike, levee

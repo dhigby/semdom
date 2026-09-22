@@ -1,0 +1,9 @@
+code: "6.8.4.8"
+guid: 869D0C7B-D792-45AB-BF31-FD9F6FEA3107
+name: Store, marketplace
+description: Use this domain for words related to a store or marketplace where things are sold.
+questions:
+  - q: What words refer to a place where things are sold?
+    words: marketplace, market (n), stall, booth, store, salesroom
+  - q: What words refer to a person who sells things?
+    words: salesman, clerk, shopkeeper, storekeeper

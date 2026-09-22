@@ -1,0 +1,15 @@
+code: "8.4.5.3"
+guid: 6BF8CE57-1970-4EFB-A7D7-B0BF8BE6FB6B
+name: Right time
+description: Use this domain for words referring to the right time to do something.
+questions:
+  - q: What words refer to the right time to do something?
+    words: the right time, a good time, be the time
+  - q: What words describe something happening at the right time?
+    words: timely, opportune, well-timed, come at the right time
+  - q: What words refer to a person's ability to choose the right time to do something?
+    words: timing, sense of timing
+  - q: What words refer to the wrong time to do something?
+    words: the wrong time, a bad time, not a good time, be no time, not be the time
+  - q: What words describe something happening at the wrong time?
+    words: badly-timed, ill-timed, come at the wrong time, at a bad time, inopportune

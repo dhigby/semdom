@@ -1,0 +1,32 @@
+code: "3.4.2.2.1"
+guid: 43CB3488-711B-4D9D-9D0E-03D0C1F6EB8B
+name: Ashamed
+description: >-
+  Use this domain for words related to feeling ashamed--to feel bad because people think you
+  did something bad.
+louwNidaCodes: 25R Shame, Disgrace, Humiliation; 88T Act Shamefully
+questions:
+  - q: What words refer to feeling ashamed?
+    words: >-
+      be shamed, be ashamed, feel ashamed, feel disgraced, can't look someone in the face,
+      lose face
+  - q: What words refer to the feeling of shame?
+    words: shame (n), disgrace (n), humiliation, embarrassment, stigma, indignity
+  - q: What words describe someone who feels ashamed?
+    words: ashamed, disgraced, embarrassed, shamefaced
+  - q: What words refer to feeling very ashamed?
+    words: humiliated
+  - q: What words refer to causing someone to feel ashamed?
+    words: >-
+      shame (someone), abash, discredit, disgrace, dishonor, humiliate, reproach, bring
+      shame on, sully, tarnish
+  - q: What words refer to something that causes someone to feel ashamed?
+    words: disgrace, dishonor, indignity, scandal
+  - q: What words describe something that causes someone to feel ashamed?
+    words: >-
+      shameful, degrading, disgraceful, dishonorable, humiliating, ignominious, opprobrious,
+      scandalous
+  - q: What do people do to show they feel ashamed?
+    words: hang head, cower in shame, cringe
+  - q: What words refer to not feeling ashamed?
+    words: shameless, brazen, callous, shameless, unabashed, unashamed

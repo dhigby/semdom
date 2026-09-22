@@ -1,0 +1,17 @@
+code: "1.6.1.1.6"
+guid: 445F3084-F250-40FA-87BA-EBD233F9018F
+name: Anteater, aardvark
+description: >-
+  Use this domain for mammals with few or no teeth--anteaters (phylum Chordata, class
+  Mammalia, order Edentata), pangolins (phylum Chordata, class Mammalia, order Pholidota),
+  aardvarks (phylum Chordata, class Mammalia, order Tubulidentata), and platypus--mammals
+  that lay eggs (phylum Chordata, class Mammalia, order Monotremata).
+questions:
+  - q: What species of anteaters are there?
+    words: anteater, sloth, armadillo
+  - q: What species of pangolin are there?
+    words: pangolin, scaly anteater
+  - q: What words refer to the aardvark?
+    words: aardvark
+  - q: What species of mammals lay eggs?
+    words: duckbill platypus, spiny anteater

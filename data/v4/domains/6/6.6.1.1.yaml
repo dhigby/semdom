@@ -1,0 +1,11 @@
+code: "6.6.1.1"
+guid: EC8E1481-827C-4554-BF50-0D3F592F3702
+name: Cloth
+description: Use this domain for words related to cloth.
+questions:
+  - q: What words refer to cloth?
+    words: cloth, fabric
+  - q: What words describe cloth?
+    words: soft, coarse
+  - q: What words describe the material cloth is made from?
+    words: cotton, wool, nylon, polyester, silk

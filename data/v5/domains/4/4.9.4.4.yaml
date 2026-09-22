@@ -1,0 +1,10 @@
+code: "4.9.4.4"
+guid: 106C2C42-36FD-4B0A-94F7-E998F6EAE6F5
+name: Curse
+description: Use this domain for words related to cursing someone.
+louwNidaCodes: 33C" Bless, Curse
+questions:
+  - q: What words refer to cursing someone?
+    words: curse, put/place a curse on, be under a curse, be cursed
+  - q: What words refer to the curse place on someone?
+    words: curse, anathema

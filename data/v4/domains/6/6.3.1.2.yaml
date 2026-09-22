@@ -1,0 +1,23 @@
+code: "6.3.1.2"
+guid: 26B97047-EDB1-44E9-8C7B-463DE9CFBE78
+name: Sheep
+description: Use this domain for words related to sheep.
+questions:
+  - q: What words refer to sheep?
+    words: sheep
+  - q: What words refer to male or female sheep?
+    words: ram, ewe
+  - q: What words refer to young sheep?
+    words: lamb
+  - q: What words refer to a castrated sheep?
+    words: wether
+  - q: What are the parts of a sheep?
+    words: wool
+  - q: What words refer to shearing a sheep?
+    words: shear, fleece, karakul
+  - q: What sounds do sheep make?
+    words: baa, bleat
+  - q: Where are sheep kept?
+    words: pasture, range, pen, fold, sheepfold
+  - q: What is a group of sheep called?
+    words: flock

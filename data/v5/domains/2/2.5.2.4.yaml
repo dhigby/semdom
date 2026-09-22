@@ -1,0 +1,20 @@
+code: "2.5.2.4"
+guid: 77F0D0DC-61EE-4373-9879-35A7059BD892
+name: Tooth decay
+description: Use this domain for words related to tooth decay.
+related: ["2.1.1.5", "5.4.4"]
+questions:
+  - q: What words are used to describe a tooth that has gone bad?
+    words: tooth decay, cavity, loose, rotten, gingivitis
+  - q: What words refer to the pain caused by a bad tooth?
+    words: toothache
+  - q: What words refer to losing a tooth?
+    words: lose a tooth, knock out, missing
+  - q: What words refer to removing a tooth?
+    words: extract a tooth, pull a tooth, have a tooth out, extraction
+  - q: What words refer to fixing a tooth?
+    words: fill, filling, drill, cap, root canal
+  - q: What words refer to false teeth?
+    words: false teeth, dentures
+  - q: What words refer to a person who treats bad teeth?
+    words: dentist, oral surgeon, dentistry

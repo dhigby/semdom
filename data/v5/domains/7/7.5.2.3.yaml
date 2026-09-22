@@ -1,0 +1,21 @@
+code: "7.5.2.3"
+guid: 2B27B8CA-188E-44ad-AA86-FFA1F99106E3
+name: Add to something
+description: Use this domain for words related to adding something to another thing.
+louwNidaCodes: 59H Add, Subtract
+related: ["8.1.2.2"]
+questions:
+  - q: What words refer to adding a new part or piece to something?
+    words: add, add on, put on, append, superimpose
+  - q: What words refer to adding something to something you are cooking?
+    words: add, put in
+  - q: What words refer to adding more to an amount of something?
+    words: supplement, build on
+  - q: What words refer to adding a quality to something?
+    words: give, lend
+  - q: What words refer to adding to what has been said?
+    words: tack on
+  - q: What words refer to something that has been added?
+    words: addition, additive, supplement, extra, adjunct, annex
+  - q: What words describe something that is added?
+    words: extra, supplemental, supplementary

@@ -1,0 +1,28 @@
+code: "6.5.2.7"
+guid: D2B61570-AF54-44F3-846E-6D7EC9D3737F
+name: Room
+description: Use this domain for words related to the rooms of a building.
+questions:
+  - q: What general words refer to a room in a building?
+    words: room
+  - q: What kinds of rooms are there in a house?
+    words: >-
+      room, living room, sitting room, parlor, dining room, bedroom, kitchen, closet, hall,
+      passage, passageway, entry, pantry, garage, storeroom, storage room, laundry room,
+      utility room, den, study, family room, breakfast nook, billiard room, conservatory,
+      library, stair, stairway, stairwell, stairs, porch, front porch, back porch, patio,
+      balcony, basement, attic, workroom, workshop, guestroom, guest bedroom
+  - q: What words refer to the room where the toilet is?
+    words: >-
+      toilet, bathroom, loo, john, rest room, wash room, men's room, ladies' room, lavatory,
+      WC
+  - q: What kinds of rooms are there in an office?
+    words: office, reception area, atrium, foyer
+  - q: What kinds of rooms are there in a store?
+    words: display room, display area, storeroom, office, back room, delivery area
+  - q: >-
+      What kinds of rooms are there in a religious building (church, mosque, synagogue,
+      temple)?
+    words: >-
+      foyer, sanctuary, meeting hall, worship center, baptistery, classroom, pastor's study,
+      vestibule, belfry, choir loft, balcony

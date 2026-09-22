@@ -1,0 +1,7 @@
+code: "6.8.4.3.1"
+guid: A755EABA-FCE9-4A8B-B9CF-B3970A49F464
+name: Expensive
+description: Use this domain for words related to an expensive price.
+questions:
+  - q: What words refer to a price that seems high?
+    words: expensive, high, dear, costly

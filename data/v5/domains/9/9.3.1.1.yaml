@@ -1,0 +1,12 @@
+code: "9.3.1.1"
+guid: 7F91AA6D-F342-4fb9-9448-69D694CDA9C5
+name: To a large degree
+description: Use this domain for words referring to a large degree.
+louwNidaCodes: 78A Much, Little
+questions:
+  - q: What words indicate a large degree?
+    words: >-
+      large, great, major, considerable, large scale, huge, enormous, immense, tremendous,
+      high, advanced, rich
+  - q: What words refer to a large degree?
+    words: size, magnitude

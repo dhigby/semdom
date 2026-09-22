@@ -1,0 +1,27 @@
+code: "3.4.1.1.3"
+guid: EF409FC6-BD89-4CC6-ADE5-ABB882272313
+name: Prefer
+description: >-
+  Use this domain for words related to preferring one thing over another--to like something
+  more than something else.
+questions:
+  - q: What words refer to preferring something?
+    words: >-
+      prefer, preferably, in preference to, favor, like something better, like this more
+      than that, have a preference, give me something any day!, be partial to
+  - q: What words refer to preferring to do something?
+    words: >-
+      prefer to do something, prefer doing something, would prefer to do something, would
+      rather do something, would sooner do something, be in favor of doing something
+  - q: What words refer to wanting someone to do something more than something else?
+    words: would prefer, would rather
+  - q: What words describe something that you prefer?
+    words: preferable, preferred, favored
+  - q: What words refer to something you like more than any others?
+    words: favorite (n), favorite (adj), first choice, preference, number one
+  - q: What words refer to someone who is liked more than others?
+    words: favorite (n), teacher's pet, favored
+  - q: What words refer to unfairly favoring one person over another?
+    words: favoritism, bias, biased
+  - q: What words refer to not unfairly favoring one person over another?
+    words: unbiased, impartial, impartially, impartiality

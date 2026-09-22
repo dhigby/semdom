@@ -1,0 +1,9 @@
+code: "6.1.2.3.4"
+guid: 303539BA-7253-4590-B8C4-7751CAA52C65
+name: Power, force
+description: Use this domain for words related to the power used to do something.
+ocmCodes: 370 Energy and Power; 371 Power Development; 379 Miscellaneous Power Production
+louwNidaCodes: 76 Power, Force
+questions:
+  - q: What words refer to the power used to do something?
+    words: power, force, energy

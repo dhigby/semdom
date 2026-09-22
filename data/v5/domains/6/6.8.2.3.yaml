@@ -1,0 +1,9 @@
+code: "6.8.2.3"
+guid: 07CF5182-D090-4432-817B-037895B5CD1D
+name: Lose wealth
+description: Use this domain for words related to losing wealth.
+questions:
+  - q: What words refer to losing wealth?
+    words: >-
+      lose (wealth), lose your business, lose your shirt, loss, suffer loss, fail to make a
+      profit, go bankrupt, fall behind, fall into debt, be unprofitable

@@ -1,0 +1,45 @@
+code: "9.4.4.6.3"
+guid: 858AF232-B570-4153-B4C0-F60930DF9CED
+name: Seem
+description: >-
+  Use this domain for words indicating that something seems to be a certain way--you see (or
+  hear) something and think something about it, but you are not sure that what you think is
+  true.
+questions:
+  - q: What words indicate that something seems to be a certain way, but you are unsure?
+    words: >-
+      seem, appear, look, sound, give the impression, have a (certain) look, come across as,
+      show signs of, strike someone as, have all the hallmarks of, an air of, give the
+      impression
+    sentence: >-
+      X <seems to> be true.; X <appears to> be true.; <It sounds to me like> X is true.; <It
+      appears that> X is true.; <To all appearances> X is true.; <All indications are that>
+      X is true.; <It looks suspiciously like> X is true.
+  - q: >-
+      What words indicate that someone seems to be doing something, or something seems to be
+      happening?
+    words: seem, appear
+  - q: >-
+      What words indicate that something seems to be happening, or something seems to be
+      true?
+    words: >-
+      it seems, it appears, it looks as if, apparently, to all appearances, by all
+      appearances, seemingly, on the face of it, on the surface, outwardly
+  - q: >-
+      What words describe something, such as a feeling or quality, that someone or something
+      seems to have?
+    words: apparent, seeming, superficial
+  - q: >-
+      What words indicate that, because something seems to be a certain way, you think
+      something is true?
+    words: >-
+      judging by, judging from, going by, from, from the way, you'd think, anyone would
+      think
+  - q: What words indicate that someone or something is not what it seems to be?
+    words: >-
+      there's more to someone/something than meets the eye, deceptive, deceptively, not be
+      what you/it seem
+  - q: What words refer to what you think or feel because of what someone or something seems?
+    words: impression, feeling
+  - q: What words refer to the way something seems to appear?
+    words: appearance, semblance of

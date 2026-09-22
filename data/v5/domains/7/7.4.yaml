@@ -1,0 +1,9 @@
+code: "7.4"
+guid: 24398EEC-EDD1-449a-AD36-D609BE24A79E
+name: Have, be with
+description: Use this domain for words related to having something.
+related: ["6.8.1.1", "9.1.1.3"]
+questions:
+  - q: What words refer to having something?
+    words: have, be with
+    sentence: 'Hold: John <has> the key in his pocket.'

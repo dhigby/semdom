@@ -1,0 +1,10 @@
+code: "7.1.6"
+guid: 566BE8C1-3E42-4F8B-87EB-E70E8C13C6F8
+name: Lean
+description: Use this domain for words describing a person who is leaning.
+related: ["8.3.1.4.2"]
+questions:
+  - q: What words refer to leaning against something?
+    words: lean, lean on, lean against, lean back, rest against, recline
+  - q: What words describe something that is leaning?
+    words: leaning, lean forward, lean towards, lean over

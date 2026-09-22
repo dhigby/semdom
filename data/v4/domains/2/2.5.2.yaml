@@ -1,0 +1,62 @@
+code: "2.5.2"
+guid: CF337287-C9FA-43D2-93C4-284F45E262C0
+name: Disease
+description: >-
+  Use this domain for general words for disease and for words referring to specific
+  diseases.
+ocmCodes: 750 Sickness
+louwNidaCodes: 23I Sickness, Disease, Weakness
+related: ["6.3.8.1"]
+questions:
+  - q: What words refer to a disease?
+    words: >-
+      illness, disease, complaint, condition, ailment, disorder, infection, bug, sickness,
+      malady, infirmity, affliction, contagion, debility, indisposition, fever, syndrome,
+      malaise
+  - q: What words refer to a disease that lasts a short time?
+    words: attack, a bout of, a touch of
+  - q: What words describe a type of disease?
+    words: >-
+      acute, chronic, bacterial, complication, critical, curable, degenerative, genetic,
+      morbid, nervous, neuromuscular, psychosomatic, virus, wasting
+  - q: What words describe a disease that kills people?
+    words: terminal, fatal, incurable
+  - q: What words describe a disease that people can get easily?
+    words: infectious, contagious, catching
+  - q: What words refer to a disease spreading to other people?
+    words: spread, epidemic, outbreak, plague
+  - q: What are the names of particular diseases?
+    words: >-
+      allergy, allergic, amoeba, appendicitis, cholera, colic, colicky, colitis, cyst,
+      diabetes, diabetic, diphtheria, distemper, dropsy, dysentery, elephantiasis,
+      encephalitis, fibrosis, fistula, flux, hypertension, gallstone, goiter, heatstroke,
+      hernia, herpes zoster, hemophilia, hemorrhoid, hives, hookworm, kidney stone, lockjaw,
+      lumbago, malaria, meningitis, mononucleosis, mumps, phlebitis, piles, plague, polio,
+      poliomyelitis, psoriasis, rabid, rabies, rubella, sclerosis, sunstroke, tetanus,
+      typhoid, typhus, yellow fever, airsick, carsick, seasick
+  - q: What words refer to a disease of the brain or mind?
+    words: Alzheimer's, amnesia, stroke, depression, schizophrenia, shock, stress
+  - q: What words refer to epilepsy?
+    words: epilepsy, epileptic, epileptic seizure, have a seizure, fit
+  - q: What words refer to a disease of the eyes?
+    words: eye disease, glaucoma, red eyes, pinkeye, cataract, conjunctivitis, sty
+  - q: What words refer to a disease of the nose and throat?
+    words: cough, whooping cough, cold, sore throat, influenza, flu, chill
+  - q: What words refer to a disease of the lungs?
+    words: >-
+      respiratory disease, tuberculosis, angina, asthma, asthmatic, pneumonia, emphysema,
+      grippe, hay fever, bronchitis
+  - q: What words refer to a disease of the heart?
+    words: >-
+      heart attack, heart failure, coronary, arteriosclerosis, cardiovascular, fibrillation,
+      hardening of the arteries, thrombosis, heart murmur, weak heart, heart condition
+  - q: What words refer to a disease of the liver?
+    words: liver disease, hepatitis, jaundice, cirrhosis
+  - q: What words refer to sexually transmitted disease?
+    words: venereal disease, AIDS, gonorrhea, syphilis, herpes
+  - q: What words refer to a disease of the bones and joints?
+    words: arthritis, arthritic, stiffness of the joints, rheumatic, rheumatism, backache
+  - q: What words refer to cancer?
+    words: >-
+      cancer, cancerous, tumor, skin cancer, leukemia, lung cancer, liver cancer,
+      malignancy, malignant, benign

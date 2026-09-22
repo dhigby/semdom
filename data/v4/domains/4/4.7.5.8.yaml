@@ -1,0 +1,9 @@
+code: "4.7.5.8"
+guid: 2CD48908-8F12-4E0F-A22E-87237618CE9F
+name: Vindicate
+description: >-
+  Use this domain for words referring to vindicating someone--to prove that someone is
+  innocent of an accusation made against them.
+questions:
+  - q: What words refer to vindicating someone?
+    words: vindicate, exonerate, justify, warrant, exculpate, acquit, clear, set right

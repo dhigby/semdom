@@ -1,0 +1,60 @@
+code: "2.5.3"
+guid: 9D865347-6656-4AB7-8613-BF2E8BC53AA7
+name: Injure
+description: Use this domain for words related to injuring someone.
+ocmCodes: 752 Bodily Injuries
+louwNidaCodes: 20B Harm, wound
+related: ["7.9.1"]
+questions:
+  - q: What words refer to injuring someone?
+    words: >-
+      injure, harm, hurt, wound, abuse, violate, electrocute, electrocution, mistreat,
+      mistreatment, inflict injury
+  - q: What words refer to injuring a part of your body?
+    words: injure, damage, hurt, impair
+  - q: What words refer to injuring a bone or joint?
+    words: >-
+      break, fracture, dislocate, crack, hamstring, jam, sprain, stub, twist, wrench, do
+      your back in, put out your back
+  - q: What words refer to injuring a muscle?
+    words: pull, strain, tear, cramp, spasm, convulsion
+  - q: What words refer to being injured by being cut?
+    words: >-
+      cut, bayonet, buffet, butt, chop, claw, clout, club, gash, jab, knife, lacerate, maul,
+      savage, slice, spear, stab, traumatize, scratch, scrape, graze, mutilate
+  - q: What words refer to being injured by being hit?
+    words: >-
+      hit, bash, batter, beat up, belt, black eye, bludgeon, bruise, crush, concussion,
+      cudgel, cuff, hammer, horsewhip, kick, knee, knock, lash, pelt, pummel, punch, slap,
+      smack, smash, squash, stone, strike, thwack, whip
+  - q: What words refer to being injured by being burned?
+    words: burn, first/second/third degree burn, boil, scald
+  - q: What words refer to being injured?
+    words: be injured, sustain an injury, be bleeding, be hurt, get hurt, be wounded, suffer harm
+  - q: What words refer to someone who has been injured?
+    words: casualty, victim, the injured, the wounded
+  - q: What words refer to a person wounded in war?
+    words: wounded in action, purple heart
+  - q: What words describe someone who has been injured?
+    words: injured, harmed, wounded
+  - q: What words describe a part of your body that has been injured?
+    words: injured, hurt, impaired, damaged
+  - q: What words refer to an injury?
+    words: >-
+      injury, accident, bruise, cut, impairment, wound, slash, puncture, stab, sprain,
+      tear/pull a muscle, shock, concussion, bump, break a bone, fracture, dislocate a bone,
+      dislocation, sprain, put out an eye, nose bleed, scar, sting, bite, sore, blister,
+      contusion, frostbite, heatstroke, sunstroke, sunburn, burn, welt, drug overdose
+  - q: What words describe the seriousness of an injury?
+    words: >-
+      crippling, serious (injury), minor (injury), bad (accident), deep (wound), bad
+      (sprain), third degree (burn), compound (fracture), critical, critically, fatal,
+      fatally, sore (finger)
+  - q: What words describe someone who is not injured?
+    words: >-
+      unharmed, unhurt, unscathed, come to no harm, no harm done, without a scratch, in one
+      piece, walk away from
+  - q: What words describe something that can injure someone?
+    words: dangerous, harmful
+  - q: What words describe something that cannot injure someone?
+    words: harmless

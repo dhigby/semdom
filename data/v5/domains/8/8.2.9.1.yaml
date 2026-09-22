@@ -1,0 +1,22 @@
+code: "8.2.9.1"
+guid: D574C970-6834-4566-AE37-F42C7E95483B
+name: Heavy
+description: Use this domain for words related to being heavy.
+louwNidaCodes: 86A Heavy, Light
+questions:
+  - q: What words describe something that is heavy?
+    words: >-
+      heavy, burdensome, cumbersome, cumbrous, heavyweight, hefty, lumpish, massive,
+      overweight, ponderous, unwieldy, weighty
+  - q: What words describe something that is very heavy?
+    words: weigh a ton
+  - q: What words refer to something that is heavy?
+    words: a weight
+  - q: What words refer to something becoming heavy?
+    words: gain weight, put on weight
+  - q: What words refer to making something heavy?
+    words: weigh down, weight (v)
+  - q: What words describe something that has been made heavy?
+    words: weighted
+  - q: What words refer to being heavier than another thing?
+    words: heavier, heaviest

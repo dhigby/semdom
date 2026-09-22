@@ -1,0 +1,9 @@
+code: "8.6.1.1"
+guid: ED976BBE-4FB2-4365-B136-D2FCE077A73F
+name: Back
+description: Use this domain for words related to the back part of something.
+questions:
+  - q: What words refer to the back of something?
+    words: back (n), rear, hind end
+  - q: What words describe something that is on the back?
+    words: back (adj), rear, posterior

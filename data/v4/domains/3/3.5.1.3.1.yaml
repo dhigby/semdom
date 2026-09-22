@@ -1,0 +1,22 @@
+code: "3.5.1.3.1"
+guid: 3BC961D1-9F4F-4F1B-ADA7-B1E9A2928EA4
+name: Tell the truth
+description: Use this domain for words related to telling the truth.
+louwNidaCodes: 33R Speak Truth, Speak Falsehood; 88E Honesty, Sincerity
+questions:
+  - q: What words refer to telling the truth?
+    words: >-
+      tell the truth, speak the truth, be honest, be open, be up front, play fair, level
+      with, lay/put your cards on the table, testify, witness, reveal
+  - q: What words describe a person who tells the truth?
+    words: honest, truthful, sincere, straight, open, scrupulous, upright
+  - q: What words refer to telling the truth without hiding anything?
+    words: >-
+      honest, to be honest, in all honesty, frank, candid, direct, straightforward, tell
+      someone straight
+  - q: What words refer to telling the truth without caring how other people feel?
+    words: >-
+      forthright, blunt, outspoken, bald, speak your mind, not beat about the bush, make no
+      bones about, not mince your words, call a spade a spade, pull no punches
+  - q: What words refer to the quality of telling the truth?
+    words: honesty, integrity, truthfulness, scruples

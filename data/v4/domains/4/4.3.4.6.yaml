@@ -1,0 +1,15 @@
+code: "4.3.4.6"
+guid: FE66D433-5135-498E-A29D-B42BF0317252
+name: Meddle
+description: >-
+  Use this domain for words referring to meddling--involving oneself in something that does
+  not concern oneself, such as someone else's business or affairs, or a fight between other
+  people.
+louwNidaCodes: 88E' Being a Busybody
+questions:
+  - q: What words refer to meddling in someone's affairs?
+    words: >-
+      meddle, bother, butt in, eavesdrop, encroach, infringe, interfere, intervene, intrude,
+      pry, snoop, tamper
+  - q: What words refer to a person who meddles?
+    words: busybody, eavesdropper, interloper, intruder, meddler, snoop

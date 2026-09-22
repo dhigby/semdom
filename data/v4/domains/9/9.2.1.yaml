@@ -1,0 +1,20 @@
+code: "9.2.1"
+guid: 64F39297-426B-45A8-B5D2-097CF71D688C
+name: Adjectives
+description: >-
+  Use this domain to list all adjectives. If there are many adjectives in your language, you
+  should not try to list them all here. If you want to find all the adjectives, most
+  dictionary programs can sort your dictionary by part of speech. However if your language
+  only has a few adjectives, you can list them all in this domain. In the book, "Where Have
+  All the Adjectives Gone?" R. M. W. Dixon [Dixon, R. M. W. 1982. Where have all the
+  adjectives gone? Berlin: Mouton.] identifies seven universal semantic types that are often
+  expressed by adjectives. They are: Age (new, young, old), Dimension (big, little, long,
+  short, wide, narrow, thick, fat, thin), Value (good, bad, proper, perfect, excellent,
+  fine, delicious, atrocious, poor), Color (black, white, red), Human propensity (jealous,
+  happy, kind, clever, generous, cruel, rude, proud, wicked), Physical property (hard, soft,
+  heavy, light, rough, smooth, hot, cold, sweet, sour), Speed (fast, slow). Words in the
+  Human propensity class may be nouns. Words in the Physical property and Speed classes may
+  be verbs.
+questions:
+  - q: What are the adjectives in your language?
+    words: young, big, good, black, kind, hot, fast

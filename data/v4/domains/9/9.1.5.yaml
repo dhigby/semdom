@@ -1,0 +1,8 @@
+code: "9.1.5"
+guid: D9B9DB39-D87E-4D04-8298-1F1B969DBDA1
+name: General adverbs
+description: Use this domain for general adverbs that can replace or stand for other adverbs.
+questions:
+  - q: What general words can replace an adverb?
+    words: thus, thusly, so, how, like this, this way, in that way, in this manner
+    sentence: We would like you to do it <thus>.; I'll show you <how> I want it.

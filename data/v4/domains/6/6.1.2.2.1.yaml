@@ -1,0 +1,18 @@
+code: "6.1.2.2.1"
+guid: 8411FA09-B1A5-4B62-AA47-F28BEE9F6616
+name: Useful
+description: >-
+  Use this domain for words related to being useful--words describing something that can be
+  used to do something.
+louwNidaCodes: 65D Useful, Useless; 65E Advantageous, Not Advantageous
+questions:
+  - q: What words describe something that is useful?
+    words: >-
+      useful, be of use, handy, helpful, valuable, be good for, be worth, constructive,
+      nifty
+  - q: What words describe something that is very useful?
+    words: invaluable, indispensable
+  - q: What words refer to something being useful even though it doesn't seem to be?
+    words: come in handy, come in useful, have its uses
+  - q: What words refer to the quality of being useful?
+    words: usefulness, utility

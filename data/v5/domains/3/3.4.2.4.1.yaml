@@ -1,0 +1,64 @@
+code: "3.4.2.4.1"
+guid: BA1E8D2B-7D3E-4B65-A9BE-EE1A4063C796
+name: Worried
+description: >-
+  Use this domain for words related to feeling worried--to feel bad because you think
+  something bad might happen.
+louwNidaCodes: 25U Worry, Anxiety, Distress, Peace
+questions:
+  - q: What words refer to feeling worried?
+    words: >-
+      worry (v), feel worried, be worried, feel anxious, be anxious, be afraid, feel afraid,
+      feel scared, feel unsure, agonize over, wonder what is going to happen, uneasy, fret,
+      brood, lose sleep, not like the look of, not like the sound of
+  - q: What words refer to the feeling of worry?
+    words: >-
+      worry, anxiety, concern, stress, strain, anguish, uncertainty, lack of confidence,
+      apprehension, dismay
+  - q: What words describe someone who feels worried?
+    words: >-
+      worried, anxious, anxiously, apprehensive, bothered, concerned, dismayed, disturbed,
+      strained, troubled, uneasy, unsettled
+  - q: What words refer to being a little worried?
+    words: feel a little worried, slightly worried, a bit anxious, not so sure
+  - q: What words refer to being very worried?
+    words: >-
+      anxiety attack, really worried, really scared, really wondering, despair, despairing,
+      desperate, desperation, be worried sick, be at your wits' end, frantic, frantically
+  - q: What words refer to being worried all the time?
+    words: have a lot on your mind, be under a strain, preoccupied, stressed out
+  - q: What words refer to being worried when there is nothing to worry about?
+    words: paranoid, paranoia
+  - q: What words refer to causing someone to feel worried?
+    words: >-
+      worry someone, alarm (v), bother, concern (v), cause someone concern, disturb, trouble
+      (v), bother, prey on your mind, cause concern, be a cause for concern, weigh on your
+      mind, disquiet
+  - q: What words refer to something that causes someone to feel worried?
+    words: >-
+      worry (n), alarm (n), burden, concern (n), trouble (n), care, stresses and strains,
+      hang-up, complex, weight
+  - q: What words describe something that causes someone to feel worried?
+    words: >-
+      worrying, worrisome, alarming, anxious, bothersome, disturbing, nerve-racking,
+      stressful, tense, niggling, alarmist
+  - q: What words refer to someone who worries a lot?
+    words: be a worrier, worrywart, neurotic, hypochondriac
+  - q: What words refer to not being worried?
+    words: >-
+      not worried, unworried, not concerned, unconcerned, unperturbed, not lose sleep over,
+      don't care, without a care in the world, carefree, philosophical
+  - q: >-
+      What words refer to not being worried about something that you were worried about
+      before?
+    words: relief, relieved, be a weight off your mind, relax
+  - q: What words refer to helping someone stop worrying?
+    words: >-
+      reassure, reassuring, reassurance, put your mind at rest, put someone at their ease,
+      put someone out of their misery
+  - q: What do people say when they don't want someone to worry?
+    words: Don't worry. There's nothing to worry about. Rest assured. Never mind.
+  - q: What do people say when they don't need to worry anymore?
+    words: Thank God! Thank goodness! What a relief!
+  - q: What do people do when they are worried?
+    words: wring your hands, bite your lip

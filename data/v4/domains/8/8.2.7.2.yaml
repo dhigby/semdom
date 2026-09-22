@@ -1,0 +1,11 @@
+code: "8.2.7.2"
+guid: 7162885D-1D35-4baf-97D6-7368FFF7C723
+name: Loose
+description: Use this domain for words referring to being loose--when something is too big.
+questions:
+  - q: What words describe something that is loose?
+    words: loose, too big
+  - q: What words refer to something becoming loose?
+    words: come loose
+  - q: What words refer to making something loose?
+    words: loosen

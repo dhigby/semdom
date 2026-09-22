@@ -1,0 +1,24 @@
+code: "9.7.3"
+guid: 7D111356-E04E-4891-960C-2F35147EBA82
+name: Name of a thing
+description: >-
+  Use this domain for words related to the name of a thing. Many cultures give names to
+  particular buildings, ships, airplanes, organizations, companies, schools, and other
+  things. If your language has hundreds of names for some kind of thing, it is best to not
+  try to list them all. But if there are a few important names for one kind of thing, set up
+  a domain for them.
+ocmCodes: 553 Naming; 552 Names of Animals and Things
+louwNidaCodes: 33I Name
+questions:
+  - q: What words refer to a name for something?
+    words: name, proper name, designation, label, nomenclature, tag, title
+  - q: What words are used to indicate the name of something?
+    words: be called, be known as, be entitled, be termed, go by the name of, so-called
+  - q: What words are used to refer to something when you can't remember what it is called?
+    words: what's its name, thingy, thingamajig, whatchamacallit, whatsit, such and such
+  - q: What words refer to a name that is not correct?
+    words: misnomer
+  - q: What words describe something that has the name of something but not its qualities?
+    words: nominal, in name only
+  - q: What words refer to giving something a name?
+    words: call, name, rename

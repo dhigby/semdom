@@ -1,0 +1,10 @@
+code: "6.8.2.2"
+guid: B1756402-83C4-476D-8F55-010A0A10B5D9
+name: Make profit
+description: Use this domain for words related to making a profit.
+louwNidaCodes: 57P Earn, Gain, Do Business
+questions:
+  - q: What words refer to making a profit?
+    words: make a profit, profitable, make a killing, take in, gain
+  - q: What words refer to profit?
+    words: profit, income, take (n)

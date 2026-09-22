@@ -1,0 +1,10 @@
+code: "9.7.2.9"
+guid: E8EC3885-C692-4B90-A5B3-4C86DA642666
+name: Names of rivers
+description: >-
+  Use this domain for the proper names of the rivers in the language area. Only include the
+  names of rivers outside the language area if your language has borrowed or adapted the
+  name and you talk about them in your language.
+questions:
+  - q: What are the names of the rivers in the language area?
+    words: Thames, Mississippi, Missouri, Hudson

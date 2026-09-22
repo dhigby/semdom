@@ -1,0 +1,7 @@
+code: "7.2.2.9"
+guid: 36176D59-171B-4A0A-A0F7-A8F9857536A1
+name: Move straight without turning
+description: Use this domain for words referring to moving straight without changing direction.
+questions:
+  - q: What words refer to moving straight?
+    words: go straight, in a straight line, direct, as the crow flies

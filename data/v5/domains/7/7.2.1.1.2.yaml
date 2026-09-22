@@ -1,0 +1,9 @@
+code: "7.2.1.1.2"
+guid: A2BBF179-8D38-4D2E-84CD-0E00BB6C74F3
+name: Crawl
+description: >-
+  Use this domain for words referring to crawling--moving on your hands and knees or on your
+  stomach.
+questions:
+  - q: What words refer to crawling?
+    words: crawl, walk on your hand and knees, on all fours, scoot, drag, creep

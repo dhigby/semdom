@@ -1,0 +1,17 @@
+code: "2.3.1.3"
+guid: 90C06635-A12C-4cd4-A190-46925FF0F43E
+name: Examine
+description: >-
+  Use this domain for words referring to examining--to look carefully at something because
+  you want to learn something about it.
+related: ["3.2.2.1"]
+questions:
+  - q: What words refer to examining something?
+    words: >-
+      examine, look at, have a look at, take a look at, analyze, study, inspect, go through,
+      go over, look over, check, check over, scrutinize, look hard at, pore, peer at, focus
+      on, pry
+  - q: What words refer to examining someone?
+    words: examine, inspect
+  - q: What words refer to the act of examining something?
+    words: examination, analysis, inspection, check, check-up, study, scrutiny, post mortem

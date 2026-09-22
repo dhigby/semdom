@@ -1,0 +1,40 @@
+code: "8.4.6.5.4"
+guid: 99861DCB-C6CA-4E50-A19A-EFADBB10C2CF
+name: Old, not new
+description: >-
+  Use this domain for words describing something old--a word describing something that has
+  existed for a long time.
+louwNidaCodes: 58K New, Old
+questions:
+  - q: What words describe something that is old?
+    words: old, older, oldest, dated, late
+  - q: What words describe something that is very old?
+    words: age-old, be as old as the hills, ancestral, ancient, be around from time immemorial
+  - q: What words describe something that is old and belongs to an early period of history?
+    words: primeval, antediluvian, medieval, primordial
+  - q: What words describe something that is old and good?
+    words: antique, classical, time-honored, vintage
+  - q: What words describe something that is old and not good?
+    words: crumbling, declining, decrepit, dowdy, effete, faded, past its prime, rusty, worn out
+  - q: What words describe something that has been used and is no longer new?
+    words: old, used, second hand, worn, time-worn
+  - q: What words describe food that is old?
+    words: stale, decayed
+  - q: What words describe an organization that has existed for a long time?
+    words: old, has a long history
+  - q: What words describe something that people have known about for a long time?
+    words: old hat
+  - q: What words describe an experience or feeling that you have had before?
+    words: familiar
+  - q: >-
+      What words describe someone who has been in a place for a long time or has worked at a
+      job for a long time?
+    words: old-timer, old hand, no stranger (to these parts)
+  - q: What words refer to something being older than other things like it?
+    words: outgrow, outlive, outwear
+  - q: What words describe something or someone that has been replaced by a new one?
+    words: old, former
+  - q: What words refer to changing something that is new, so that it looks like it is old?
+    words: antique (v), antiquate, give something an antique look
+  - q: What words refer to something that is old?
+    words: antique, antiquities

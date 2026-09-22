@@ -1,0 +1,11 @@
+code: "4.3.4.3"
+guid: 50DFFFE4-DFE8-445F-BDDE-4CC8D83EBD6B
+name: Cooperate with
+description: Use this domain for words related to cooperating with someone to do something.
+questions:
+  - q: What words refer to working together with someone to do something?
+    words: >-
+      cooperate with, work together, side-by-side, jointly, collaborate, partnership,
+      alliance, join together, team up, help each other
+  - q: What words describe something that people do together?
+    words: joint

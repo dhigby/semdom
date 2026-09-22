@@ -1,0 +1,50 @@
+code: "3.4.1.2"
+guid: AFA77A2A-8B0F-4A39-91BC-040E90FFBB3A
+name: Happy
+description: >-
+  Use this domain for words related to feeling happy--to feel good when something good
+  happens (such as receiving a gift, hearing good news, or watching something good
+  happening).
+louwNidaCodes: >-
+  25K Happy, Glad, Joyful; 25H Acceptable To, To Be Pleased With; 25J Enjoy, Take Pleasure
+  In, Be Fond of Doing
+questions:
+  - q: What words refer to feeling happy?
+    words: rejoice, feel good, be in a good mood
+  - q: What words refer to the feeling of happiness?
+    words: >-
+      happiness, bliss, cheerfulness, contentment, delight, elation, euphoria, gladness,
+      good feelings, joy, mirth, pleasure, satisfaction
+  - q: What words describe someone who feels happy?
+    words: >-
+      happy, happily, cheerful, cheerfully, chipper, content, contented, contentedly, glad,
+      gladly, jaunty, merry, mirthful, pleased, satisfied
+  - q: What words refer to feeling very happy?
+    words: exult, delight in, ecstasy, be on top of the world, be over the moon, rapture
+  - q: What words describe a person who is very happy?
+    words: >-
+      blissfully happy, overjoyed, delighted, ecstatic, elated, exultant, joyful, jubilant,
+      radiant, thrilled
+  - q: What words describe a person who usually feels happy?
+    words: happy, cheerful, contented, jolly, jovial, have a happy/cheerful/sunny disposition
+  - q: What words describe a person who feels good while doing something?
+    words: enjoy, take pleasure in, be fond of doing
+  - q: What words refer to feeling good about someone's behavior?
+    words: be pleased with
+  - q: What words describe how a person feels when something good happens to someone else?
+    words: feel happy for, rejoice with
+  - q: What words refer to feeling good when something bad happens to someone?
+    words: exultant, glee, gleeful, gloat
+  - q: What words refer to causing someone to feel happy?
+    words: >-
+      make someone happy, cheer someone up, comfort, console, delight, gladden, please,
+      satisfy, put someone in a good mood, make someone's day, raise someone's spirits, lift
+      someone's spirits
+  - q: What words refer to feeling happy again after feeling sad?
+    words: brighten up, cheer up, perk up, be cheered, be heartened, take heart
+  - q: What words refer to something that causes someone to feel happy?
+    words: delight, joy, happy ending
+  - q: What words describe something that causes someone to feel happy?
+    words: happy, cheering, cheerful (thought), heartening, heartwarming, pleasing, satisfying
+  - q: What words describe a time period when you feel happy?
+    words: happy, blissful, delightful (time), idyllic, joyous (occasion), pleasant

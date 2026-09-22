@@ -1,0 +1,7 @@
+code: "6.2.1.4.2"
+guid: B7662B2B-E57C-400B-8EF6-6FB612F5EE9F
+name: Growing bananas
+description: Use this domain for words related to growing bananas.
+questions:
+  - q: What words refer to growing bananas?
+    words: banana, stalk, flower, finger, hand, bunch, pulp, prune, leaf, leaf stem, stem

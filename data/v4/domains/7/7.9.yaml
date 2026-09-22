@@ -1,0 +1,17 @@
+code: "7.9"
+guid: F5156CDE-9735-4249-920D-597FB0A7A8E3
+name: Break, wear out
+description: >-
+  Use this domain for words related to something breaking or wearing out, especially for
+  things that people make and use.
+questions:
+  - q: What words refer to something breaking?
+    words: break, bust, give out
+  - q: What words describe something that has broken?
+    words: broken, broken down, busted
+  - q: What words refer to something wearing out?
+    words: wear, wear out, deteriorate
+  - q: What words describe something that is worn?
+    words: used, well used, worn, well worn, is past its prime, second hand
+  - q: What words describe something that has been used so much that it is no longer useful?
+    words: worn out, has had it, is past it

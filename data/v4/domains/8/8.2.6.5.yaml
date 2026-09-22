@@ -1,0 +1,39 @@
+code: "8.2.6.5"
+guid: 4E7A6DFE-3654-4CA1-874D-02424581B774
+name: Deep, shallow
+description: >-
+  Use this domain for words related to being deep or shallow--how far something such as a
+  hole extends below the ground or other surface, or how far something is below the surface
+  of the water.
+louwNidaCodes: 81B High, Low, Deep
+questions:
+  - q: What words describe something that is deep?
+    words: deep, deeply, deep-seated, in the depths, deep down
+  - q: What words describe something that is very deep?
+    words: bottomless
+  - q: What words describe how deep something is for a person?
+    words: knee-deep, waist-deep, over your head, out of your depth
+  - q: What words refer to a deep place?
+    words: the depths, channel, trench, gulf, abyss
+  - q: What words refer to something becoming deep?
+    words: deepen, get deeper
+  - q: What words refer to making something deep?
+    words: deepen, dredge, dig out
+  - q: What words refer to being deeper than another thing?
+    words: deeper, deepest
+  - q: What words refer to how deep something is?
+    words: depth
+  - q: What words indicate how deep something is?
+    words: >-
+      how deep, be (ten feet) deep, (ten feet) in depth, at a depth of (ten feet), plunge
+      (ten feet)
+  - q: What words refer to measuring how deep something is?
+    words: take a sounding, plumb
+  - q: What instruments are used to measure how deep something is?
+    words: plumb line
+  - q: What words refer to a unit of depth?
+    words: fathom
+  - q: What words describe something that is shallow?
+    words: shallow, not deep, skin-deep, superficial, surface
+  - q: What words refer to a shallow place?
+    words: shallows, shoal

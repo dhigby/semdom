@@ -1,0 +1,7 @@
+code: "4.4.3.7"
+guid: 7BABF463-5E62-4A82-96D3-EF5989803C41
+name: Survive
+description: Use this domain for words referring to surviving--to live through a time of danger.
+questions:
+  - q: What words refer to surviving?
+    words: survive, live through, last, remain, survivor, escape, squeak by, make it

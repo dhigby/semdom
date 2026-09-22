@@ -1,0 +1,13 @@
+code: "4.8.3.3"
+guid: 17102138-B97A-4F1D-81BC-9BE4AF90889E
+name: Lose a fight
+description: Use this domain for words related to losing a fight.
+questions:
+  - q: What words refer to the process of losing a fight?
+    words: >-
+      lose a fight, lose a war, be defeated, suffer defeat, be beaten, meet your match, get
+      the worst of it, come off the worst, take a beating, go down, fall, fall victim to
+  - q: What words refer to the defeat?
+    words: defeat, loss, fall
+  - q: What words refer to the person or group that loses?
+    words: loser, losing side, defeated army

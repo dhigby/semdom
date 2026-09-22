@@ -1,0 +1,7 @@
+code: "4.9.7.4"
+guid: 4CE22ED0-6FE3-47AE-83E4-E7C7310CB1D4
+name: Hinduism
+description: Use this domain for words used in Hinduism.
+questions:
+  - q: What words are used to talk about Hinduism?
+    words: Hinduism, Hindu, New Age, Vishnu, Vedic, guru, reincarnation

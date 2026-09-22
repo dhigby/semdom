@@ -1,0 +1,21 @@
+code: "6.3.1.4"
+guid: C888C7AC-8CF4-49D2-A33E-20D19D84C47B
+name: Pig
+description: Use this domain for words related to pigs.
+questions:
+  - q: What words refer to pigs?
+    words: pig, hog, swine
+  - q: What words refer to male or female pigs?
+    words: boar, sow
+  - q: What words refer to young pigs?
+    words: piglet, suckling
+  - q: What do pigs eat?
+    words: slop
+  - q: What do pigs do?
+    words: wallow, root, feed
+  - q: What sounds do pigs make?
+    words: grunt, squeal, snort
+  - q: What is the meat of a pig called?
+    words: pork, sausage, ham, pork chop, gammon steak, pork tenderloin
+  - q: Where are pigs kept?
+    words: pigsty, sty, pigpen, barn, shed, stall

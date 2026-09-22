@@ -1,0 +1,11 @@
+code: "4.3.4.4.2"
+guid: A7E4F8A8-3FE3-4C86-85DF-059F8983DF26
+name: Use a person
+description: >-
+  Use this domain for words related to using someone for your own purpose or gain without
+  helping them.
+questions:
+  - q: What words refer to using a person?
+    words: >-
+      use someone, take advantage of, exploit, take liberties, manipulate, wrap/twist
+      someone around your little finger

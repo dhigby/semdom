@@ -1,0 +1,8 @@
+code: "9.5.1.6"
+guid: 71757FF0-D698-426D-A791-50C4BDE6F735
+name: Spatial location of an event
+description: Use this domain for words indicating the spatial location of an event.
+questions:
+  - q: What words indicate the location of an event?
+    words: at
+    sentence: John ate lunch <at> a restaurant.

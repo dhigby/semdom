@@ -1,0 +1,7 @@
+code: "6.3.8.1"
+guid: ACDDD447-BF8A-4D74-8501-7DEFB0525CC0
+name: Animal diseases
+description: Use this domain for words related to animal diseases.
+questions:
+  - q: What types of animal diseases are there?
+    words: hoof and mouth, cowpox

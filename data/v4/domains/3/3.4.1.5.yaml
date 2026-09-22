@@ -1,0 +1,27 @@
+code: "3.4.1.5"
+guid: E0A8E1D9-C43E-4092-A8DC-476A3417924E
+name: Confident
+description: >-
+  Use this domain for words related to feeling confident--to feel sure that you can do
+  something.
+questions:
+  - q: What words refer to feeling confident?
+    words: feel confident, sure of yourself, think positively, secure in yourself
+  - q: What words refer to the feeling of confidence?
+    words: confidence, morale, positive thinking
+  - q: What words describe someone who feels confident?
+    words: confident, assured, self-assured, assertive
+  - q: What words describe someone who is too confident?
+    words: overconfident
+  - q: What words refer to causing someone to feel confident?
+    words: encourage, boost someone's morale, raise someone's confidence
+  - q: What words refer to something that causes someone to feel confident?
+    words: encouragement, boost, morale raiser
+  - q: What words describe something that causes someone to feel confident?
+    words: encouraging
+  - q: What words refer to feeling more confident?
+    words: your morale rises
+  - q: What words refer to feeling less confident?
+    words: demoralize, shake someone's confidence, lose confidence
+  - q: What words describe someone who is not confident?
+    words: insecure, unsure of yourself

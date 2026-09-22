@@ -1,0 +1,35 @@
+code: "4.3.3"
+guid: E7CAA24F-155D-47CD-946D-CC0D06DFC764
+name: Love
+description: >-
+  Use this domain for words related to loving someone--to feel good about someone, want good
+  things to happen to them, and want to do good things for them.
+louwNidaCodes: 25C Love, Affection, Compassion
+questions:
+  - q: What words refer to loving someone?
+    words: >-
+      love (v), like, attached, care about, cherish, be close, feel friendly toward, favor,
+      hold in favor, feel favorable toward, be fond of, wish someone well, hope things turn
+      out well for someone, be partial to, be enshrined in your heart
+  - q: What words refer to loving someone very much?
+    words: adore, worship, be devoted to, dote on, think the world of, mean the world to
+  - q: What words refer to the feeling of love?
+    words: >-
+      love (n), adoration, affection, compassion, concern, devotion, fondness, goodwill,
+      attachment, kindness, solicitude, sympathy
+  - q: What words describe someone who loves?
+    words: >-
+      loving, affectionate, caring, compassionate, concerned, devoted, doting, fond,
+      solicitous, sympathetic, tender, tender-hearted, warm, warmhearted
+  - q: What words refer to someone who loves?
+    words: lover, well-wishers
+  - q: What words describe someone who is loved?
+    words: beloved, dear
+  - q: What words refer to someone you love?
+    words: loved ones, darling, pet, the one you love
+  - q: What words refer to something someone does that is loving?
+    words: act of love, act of kindness, favor
+  - q: What words describe someone who does not love?
+    words: unloving, uncaring
+  - q: What words describe someone who is not loved?
+    words: unloved, unlovable

@@ -1,0 +1,25 @@
+code: "1.2.2.1"
+guid: 180A2220-942C-4E17-96EE-CD4F63A4C715
+name: Soil, dirt
+description: Use this domain for words referring to soil and dirt.
+ocmCodes: 134 Soil
+louwNidaCodes: 2E Earth, Mud, Sand, Rock
+questions:
+  - q: What words refer to soil?
+    words: soil, topsoil, earth, earthen, ground, loam, clay, dirt, dirty, sand, sandy
+  - q: What words describe the quality of the soil?
+    words: fertile, infertile, poor, rich
+  - q: What words refer to a piece of dirt?
+    words: clod, clump, lump (of clay), grain of sand
+  - q: What words refer to dirt mixed with water?
+    words: mud, muddy, mud puddle, mire, miry, muck, goo, ooze
+  - q: What does mud do?
+    words: splatter, splash, stick, squish
+  - q: What words refer to dry dirt?
+    words: dust, dust cloud, dust storm
+  - q: What does dust do?
+    words: raise, stir up, settle, hang in the air, fly, cling (to clothes)
+  - q: What words refer to the dirt on the top of the ground with grass in it?
+    words: topsoil, sod
+  - q: What words refer to soil being washed away by rain?
+    words: erode, erosion

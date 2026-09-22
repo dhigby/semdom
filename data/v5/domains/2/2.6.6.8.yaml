@@ -1,0 +1,17 @@
+code: "2.6.6.8"
+guid: 0281FB1D-AB12-41b9-A3DC-09EF6B1E4733
+name: Life after death
+description: Use this domain for words related to life after death.
+ocmCodes: 769 Cult of the Dead
+related: ["4.9.6", "4.9.6.1"]
+questions:
+  - q: What words refer to life after death?
+    words: life after death, afterlife, immortality, the life beyond, life beyond the grave
+  - q: What words refer to person after they die?
+    words: ghost, spirit
+  - q: What words refer to the place where dead people are?
+    words: netherworld, heaven, hell
+  - q: What words refer to caring for the spirit of a dead person?
+    words: offer a sacrifice, pray for the dead, keep someone's memory alive
+  - q: What words refer to not living on after death?
+    words: oblivion, end of existence, finality of death

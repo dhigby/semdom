@@ -1,0 +1,10 @@
+code: "3.2.6.3"
+guid: 65A928B8-8587-48BE-8F23-41F85549C547
+name: Memorize
+description: >-
+  Use this domain for words referring to memorizing something--to think hard about something
+  so that you will not forget it.
+louwNidaCodes: 29A Storing of Information
+questions:
+  - q: What words refer to memorizing something?
+    words: memorize, commit to memory, make a mental note, record, remember, store

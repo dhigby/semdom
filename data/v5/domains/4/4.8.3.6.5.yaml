@@ -1,0 +1,15 @@
+code: "4.8.3.6.5"
+guid: 362A2BDD-985E-4BC0-A41C-358BD1BABB12
+name: Spy
+description: Use this domain for words related to a spy.
+questions:
+  - q: What do spies do?
+    words: >-
+      spy, spy on, spy for, conduct espionage, conduct covert operations, collect
+      information, gather intelligence, betray secrets
+  - q: What words refer to the activity of spying?
+    words: espionage, counter espionage, covert operations, intelligence gathering
+  - q: What is a person called who spies?
+    words: spy, agent, double agent, informant, informer, source
+  - q: What is a group of spies called?
+    words: spy ring, intelligence agency, intelligence community

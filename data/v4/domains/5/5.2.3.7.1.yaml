@@ -1,0 +1,14 @@
+code: "5.2.3.7.1"
+guid: EE8A20B7-4202-489A-B8CD-BDEBAF770313
+name: Alcohol preparation
+description: Use this domain for words related to making alcoholic beverages.
+ocmCodes: 274 Beverage Industries
+questions:
+  - q: What words refer to making alcoholic beverages?
+    words: brew
+  - q: What are the steps in brewing?
+    words: ferment, distill, mellow, age, ripen
+  - q: What foodstuffs are used to make alcohol?
+    words: hops, yeast, millet, corn (maize), rice
+  - q: What equipment and materials are used to brew alcohol?
+    words: distillery, brewery, still, filter

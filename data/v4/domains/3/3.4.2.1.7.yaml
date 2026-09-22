@@ -1,0 +1,27 @@
+code: "3.4.2.1.7"
+guid: 67D10A00-FDA8-4A3A-BECD-F3AE3B00FCCA
+name: Shock
+description: >-
+  Use this domain for words related to feeling shocked--feeling both surprised and angry
+  when something very bad suddenly happens or when someone does something very bad.
+questions:
+  - q: What words refer to feeling shocked?
+    words: be shocked, feel shocked
+  - q: What words refer to the feeling of shock?
+    words: shock, horror, outrage
+  - q: What words describe someone who feels shocked?
+    words: >-
+      shocked, deeply shocked, stunned, shaken, dazed, speechless, horrified, aghast,
+      mortified, outraged, scandalized
+  - q: What words refer to being very shocked or shocked for a long time?
+    words: be in a state of shock, traumatized, shattered
+  - q: What words refer to causing someone to feel shocked?
+    words: >-
+      shock, come as a shock, horrify, stun, shake, knock someone for a loop, drop a
+      bombshell, outrage, rock, scandalize, traumatize
+  - q: What words refer to something that causes someone to feel shocked?
+    words: >-
+      shock (n), shocker, blow, bolt from the blue, bombshell, rude awakening, scandal,
+      trauma, horror
+  - q: What words describe something that causes someone to feel shocked?
+    words: shocking, horrible, horrifying, shattering

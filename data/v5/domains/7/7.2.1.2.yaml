@@ -1,0 +1,30 @@
+code: "7.2.1.2"
+guid: 1017CBC3-0DFB-4930-9881-28F96784035C
+name: Move quickly
+description: Use this domain for words referring to moving quickly or slowly.
+louwNidaCodes: 15A' Movement with Speed x; 15B' Goal-Oriented Movement
+related: ["8.4.8", "8.4.8.1"]
+questions:
+  - q: What words refer to moving quickly?
+    words: >-
+      move quickly, hurry, haste, hasten, rush, forge ahead, charge, barrel along, move like
+      a bat out of hell, make a beeline for, boil, bolt, bustle, move along at a good clip,
+      dart, double-time, fast, fire, flash, flat-out, fling, flit, fly, gallop, move like
+      greased lightning, be really hopping, kick, lickety-split, plunge in, quick, race,
+      rapid, rapidly, rapidity, run, rush, sail, scour, scud, shoot, move like sixty, skim,
+      snappily, speed, stampede, streak, sweep, swift, swiftly, swing, tear, apace, tilt,
+      vroom, whiz, wildfire, zip, zoom, at full speed, at top speed, express, make tracks,
+      burn up the track
+  - q: What words refer to moving more quickly?
+    words: >-
+      hurry up, speed up, pick up speed, increase your speed, accelerate, acceleration,
+      (its) speed rose, step on it, step it up, snap it up, pick up the pace, give it some
+      gas, look lively, quicken
+  - q: What words refer to continuing to move without trying to speed up or slow down?
+    words: coast, glide, float
+  - q: What words refer to how fast something is moving?
+    words: speed, pace, rate
+  - q: What words refer to moving quickly for a short time?
+    words: jerk, twitch, start, spasm, jump, snap, nip in, shoot, spurt, dash
+  - q: What ideophones are used of moving quickly?
+    words: zip, zoom, whiz, vroom, chop chop

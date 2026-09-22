@@ -1,0 +1,37 @@
+code: "4.9.4.1"
+guid: B6E45998-9F6A-4B19-9CDA-62410A11AFA2
+name: Sorcery
+description: >-
+  Use this domain for words related to sorcery--the use of supernatural power to do
+  something bad.
+ocmCodes: 789 Magic; 754 Sorcery; 755 Magical and Mental Therapy
+louwNidaCodes: 53J Magic
+questions:
+  - q: What words refer to doing something using sorcery?
+    words: >-
+      practice sorcery, do magic, work magic, cast a spell, put a spell on, put a curse on,
+      bewitch, conjure, invoke, enchant, bedevil, entrance (v), mesmerize, wave a wand, jinx
+  - q: What words refer to the practice of sorcery?
+    words: >-
+      sorcery, magic (n), witchcraft, black magic, voodoo, voodooism, witchery, wizardry,
+      occult, necromancy
+  - q: What words refer to something that someone does using sorcery?
+    words: spell, curse, hex, enchantment, charm, incantation
+  - q: What is a person called who practices sorcery?
+    words: >-
+      sorcerer, magician, witch, wizard, shaman, witchdoctor, conjurer, necromancer,
+      warlock, charmer, medicine man, alchemist, medium
+  - q: What words describe someone or something that can do magic?
+    words: have magical powers, magic (adj), magical, supernatural, occult, mystic, weird
+  - q: What words describe someone who has been bewitched?
+    words: charmed, bewitched, spellbound, haunted
+  - q: What words refer to protecting someone from sorcery?
+    words: ward off
+  - q: What things are used when performing sorcery?
+    words: >-
+      charm, amulet, evil eye, talisman, fetish, wand, rod, divining rod, magic ring,
+      philosopher's stone, magic carpet, cauldron
+  - q: What words are used when performing sorcery?
+    words: abracadabra, open sesame
+  - q: What words refer to malevolent supernatural power?
+    words: malevolent power, evil force, Satanic force, demonic power, black magic

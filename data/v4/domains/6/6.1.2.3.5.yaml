@@ -1,0 +1,11 @@
+code: "6.1.2.3.5"
+guid: 80F26FBC-CA89-4789-996D-4C09547F2504
+name: Complete, finish
+description: Use this domain for words related to completing a task.
+louwNidaCodes: 68C Complete, Finish, Succeed
+related: ["8.4.6.1.2", "6.1.3.2"]
+questions:
+  - q: What words refer to completing a task?
+    words: complete, finish, finish up, accomplish, succeed, wrap up
+  - q: What words refer to not completing a task?
+    words: leave undone, incomplete, unfinished

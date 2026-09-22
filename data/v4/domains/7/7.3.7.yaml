@@ -1,0 +1,12 @@
+code: "7.3.7"
+guid: 7C80F6EE-E76D-4903-AEE6-7A33D1DA3F75
+name: Cover
+description: Use this domain for words related to covering something.
+louwNidaCodes: 79Y Covered Over
+questions:
+  - q: What words refer to covering something?
+    words: cover, bury, drape, hang, spread, wrap
+  - q: What words refer to something used to cover something?
+    words: covering, lid, cap
+  - q: What words describe something that has been covered?
+    words: covered, draped, hung, wrapped

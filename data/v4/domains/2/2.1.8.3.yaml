@@ -1,0 +1,15 @@
+code: "2.1.8.3"
+guid: 7DBD7F43-4291-47F8-A392-6FDF3C98D522
+name: Male organs
+description: Use this domain for words related to the male reproductive organs.
+questions:
+  - q: What general words refer to the reproductive organs?
+    words: reproductive organs, sexual organs, genitals, gonad, pubes, privates
+  - q: What words refer to the male organs?
+    words: penis, scrotum, testicle, testis, foreskin, loins
+  - q: What do the male organs do?
+    words: swell, enlarge, erect, erection, ejaculate, ejaculation
+  - q: What words refer to the liquid produced?
+    words: semen, sperm, seminal
+  - q: What words describe something to do with the male organs?
+    words: reproductive, genital, sexual

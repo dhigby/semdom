@@ -1,0 +1,15 @@
+code: "7.2.5"
+guid: 196BF7B1-54A1-4A78-8D10-C61585849C63
+name: Accompany
+description: Use this domain for words referring to moving with someone.
+louwNidaCodes: 15T Follow, Accompany; 15S Come/Go With, Travel With
+related: ["9.5.2.3"]
+questions:
+  - q: What words refer to moving with someone?
+    words: go with, come with, come along, accompany, escort (v), travel with, journey together
+  - q: What words refer to someone you travel with?
+    words: companion, traveling companion, fellow travelers/passengers, escort (n), tour group
+  - q: What words describe how a person walks with another person?
+    words: arm in arm, side by side, in step with, out of step with, single file
+  - q: What words refer to a group of vehicles or ships moving together?
+    words: convoy

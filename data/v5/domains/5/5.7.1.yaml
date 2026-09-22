@@ -1,0 +1,35 @@
+code: "5.7.1"
+guid: A3FE0CA2-64FE-44DB-AC3F-14513385BC25
+name: Go to sleep
+description: Use this domain for words related to going to bed and going to sleep.
+questions:
+  - q: What words refer to getting ready for bed?
+    words: get ready for bed, go to bed, turn in
+  - q: What words refer to getting into bed?
+    words: >-
+      get into bed, crawl into bed, curl up in bed, get under the covers, crawl under the
+      covers, fall into bed (exhausted), jump in bed
+  - q: What words refer to going to sleep?
+    words: go to sleep, fall asleep, drop off, sink into a deep sleep
+  - q: What words refer to feeling like you want to sleep?
+    words: drowsiness, drowsy, sleepiness, sleepy, somnolence, somnolent, soporific
+  - q: What are the symptoms of beginning to go to sleep?
+    words: nod, yawn, stretch, eyelids droop
+  - q: What do you say when you are beginning to go to sleep?
+    sentence: >-
+      (I'm) fading fast. (I'm really) tired. (I think I'll) go to bed. (I'm not going to)
+      last much longer. (I can't) stay awake.
+  - q: What words are used of someone causing someone to go to sleep?
+    words: put to sleep, put to bed
+  - q: What words are used of the time when you go to sleep?
+    words: bedtime, nighttime, time to go to sleep
+  - q: What words refer to going to bed early or late?
+    words: early night, late night, stay up
+  - q: What does someone say to someone else who is going to sleep?
+    sentence: goodnight, sleep tight, pleasant dreams, sweet dreams
+  - q: What special clothes are used when sleeping?
+    words: pajamas, pj's, jammies, nightgown, nightie, nightclothes
+  - q: What words refer to staying awake and not going to sleep?
+    words: stay up (late), stay awake
+  - q: What words refer to preventing someone from going to sleep?
+    words: keep (someone) awake

@@ -1,0 +1,24 @@
+code: "3.5.1.5.1"
+guid: 5FDF3946-7E47-4FD2-906F-4DA7CE5FA490
+name: Answer
+description: Use this domain for words related to answering a question.
+louwNidaCodes: 33N Question, Answer
+questions:
+  - q: What words refer to answering a question?
+    words: answer, give an answer, reply, get back to, respond, acknowledge
+  - q: What words refer to what is said in answer?
+    words: >-
+      answer, response, reply, acknowledgment, rebuttal, rejoinder, return, echo, feedback,
+      immediate response, answer by return mail
+  - q: What words refer to a humorous answer?
+    words: snappy comeback, retort, repartee
+  - q: What words describe an answer?
+    words: >-
+      carefully worded, careful, well thought through, off the cuff, off hand, wise, stupid,
+      thoughtless, foolish
+  - q: What words refer to the time it takes to answer?
+    words: take a long time to answer, take your time to answer, quick reply, response time
+  - q: What words refer to not having an answer or not knowing what to answer?
+    words: >-
+      have no answer, lack answer, not know what to answer, don't know how to answer, don't
+      know what to say, don't have an answer, can't answer

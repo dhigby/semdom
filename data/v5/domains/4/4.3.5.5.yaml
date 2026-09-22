@@ -1,0 +1,25 @@
+code: "4.3.5.5"
+guid: A730D0B4-B6DB-45AC-BF6E-CEFC96AE3FBB
+name: Deceive
+description: Use this domain for words related to deceiving someone.
+louwNidaCodes: 88U Mislead, Lead Astray, Deceive
+questions:
+  - q: >-
+      What words refer to acting in such a way that someone is led to believe something
+      false?
+    words: >-
+      deceive, fool, take in, defraud, cheat, fleece, bilk, swindle, hustle, dupe, hoodwink,
+      foist upon, palm off on, outwit, outmaneuver, finagle, slip one over on, put something
+      over on, con, lay a trap for, lure, beguile, delude, trick, entrap, ensnare, pull the
+      wool over someone's eyes, play a trick on, play a practical joke on, send on a fool's
+      errand, make a fool of, mislead
+  - q: What words refer to the act of deceiving someone?
+    words: deceit, deception, fraud, delusion, cunning, illusion, treachery
+  - q: What words refer to someone who deceives?
+    words: deceiver, magician, conjurer
+  - q: What words refer to someone who deceives in order to steal?
+    words: con man, swindler, snake, cheat
+  - q: What words refer to someone who pretends to be someone else?
+    words: impostor, charlatan, fraud, fake, pretender, quack, wolf in sheep's clothing
+  - q: What words describe someone who deceives?
+    words: deceptive, fraudulent, cunning, treacherous

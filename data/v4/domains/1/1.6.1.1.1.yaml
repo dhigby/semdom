@@ -1,0 +1,11 @@
+code: "1.6.1.1.1"
+guid: 40248A12-1809-4561-B786-E4E274C14D82
+name: Primate
+description: Use this domain for primates (phylum Chordata, class Mammalia, order Primates).
+questions:
+  - q: What general words refer to primates?
+    words: primate, ape, monkey, anthropoid
+  - q: What species of primates are there?
+    words: >-
+      baboon, capuchin, chimpanzee, colobus, gibbon, gorilla, langur, lemur, orangutan,
+      macaque, mandrill, marmoset, rhesus, ringtail

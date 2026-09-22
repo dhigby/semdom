@@ -1,0 +1,42 @@
+code: "8.1.4.3"
+guid: 1FF743CB-49E0-483D-8A1D-4603A7D6C395
+name: Decrease
+description: >-
+  Use this domain for words related to something decreasing in number or amount--to be less
+  than before.
+louwNidaCodes: 59G Increase, Decrease
+questions:
+  - q: What words refer to something decreasing in number or amount?
+    words: >-
+      decrease, fall, go down, come down, slide, diminish, contract, shrink, lessen, reduce,
+      reduction, depreciate, lose, narrow, slow down, abate, peter out, tail off, waste away
+  - q: What words describe something that is decreasing in number or amount?
+    words: decreasing, declining, falling, lowering, shrinking, less and less, fewer and fewer
+  - q: What words refer to decreasing very quickly?
+    words: drop, plummet, plunge, nosedive, slump, collapse, go through the floor
+  - q: What words refer to decreasing slowly?
+    words: dwindle, decline, be on the decline, taper off, drop off, die down, ease off
+  - q: What words refer to a decrease in number or amount?
+    words: decrease (n), reduction, drop, fall, decline, downturn, loss, cut, slump, collapse
+  - q: What words refer to a quality becoming less?
+    words: lessen, subside, wane, ebb, recede
+  - q: What words indicate that something happens or someone does something less than before?
+    words: decreasingly, lose ground, become less and less, get less and less
+  - q: What words describe something that someone is doing or feeling less than before?
+    words: decreased, lowered, lower
+  - q: What words refer to causing something to decrease?
+    words: >-
+      reduce, lower, decrease, cut, slash, roll back, knock down, halve, minimize,
+      abbreviate, abridge, curtail, dilate, drain
+  - q: What words refer to reducing the amount of something you use or how much you do?
+    words: >-
+      reduce, cut down on, scale down, scale back, cut back, trim, pare down, downsize,
+      scrimp
+  - q: What words refer to reducing pain or a bad feeling?
+    words: >-
+      reduce, lessen, relieve, ease, alleviate, deaden, dull, take the edge off, allay,
+      mitigate
+  - q: What words refer to decreasing what a machine is doing?
+    words: reduce, lower, turn down
+  - q: What words refer to something slowly reducing the number or amount of something?
+    words: erode, eat into, deplete, whittle away

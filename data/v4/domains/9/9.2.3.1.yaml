@@ -1,0 +1,16 @@
+code: "9.2.3.1"
+guid: 13DF6EE2-4189-4FAA-B54D-768588D03978
+name: Reflexive pronouns
+description: >-
+  Use this domain for pronouns that refer back to the subject of the sentence. These
+  pronouns should be added to the chart of personal pronouns.
+louwNidaCodes: 92E Reciprocal Reference
+questions:
+  - q: What pronouns express reflexive reference?
+    words: >-
+      self, myself, yourself, himself, herself, itself, ourselves, yourselves, themselves,
+      oneself
+    sentence: I cut <myself>.
+  - q: What pronouns express reciprocal reference?
+    words: each other, one another
+    sentence: They hit <each other>.; We should help <one another>.

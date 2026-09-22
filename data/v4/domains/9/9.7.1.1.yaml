@@ -1,0 +1,9 @@
+code: "9.7.1.1"
+guid: 6B921117-47E9-4717-B3B3-4E170D26B6D9
+name: Personal names
+description: >-
+  Use this domain for those names that are given to people, that people use to call to each
+  other and to talk about each other.
+questions:
+  - q: What are the given names used by people in the language group?
+    words: John, David, Mary, Elizabeth

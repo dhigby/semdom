@@ -1,0 +1,10 @@
+code: "7.2.2.5"
+guid: 16081DD6-72E5-4826-B86D-958DD82A01C0
+name: Move down
+description: >-
+  Use this domain for words referring to moving in a downward direction or to moving to a
+  lower place.
+louwNidaCodes: 15K Come/Go Down, Descend
+questions:
+  - q: What words refer to moving down slowly or purposefully?
+    words: move down, go down, lower oneself, climb down, jump down, descend, descent

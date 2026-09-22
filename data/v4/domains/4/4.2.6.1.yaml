@@ -1,0 +1,29 @@
+code: "4.2.6.1"
+guid: 721E7782-9ADD-41FA-A7CF-659D5CA33926
+name: Game
+description: >-
+  Use this domain for words referring to games. Some languages do not make a distinction
+  between "Games" and "Sports."
+ocmCodes: 524 Games
+questions:
+  - q: What words refer to a game?
+    words: game
+  - q: What types of games are there?
+    words: card game, gambling game, board game
+  - q: What are the names of specific board games?
+    words: >-
+      bingo, blackjack, bridge, cards, checkers, chess, charades, craps, dice, dominoes,
+      gin, hearts, jacks, lotto, mahjong, marbles, Monopoly, Parcheesi, poker, roulette,
+      solitaire
+  - q: What are the names of specific children's games?
+    words: catch, hide-and-seek, hopscotch, leapfrog, mumblety-peg, tag
+  - q: What are the parts of games?
+    words: piece, game piece, playing piece, die, dice, card, pack of cards, board
+  - q: What words refer to playing a game?
+    words: play
+  - q: What words refer to the people who play games?
+    words: player, contestant, team members, captain, star
+  - q: What words refer to play against someone?
+    words: play against, be against, versus
+  - q: What words refer to the people you play against?
+    words: opponent, opposition, rival

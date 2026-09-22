@@ -1,0 +1,9 @@
+code: "3.5.1.4.4"
+guid: A9625460-7162-447C-B400-84FBC5744F1B
+name: Say farewell
+description: Use this domain for words related to saying farewell.
+questions:
+  - q: What words refer to saying farewell?
+    words: say farewell, say goodbye
+  - q: What words and expressions are used when saying farewell?
+    words: Goodbye. See you later. Have a good day.

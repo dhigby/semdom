@@ -1,0 +1,14 @@
+code: "6.8.1.1"
+guid: D9CB2E69-133D-4525-BCA5-50B0F3402CBB
+name: Own, possess
+description: Use this domain for words related to owning something.
+ocmCodes: 421 Property System
+questions:
+  - q: What words refer to owning something?
+    words: own, possess, have, belong to
+    sentence: John <has> a house.; John <owns> a house.; That house <belongs to> John.
+  - q: What words refer to the person who owns something?
+    words: owner
+    sentence: John is the <owner> of the house.
+  - q: What words refer to claiming something as your own?
+    words: call, claim, have dibs, lay claim to, stake a claim

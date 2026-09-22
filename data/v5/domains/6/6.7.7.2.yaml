@@ -1,0 +1,8 @@
+code: "6.7.7.2"
+guid: 3ACF5E20-B626-4F0A-A582-D386A0E30792
+name: Sheath
+description: Use this domain for words related to a sheath--a container for a weapon.
+questions:
+  - q: What words refer to sheaths?
+    words: sheath, holster
+  - q: What words are used to describe the actions done with these tools?

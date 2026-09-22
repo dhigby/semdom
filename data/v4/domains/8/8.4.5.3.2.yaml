@@ -1,0 +1,23 @@
+code: "8.4.5.3.2"
+guid: B7B0819B-ECEB-4F16-AE6D-2298C4DF1E6F
+name: On time
+description: >-
+  Use this domain for words describing something happening on time--at the expected time, at
+  the usual time, or at the time that was agreed on.
+questions:
+  - q: What words indicate that something happens on time?
+    words: >-
+      on time, right on time, punctually, promptly, on cue, on the dot, at the right time,
+      at the designated time, at the appointed time, when expected, right when it was
+      supposed to happen, at the exact moment
+  - q: What words describe something that happens on time?
+    words: timely
+  - q: What words describe someone who does things on time?
+    words: punctual, prompt
+  - q: What words indicate that something happens before it is too late?
+    words: >-
+      in time, just in time, in the nick of time, not a moment too soon, at the last minute,
+      at the eleventh hour, catch, cut it fine, cut it too close, made it in by a whisker,
+      just under the wire
+  - q: What words refer to finishing something within the time that is allowed?
+    words: meet a deadline, on schedule

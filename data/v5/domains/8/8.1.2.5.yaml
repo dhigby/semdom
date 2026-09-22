@@ -1,0 +1,17 @@
+code: "8.1.2.5"
+guid: 7B17E304-9A3F-463F-8216-CD1E1E119E0E
+name: Divide numbers
+description: Use this domain for words related to dividing one number by another number.
+related: ["7.8"]
+questions:
+  - q: What words are used of dividing one number by another number?
+    words: divide, division
+  - q: What words are used for division equations?
+    words: divided by, into, go into
+    sentence: >-
+      Four <divided by> two is two.; Two <into> four equals two.; Two <goes into> four two
+      times.
+  - q: What words indicate the answer?
+    words: times
+  - q: What words refer to the answer?
+    words: quotient

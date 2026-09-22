@@ -1,0 +1,7 @@
+code: "6.1.5"
+guid: B285BC3B-BA9F-4160-8E79-81DD43DFDBAA
+name: Unemployed, not working
+description: Use this domain for words related to being unemployed.
+questions:
+  - q: What words refer to not having a job?
+    words: unemployed, not working, out of work, idle, jobless, looking for work

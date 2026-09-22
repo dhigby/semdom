@@ -1,0 +1,26 @@
+code: "3.4.1.3"
+guid: 0E590DA7-C027-42E0-B580-F65686CEE461
+name: Surprise
+description: >-
+  Use this domain for words related to feeling surprised--to feel something when something
+  unexpected, unusual, or amazing happens.
+louwNidaCodes: 25T Surprise, Astonish
+questions:
+  - q: What words refer to feeling surprised?
+    words: be surprised, wonder, be in awe
+  - q: What words refer to the feeling of surprise?
+    words: surprise (n), amazement, astonishment, awe (n), incredulity
+  - q: What words describe someone who feels surprised?
+    words: surprised, amazed, astonished, incredulous, startled, flabbergasted
+  - q: What words refer to causing someone to feel surprised?
+    words: >-
+      surprise (v), surprise (n), amaze, astonish, astound, awe (v), inspire awe,
+      flabbergast, floor, startle
+  - q: What words refer to something that causes someone to feel surprised?
+    words: surprise (n)
+  - q: What words describe something that causes someone to feel surprised?
+    words: >-
+      surprising, startling, amazing, astonishing, incredible, wonderful, awe-inspiring,
+      awesome, unexpected
+  - q: What do you say when you are surprised?
+    words: Wow!

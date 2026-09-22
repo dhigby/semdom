@@ -1,0 +1,52 @@
+code: "2.5.7"
+guid: 101C16F8-EC76-4EC7-895A-FD814FEF51DD
+name: Treat disease
+description: Use this domain for words related to the treatment of disease and injury.
+ocmCodes: 742 Medical Research; 751 Preventive Medicine; 757 Medical Therapy; 758 Medical Care
+questions:
+  - q: What words refer to treating someone who is sick or injured?
+    words: >-
+      give someone treatment, treat, treatment, medical treatment, therapy, therapeutic,
+      medical procedure, rehabilitation, medical aid, first aid, go to the aid of
+  - q: What words refer to taking care of someone who is sick?
+    words: >-
+      care for (a patient), nurse (a patient), nurse back to health, look after, hospice
+      care
+  - q: What words refer to treating a disease?
+    words: treat a disease, arrest (the spread of a disease)
+  - q: What words refer to a particular type of treatment?
+    words: resuscitate, acupuncture, blood transfusion
+  - q: What words refer to treating a wound?
+    words: >-
+      clean/cleanse a wound, bandage, Band-Aid, compress, dress (a wound), dressing,
+      tourniquet
+  - q: What words refer to treating a broken bone?
+    words: set a bone, reduce a dislocation, cast, splint, crutches, cane, plaster, sling, brace
+  - q: What words refer to surgery?
+    words: >-
+      surgery, surgical, operate, operation, perform an operation, have an operation, major
+      surgery, minor surgery, operating theater, operating table, amputate, implant,
+      transplant, inoperable, incision, stitch, suture, sew up, scalpel
+  - q: What words refer to treating pain?
+    words: >-
+      alleviate, ease, anesthesia, anesthetic, general anesthesia, local anesthesia,
+      anesthetize
+  - q: What words refer to things are done to treat disease?
+    words: radiation, scan
+  - q: What words refer to trying to find out what is wrong with a sick person?
+    words: >-
+      diagnose, prognosis, draw/take a sample, examine a patient, take an x-ray, do a test,
+      test for, lab report, take someone's temperature, take someone's blood pressure, take
+      someone's pulse, check-up, take a sample, specimen
+  - q: What words refer to telling a sick person what to do in order to get well?
+    words: prescribe, prescription
+  - q: What words refer to curing someone?
+    words: cure, make someone better, heal, fix, healing, rehabilitate
+  - q: What words refer to something that cures someone?
+    words: cure (n), remedy, antidote, curative
+  - q: What equipment is used to treat illness?
+    words: >-
+      stethoscope, blood pressure cuff, scalpel, catheter, forceps, needle, syringe, IV,
+      x-ray machine, x-ray
+  - q: What words refer to preventing disease?
+    words: hygiene, immunization, immunize, inoculate, inoculation, vaccinate, vaccination

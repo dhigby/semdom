@@ -1,0 +1,12 @@
+code: "1.2.1.4"
+guid: CD403434-A5A1-4700-8AD3-B7C9AABD99D9
+name: Valley
+description: Use this domain for words related to valleys.
+louwNidaCodes: 1H Depressions and Holes
+questions:
+  - q: What types of valleys are there?
+    words: >-
+      valley, ravine, gully, canyon, gulch, course, basin, channel, gorge, rift, wadi,
+      depression
+  - q: What words describe valleys?
+    words: narrow, broad, deep

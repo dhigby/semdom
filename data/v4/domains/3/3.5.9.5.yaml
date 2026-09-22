@@ -1,0 +1,20 @@
+code: "3.5.9.5"
+guid: 80DC5CA1-44CE-4406-ADD8-2BBE19C122AB
+name: Recorded music
+description: Use this domain for words related to recording music.
+ocmCodes: 216 Sound Records
+questions:
+  - q: What words refer to recording music?
+    words: record, make a recording, cut a record, tape
+  - q: What words refer to music recordings?
+    words: music, record, tape, cassette, CD, compact disc
+  - q: What words refer to playing music?
+    words: play, listen, play back, put on
+  - q: What words refer to machines that play music?
+    words: >-
+      turntable, tape recorder, tape deck, tape player, CD player, juke box, music system,
+      hi-fi, stereo, amplifier, speaker, boom box, walkman
+  - q: What words refer to changing how loud the music is?
+    words: turn up, turn down, adjust the volume
+  - q: What words refer to a person or company who makes recordings?
+    words: studio, record company

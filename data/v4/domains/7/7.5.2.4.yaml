@@ -1,0 +1,36 @@
+code: "7.5.2.4"
+guid: A31C85DF-02A9-4DD8-A094-0F07A0AFBCCA
+name: Remove, take apart
+description: >-
+  Use this domain for words related to removing part of something, taking something apart,
+  and things coming apart.
+questions:
+  - q: What words refer to removing a part of something?
+    words: remove, removal, take off, detach, tear off, break off, cut off, cut away
+  - q: What words refer to removing a part from inside something?
+    words: take out, remove, extract, extraction, cut out, get out, excision, withdraw
+  - q: What words refer to removing a part from the surface of something?
+    words: take off, remove, wipe off, peel off, scrape off, scratch off, rub off
+  - q: What words refer to removing words from a book, or music from a tape?
+    words: erase, delete, cross out, rub out
+  - q: What words refer to the act of removing something?
+    words: removal, extraction
+  - q: What words describe something that can be removed?
+    words: removable, temporary (ink), non-permanent
+  - q: What words describe something that cannot be removed?
+    words: permanent
+  - q: What words refer to a tool or substance used to remove something?
+    words: eraser, remover, paint remover
+  - q: What words refer to taking something apart?
+    words: >-
+      take apart, detach, disunite, disassemble, disjoin, uncouple, unhook, unfasten, pull
+      apart, break up, dismantle, take something to pieces
+  - q: What words describe something after it has been taken apart?
+    words: apart, detached, disassembled, dismembered, be in pieces
+  - q: What words describe something that can be taken apart?
+    words: detachable
+  - q: What words refer to things coming apart?
+    words: >-
+      come apart, come free, come loose, come off, come undone, come unglued, come unhooked,
+      come unstuck, break up, disintegrate, fall apart, fall off, fall to pieces, peel off,
+      pop off, separate, unravel, unroll, work free, work loose

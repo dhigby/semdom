@@ -1,0 +1,34 @@
+code: "4.8.2"
+guid: 55201761-FE2E-40D5-A2A7-8079E00A2C32
+name: Fight
+description: >-
+  Use this domain for words referring to fighting someone. The words in this domain describe
+  a situation in which two people or groups of people fight each other over something or in
+  order to reach some goal. A fight can use words, various kinds of weapons, or other
+  actions. For fights that only use words use the domain 'Quarrel'.
+louwNidaCodes: 55B To Fight
+related: ["3.5.1.6.2"]
+questions:
+  - q: What words refer to enemies fighting?
+    words: >-
+      fight, have a fight, get into a fight, fighting, battle, brawl, bully, clash, come to
+      blows, confront, duel, engage (the enemy), face (an enemy), feud, jostle, joust,
+      oppose, scuffle, set-to, spar, skirmish, squabble, strive, struggle, tussle, war,
+      wrestle, be in the fray, go on the warpath
+  - q: What words refer to a fight?
+    words: >-
+      affray, altercation, battle (n), bout, combat, conflict, contest, crisis, duel (n),
+      feud (n), gunfight, row, shootout, showdown, skirmish, spat, squabble, strife,
+      struggle (n), tiff, war (n)
+  - q: What words refer to a fight between a few people?
+    words: fight (n), brawl (n), fracas, fray, free-for-all, melee, scrap, scuffle (n)
+  - q: What words refer to a fight between many people?
+    words: fighting, battle, clash (n), confrontation
+  - q: What words refer to a fight that neither side can win?
+    words: stalemate, standoff
+  - q: What words refer to someone causing a fight?
+    words: >-
+      arouse, challenge, embroil, fan the flames, goad, incite, instigate, provoke, rally,
+      rouse, spur, stir up
+  - q: What words refer to someone who is fighting?
+    words: fighter, hooligan

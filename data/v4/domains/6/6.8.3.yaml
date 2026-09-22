@@ -1,0 +1,11 @@
+code: "6.8.3"
+guid: 749AD6FE-5509-4E45-B236-84EA12DE102E
+name: Share wealth
+description: Use this domain for words related to sharing wealth with others.
+ocmCodes: 740 Health and Welfare; 741 Philanthropic Foundations; 747 Private Welfare Agencies
+related: ["4.3.4.5"]
+questions:
+  - q: What words refer to sharing wealth with others?
+    words: >-
+      share, hand out, give out, distribute, dish out, dole out, give away, give to charity,
+      give to the poor, donate, make a donation

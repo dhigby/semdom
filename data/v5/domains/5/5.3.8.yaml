@@ -1,0 +1,21 @@
+code: "5.3.8"
+guid: 5450043D-907B-4884-A9E5-35CFD5935947
+name: Naked
+description: >-
+  Use this domain for words related to being naked--not wearing any clothes, and for words
+  referring to how a person feels about being naked. It is a part of universal human
+  experience that people do not want to be naked. So there are words that refer to feeling
+  bad if one does not have enough clothes on (shame). Other words refer to wanting to have
+  enough clothes (modest). Other words refer to how people feel about other people who do
+  not wear enough clothes (indecent).
+questions:
+  - q: What words refer to being naked?
+    words: >-
+      be naked, nakedness, nude, nudity, unclothed, nothing on, not have anything on,
+      stripped, bare, expose (oneself)
+  - q: What words refer to not wearing enough clothes?
+    words: dress immodestly, immodest, impropriety, indecent
+  - q: What words refer to not wanting to be naked?
+    words: modest, propriety, decent
+  - q: What words refer to feeling bad if you are naked?
+    words: shame, embarrassed, blush

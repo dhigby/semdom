@@ -1,0 +1,20 @@
+code: "8.4.6.5.2"
+guid: CC6F100A-5220-4f53-801C-B1FDCC619608
+name: Old, not young
+description: >-
+  Use this domain for words describing something old--a word describing a living thing that
+  has existed for a long time.
+related: ["2.6.4.5"]
+questions:
+  - q: What words describe a person or animal that is old?
+    words: >-
+      old, elderly, aged, aging, ancient, be getting on, not be as young as you were,
+      patriarchal, senior
+  - q: What words describe a plant that is old?
+    words: old, mature
+  - q: What words describe someone who is older than someone else?
+    words: older, elder
+  - q: What words describe someone who is older than everyone else?
+    words: oldest, eldest
+  - q: What words refer to being almost a particular age?
+    words: be pushing, be getting on for

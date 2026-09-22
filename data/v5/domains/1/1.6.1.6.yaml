@@ -1,0 +1,15 @@
+code: "1.6.1.6"
+guid: 3014DE03-88E5-4330-9682-51963A41CA50
+name: Shark, ray
+description: >-
+  Use this domain for sharks and rays--animals with cartilage instead of bones (phylum
+  Chordata, class Chondrichthyes), and eels (phylum Chordata, class Cyclostomata).
+ocmCodes: 136j Fish and Mollusk
+louwNidaCodes: 4E Fishes and Other Sea Creatures
+questions:
+  - q: What types of sharks and rays are there?
+    words: shark, ray, stingray, skate, chimera
+  - q: What types of eels are there?
+    words: eel, electric eel, slime eel, hagfish, lamprey
+  - q: What words describe sharks and rays?
+    words: cartilaginous, ray-finned, soft finned

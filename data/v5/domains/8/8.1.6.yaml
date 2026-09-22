@@ -1,0 +1,16 @@
+code: "8.1.6"
+guid: 7CFC8B3C-AD67-4928-AE6A-74AFD47CED89
+name: Whole, complete
+description: >-
+  Use this domain for words describing a whole thing--all of something with no parts
+  missing.
+louwNidaCodes: 63 Whole, Unite, Part, Divide; 63A Whole
+questions:
+  - q: What words indicate that something is whole?
+    words: >-
+      complete, full, whole, in full, in its entirety, be all there, all of, entire, intact,
+      undivided, united
+  - q: What words refer to making something complete?
+    words: complete, make up, assemble
+  - q: What words indicate that something is not whole?
+    words: incomplete, partial, missing something

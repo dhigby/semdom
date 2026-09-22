@@ -1,0 +1,9 @@
+code: "7.4.4"
+guid: 86C065EA-2420-4619-82D4-1D43527B3371
+name: Distribute
+description: Use this domain for words related to distributing things to several people.
+questions:
+  - q: What words refer to distributing things to several people?
+    words: distribute, distribution, apportion
+  - q: What words refer to the share or portion that one person receives?
+    words: share, portion, lot, part

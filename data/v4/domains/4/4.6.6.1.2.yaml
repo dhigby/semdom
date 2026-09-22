@@ -1,0 +1,10 @@
+code: "4.6.6.1.2"
+guid: D7349BAC-EFC0-41BA-BA60-F23D38E97A36
+name: Informal justice
+description: >-
+  Use this domain for words related to informal justice--punishing someone when you are not
+  in a position of authority, as when a mob catches and kills a criminal.
+ocmCodes: 627 Informal In-group Justice
+questions:
+  - q: What words refer to justice that is not given by someone in authority?
+    words: informal justice, mob justice, lynch

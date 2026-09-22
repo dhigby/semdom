@@ -1,0 +1,23 @@
+code: "3.3.1.3"
+guid: 7337B2DD-B574-4A41-AFFA-2DFAD7F6CDBC
+name: Cast lots
+description: Use this domain for words referring to casting lots--to make a decision by chance.
+questions:
+  - q: What is the general term for making a decision by chance?
+    words: >-
+      cast lots [in English and many languages there isn't a generic term; 'cast lots' is
+      archaic]
+  - q: What methods are used for making a decision by chance?
+    words: >-
+      roll a die, flip a coin, draw straws, pick names out of a hat, rock-paper-scissors,
+      pick a card (out of a deck), count off, decide who goes first
+  - q: What kind of decisions are made by these methods?
+    words: >-
+      deciding who goes first in a game, deciding who dies (e.g. who gets the life
+      preserver), deciding who is guilty
+  - q: What do people say when a decision has been made?
+    words: >-
+      X team has won the toss. OK, John goes first. I win. The Lord's will be done. It is
+      the will of the gods. The gods have spoken.
+  - q: What is the validating principle behind these methods?
+    words: fate, chance, God's will, social consensus

@@ -1,0 +1,7 @@
+code: "3.3.4.2"
+guid: 8F46496A-D5B2-411D-944D-9D4D4B6F2E31
+name: Refuse permission
+description: Use this domain for words related to refusing to permit someone to do something.
+questions:
+  - q: What words refer to refusing to give someone permission to do something?
+    words: refuse permission, deny permission, forbid, prohibit

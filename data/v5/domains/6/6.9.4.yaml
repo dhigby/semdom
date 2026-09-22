@@ -1,0 +1,12 @@
+code: "6.9.4"
+guid: CD436263-30A3-498C-93F6-3D5682F7F7C0
+name: Commerce
+description: >-
+  Use this domain for words related to commerce--taking something to a place and trying to
+  sell it there.
+ocmCodes: 438 Domestic Trade; 439 Foreign Trade
+questions:
+  - q: What words refer to commerce?
+    words: trade (v), trade (n), domestic trade, foreign trade, commerce, commercial
+  - q: What words refer to a person who takes something somewhere to sell it?
+    words: merchant, trader, salesman

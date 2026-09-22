@@ -1,0 +1,16 @@
+code: "8.4.5.3.4"
+guid: 4526B41D-6F3C-494F-93A2-EA3E9705269D
+name: Delay
+description: >-
+  Use this domain for words referring to something delaying someone or something--to cause
+  something to happen at a later time, cause someone to do something at a later time, or
+  cause someone or something to be late.
+questions:
+  - q: What words refer to something delaying someone?
+    words: delay, make someone late, hold someone up, keep, detain
+  - q: What words refer to something delaying an event?
+    words: delay, hold something up, set back, put back, get bogged down
+  - q: What words refer to an instance of delaying something?
+    words: delay (n), hold-up
+  - q: What words refer to deliberately delaying someone in order to accomplish something?
+    words: stall, play for time, delaying tactics

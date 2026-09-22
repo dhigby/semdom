@@ -1,0 +1,8 @@
+code: "8.5.4.2"
+guid: 80DE758C-537D-4C8C-8308-4BABFB2C787A
+name: Occupy an area
+description: Use this domain for words related to occupying an area.
+related: ["8.1.8"]
+questions:
+  - q: What words refer to occupying an area?
+    words: occupy, occupy an area, take up space, cover an area, fill

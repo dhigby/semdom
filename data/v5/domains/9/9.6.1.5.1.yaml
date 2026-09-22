@@ -1,0 +1,17 @@
+code: "9.6.1.5.1"
+guid: 49F45F97-95F8-4A53-8952-F90147AF2BA9
+name: Except
+description: >-
+  Use this domain for words indicating that something is an exception to a group, rule or
+  pattern--something is true of all the things (or people) in a group, but it is not true of
+  one thing.
+questions:
+  - q: What words indicate that something is not included in a group, rule, or pattern?
+    words: >-
+      except, except for, apart from, aside from, bar, excepting, but for, but, with the
+      exception of, but not
+    sentence: >-
+      All of my family was there <except> me.; Everyone went <except> John.; John spent
+      everything <except for> ten dollars.
+  - q: What words refer to something that is not included in a group?
+    words: exception

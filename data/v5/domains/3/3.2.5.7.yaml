@@ -1,0 +1,11 @@
+code: "3.2.5.7"
+guid: 3AAB9C42-B696-4440-8E28-8380F5D25199
+name: Extreme belief
+description: >-
+  Use this domain for words referring to an extreme belief--something that you believe, that
+  most people think is not good.
+questions:
+  - q: What words describe strong opinions and beliefs, which most people regard as extreme?
+    words: extreme, hard-line, far-left, far-right, idealistic, out in left field
+  - q: What words refer to a person who holds extreme beliefs?
+    words: extremist, hardliner, leftist, idealist, fanatic, zealot

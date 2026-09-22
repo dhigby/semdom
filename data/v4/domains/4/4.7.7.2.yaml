@@ -1,0 +1,9 @@
+code: "4.7.7.2"
+guid: FECA6B23-1CA1-4D99-AC79-3672D1D1F7DB
+name: Fine
+description: >-
+  Use this domain for words referring to a fine--a payment (usually of money) made to a
+  victim or the government for a crime committed against them.
+questions:
+  - q: What words refer to fining someone?
+    words: fine, fine (n), financial penalty, citation, ticket, cite, confiscate

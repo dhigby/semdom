@@ -1,0 +1,19 @@
+code: "5.2.2.1"
+guid: 8242FC85-A703-4EFA-A78A-0556A84E811E
+name: Bite, chew
+description: Use this domain for words referring to biting and chewing with the teeth.
+louwNidaCodes: 23B Processes Involving the Mouth, Other Than Eating and Drinking x
+related: ["5.2.2"]
+questions:
+  - q: What words refer to biting something?
+    words: bite, bite into, bite off, take a bite, chomp down on, champ, crunch
+  - q: What words refer to biting someone?
+    words: give someone a bite, sink your teeth into, snap at
+  - q: What words refer to a wound caused by an animal biting you?
+    words: bite
+  - q: What words refer to chewing?
+    words: chew, gnaw, masticate
+  - q: What refer to grinding your teeth together?
+    words: grind your teeth, gnash, clench your teeth
+  - q: What words refer to swallowing?
+    words: swallow

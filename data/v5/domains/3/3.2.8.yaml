@@ -1,0 +1,13 @@
+code: "3.2.8"
+guid: 05F95ABB-163A-4927-83C5-8C81EF7B769C
+name: Tendency
+description: >-
+  Use this domain for words indicating that the speaker thinks that something tends to be a
+  certain way.
+questions:
+  - q: What words indicate that the speaker thinks that something tends to be a certain way?
+    words: >-
+      tend, have a tendency, lean a certain way, apt to, prone to, proclivity, predilection,
+      bent, bias, leaning, penchant, inclination, propensity, susceptibility, likelihood,
+      liable to, trend, drift, conducive to, leads in the direction of, dispose, incline
+      toward, gravitate toward, likely

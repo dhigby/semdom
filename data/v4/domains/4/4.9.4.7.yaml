@@ -1,0 +1,29 @@
+code: "4.9.4.7"
+guid: B2830B72-C642-484F-9485-24682AA11ED8
+name: Omen, divination
+description: Use this domain for words related to supernatural knowledge.
+ocmCodes: 787 Revelation and Divination
+questions:
+  - q: What words refer to supernatural knowledge?
+    words: >-
+      supernatural knowledge, foreknowledge, supernatural insight, ability to interpret
+      dreams
+  - q: What words refer to being able to divine secrets?
+    words: divine, read the signs, foretell the future
+  - q: What words refer to the practice of divining secrets?
+    words: divination, palmistry, fortune telling, astrology
+  - q: What is a person called who can divine secrets?
+    words: diviner, fortuneteller, astrologer
+  - q: What words describe someone who can divine secrets?
+    words: clairvoyant
+  - q: What words refer to something showing what will happen in the future?
+    words: >-
+      augur, betoken, bode, forebode, foreshadow, foretell, foretoken, ominous, portend,
+      prefigure, presage
+  - q: What words refer to something that shows or tells a secret?
+    words: omen, sign, harbinger, portent, presage, foreshadowing, message from the beyond
+  - q: What methods are used to divine secrets?
+    words: >-
+      interpret dreams, read palms, read tea leaves, read cards, read the stars, consult
+      your horoscope, look into a crystal ball, play with a Ouija board, examine the
+      entrails of an animal

@@ -1,0 +1,20 @@
+code: "8.1.5.8"
+guid: 8F4C9266-A025-4b7a-BD67-FE0C043BF6F5
+name: Exact
+description: >-
+  Use this domain for words that indicate whether a number or amount is exact--not more and
+  not less.
+questions:
+  - q: What words describe a number or amount that is exact?
+    words: exact, precise
+  - q: What words indicate that a number or amount is exact?
+    words: exactly, precisely
+  - q: What words indicate that something happens at an exact time?
+    words: exactly, precisely, on the dot, sharp
+    sentence: John begins at <exactly> 6 a.m.
+  - q: What words indicate that something happens at an exact place?
+    words: right, bang, smack, plumb
+  - q: What words describe something that is exactly the same as another thing?
+    words: exact, accurate, faithful, strict, literal, word for word, just
+  - q: What words indicate that something is done in exactly the right way?
+    words: exactly, strictly, religiously, to the letter

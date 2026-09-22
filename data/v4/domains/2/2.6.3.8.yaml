@@ -1,0 +1,15 @@
+code: "2.6.3.8"
+guid: 447F258B-2160-42C7-9431-FFEEB86EDCB8
+name: Fertile, infertile
+description: Use this domain for words related to being unable to have children.
+questions:
+  - q: What words refer to having many children?
+    words: >-
+      fertile, breed, multiply, propagate, have many children, have a big family, fecund,
+      fecundity, prolific
+  - q: What words refer to being able to have children?
+    words: fertile, be able to have children, fertility
+  - q: What words refer to being unable to have children?
+    words: >-
+      be unable to have children, infertile, sterile, barren, childless, sterility,
+      unfruitful, impotence, impotent, infertility

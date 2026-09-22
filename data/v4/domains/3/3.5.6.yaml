@@ -1,0 +1,9 @@
+code: "3.5.6"
+guid: 767AA167-AF3D-4E11-A68B-EC31F9D2EF1A
+name: Sign, symbol
+description: >-
+  Use this domain for words referring to a sign or symbol--a picture or shape that has a
+  meaning.
+questions:
+  - q: What words refer to an object or picture that represents something?
+    words: sign, symbol, emblem, logo, insignia, flag

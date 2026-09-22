@@ -1,0 +1,22 @@
+code: "4.2.6.1.1"
+guid: AC4A936E-6C05-4e73-8D40-DFE4223B47FA
+name: Card game
+description: >-
+  Use this domain for words related to a particular game. The example words are from the
+  card games. If you do not play card games in your culture, you can rename this domain and
+  use it for one of your games. Add other domains for each of your games.
+questions:
+  - q: What is the game called?
+    words: card game, poker
+  - q: What is one game called?
+    words: hand
+  - q: What is a group of games called?
+    words: game
+  - q: What is a player called?
+    words: player
+  - q: What is each side called?
+    words: partners
+  - q: What events make up the game?
+    words: shuffle cards, deal cards, play, lead, follow suit, trump, call, take a trick
+  - q: What equipment is used to play the game?
+    words: card, deck, suit, heart, diamond, club, hand, trick, spade, kitty

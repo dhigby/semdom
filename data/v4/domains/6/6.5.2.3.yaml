@@ -1,0 +1,9 @@
+code: "6.5.2.3"
+guid: 3A568F98-8446-4327-876B-7C5EC78D9084
+name: Floor
+description: Use this domain for words related to a floor.
+questions:
+  - q: What words refer to the bottom of a house?
+    words: floor
+  - q: What do people cover their floors with?
+    words: carpet, carpeted, rug, throw rug, floor mat, rushes, straw mat

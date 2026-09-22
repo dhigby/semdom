@@ -1,0 +1,19 @@
+code: "3.3.3.6"
+guid: E6EC43EF-0100-4CF4-A047-C575EE8613B4
+name: Control
+description: >-
+  Use this domain for words related to controlling someone--to force someone to do what you
+  want them to do by ordering them to do it, or by doing something so that they have no
+  choice. Also use this domain for words related to controlling something, for instance to
+  control a machine, so that it does what you want it to do.
+questions:
+  - q: What words refer to controlling someone or something?
+    words: >-
+      control, be in control, manipulate, pull strings, call the shots, be in the driver's
+      seat, steer, regulate, govern, dominate, monopolize, have a monopoly, have a
+      stranglehold, have a hold over, wrap someone around your finger, hold sway, be the
+      boss, be domineering, oppress, keep someone down, repress, walk all over
+  - q: What words refer to being under someone's control?
+    words: >-
+      be under someone's control, be in someone's power, be under someone's spell, be at
+      someone's mercy, be a doormat

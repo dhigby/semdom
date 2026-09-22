@@ -1,0 +1,22 @@
+code: "1.3.3.1"
+guid: 0B0801A3-8A0C-40EA-BF41-07DF80BD0D5F
+name: Dry
+description: Use this domain for words describing something that is dry.
+louwNidaCodes: 79O Wet, Dry; 47C Application and Removal of Liquids or Masses; 79O Wet, Dry
+questions:
+  - q: What words describe something that is dry?
+    words: >-
+      dry (adj), dry as a bone, bone-dry, arid, waterless, parched, dehydrated, desiccated,
+      dried, evaporated, sere, withered
+  - q: What words describe the ground when it is dry?
+    words: dry, dusty, thirsty
+  - q: What words describe the air when there is no water in it?
+    words: drought
+  - q: What words refer to something becoming dry?
+    words: dry (v), dry out, dry up, shrivel, wither, evaporate, dehydrate, desiccate
+  - q: What words refer to making something dry?
+    words: dry something, sear, parch
+  - q: What words refer to removing water from something?
+    words: dry something off, remove water, drain, strain, wring out, squeeze out
+  - q: What tools are used to remove water from things?
+    words: sieve, press

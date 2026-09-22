@@ -1,0 +1,18 @@
+code: "8.3.7.8.4"
+guid: 98F9CEFF-E8A2-4E24-ABC4-561B80BB5889
+name: Preserve
+description: Use this domain for words related to preserving the condition of something from decay.
+related: ["7.9.4", "4.4.4.4"]
+questions:
+  - q: What words refer to preserving something from decay?
+    words: preserve, put up, treat, conserve, maintain, keep up, sustain, take care of
+  - q: What words refer to a method of preserving something?
+    words: bottle, can, cure, dry, embalm, freeze, mummify, pickle, refrigerate, salt, smoke, tan
+  - q: What words describe something that has been preserved?
+    words: preserved, well-preserved, unspoiled
+  - q: What words refer to something continuing to be in a good condition?
+    words: stay fresh, keep well, retain its flavor/appearance
+  - q: What words refer to something used to preserve something?
+    words: preservative, salt, formaldehyde, embalming fluid, canning jar
+  - q: What words refer to the process of preserving something?
+    words: preservation, embalming, mummification

@@ -1,0 +1,50 @@
+code: "6.8.9.1"
+guid: DB2232D9-8B17-4920-936F-2B6249C6F7FA
+name: Steal
+description: >-
+  Use this domain for words related to stealing something--to take something that does not
+  belong to you.
+louwNidaCodes: 57U Steal, Rob
+questions:
+  - q: What words refer to stealing something?
+    words: >-
+      steal, filch, help yourself to, lift, nick, pinch, purloin, rip off, rustle, take,
+      walk off with
+  - q: What words refer to stealing something that is not very valuable?
+    words: pilfer, snitch, swipe, petty larceny
+  - q: What words refer to stealing things from a house or store?
+    words: burgle, burglarize, hold up, knock over, loot, rob (a bank), shoplift
+  - q: What words refer to stealing something from a person?
+    words: rob, mug, pickpocket, pick someone's pocket, snatch someone's purse
+  - q: What words refer to stealing money from your job?
+    words: >-
+      embezzle, misappropriate, have your fingers in the till, embezzlement, corruption,
+      abscond with the money, skim profits
+  - q: What words refer to stealing a vehicle?
+    words: carjacking, hijack, hijacked, hijacking, piracy
+  - q: What do robbers do in order to steal things?
+    words: break in, break down the door, case a joint, crack a safe, pick a lock
+  - q: What words refer to the crime of stealing?
+    words: stealing, burglary, larceny, robbery, shoplifting, theft
+  - q: What words refer to the act of stealing?
+    words: >-
+      banditry, break-in, breaking and entering, embezzlement, hold-up, jewel heist, job,
+      misappropriation, mugging, purse snatching, pick pocketing, pilferage, pilfering,
+      racketeering, raid, robbery, snatch, stick-up, theft
+  - q: What words refer to a person who steals?
+    words: >-
+      bandit, burglar, cutpurse, embezzler, gangster, highwayman, hijacker, kleptomaniac,
+      mugger, pickpocket, pilferer, pirate, plunderer, purse-snatcher, robber, bank robber,
+      train robber, shoplifter, stealer, thief, jewel thief
+  - q: What words describe someone who steals?
+    words: light-fingered, thieving
+  - q: What words refer to something that is stolen?
+    words: loot, the goods, stolen goods, haul, hot items, tainted money
+  - q: What words describe something that is stolen?
+    words: hot, pirated, stolen
+  - q: What do robbers do with the things they steal?
+    words: fence stolen goods, launder money, bury treasure
+  - q: What tools are used by robbers?
+    words: gun, knife, pick, safe cracking tools, skeleton key, mask, gloves, get away car
+  - q: What words refer to catching a thief?
+    words: caught red-handed

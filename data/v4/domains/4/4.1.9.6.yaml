@@ -1,0 +1,13 @@
+code: "4.1.9.6"
+guid: 4405E74C-F64C-4609-8F7B-99BA563D659A
+name: Adopt
+description: Use this domain for words related to adopting a child.
+ocmCodes: 597 Adoption
+louwNidaCodes: 35G Adopt
+questions:
+  - q: What words refer to adopting a child?
+    words: adopt, adoption
+  - q: What words refer to an adopted child?
+    words: adopted child, foster child
+  - q: What words refer to the parent of an adopted child?
+    words: adoptive father, adoptive mother, foster parent

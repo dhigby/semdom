@@ -1,0 +1,34 @@
+code: "2.1.1.1"
+guid: BC8D0AD4-6EBF-4FA0-BC7E-60E8EC9C43DB
+name: Eye
+description: Use this domain for words related to the eye.
+related: ["3.5.6.5"]
+questions:
+  - q: What words refer to an eye?
+    words: eye
+  - q: What are the parts of the eye?
+    words: >-
+      eyebrow, brow, eyelash, lash, eyelid, lid, pupil, cornea, iris, white, eyeball, ball
+      of the eye, corner of the eye, tear duct, retina, eye socket
+  - q: What words describe a person's eyes?
+    words: >-
+      bloodshot, bleary, bleary-eyed, beady eyes, thick (eyebrows), long (eyelashes),
+      blue-eyed, cross-eyed
+  - q: What do the eyes do?
+    words: see, cry, water
+  - q: What words refer to the eyes moving?
+    words: look cross-eyed, roll, flicker, raise, lower, glaze
+  - q: What words refer to the eyelids moving?
+    words: blink, wink, close, open, squint, open wide (in amazement), bat (eyelids), flutter
+  - q: What do people do to their eyes?
+    words: rub (your eyes), cover (your eyes)
+  - q: What do the eyes produce?
+    words: tears
+  - q: >-
+      What words refer to the material that collects in the corner of the eyes while
+      sleeping?
+    words: sleep, sand, matter
+  - q: What words refer to the pupil of the eye getting bigger or smaller?
+    words: dilate
+  - q: What words describe something to do with the eyes?
+    words: optic, retinal

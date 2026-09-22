@@ -1,0 +1,27 @@
+code: "8.4.6.6.1"
+guid: 2351F52A-8822-46AD-99C4-7EF526E94A6F
+name: Again
+description: Use this domain for words referring to something happening again or doing something again.
+questions:
+  - q: What words indicate that an event happens again?
+    words: >-
+      again, once again, once more, yet again, one more time, afresh, fresh, another time,
+      another time
+  - q: What words refer to doing something again?
+    words: do something again, repeat, redo, over, all over again
+    sentence: (Mary washed the dress, but it wasn't clean so) she washed it <again>.
+  - q: What words refer to starting to do something again that you had been doing before?
+    words: return to, go back to, get back to, resume, resumption, bring back, revive, revival
+  - q: What words refer to having to start something again from the very beginning?
+    words: back to square one, make a fresh start
+  - q: What words refer to being back to the same situation that you were in before?
+    words: again, once more
+  - q: What words refer to taking an examination again?
+    words: retake, resit
+  - q: What words refer to something you do again?
+    words: repetition
+  - q: What words indicate that something is done many times?
+    words: >-
+      repeated, repeatedly, recurrent, recurring, repetitive, again and again, over and over
+      again, always, never stop
+    sentence: Mary washed the dress <over and over again>.

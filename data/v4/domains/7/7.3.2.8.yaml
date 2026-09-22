@@ -1,0 +1,40 @@
+code: "7.3.2.8"
+guid: 6BD023F6-730E-44C2-AE8F-78DF967E2E18
+name: Pull
+description: Use this domain for words related to pulling--causing something to move toward you.
+louwNidaCodes: 15Y Pull, Draw, Drag x
+questions:
+  - q: What words refer to pulling something so that it moves toward you?
+    words: pull, pull back, bring back, draw, tug
+  - q: What words refer to pulling something quickly or suddenly?
+    words: jerk, yank, tug
+  - q: >-
+      What words refer to pulling something with a lot of force so that it comes away from
+      the thing it is connected to?
+    words: >-
+      pull something away/from/out/apart, wrench something open/off/away, tear something
+      out/from/away/down
+  - q: >-
+      What words refer to pulling something, but without making it come away from the thing
+      it is connected to?
+    words: pull at, pull on, give something a pull, tug at, give something a tug
+  - q: What words refer to pulling something heavy?
+    words: heave, lug, haul
+  - q: What words refer to pulling something along the ground?
+    words: drag
+  - q: What words refer to pulling something with a rope or chain?
+    words: (no words in English)
+  - q: What words refer to pulling something in some direction?
+    words: pull down, pull up, pull across, pull out
+  - q: What words refer to pulling something onto you?
+    words: pull on, pull over, pull something over on top of you
+  - q: >-
+      What words refer to a vehicle or animal pulling something so that it moves along
+      behind?
+    words: pull, tow, take in tow, draw, trail something behind you
+  - q: What words refer to something being pulled along behind?
+    words: in tow, trailing, trailer
+  - q: What words refer to causing something to move towards you without touching it?
+    words: attract, lure, draw
+  - q: What words refer to two or more people pulling on both ends of something?
+    words: tug of war

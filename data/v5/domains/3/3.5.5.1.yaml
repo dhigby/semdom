@@ -1,0 +1,29 @@
+code: "3.5.5.1"
+guid: 59A95939-44D7-4396-9EF7-3A80C17E9FB1
+name: Obscenity
+description: >-
+  Use this domain for obscene words related to sex, defecation, death, damnation, and other
+  taboo or offensive subjects. It is important to check the appropriateness of including
+  obscene words in the dictionary. It should be the choice of the speakers of the language
+  whether a word should be included or excluded. Obscene words included in the dictionary
+  should be clearly marked as such. Obscenity is often used to heighten the emotion of an
+  expression, and is often used when someone is angry. Obscenity is often associated with
+  sex or defecation. Cursing is often associated with God, religion, or the afterlife.
+  Insults often involve equating a person with an animal that is associated with an
+  undesirable characteristic, questioning someone's parentage/legitimacy, questioning
+  someone's character, or questioning someone's intelligence/sanity.
+questions:
+  - q: What words refer to speech that is considered offensive or improper?
+    words: >-
+      bad language, strong language, swear word, four letter word, curse, obscenities,
+      profanity, swearing, unprintable
+  - q: What words refer to using obscenity?
+    words: swear, curse, cuss
+  - q: What words are used in an obscene way?
+    words: damn, damn it, God damn, Hell, shit, screw, fuck, bastard, son of a bitch, bitch
+  - q: What words describe speech or actions that are obscene?
+    words: >-
+      obscene, coarse, crude, dirty, filthy, improper, indecent, lewd, naughty, profane,
+      risqué, rude, saucy, suggestive, vulgar
+  - q: What words describe someone who uses obscenities a lot?
+    words: foul-mouthed

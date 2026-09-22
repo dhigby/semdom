@@ -1,0 +1,8 @@
+code: "9.6.1.8"
+guid: 251B17BD-5796-43CE-BA10-54140A99A1E0
+name: Equivalence
+description: Use this domain for words indicating equivalence between two things or propositions.
+louwNidaCodes: 89S Equivalence
+questions:
+  - q: What words indicate equivalence?
+    words: that is, that means, i.e.

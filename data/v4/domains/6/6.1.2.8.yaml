@@ -1,0 +1,7 @@
+code: "6.1.2.8"
+guid: 6DD16E6E-FBDB-4DF1-9730-4877651E68F3
+name: Efficient
+description: Use this domain for words related to being efficient.
+questions:
+  - q: What words describe a way of working that is efficient?
+    words: efficient, productive

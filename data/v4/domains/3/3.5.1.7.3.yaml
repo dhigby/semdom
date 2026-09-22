@@ -1,0 +1,21 @@
+code: "3.5.1.7.3"
+guid: 80415FAC-B3D8-4E3C-BDB8-DC92F3C6DAD8
+name: Boast
+description: >-
+  Use this domain for words related to boasting--to say something good about yourself,
+  especially to make it seem that you are better than you really are.
+louwNidaCodes: 33M' Boast
+related: ["4.3.2.3"]
+questions:
+  - q: What words refer to boasting?
+    words: >-
+      boast, brag, claim, crow, bravado, name-drop, praise yourself, swagger, toot your own
+      horn, blow your own trumpet, vaunt yourself
+  - q: What words refer to the act of boasting?
+    words: boasting, bragging, name-dropping
+  - q: What words refer to what is said when boasting?
+    words: boast (n), claim (n)
+  - q: What words describe a person who boasts?
+    words: boastful, vain, proud, big-headed, be all talk, be all bluster
+  - q: What words refer to a person who boasts?
+    words: blowhard, braggart, bighead, name-dropper

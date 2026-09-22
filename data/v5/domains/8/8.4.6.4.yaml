@@ -1,0 +1,11 @@
+code: "8.4.6.4"
+guid: 50C1A392-2928-407A-8306-3C70141E375E
+name: Future
+description: Use this domain for words referring to the future.
+questions:
+  - q: What words are used to refer to the future?
+    words: >-
+      future (n), soon, in the near future, in the distant future, in our children's time,
+      will (be/do/happen), shall, would
+  - q: What words describe something that will exist or happen in the future?
+    words: future (adj), coming, forthcoming, upcoming, in the offing

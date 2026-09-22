@@ -1,0 +1,29 @@
+code: "9.4.3.2"
+guid: EDEB9458-3BDB-4D14-AAA1-6EB457307B9C
+name: Hortative
+description: >-
+  Use this domain for ways of saying that someone should do something. If I say someone
+  should do something, I think it is good that he does it.
+louwNidaCodes: 71D Should, Ought
+questions:
+  - q: What words indicate that the speaker is encouraging or inciting someone to action?
+    words: urge, request, let, why don't, please
+    sentence: >-
+      I <urge> you to help.; I <request> that you help.; <Let> us all do our part.; <Why
+      don't> you do something to help?; <Please> do something to help.
+  - q: What words indicate that something should be done?
+    words: should, ought to, be responsible for, be duty bound
+    sentence: >-
+      We <should> do something to help.; We <ought to> do something to help.; <Should>n't we
+      do something to help?; This building <should> be torn down.
+  - q: What words indicate that something should not be done?
+    words: should not, ought not to, caution
+    sentence: >-
+      We <should not> do anything to hinder them.; We <ought not to> do anything that might
+      harm them.; I <caution> you not to interfere.
+  - q: What words refer to something a person should do?
+    words: duty, responsibility, obligation, onus, requirement
+  - q: What words describe the person who should do something?
+    words: responsible
+  - q: What words describe someone who does what he should?
+    words: dutiful, responsible

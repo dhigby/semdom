@@ -1,0 +1,9 @@
+code: "8.5.2.6"
+guid: 3420B36A-A033-4AF9-A8C4-53F8221EE56E
+name: Away from
+description: Use this domain for words indicating a direction away from something.
+questions:
+  - q: What words indicate that something is moving away from something else?
+    words: toward, towards, away from, inward, inwards, outward, outwards
+  - q: What words indicate that something moves from one place (to another place)?
+    words: from

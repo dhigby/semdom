@@ -1,0 +1,23 @@
+code: "2.4.5"
+guid: 2C401E7F-6CE9-470F-B6B6-FADF7A798536
+name: Rest
+description: Use this domain for words related to resting.
+louwNidaCodes: 23F Tire, Rest
+related: ["5.7"]
+questions:
+  - q: What words refer to resting?
+    words: >-
+      rest, take a rest, have a rest, lie down, put your feet up, relax, laze, take it easy,
+      chill out, take a break, catch your breath, take a breather, take a respite, take a
+      sabbatical, take it easy, unwind, take a vacation, recharge your batteries, repose, at
+      ease, get your breath back, sit back
+  - q: What words describe a person who has rested?
+    words: (feel) rested, energetic, have a lot of energy, refreshed, restored
+  - q: What words refer to a time when someone rests?
+    words: >-
+      rest, relaxation, break, tea/coffee break, siesta, time off, time out, holiday,
+      respite, sabbatical, leisure time
+  - q: Where do workers rest?
+    words: break room, lunchroom, in the shade
+  - q: What words describe a situation that helps someone rest?
+    words: restful, relaxing

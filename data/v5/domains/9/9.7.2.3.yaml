@@ -1,0 +1,16 @@
+code: "9.7.2.3"
+guid: B8E66BB4-140C-45B4-89CE-D9A77B9E5D21
+name: Names of cities
+description: >-
+  Use this domain for the proper names of cities, towns, and villages in the language area.
+  Include the names of important cities outside of the language area if your language has a
+  special name for the city or a different pronunciation for it. It might be good to use a
+  map for this. In fact it is good to include a map of the language area in a published
+  dictionary. If your language area is very large, there may be hundreds or thousands of
+  cities, towns, and villages. In this case you will have to decide which should be included
+  in the dictionary. Or you could decided to list them in a special section.
+questions:
+  - q: What are the names of the cities in the language area?
+    words: London, Washington D.C.
+  - q: What are the names of districts within a city?
+    words: Westminster, Chelsea

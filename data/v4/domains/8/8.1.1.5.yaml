@@ -1,0 +1,25 @@
+code: "8.1.1.5"
+guid: FFA13B7D-5EAA-43BE-8518-51D9AA08F321
+name: Numbered group
+description: >-
+  Use this domain for words related to a group of a particular number of things or people
+  (solo, duo, trio; alone, in threes).
+louwNidaCodes: 60G Pair, Group
+questions:
+  - q: What words refer to a group of a particular number?
+    words: >-
+      single, duo, duet, trio, quartet, quintet, sextet, twins, triplets, quadruplets,
+      quintuplets, sextuplets, twosome, threesome, foursome, fortnight, decade, century,
+      millennium, dozen, score, gross
+  - q: What words indicate that only one person does something?
+    words: alone (adv), solo
+  - q: What words refer to a group of two?
+    words: pair, couple, couplet, brace, dichotomy, deuce, dual, dyad, twain, yoke
+  - q: What words refer to a group of three?
+    words: trilogy, trinity, triple, triumvirate, triune
+  - q: What words indicate that something is done in groups of a certain number?
+    words: >-
+      singly, one by one, two by two, three by three, by ones, by twos, by threes, in pairs,
+      in threes, one at a time, two at a time, three at a time
+  - q: What words indicate that everyone is to get a certain number of something?
+    words: one apiece, two apiece, three apiece, one each, two each, three each

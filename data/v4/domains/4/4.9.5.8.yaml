@@ -1,0 +1,14 @@
+code: "4.9.5.8"
+guid: 62ED8254-E53A-4781-935E-79869619E40A
+name: Dedicate to religious use
+description: Use this domain for words related to dedicating someone or something to religious use.
+louwNidaCodes: 53F Dedicate, Consecrate
+questions:
+  - q: What words refer to dedicating something to religious use?
+    words: dedicate, consecrate, anoint, sanctify, devote, hallow, baptize, circumcise
+  - q: What words describe something that has been dedicated?
+    words: holy, consecrated, sanctified, sacred, devoted, baptized
+  - q: What words describe something that has not been dedicated?
+    words: unholy, common
+  - q: What words refer to improperly using something that has been dedicated?
+    words: desecrate

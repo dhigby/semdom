@@ -1,0 +1,27 @@
+code: "3.1.2.4"
+guid: 878A313B-A201-444E-8BDB-67048D60C63E
+name: Ignore
+description: >-
+  Use this domain for words related to ignoring someone--to not look at, listen to, or talk
+  to someone because you think they are not important or you don't like them.
+related: ["3.1.2.1"]
+questions:
+  - q: What words refer to ignoring someone?
+    words: >-
+      ignore, not pay any attention to, pay no attention to, not take any notice of, take no
+      notice of, don't mind me/her/them, shrug off, not want to know, take someone for
+      granted, avoid, refuse to acknowledge, don't greet
+  - q: What words refer to ignoring something someone says to you?
+    words: ignore, disregard, not take any notice of, not listen to, fall on deaf ears
+  - q: What words refer to ignoring something bad that is happening?
+    words: >-
+      overlook, let it pass, turn a blind eye, shut your eyes to, close your eyes, bury your
+      head in the sand
+  - q: What words refer to ignoring someone by rudely pretending not to see them?
+    words: >-
+      pretend not to notice, pretend not to see, look right through, snub, cut someone dead,
+      shut out
+  - q: >-
+      What words refer to a person in authority ignoring what is good for the people under
+      them?
+    words: trample on, trample underfoot, ride roughshod over

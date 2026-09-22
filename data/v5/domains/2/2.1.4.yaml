@@ -1,0 +1,36 @@
+code: "2.1.4"
+guid: DF2B9D7A-9B90-4704-8BC3-11DCFFE985F4
+name: Skin
+description: Use this domain for words related to the skin.
+questions:
+  - q: What general words refer to the skin?
+    words: skin, hide, dermis, epidermal, epidermis, pore
+  - q: What words refer to thick skin?
+    words: callus, calloused
+  - q: What words refer to a line in the skin?
+    words: line, wrinkle, fold, crease
+  - q: What words refer to spots on a person's skin?
+    words: spot, freckle, birthmark, wart, corn, mole, blemish, blotch, scar
+  - q: What words refer to small sores in the skin?
+    words: pimple, acne, zit, whitehead, blackhead
+  - q: What words refer to the color of a person's skin?
+    words: skin color, coloring, complexion, pigment
+  - q: What words describe the color of a person's skin?
+    words: >-
+      flesh (colored), white, black, blotchy, red, bloom, blush, fair, dark, florid,
+      glowing, sanguine, swarthy, albino
+  - q: What words describe the color of a person's skin when they are sick or afraid?
+    words: >-
+      pale, anemic, ashen, bloodless, cadaverous, deathly, flushed, ghastly, lurid, pallid,
+      pallor, pale-faced, pale as death, pale as a ghost, pasty, sallow, wan, white as a
+      sheet, go white, turn blue
+  - q: What words describe the condition of a person's skin?
+    words: >-
+      skin condition, clear, oily, dry, cracked, loose, smooth, soft, rough, flake, scale,
+      peel, scarred
+  - q: What words describe your skin when you have been in the sun?
+    words: sunburn, tan, tanned, suntan, burn, blister
+  - q: >-
+      What words refer to the small bumps on your skin when you are cold, ill, or
+      frightened?
+    words: goose flesh, goose pimples, goose bumps

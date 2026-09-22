@@ -1,0 +1,17 @@
+code: "9.1.3"
+guid: 0037693A-AE42-4E5C-85F5-10A05482D4EE
+name: Thing
+description: Use this domain for general words referring to things.
+questions:
+  - q: What general words refer to a thing?
+    words: thing, something, article, artifact, entity, item, object, wares
+  - q: What words refer to a group of things of different types?
+    words: things, oddments, paraphernalia, stuff, odds and ends, bits and pieces, knick-knacks
+  - q: What words are used to refer to something when you can't remember what it is called?
+    words: what's its name, thingy, thingamajig, whatchamacallit, whatsit, such and such
+  - q: >-
+      What words are used to end a list of things to indicate that there are more things in
+      the list?
+    words: >-
+      et cetera, etc., and what not, and so forth, and the like, and on and on, ...
+      [ellipsis]

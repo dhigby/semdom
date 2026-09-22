@@ -1,0 +1,14 @@
+code: "9.6.3.1"
+guid: 638679C7-1C7C-41DA-AB60-0AC7E98FCD72
+name: Markers of transition
+description: >-
+  Use this domain for conjunctions that simply move the discourse forward without any
+  specific relationship indicated between what comes before and what comes after.
+louwNidaCodes: 91A Markers of Transition
+questions:
+  - q: >-
+      What words are used to join two clauses or sentences without specifying the
+      relationship between them?
+    words: >-
+      and, then, but, now, it happened that, it came to pass that, one day, my next topic
+      is, my next point is, now about

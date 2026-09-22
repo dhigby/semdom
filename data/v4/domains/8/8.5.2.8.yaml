@@ -1,0 +1,25 @@
+code: "8.5.2.8"
+guid: 6B1EEEBD-2433-4F39-9E67-7AC4DD0FE20A
+name: North, south, east, west
+description: Use this domain for words referring to the directions of the compass.
+louwNidaCodes: 82A North, South, East, West
+questions:
+  - q: What general words refer to a direction of the compass?
+    words: direction, heading, point of the compass, degree, bearing, cardinal points
+  - q: What words refer to a direction of the compass?
+    words: >-
+      north, south, east, west, northeast, northwest, southeast, southwest, northward,
+      southward, eastward, westward, northerly, southerly, westerly, easterly, up north,
+      down south, sunrise, sunset
+  - q: What words describe something that is toward one of the directions of the compass?
+    words: >-
+      northern, southern, eastern, western, boreal, austral, oriental, occidental,
+      Midwestern, Far East
+  - q: What words describe something going in one of the directions?
+    words: northbound, southbound, eastbound, westbound
+  - q: >-
+      What words describe a person who is from a part of the country that is north, south,
+      east, or west?
+    words: northerner, southerner, easterner, westerner
+  - q: What words refer to a compass?
+    words: compass, needle

@@ -1,0 +1,27 @@
+code: "8.4.8.1"
+guid: 2FC69F71-E9F1-45F9-B88E-BDAF97457FC3
+name: Quick
+description: >-
+  Use this domain for words referring to doing something at a quick speed or something
+  happening quickly.
+related: ["7.2.1.2"]
+questions:
+  - q: What words describe an action that is done quickly?
+    words: >-
+      fast, quick, quickly, quickness, speedy, speeding, speedily, speed, hasty, hastily,
+      haste, rapid, rapidly, rapidity, hurry, hurried, hurriedly, in a hurry, swift,
+      swiftly, swiftness, rush, rush into, rush through, in a rush, express
+  - q: What words describe an action that is done extremely quickly?
+    words: at light speed, faster than a speeding bullet, just a blur
+  - q: What words describe something that happens quickly?
+    words: >-
+      happen so fast, in the twinkling of an eye, came and went so quickly, it was all over
+      in a minute
+  - q: What words refer to doing something quickly?
+    words: to speed, move fast, hurry, hasten, be brief
+  - q: What words refer to causing someone to do something quickly?
+    words: hurry (someone), rush (someone)
+  - q: What do you say to someone when you want him to hurry?
+    words: >-
+      Hurry up! Move it! Let's go, let's go! Quick! Faster! Speed it up! Get a move on!
+      Giddy up! (horse)

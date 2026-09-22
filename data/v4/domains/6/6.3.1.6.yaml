@@ -1,0 +1,17 @@
+code: "6.3.1.6"
+guid: 49C878DD-277F-4BC9-B8AD-9BA192709108
+name: Cat
+description: Use this domain for words related to cats.
+questions:
+  - q: What words refer to cats?
+    words: cat, feline
+  - q: What words refer to male or female cats?
+    words: tom, tomcat
+  - q: What words refer to young cats?
+    words: kitten
+  - q: What words refer to types of cats?
+    words: Angora, longhaired, shorthaired, Persian, Siamese, tabby
+  - q: What do cats do?
+    words: wash themselves, groom, hunt, stalk
+  - q: What sounds do cats make?
+    words: meow, mew, caterwaul, hiss, purr

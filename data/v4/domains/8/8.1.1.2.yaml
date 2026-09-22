@@ -1,0 +1,16 @@
+code: "8.1.1.2"
+guid: 816490A4-2CAC-472A-BBB0-EAFBB9BBE4A8
+name: Ordinal numbers
+description: >-
+  Use this domain for words related to the ordinal numbers (first, second, third)--the
+  numbers used to indicate the order of something in a series, such as "the first child".
+louwNidaCodes: 60C First, Second, Third, Etc.
+related: ["8.4.5.1.2", "7.5"]
+questions:
+  - q: What are the ordinal numbers?
+    words: >-
+      first, second, third, fourth, fifth, sixth, seven, eighth, ninth, tenth, eleventh,
+      twelfth, thirteenth, hundredth, thousandth
+    sentence: >-
+      My parents had five boys and I am the <second>.; This book is the <third> in the
+      series.

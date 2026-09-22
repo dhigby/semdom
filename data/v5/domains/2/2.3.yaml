@@ -1,0 +1,25 @@
+code: "2.3"
+guid: 38BBB33A-90BF-4A2C-A0E5-4BDE7E134BD9
+name: Sense, perceive
+description: >-
+  Use this domain for general words related to all the senses--sight, hearing, smell, taste,
+  and feeling. Some languages may not distinguish some of these senses, and some languages
+  may have words for other senses. There are also other senses that animals have. If your
+  language has words for other senses, include them here.
+ocmCodes: 151 Sensation and Perception
+louwNidaCodes: 24 Sensory Events and States; 24G General Sensory Perception
+questions:
+  - q: What words refer to sensing something using one of the senses?
+    words: feel, sense, perceive, notice, detect, distinguish
+  - q: What words refer to the ability to sense something?
+    words: sense, perception
+  - q: What words refer to all the senses?
+    words: senses
+  - q: What words refer to something that you sense?
+    words: feeling, sensation, perception
+  - q: What words describe something that can be sensed?
+    words: perceptible, noticeable, detectable, distinguishable
+  - q: What words describe something that cannot be sensed?
+    words: unperceived, imperceptible, unnoticeable, undetectable, undetected, indistinguishable
+  - q: What words describe someone who can sense things better than other people?
+    words: sensitive, perceptive, acute sense

@@ -1,0 +1,20 @@
+code: "8.3.3.3.7"
+guid: 97ED5AF8-29CA-428D-8AC5-C61B61A963FD
+name: Multicolored
+description: >-
+  Use this domain for words describing something that is multicolored--having many different
+  colors.
+questions:
+  - q: What words describe something that has many different colors?
+    words: >-
+      colorful, multicolored, gaudy, garish, harlequin, multihued, many-colored, many-hued,
+      brightly colored, variegated, polychrome, polychromatic, kaleidoscope, kaleidoscopic,
+      play of colors, motley, pepper-and-salt, grizzled, mosaic
+  - q: What words describe something that is colored with lines?
+    words: >-
+      lined, striped, streaked, checkered, plaid, tartan, checked, marbled, banded, barred,
+      cross-striped, damask
+  - q: What words describe something that is colored with spots?
+    words: spotted, speckled, dotted, blotchy, dappled, mealy, mottled, pied, spotty
+  - q: What words describe something that is colored like a rainbow?
+    words: rainbow-hued, iridescence, iridescent, prismatic, opalescence, opalescent, pearly

@@ -1,0 +1,30 @@
+code: "2.5.6.4"
+guid: D83EBE2C-C1D6-49EC-A4A9-1CDCED843387
+name: Lose consciousness
+description: >-
+  Use this domain for words related to losing consciousness, including fainting, being
+  knocked out, and anesthesia.
+related: ["2.5.6.6"]
+questions:
+  - q: What words refer to being conscious?
+    words: be conscious, consciousness, awake
+  - q: What words refer to losing consciousness?
+    words: >-
+      lose consciousness, go unconscious, faint, pass out, swoon, be knocked out, go into a
+      coma, collapse
+  - q: What words refer to the state of being unconscious?
+    words: be unconscious, fainted, passed out, coma, be in a coma, be out, insensible
+  - q: What words refer to something causing someone to lose consciousness?
+    words: knock out, put out, put under (anesthesia), stupefy
+  - q: What words refer to regaining consciousness?
+    words: regain consciousness, come to, come out of the coma
+  - q: What words refer to causing a person to regain consciousness?
+    words: bring someone around, resuscitate
+  - q: What words refer to a person who deals with loss of consciousness?
+    words: anesthesiologist
+  - q: What causes someone to lose consciousness?
+    words: hit on head, be sick, be in pain, anesthesia
+  - q: What happens or what symptoms occur when someone begins to lose consciousness?
+    words: feel faint, feel dizzy, stagger, become incoherent
+  - q: What are the symptoms of being unconscious?
+    words: be unresponsive, be like dead

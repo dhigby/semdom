@@ -1,0 +1,7 @@
+code: "4.4.4.2"
+guid: 7EC98665-275F-4D57-8022-2740B9E90059
+name: Show sympathy, support
+description: Use this domain for words related to showing sympathy and support to someone in trouble.
+questions:
+  - q: What words refer to showing sympathy for someone in trouble?
+    words: feel sympathy, empathize with, feel with, sympathetic, comfort, console, compassion

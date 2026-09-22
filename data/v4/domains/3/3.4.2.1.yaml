@@ -1,0 +1,69 @@
+code: "3.4.2.1"
+guid: 6142C173-161A-47D5-BDEC-C827518FD67C
+name: Sad
+description: >-
+  Use this domain for words related to feeling sad--to feel bad because something bad has
+  happened (such as losing something, hearing bad news, or watching something bad
+  happening).
+louwNidaCodes: 25W Sorrow, Regret; 25X Discouragement
+related: ["2.6.6.4"]
+questions:
+  - q: What words refer to feeling sad?
+    words: >-
+      be sad, feel sad, feel down, grieve, mourn, feel sorry for yourself, sulk, wallow in,
+      feel hurt
+  - q: What words refer to the feeling of sadness?
+    words: >-
+      sadness, dejection, depression, despondency, dismal feeling, gloom, gloominess, grief,
+      heartache, self-pity, misery, pain, sorrow, unhappiness, woe
+  - q: What words describe someone who feels sad?
+    words: >-
+      sad, crestfallen, dejected, disappointed, discouraged, doleful, down, downcast,
+      downhearted, fed up, forlorn, gloomy, glum, grouchy, grumpy, with a heavy heart,
+      homesick, low, melancholy, morose, mournful, pensive, sober (adj), solemn, sorry,
+      sorrowful, sullen, unhappy, wistful, woeful
+  - q: What words refer to feeling sad because someone died?
+    words: grief, grieve, mourn, be in mourning
+  - q: What words refer to feeling very sad?
+    words: >-
+      agony, anguish, desolate, despair, be in despair, disconsolate, grief stricken,
+      heartbroken, inconsolable, miserable, misery, suicidal, woe
+  - q: What words refer to feeling sad for a long time?
+    words: depressed, despondent, down, be down in the dumps, feel blue, low, mope
+  - q: What words describe a time when a person feels sad?
+    words: sad, unhappy, miserable
+  - q: What words describe a person who usually feels sad?
+    words: >-
+      discouraged, discouragement, depressed, depression, feel down, grouch, unhappy,
+      unhappiness
+  - q: What words refer to causing someone to feel sad?
+    words: >-
+      sadden, aggrieve, disappoint, depress, discourage, distress, grieve, hurt, sober (v),
+      sting, torment, make someone sad, make someone unhappy, get someone down, break
+      someone's heart, drive someone to despair
+  - q: What words refer to something that causes someone to feel sad?
+    words: >-
+      heartbreak, heartache, discouragement, grief, downer, tragedy, bitter pill to swallow,
+      woe
+  - q: What words describe something that causes someone to feel sad?
+    words: sad, depressing, grievous, heartbreaking, plaintive, mournful, tragic
+  - q: What words describe a place that causes someone to feel sad?
+    words: dismal, depressing, dreary, bleak, cheerless
+  - q: What do people do when they are sad?
+    words: hang your head, cry, frown, bewail, groan, lament, lamentation, sigh, wail
+  - q: What sounds does a person make when he is sad?
+    words: groan, moan, sigh
+  - q: >-
+      What do people say when something bad happens and they want to say they are sad about
+      it?
+    words: >-
+      it's a pity, it's a shame, too bad, unfortunately, sadly, regrettably, it's
+      unfortunate, it's sad, more's the pity, unhappily, I'm sorry, sorry to hear, sorry
+      (that), wish that ... not (something hadn't happened), tragically, feel sorry for
+      someone
+  - q: What words describe something that you wish had not happened?
+    words: unfortunate, regrettable
+  - q: What do people say when they don't want someone to feel sad?
+    words: cheer up
+  - q: What words refer to helping someone who feels sad to feel good?
+    words: comfort, console, reassure, solace

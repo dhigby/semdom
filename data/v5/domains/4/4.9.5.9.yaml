@@ -1,0 +1,15 @@
+code: "4.9.5.9"
+guid: 79F3B53A-EB56-4188-87F8-48317F76E7CE
+name: Fasting
+description: Use this domain for words related to fasting--to not eat for a period of time.
+ocmCodes: 785 Asceticism
+louwNidaCodes: 53H Fasting
+questions:
+  - q: What words refer to not eating for a period of time?
+    words: fast, deny (oneself)
+  - q: What words refer to a person who denies himself for religious purposes?
+    words: ascetic
+  - q: What words refer to the general practice of denying oneself something?
+    words: asceticism
+  - q: What words refer to a time when a person fasts or denies himself in some other way?
+    words: fast, Lent, Ramadan

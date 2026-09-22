@@ -1,0 +1,8 @@
+code: "6.8.4"
+guid: 67931F1C-9A0C-4D18-9762-E553C132256C
+name: Financial transaction
+description: Use this domain for words related to financial transactions.
+ocmCodes: 425 Acquisition and Relinquishment of Property; 430 Exchange
+questions:
+  - q: What general words refer to financial transactions?
+    words: transact, transaction

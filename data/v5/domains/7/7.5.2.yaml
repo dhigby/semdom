@@ -1,0 +1,41 @@
+code: "7.5.2"
+guid: 08239F53-DAA5-47A6-9F39-29A9064B0C27
+name: Join, attach
+description: Use this domain for words related to joining two or more things together.
+louwNidaCodes: 18 Attachment; 18B Fasten, Stick To; 63B Unite
+questions:
+  - q: What words refer to joining two or more things together?
+    words: >-
+      join, join together, agglutinate, assemble, bolt, cement, chain, clip, combine,
+      connect, couple, crimp, fasten, fetter, fuse, glue, grapple, handcuff, hitch, hook
+      together, knit, latch, link, manacle, merge, paste, pin, plaster, put together, put
+      up, rivet, secure, sew, shackle, solder, staple, stick, stick together, tape (up),
+      unite, unify, weld
+  - q: What words refer to joining one thing to another?
+    words: >-
+      affix, anchor, annex, attach, batten, engraft, fix to, graft, moor, nail, screw,
+      secure, stick to, tack
+  - q: What words refer to things joining together?
+    words: adhere, bind, cleave, cling, cohere, combine, fuse, merge, stick together, unite
+  - q: What words refer to something joining itself to something?
+    words: attach to, bind to, fasten to, stick to, take hold of
+  - q: What words refer to the act of joining things together?
+    words: joining, attachment, bonding, combination, fusion, unification, union, welding
+  - q: What words describe things that have been joined?
+    words: >-
+      joined, affixed, anchored, assembled, attached, bolted, cemented, chained, connected,
+      fastened, fixed to, fused, glued, handcuffed, manacled, nailed, pasted, pinned,
+      plastered, riveted, sewn, shackled, stapled, stick, stuck, taped, united, unified,
+      welded
+  - q: What words refer to something made by joining things together?
+    words: >-
+      union, unity, assembly, assemblage, bundle, ensemble, merger, trinity, triumvirate,
+      partnership, compound, couple, coupling, conglomerate, combination, construct (n)
+  - q: What words refer to something that is joined to something else?
+    words: attachment
+  - q: What words refer to the place where two things are joined together?
+    words: join (n), joint, junction, connection, contact point, intersection, seam
+  - q: What words refer to how well things are joined together?
+    words: bond, coherent, fast, secure, stay, strong (joint/bond), weak (joint/bond), stuck
+  - q: What words refer to reuniting things that have come apart?
+    words: reunite, reassemble, rejoin, re-glue, reattach, refasten, put back together

@@ -1,0 +1,10 @@
+code: "7.2.4.2.2"
+guid: FFFA74FB-5B5C-453F-9120-94686033D894
+name: Swim
+description: Use this domain for words related to swimming.
+louwNidaCodes: 15H' Swim
+questions:
+  - q: What words refer to swimming?
+    words: >-
+      swim, dog paddle, stroke, kick, breaststroke, freestyle, backstroke, swim underwater,
+      tread water, wade

@@ -1,0 +1,9 @@
+code: "3.3.4.3"
+guid: B6BAA8BF-7691-431D-8715-3937372B9DA0
+name: Exempt
+description: Use this domain for words related to being exempt from a law or obligation.
+questions:
+  - q: What words refer to being exempt from a law or obligation?
+    words: >-
+      exempt, free, not bound by, not answerable to, immune from prosecution, privileged,
+      excused

@@ -1,0 +1,19 @@
+code: "4.3.4.2"
+guid: 87D344AC-94CC-49D6-9878-EBC86A933033
+name: Help
+description: Use this domain for words related to helping someone.
+louwNidaCodes: 35A Help
+questions:
+  - q: What words refer to helping someone?
+    words: >-
+      help, be of help, help out, with someone's help, aid (v), come to someone's aid,
+      assist, be of assistance, support, lend a hand, do your bit, rally round
+    sentence: >-
+      His father <helped> John build his house.; John built his house <with> his father's
+      <help>.
+  - q: What words refer to what is done to help?
+    words: help (n), assistance, support (n), aid (n)
+  - q: What is a person called who helps another?
+    words: helper, aide, accomplice, assistant
+  - q: What words describe a person who helps another?
+    words: helpful, accommodating, cooperative, obliging

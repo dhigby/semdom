@@ -1,0 +1,51 @@
+code: "1.6.1.9"
+guid: 38473463-4B92-4681-8FD0-0ACA0342E88A
+name: Small animals
+description: >-
+  Use this domain for the names of worms, animals with shells, and other animals that do not
+  fit into any of the other categories.
+ocmCodes: 136g Amphibian, worm; 136j Fish and Mollusk
+louwNidaCodes: 4E Fishes and Other Sea Creatures
+questions:
+  - q: What general words refer to small animals such as worms?
+    words: worm, shellfish
+  - q: What words refer to one-celled animals (phylum Protozoa)?
+    words: bacteria, germ, virus
+  - q: What words refer to sponges? (phylum Porifera)?
+    words: sponge
+  - q: What words refer to water animals with tentacles (phylum Coelenterata)?
+    words: coral, sea anemone, Portuguese man-of-war, jellyfish, hydra, medusa
+  - q: What words refer to flatworms (phylum Platyhelminthes)?
+    words: flatworm, liver fluke, intestinal worm, tapeworm
+  - q: What words refer to roundworms (phylum Nematoda)?
+    words: roundworm, hookworm, pinworm
+  - q: What words refer to rotifers (phylum Rotifera)?
+    words: rotifer
+  - q: What words refer to mollusks (phylum Mollusca)?
+    words: >-
+      mollusk, snail, slug, abalone, oyster, scallop, mussel, clam, nautilus, cuttlefish,
+      octopus, squid, conch
+  - q: What words refer to segmented worms (phylum Annelida)?
+    words: segmented worm, earthworm, leech
+  - q: What words refer to walking worms (phylum Onychophora)?
+    words: velvet worm, walking worm
+  - q: What words refer to crustaceans (phylum Arthropoda, class Crustacea)?
+    words: crustacean, shrimp, barnacle, pill bug, lobster, crab, crawfish, crayfish
+  - q: >-
+      What words refer to centipedes--animals with a body with many segments and two legs on
+      each segment (phylum Arthropoda, class Chilopoda)?
+    words: centipede
+  - q: >-
+      What words refer to millipedes--animals with a body with many segments and four legs
+      on each segment (phylum Arthropoda, class Diplopoda)?
+    words: millipede
+  - q: What words refer to horseshoe crabs (phylum Arthropoda, class Merostomata)?
+    words: horseshoe crab
+  - q: >-
+      What words refer to brachiopods--animals with two shells and two arms (phylum
+      Brachiopoda)?
+    words: brachiopod, lamp shell
+  - q: What words refer to animals with spiny skins (phylum Echinodermata)?
+    words: echinoderm, sea cucumber, sea urchin, sand dollar, sea star, starfish, brittle star
+  - q: What words refer to arrow worms (phylum Chaetognatha)?
+    words: arrow worm

@@ -1,0 +1,13 @@
+code: "3.5.9.8"
+guid: CE7A3ECA-62D0-1EF3-9D0E-3604EAD1618A
+name: Social media, online messaging
+description: >-
+  Use this domain for words related to communicating with others through social media and
+  online messaging services.
+questions:
+  - q: What words refer to social media?
+    words: social media, platform, feed, timeline
+  - q: What words refer to things people do on social media?
+    words: post, share, like, comment, follow, block, tag, upload a photo
+  - q: What words refer to messaging or calling people online?
+    words: chat, message, group, video call, voice note, forward

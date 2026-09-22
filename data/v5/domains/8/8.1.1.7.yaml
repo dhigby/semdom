@@ -1,0 +1,9 @@
+code: "8.1.1.7"
+guid: 0E250E72-6C3F-424f-9E62-2DCC9729D817
+name: Number series
+description: >-
+  Use this domain for other series of numbers that are different from those in the previous
+  domains.
+questions:
+  - q: What words refer to something made up of a certain number of parts?
+    words: duplex, tandem, tripartite

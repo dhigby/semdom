@@ -1,0 +1,18 @@
+code: "4.1.9.3"
+guid: 04370E1F-25AA-4D9E-97C5-DE9B59156666
+name: Widow, widower
+description: >-
+  Use this domain for words referring to widows and widowers. Some languages also have words
+  for a parent who has lost a child, someone who has lost a brother or sister, or a general
+  word for someone who has lost a relative.
+questions:
+  - q: What words are used to refer to someone whose husband or wife has died?
+    words: widow, widower, dowager
+  - q: What words refer to the death of a spouse?
+    words: be widowed, widowhood, lose your husband/wife
+  - q: What words are used when a person marries again?
+    words: remarry, second marriage
+  - q: When a person remarries, what words are used of their first spouse?
+    words: first wife, first husband
+  - q: What words refer to someone who has a relative who has died?
+    words: bereaved

@@ -1,0 +1,8 @@
+code: "4.2.2"
+guid: C4B110CF-D968-4BC6-AC0C-7E70CBAD2756
+name: Social event
+description: Use this domain for words referring to a social event.
+louwNidaCodes: 51 Festivals
+questions:
+  - q: What general words refer to a social event?
+    words: event, show, special day, gathering, meal, observance

@@ -1,0 +1,23 @@
+code: "5.2.2.2"
+guid: 02D404D7-F3D7-492C-92A0-C6C9FF1A1908
+name: Meal
+description: Use this domain for words related to a meal.
+questions:
+  - q: What general words refer to a time when people eat?
+    words: meal, mealtime
+  - q: What words refer to a meal eaten at a particular time of day?
+    words: breakfast, lunch, supper, brunch, mid afternoon snack, midnight snack, tea, luncheon
+  - q: What words refer to the main meal of the day?
+    words: dinner
+  - q: What words refer to a small meal?
+    words: snack, light breakfast, light meal
+  - q: What words refer to a meal eaten outside?
+    words: picnic
+  - q: What words refer to eating a meal?
+    words: dine, breakfast (v), lunch (v), snack (v)
+  - q: What do people say at the beginning of a meal?
+    words: Let's say grace. Let's thank the Lord for the food. Let's eat. Dig in.
+  - q: What do people say when they want something?
+    words: (Please) pass (the salt). May I have (the salt, please).
+  - q: What do people say when they are done eating?
+    words: Thank you. May I be excused.

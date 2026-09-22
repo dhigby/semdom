@@ -1,0 +1,13 @@
+code: "9.1.2.4"
+guid: ECAFF061-6A12-4ad6-B818-9B140A9A3E11
+name: Design
+description: >-
+  Use this domain for words referring to designing something--to decide and plan how
+  something new will look and work.
+questions:
+  - q: What words refer to designing something?
+    words: design, plan
+  - q: What words refer to the way something is designed?
+    words: design
+  - q: What words refer to someone who designs things?
+    words: designer, architect, planners

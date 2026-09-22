@@ -1,0 +1,18 @@
+code: "4.7.9.6"
+guid: BB4E0A69-DB20-4757-BEFF-5DCB1C5E0F92
+name: Oppress
+description: >-
+  Use this domain for words related to oppressing someone or a particular group of
+  people--when a person uses his power or authority to harm others who are innocent.
+louwNidaCodes: 39I Persecution
+questions:
+  - q: What words refer to oppressing someone?
+    words: oppress, bully, harass, hound, persecute, repress, tyrannize
+  - q: What words refer to the act or practice of oppressing people?
+    words: oppression, harassment, persecution, tyranny
+  - q: What words refer to a person who oppresses?
+    words: oppressor, persecutor, bully, slave driver, tyrant, dictator
+  - q: What words describe a person who is oppressed?
+    words: oppressed, persecuted, tyrannized
+  - q: What words describe a person who oppresses?
+    words: oppressive, tyrannical, cruel

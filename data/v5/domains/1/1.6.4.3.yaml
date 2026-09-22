@@ -1,0 +1,44 @@
+code: "1.6.4.3"
+guid: CB99A086-8C6D-4F90-81DB-6AFA69AE5455
+name: Animal sounds
+description: >-
+  Use this domain for the sounds animals make. It is necessary to think through the sounds
+  each type of animal makes, especially the important ones.
+ocmCodes: 136d Sounds
+related: ["2.3.2.3"]
+questions:
+  - q: What general words refer to the sounds of animals?
+    words: cry, call, scream
+  - q: What sounds do cows make?
+    words: moo, low, bellow, snort
+  - q: What sounds do horses make?
+    words: neigh, whinny, bray (donkey)
+  - q: What sounds do sheep make?
+    words: baa, bleat
+  - q: What sounds do pigs make?
+    words: grunt, snort, squeal
+  - q: What sounds do dogs make?
+    words: bark, bay, howl, yap, growl, snap, snarl, whimper, whine, woof woof, yelp, yowl
+  - q: What sounds do cats make?
+    words: meow, mew, caterwaul, hiss, purr
+  - q: What sounds do lions make?
+    words: roar
+  - q: What sounds do mice make?
+    words: squeak
+  - q: What sounds do birds make?
+    words: >-
+      sing, song, cry, call, birdcall, birdsong, caw (crow), chatter, cheep, chirp, coo
+      (dove), gaggle, gobble (turkey), honk (goose), hoot (owl), peep, quack (duck),
+      screech, squawk, trill, trumpet, tweet, twitter, warble, whir, whistle
+  - q: What sounds do chickens make?
+    words: cackle, cluck, crow, cockle doodle doo
+  - q: What sounds do snakes make?
+    words: hiss, rattle
+  - q: What noises do frogs make?
+    words: croak, rivet
+  - q: What sounds do crocodiles make?
+    words: roar
+  - q: What sounds do fish make?
+    words: splash
+  - q: What sounds do insects make?
+    words: buzz, chirp, chirr, drone, whine, gnaw

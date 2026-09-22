@@ -1,0 +1,53 @@
+code: "5.2.3.4"
+guid: EFFC49DD-6322-4302-899C-4CF540F0E2E4
+name: Prepared food
+description: >-
+  Use this domain for words referring to prepared food. Cultures vary widely in the number
+  and types of foods they prepare, and in how they classify them. For instance the English
+  distinction between main dish and side dish is not found in the classification system of
+  other languages. If your language has well-recognized subcategories, you can set up a
+  separate subdomain for each. The questions below are based on the main ingredient in the
+  dish.
+ocmCodes: 263 Condiments
+louwNidaCodes: 5B Condiments
+questions:
+  - q: What general words refer to prepared food?
+    words: cooked food, prepared food, dish, course
+  - q: What words refer to a major class of prepared food?
+    words: >-
+      main dish, side dish, meat dish, casserole, vegetable, staple, bread, soup, salad,
+      fruit, condiment, dessert, candy, cookie, sweets, savories, snack
+  - q: What general words refer to a food made primarily from meat?
+    words: meat dish, main dish, main course
+  - q: What types of foods are made primarily from meat?
+    words: >-
+      roast beef, steak, fried chicken, fish and chips, hamburger, hot dog, pizza,
+      spaghetti, casserole, lasagna, stew
+  - q: What foods are made primarily from staple foods?
+    words: >-
+      mashed potatoes and gravy, pasta, cooked rice, stuffing, oatmeal, porridge, cereal,
+      mush
+  - q: What types of bread are there?
+    words: >-
+      bread, pastry, brown bread, white bread, biscuit, muffin, roll, sweetbread, sandwich,
+      tortilla, toast, loaf
+  - q: What foods are made primarily from fruit?
+    words: cranberry sauce, applesauce, fruit salad
+  - q: What foods are made primarily from vegetables?
+    words: side dish, vegetable, carrot sticks, onion rings
+  - q: What foods are made primarily from leaves and stems?
+    words: salad, tossed salad, green salad, coleslaw
+  - q: What words refer to foods that contain a lot of water and are boiled?
+    words: soup, tomato soup, split green pea soup, clam chowder, broth, stew, gravy
+  - q: >-
+      What types of condiments are there (foods that people only eat a little of, because
+      they are expensive, strong tasting, or are added to other foods to flavor them)?
+    words: >-
+      condiment, garnish, pickle, olive, black olive, green olive, tomato sauce, ketchup,
+      mustard, mayonnaise, peanut butter, jam, jelly, preserves
+  - q: What words refer to sweet foods?
+    words: >-
+      dessert, sweet (n), cake, ice cream, pie, cobbler, cookie, cinnamon roll, candy,
+      chocolate, chocolate bar, pudding, lollipop, syrup, treacle
+  - q: What foods are eaten away from home (for instance on a journey or at work)?
+    words: sack lunch, picnic lunch, dried food, C-rations, fast food

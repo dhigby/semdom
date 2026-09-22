@@ -1,0 +1,7 @@
+code: "6.8.2.5"
+guid: DD830047-D7F5-4010-A8EA-AE20468A0CBF
+name: Greedy
+description: Use this domain for words related to being greedy.
+questions:
+  - q: What words refer to wanting more money?
+    words: greedy, greed, grasping, materialistic

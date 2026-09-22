@@ -1,0 +1,7 @@
+code: "5.3.9"
+guid: 72D9B7CD-AA06-4F7B-A66B-B992171D2CD4
+name: Style of clothing
+description: Use this domain for words related to clothing styles.
+questions:
+  - q: What words describe the style of your clothing?
+    words: style, stylish, in style, fashion, out of fashion, modern, traditional, old-fashioned

@@ -1,0 +1,7 @@
+code: "3.2.3.2"
+guid: E3300171-D7B2-4FB4-A103-E8FDCF3FF2ED
+name: Area of knowledge
+description: Use this domain for words referring to an area of knowledge.
+questions:
+  - q: What words refer to an area of knowledge?
+    words: area, field, world, domain, realm, sphere, branch, province

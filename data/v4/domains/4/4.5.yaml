@@ -1,0 +1,7 @@
+code: "4.5"
+guid: AAD7C9B0-AFF3-4684-86D5-657A20E39288
+name: Authority
+description: Use this domain for words related to authority.
+questions:
+  - q: What words refer to authority?
+    words: authority, power, dominion, hegemony, control, right

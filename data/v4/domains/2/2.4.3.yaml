@@ -1,0 +1,17 @@
+code: "2.4.3"
+guid: 2DAEDE19-CE5F-46b6-AE68-32D6092441F1
+name: Energetic
+description: Use this domain for words related to being energetic.
+questions:
+  - q: What words describe someone who is energetic?
+    words: >-
+      energetic, vigorous, be full of energy, bursting with energy, dynamic, hyperactive,
+      tireless, boisterous
+  - q: What words describe someone who is energetic and happy?
+    words: >-
+      lively, vivacious, animated, be full of beans, bright and breezy, be a live wire, feel
+      alive
+  - q: What words describe energetic activity or behavior?
+    words: energetic, vigorous, tireless, lively, animated
+  - q: What words refer to the strength or ability to be energetic?
+    words: energy, vigor, get-up-and-go, vitality, vim and vigor, oomph

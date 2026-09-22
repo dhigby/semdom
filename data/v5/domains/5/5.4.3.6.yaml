@@ -1,0 +1,13 @@
+code: "5.4.3.6"
+guid: 84D67C87-86FF-4E71-8A26-ABE048132F8F
+name: Shave
+description: Use this domain for words related to shaving.
+questions:
+  - q: What words refer to shaving off your hair?
+    words: shave
+  - q: What tools are used to shave?
+    words: >-
+      razor, safety razor, razor blade, razor strap, shaving cream, shaving soap, shaving
+      brush
+  - q: What words describe someone who has shaved?
+    words: clean-shaven

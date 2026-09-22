@@ -1,0 +1,10 @@
+code: "6.6.4.1"
+guid: 0B7BFD0A-249C-45B6-9427-2C17AE00BF37
+name: Cordage
+description: Use this domain for words related to working with cords and ropes.
+ocmCodes: 283 Cordage; 284 Knots and Lashing
+questions:
+  - q: What words refer to working with cords and ropes?
+    words: cordage, knot, lashing, macramé
+  - q: What words refer to something becoming unraveled?
+    words: unravel, come unraveled, be all unraveled, ravel

@@ -1,0 +1,7 @@
+code: "8.4.6.6"
+guid: 457231C8-4EB6-4460-AA45-3E9F2C4E8975
+name: Once
+description: Use this domain for words referring to something happening once.
+questions:
+  - q: What words indicate that an event has happened once?
+    words: once, one time, on one occasion, at one stage, at one point, one day

@@ -1,0 +1,7 @@
+code: "3.6.4"
+guid: E4BACC52-DCAA-4e68-B736-F0B5D9AECA41
+name: Class, lesson
+description: Use this domain for words related to a class--the period of time when a subject is taught.
+questions:
+  - q: What words refer to a class?
+    words: class, lesson, period, session, lecture, seminar, tutorial, course

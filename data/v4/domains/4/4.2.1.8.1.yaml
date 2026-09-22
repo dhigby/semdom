@@ -1,0 +1,8 @@
+code: "4.2.1.8.1"
+guid: E3A6F918-4B0F-4515-BD6C-4F3370BCBF67
+name: Join an organization
+description: Use this domain for words related to joining an organization.
+louwNidaCodes: 34B Join, Begin To Associate
+questions:
+  - q: What words refer to joining a group?
+    words: join a group, affiliate, associate, enlist, enroll, enter, sign up

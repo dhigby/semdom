@@ -1,0 +1,7 @@
+code: "7.3.1.5"
+guid: 28A37D39-8347-4254-99BF-8E3C37DBF8A8
+name: Set upright
+description: Use this domain for words related to setting something upright.
+questions:
+  - q: What words refer to setting something upright?
+    words: Set upright, set up, stand

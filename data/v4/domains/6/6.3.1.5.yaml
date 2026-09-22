@@ -1,0 +1,20 @@
+code: "6.3.1.5"
+guid: 10A82711-8829-461A-B172-FC8FFF3D555C
+name: Dog
+description: Use this domain for words related to dogs.
+questions:
+  - q: What words refer to dogs?
+    words: dog, hound, canine, stray, cur, mangy
+  - q: What words refer to male or female dogs?
+    words: bitch
+  - q: What words refer to young dogs?
+    words: puppy, pup, whelp
+  - q: What types of dogs are there?
+    words: >-
+      basset, beagle, bloodhound, boxer, bulldog, Chihuahua, collie, dachshund, Doberman,
+      German shepherd, greyhound, husky, Pekingese, poodle, retriever, setter, spaniel,
+      terrier
+  - q: What sounds do dogs make?
+    words: bark, howl, yap, growl
+  - q: Where are dogs kept?
+    words: doghouse, kennel

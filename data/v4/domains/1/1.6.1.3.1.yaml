@@ -1,0 +1,14 @@
+code: "1.6.1.3.1"
+guid: 7D472317-B5E8-4CAE-A03F-913ECDAF4C29
+name: Snake
+description: Use this domain for words related to snakes.
+questions:
+  - q: What general words refer to snakes?
+    words: snake, serpent
+  - q: What types of snakes are there?
+    words: constrictor, poisonous
+  - q: What species of snake are there?
+    words: >-
+      rattlesnake, python, boa, anaconda, cobra, viper, mamba, sea snake, adder, anaconda,
+      asp, boa, bushmaster, cobra, copperhead, cottonmouth, fer-de-lance, mamba, water
+      moccasin, python, racer, rattler, rattlesnake, sidewinder, viper

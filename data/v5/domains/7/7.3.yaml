@@ -1,0 +1,14 @@
+code: "7.3"
+guid: 2810998C-D6CC-47A3-A946-66D0986A2767
+name: Move something
+description: Use this domain for general words referring to moving something or someone.
+ocmCodes: 480 Travel and Transportation
+questions:
+  - q: What words refer to moving something?
+    words: move, transfer, transport, shift, relocate, shunt, conduct, convey
+  - q: What words refer to moving something very quickly?
+    words: jerk
+  - q: What words refer to moving something through the air?
+    words: swing
+  - q: What words refer to moving something that is difficult to move?
+    words: shift, free, release

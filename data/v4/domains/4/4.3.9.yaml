@@ -1,0 +1,13 @@
+code: "4.3.9"
+guid: 73A59333-134F-4A1D-ABA7-E134BDEFE059
+name: Culture
+description: >-
+  Use this domain for general words referring to culture--the way a group of people (such as
+  a tribe) behaves that is different from other groups.
+ocmCodes: >-
+  180 Total Culture; 181 Ethos; 182 Function and Adaptational Interpretations; 183 Norms;
+  184 Cultural Participation; 185 Cultural Goals; 186 Cultural Identity and Pride;
+  Ethnocentrism
+questions:
+  - q: What general words refer to culture?
+    words: culture, cultural norm, civilization

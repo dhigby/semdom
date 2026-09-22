@@ -1,0 +1,29 @@
+code: "2.1.8.4"
+guid: 3D5D93CE-00E0-46FF-B220-553C12C38381
+name: Female organs
+description: >-
+  Use this domain for words related to the female reproductive organs and a woman's monthly
+  menstrual cycle. Some of these terms may be taboo. Care must be exercised in which terms
+  are included in the dictionary. A group of women should decide which terms are 'public'
+  and can go in the dictionary, and which would be considered taboo, overly crude, or
+  embarrassing. For example some societies have been afraid that their women will be taken
+  advantage of if these terms are known.
+ocmCodes: 841 Menstruation
+related: ["2.6.4.1.1"]
+questions:
+  - q: What words refer to the female organs?
+    words: >-
+      breast, nipple, vagina, clitoris, uterus, womb, ovary, egg, vulva, labia majora, labia
+      minora, vestibule, genitals, private parts
+  - q: What words refer to a woman's monthly menstrual cycle?
+    words: menstrual cycle
+  - q: What words refer to the time of bleeding?
+    words: menstruate, period, having (your) period, time of month, menstruation
+  - q: What words refer to the discharge?
+    words: menses
+  - q: What materials are used by women to absorb the discharge?
+    words: sanitary towel, sanitary napkin, tampon, pad, menstrual cloth
+  - q: What words describe something to do with the female organs?
+    words: reproductive, genital, sexual, vaginal, menstrual
+  - q: What words refer to the time in a woman's life when she stops menstruating?
+    words: menopause

@@ -1,0 +1,27 @@
+code: "3.4.2.4.3"
+guid: 100E62A6-B6F4-4B30-B317-0517D6B102A9
+name: Shy, timid
+description: >-
+  Use this domain for words related to feeling shy--to feel bad (afraid) when you are with
+  people because you think they might think something bad about you if you say or do
+  something (for instance, being afraid to talk, feeling inadequate to do what is required
+  in a social situation, or not feeling as good as other people).
+questions:
+  - q: What words refer to feeling shy?
+    words: be shy, feel shy
+  - q: What words refer to the feeling of shyness?
+    words: shyness, inhibition
+  - q: What words describe someone who feels shy?
+    words: >-
+      shy, timid, uncomfortable, bashful, coy, diffident, reserved, withdrawn, introverted,
+      inhibited
+  - q: What words refer to causing someone to feel shy?
+    words: inhibit, intimidate, make you feel uncomfortable
+  - q: What words refer to something that causes someone to feel shy?
+    words: intimidation
+  - q: What words describe something that causes someone to feel shy?
+    words: inhibiting, intimidating, uncomfortable
+  - q: What words refer to not being shy?
+    words: come out of your shell, come out of yourself, open up
+  - q: What words refer to helping someone to not be shy?
+    words: bring someone out of their shell, bring someone out, put someone at ease

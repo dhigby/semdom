@@ -1,0 +1,9 @@
+code: "6.2.5.3"
+guid: A8BFD196-8B54-4084-B11A-FE6E8BC5DA4C
+name: Gather wild plants
+description: >-
+  Use this domain for words related to gathering wild plants. In a hunter-gatherer culture
+  this domain might need to be extensively developed.
+questions:
+  - q: What words refer to gathering wild plants?
+    words: gather, collect, pick (berries)

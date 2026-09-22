@@ -1,0 +1,16 @@
+code: "6.8.1.4"
+guid: 2E2A17BA-9D81-4A3D-8AF5-96C8F0E39E7E
+name: Store wealth
+description: Use this domain for words related to storing wealth.
+ocmCodes: 454 Saving and Investment; 453 Banking
+questions:
+  - q: What words are used of storing wealth?
+    words: store, put it away, stash it away
+  - q: What words are used of saving wealth?
+    words: save, invest
+  - q: What is stored wealth called?
+    words: wealth, savings, investments
+  - q: Where is wealth stored?
+    words: >-
+      bank, storehouse, vault, safe, piggy bank, cookie jar, cash box, wallet, purse, money
+      belt, under the mattress

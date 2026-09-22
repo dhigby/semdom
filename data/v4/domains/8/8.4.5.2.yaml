@@ -1,0 +1,37 @@
+code: "8.4.5.2"
+guid: D80360F9-7319-40A7-A2BC-FD8718711BA4
+name: Before
+description: Use this domain for words referring to one event happening before another.
+louwNidaCodes: 15O Come/Go Prior To
+questions:
+  - q: What words indicate that something happens before a particular event?
+    words: before (conj), prior to, on the eve of, pre-
+    sentence: John took a bath <before> eating dinner.
+  - q: What words indicate that something happens before now or before a particular time?
+    words: before (adv), earlier, formerly, previously, ago, already
+  - q: What words indicate that someone does something before a particular event?
+    words: beforehand, in advance, advance, prior
+  - q: What words indicate that something must be done before a particular time?
+    words: before, by, not later than, at the latest
+  - q: What words refer to something that happened before?
+    words: antecedent, precedent, precedence, the one before
+  - q: What words describe something that happened before?
+    words: previous, old, last (adj), earlier, former, prior, preceding, recent, preliminary
+  - q: What words describe a time that comes before another one?
+    words: previous (day), last (night), the (week) before, the preceding (year)
+  - q: What words indicate that something comes before another in a series?
+    words: before, in front of, ahead of
+  - q: What words describe something that comes before another in a series?
+    words: previous, preceding, earlier, the one before
+  - q: What words refer to something happening before something else?
+    words: >-
+      come before, precede, predate, lead up to, come first, be before, be a prelude to,
+      anticipate, antedate
+  - q: What words refer to coming before something else in a series?
+    words: come before, precede
+  - q: What words refer to doing something before someone else does it?
+    words: do something first, be first, beat someone to it, ahead of, be ahead of your time
+  - q: What words refer to a person or thing that existed before another?
+    words: predecessor, forerunner, precursor, ex-(wife/president)
+  - q: What words describe something that has been mentioned before?
+    words: above, aforementioned, foregoing

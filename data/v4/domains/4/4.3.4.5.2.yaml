@@ -1,0 +1,12 @@
+code: "4.3.4.5.2"
+guid: 50E28FA7-F6C3-45BC-871D-12EF771D532C
+name: Care for
+description: >-
+  Use this domain for words related to caring for someone--to do something good for someone,
+  because they need something and cannot do it.
+louwNidaCodes: 35D Care For, Take Care Of
+questions:
+  - q: What words refer to caring for someone?
+    words: care for, take care of, meet someone's needs
+  - q: What is a person called who takes care of another?
+    words: caregiver

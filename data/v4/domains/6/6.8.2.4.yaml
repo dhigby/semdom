@@ -1,0 +1,11 @@
+code: "6.8.2.4"
+guid: 5627904E-59C7-4DD5-AEB5-C6FE0C0A0571
+name: Frugal
+description: Use this domain for words related to being frugal--to not spend a lot of money.
+questions:
+  - q: What words refer to not wanting to spend money?
+    words: frugal, thrifty, careful with your money, economical
+  - q: What words refer to spending less money?
+    words: >-
+      economize, tighten your belt, budget, scrimp and save, on a shoestring, skimp by on,
+      scrape by

@@ -24,6 +24,8 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
+      # The data is the standard: never publish a state that fails its own invariants.
+      - run: node scripts/validate.mjs
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

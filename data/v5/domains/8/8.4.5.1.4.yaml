@@ -1,0 +1,27 @@
+code: "8.4.5.1.4"
+guid: 49AA89F2-2022-4213-845E-DBBB4B53476C
+name: Last
+description: >-
+  Use this domain for words referring to something happening last--to happen after all other
+  things in a sequence, or to be the last person or thing in a sequence.
+questions:
+  - q: What words indicate that an event happens last?
+    words: last (adv), at the end
+  - q: What words describe something that happens last?
+    words: last (adj), final, closing, concluding
+  - q: What words refer to an event happening last?
+    words: come last, end with, finish with
+  - q: What words indicate that a person or thing is the last in a list or line or group?
+    words: be last, come last, finish last, bring up the rear, straggler, be the last straw
+  - q: What words indicate that something is next to the last?
+    words: next to the last, the last but one, penultimate
+  - q: What words indicate that something is the last before now?
+    words: last (week), latest
+  - q: >-
+      What words do people use to indicate the last thing in a list of things they are
+      talking about?
+    words: lastly, finally, last but not least
+  - q: What words refer to the last thing?
+    words: the last, the latter
+  - q: What words refer to the last part of something?
+    words: end, ending, finish

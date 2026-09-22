@@ -1,0 +1,30 @@
+code: "2.2.8"
+guid: CBC24A98-1C64-467E-98AA-251A28E4C0B8
+name: Defecate, feces
+description: Use this domain for words related to defecation.
+ocmCodes: 514 Elimination
+questions:
+  - q: What words refer to defecating?
+    words: >-
+      defecate, go to the bathroom, have a bowel movement, void, excrete, poop, take a crap,
+      evacuate your bowels, purge your bowels, void
+  - q: What words refer to feces?
+    words: >-
+      feces, manure, crap, droppings, dung, excrement, fecal, guano, pile, stool, waste,
+      shit
+  - q: What words refer to when the feces are liquid?
+    words: diarrhea, loose bowel
+  - q: What words refer to when it is difficult to defecate?
+    words: constipation, constipated
+  - q: What words refer to cleaning after defecating?
+    words: wipe (yourself, your anus)
+  - q: What things do people use to clean themselves?
+    words: toilet paper
+  - q: What things are used for babies?
+    words: diaper, nappies
+  - q: Where do people defecate?
+    words: bathroom, toilet, latrine
+  - q: What words refer to the smell of feces?
+    words: fetid, malodorous, putrid
+  - q: What words are used of intestinal gas?
+    words: gas, pass gas, break wind, fart

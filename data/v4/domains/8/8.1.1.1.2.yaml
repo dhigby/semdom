@@ -1,0 +1,24 @@
+code: "8.1.1.1.2"
+guid: D086C2AD-2D11-4250-A25A-DC6538439DB6
+name: Two
+description: Use this domain for words related to the number two.
+questions:
+  - q: What words refer to two?
+    words: >-
+      two, second, two times, two-fold, double (v), twins, brace, dichotomy, deuce, dual,
+      dyad, twain, yoke, in pairs, in twos, two by two, by twos, two at a time, two apiece,
+      two each, both, either, neither
+  - q: What words refer to two people who do things together?
+    words: couple, pair, duo, twosome, duet
+  - q: What words refer to two things that are used together?
+    words: pair, twin
+  - q: What words refer to something used by two people?
+    words: for two, double, two-man
+  - q: What words refer to something with two parts?
+    words: double (adj), couplet, duplex
+  - q: What words refer to something used for two things?
+    words: dual, twofold
+  - q: What words indicate that something is two times the amount of something else?
+    words: twice, double, twice as much (as), two times as much (as), two times what, double what
+  - q: What words indicate that something happens or is done two times?
+    words: twice, twice over, two-time

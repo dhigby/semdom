@@ -1,0 +1,9 @@
+code: "2.6.3.7"
+guid: F4F99472-0B23-42B9-8B51-1D56FE24715B
+name: Multiple births
+description: >-
+  Use this domain for words related to multiple births--when a woman give birth to more than
+  one baby at the same time.
+questions:
+  - q: What words refer to the number of babies born at the same time?
+    words: single birth, twins, triplets, quadruplets, quintuplets

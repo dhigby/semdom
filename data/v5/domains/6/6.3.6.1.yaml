@@ -1,0 +1,13 @@
+code: "6.3.6.1"
+guid: D7DA5318-DCCF-477F-967D-1E3F6A421860
+name: Chicken
+description: Use this domain for words related to chickens.
+questions:
+  - q: What words refer to chickens?
+    words: chicken, rooster, cock, hen, chick
+  - q: Where are chickens kept?
+    words: chicken coop, coop, henhouse, roost
+  - q: What do chickens do?
+    words: scratch, roost
+  - q: What noises do chickens make?
+    words: cluck, crow, cock-a-doodle-doo, cheep

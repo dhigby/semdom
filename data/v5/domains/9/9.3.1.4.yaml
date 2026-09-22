@@ -1,0 +1,14 @@
+code: "9.3.1.4"
+guid: 984DC2B7-6FDD-4257-ABDC-5873ABB7BB70
+name: To a smaller degree
+description: Use this domain for words referring to a smaller degree.
+louwNidaCodes: 78B More Than, Less Than
+questions:
+  - q: What words indicate that something is becoming smaller in degree?
+    words: decline, decrease, diminish, drop, dwindle, fall, plummet, slide, tumble
+  - q: What words refer to the amount by which something became smaller?
+    words: decline (n), decrease, fall, reduction, tumble
+  - q: What words refer to causing something to become smaller in degree?
+    words: decrease, lower, reduce
+  - q: What words indicate that something is smaller than another thing in degree?
+    words: less than, lower

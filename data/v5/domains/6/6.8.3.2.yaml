@@ -1,0 +1,9 @@
+code: "6.8.3.2"
+guid: 339EE46B-D69A-4F2E-8FBA-D1B2ADFF763B
+name: Generous
+description: Use this domain for words related to being generous.
+questions:
+  - q: What words refer to being generous?
+    words: >-
+      be generous, be kind, be gracious, be charitable, generosity, charity, charitable
+      giving

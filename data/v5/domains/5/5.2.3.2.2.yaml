@@ -1,0 +1,7 @@
+code: "5.2.3.2.2"
+guid: D4769748-7C4E-4359-9DA5-2EA64D5948D9
+name: Milk products
+description: Use this domain for words related to milk products.
+questions:
+  - q: What types of milk products are eaten?
+    words: milk, butter, cheese, cream, whey, milk solids, butterfat, yogurt, curd

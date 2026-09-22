@@ -1,0 +1,22 @@
+code: "3.5.1.7"
+guid: A4958DD9-03CC-4863-AB76-CD0682060CB0
+name: Praise
+description: >-
+  Use this domain for words related to praising someone or something--to say something good
+  about someone, or to say that someone did something good.
+louwNidaCodes: 33K' Praise
+questions:
+  - q: What words refer to praising someone?
+    words: >-
+      praise, acclaim, approve, commend, compliment, eulogize, exalt, extol, glorify, honor
+      (v), give credit, recognize, laud, magnify, sing your praises, speak well of, express
+      your approval, go into raptures over
+  - q: What words refer to what is said?
+    words: >-
+      praise (n), acclaim, accolade, adoration, approval, bouquet, commendation, compliment
+      (n), credit, eulogy, glory, honor (n), kudos, paean, panegyric, plaudit, recognition,
+      tribute
+  - q: What words describe something that people praise?
+    words: praiseworthy, commendable, commendatory, creditable, laudable, laudatory
+  - q: What exclamations do people use when speaking well of someone?
+    words: praise the Lord, hallelujah, hosanna

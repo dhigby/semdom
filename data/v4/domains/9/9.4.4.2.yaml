@@ -1,0 +1,13 @@
+code: "9.4.4.2"
+guid: AF6FE2D6-576D-473F-8A32-583779D95D1D
+name: Sure
+description: Use this domain for words related to being sure that something is true.
+related: ["9.4.4.1"]
+questions:
+  - q: What words indicate that someone is certain about something?
+    words: >-
+      be sure, be certain, be positive, know, know very well, swear, I could have sworn,
+      have no doubt, confident, convinced, satisfied (that), I bet, I'd put money on it, say
+      what you like
+  - q: What words refer to making someone sure about something?
+    words: convince

@@ -1,0 +1,15 @@
+code: "1.7.2"
+guid: F5299D36-AA33-0DBF-0022-FD1AFBD8424B
+name: Pollution, environmental damage
+description: >-
+  Use this domain for words related to harm done to the natural environment, to waste, and
+  to efforts to reduce that harm.
+questions:
+  - q: What words refer to dirtying or harming the environment?
+    words: pollute, pollution, contaminate, poison, spoil, degrade
+  - q: What words refer to waste and rubbish?
+    words: rubbish, garbage, trash, waste, litter, plastic, sewage
+  - q: What words refer to reducing harm to the environment?
+    words: recycle, recycling, reuse, clean up, conservation, protect
+  - q: What words describe long-term changes in weather and environment?
+    words: climate change, global warming, drought, deforestation

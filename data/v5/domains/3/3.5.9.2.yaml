@@ -1,0 +1,18 @@
+code: "3.5.9.2"
+guid: 32BF055A-D666-4D6E-A3C6-6C984E2C9868
+name: Telephone
+description: Use this domain for words related to the telephone.
+ocmCodes: 206 Telephone and Telegraph
+questions:
+  - q: What words refer to telephones?
+    words: telephone, phone, cell phone, mobile phone, smartphone, landline
+  - q: What words refer to talking to someone on the telephone?
+    words: speak/talk on the phone, be on the phone
+  - q: What words refer to beginning a telephone call?
+    words: call (up), ring, phone (v), dial
+  - q: What words refer to ending a telephone call?
+    words: hang up
+  - q: What words refer to a person who works for the telephone company?
+    words: operator
+  - q: What words refer to problems with making a telephone call?
+    words: busy signal, go dead, wrong number

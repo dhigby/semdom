@@ -1,0 +1,22 @@
+code: "4.3.8"
+guid: BCE3F390-452C-4CA9-8C36-5FBCFD6B4755
+name: Change behavior
+description: >-
+  Use this domain for words related to changing your behavior either for the better or for
+  the worse.
+ocmCodes: 153 Modification of Behavior; 154 Adjustment Processes; 155 Personality Development
+louwNidaCodes: 41E Change Behavior
+related: ["4.8.4.6"]
+questions:
+  - q: What general words refer to changing your behavior?
+    words: change your behavior, modify your behavior, alter your behavior, turn to something
+  - q: What words refer to changing your behavior for the better?
+    words: >-
+      reform, grow up, mature, mend your ways, turn over a new leaf, shape up, improve, go
+      straight, overcome your past
+  - q: What words refer to changing your behavior for the worse?
+    words: go bad, backslide, fall into sin, your behavior is deteriorating, go crooked
+  - q: What words refer to trying to change someone's behavior?
+    words: >-
+      change someone, discipline, train, reform someone, influence, have a good/bad
+      influence on someone, turn someone toward/away from something

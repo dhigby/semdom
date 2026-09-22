@@ -1,0 +1,19 @@
+code: "7.2.4.6"
+guid: 70953222-5BC5-4fa2-A85A-01827F7BC537
+name: Way, route
+description: Use this domain for words related to the way or route that you take to go somewhere.
+questions:
+  - q: What words refer to the way to go from one place to another?
+    words: way, how to get, route, directions
+  - q: What words refer to a short way of getting somewhere?
+    words: shortcut
+  - q: What refer to telling someone the way?
+    words: tell someone the way, give someone directions, show someone the way, direct
+  - q: What refer to asking someone the way?
+    words: ask someone the way, ask for directions
+  - q: What words refer to finding the way?
+    words: find your way, navigate
+  - q: What do you say to someone when you want them to tell you the way?
+    words: >-
+      can you tell me the way to, do you know the way to, how do I get to, can you direct me
+      to, is this the way to

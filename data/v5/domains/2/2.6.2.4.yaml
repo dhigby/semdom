@@ -1,0 +1,17 @@
+code: "2.6.2.4"
+guid: 891072BD-06C5-E419-5CC9-34263C07E46E
+name: Sexual orientation
+description: >-
+  Use this domain for words referring to sexual orientation — which sex or sexes a person is
+  attracted to. Orientation is a description of a person, not a category of behavior; words
+  expressing approval or disapproval belong in other domains, not here.
+louwNidaCodes: 88J' Sexual Misbehavior
+questions:
+  - q: What words refer to sexual orientation in general?
+    words: sexual orientation, sexuality
+  - q: What words refer to a person who is attracted to people of the opposite sex?
+    words: heterosexual, straight
+  - q: What words refer to a person who is attracted to people of the same sex?
+    words: homosexual, gay, lesbian
+  - q: What words refer to a person who is attracted to both sexes?
+    words: bisexual

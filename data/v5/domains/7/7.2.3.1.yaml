@@ -1,0 +1,7 @@
+code: "7.2.3.1"
+guid: 5832EB32-8A90-42A7-B2BC-A9BB575B1B7C
+name: Move away
+description: Use this domain for words referring to moving away from a place.
+questions:
+  - q: What words refer to moving away from something?
+    words: move from/away/away from, go away, get away, retreat, back off, run away, come from

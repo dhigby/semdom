@@ -1,0 +1,36 @@
+code: "8.4.1.2.3"
+guid: 0CC62B4A-D5FF-4F45-83D1-E2B46E5D159A
+name: Time of the day
+description: Use this domain for words referring to a time of the day.
+louwNidaCodes: >-
+  67 Points of Time; 67D A Point of Time with Reference to Units of Time: Daybreak, Midday,
+  Midnight, Late
+questions:
+  - q: What words refer to a time of the day?
+    words: time, hour, watch
+  - q: What words refer to dawn?
+    words: dawn, sunrise, daybreak, aurora, cockcrow, dawning, sunup
+  - q: What words refer to the time between dawn and noon?
+    words: >-
+      morning, midmorning, am, antemeridian, ante meridiem, forenoon, matins, morn, early
+      morning
+  - q: What words refer to noon?
+    words: noon, midday, meridian, midpoint, noonday, noontide, noontime
+  - q: What words refer to the time between noon and sunset?
+    words: afternoon, mid afternoon, pm, postmeridian, post meridiem
+  - q: What words refer to sunset?
+    words: sunset, sundown, twilight, dusk, nightfall, it gets dark, gloaming
+  - q: What words refer to the time between sunset and when you go to sleep?
+    words: evening, early evening, late in the evening, tonight, eventide, vesper, late night
+  - q: What words refer to the time when you go to sleep?
+    words: bedtime, time to go to sleep
+  - q: What words refer to midnight?
+    words: midnight, the middle of the night, pumpkin hour
+  - q: What words refer to the time between midnight and dawn?
+    words: >-
+      late at night, the early hours of the morning (2-4), the small hours, the wee hours of
+      the morning, the first watch, the second watch
+  - q: What words refer to the time just before dawn?
+    words: just before dawn, hours before dawn, predawn hours, it gets light, foredawn
+  - q: What words refer to the time when you wake up?
+    words: time to get up

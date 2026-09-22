@@ -1,0 +1,24 @@
+code: "3.2.1.4"
+guid: 1F3519F8-D946-4857-A1FD-553D98DDDF6D
+name: Stupid
+description: Use this domain for words that describe a person who does not think well.
+louwNidaCodes: 32E Lack of Capacity for Understanding
+questions:
+  - q: What words describe a person who does not think well?
+    words: >-
+      asinine, blind, brainless, crass, crazy, daft, delirious, demented, dense, dim, dizzy,
+      doltish, dull, dull-witted, dumb, fanatical, fatuous, foolish, harebrained, idiotic,
+      inane, ingenuous, insane, insensitive, irrational, lumpish, moronic, naive,
+      nonsensical, obtuse, retarded, senile, senseless, silly, simple, slow, slow-witted,
+      stupid, thick, thickheaded, undiscerning, unimaginative, unperceptive, unsound,
+      witless, lacking in intelligence, mentally lazy
+  - q: What words describe someone who makes bad decisions?
+    words: foolish, shortsighted, unwise
+  - q: 'What words refer to not being able to think well? '
+    words: derangement, idiocy, imbecility, insanity, lunacy, madness, senility, stupidity
+  - q: What words refer to something someone says or does that is stupid?
+    words: absurdity, nonsense
+  - q: What words refer to a person who does not think well?
+    words: >-
+      airhead, blockhead, dolt, donkey, dullard, dumbbell, dummy, dunce, dupe, fanatic,
+      fool, idiot, imbecile, moron, numskull, scatterbrain, sucker

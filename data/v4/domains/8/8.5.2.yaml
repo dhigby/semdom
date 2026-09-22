@@ -1,0 +1,24 @@
+code: "8.5.2"
+guid: 4F485A60-E3BA-42E6-9D59-185305C5D1F2
+name: Direction
+description: Use this domain for general words referring to a direction.
+louwNidaCodes: 82 Spatial Orientation; 82B Left, Right, Straight Ahead, Opposite
+questions:
+  - q: What words refer to a direction?
+    words: direction, orientation, course, way, bearing
+    sentence: >-
+      What <way> did he go?; He headed in that <direction>.; Turn to a <bearing> of 270
+      degrees.
+  - q: What words refer to facing in some direction?
+    words: face (v), point, orient
+    sentence: >-
+      Turn and <face> north.; The temple <faced> east.; We buried him with his feet
+      <pointing> west.; The captain <pointed> the ship into the wind.
+  - q: What words refer to a person's ability to know what direction he is going in?
+    words: sense of direction
+  - q: What words indicate that two things are going in the same direction?
+    words: with
+    sentence: We were carried down the river <with> the current.
+  - q: What words indicate that two things are going in different directions?
+    words: against
+    sentence: The ship was sailing <against> the wind.

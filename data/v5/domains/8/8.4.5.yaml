@@ -1,0 +1,13 @@
+code: "8.4.5"
+guid: 1F4EFAE7-1029-4B66-80EE-802459A7BAF5
+name: Relative time
+description: >-
+  Use the domains in this section for words that relate one time to another. Use this domain
+  for words that indicate a temporal relation between situations.
+louwNidaCodes: >-
+  67 Points of Time; 67B A Point of Time with Reference to Other Points of Time: Before,
+  Long Ago, Now, At the Same Time, When, About, After
+questions:
+  - q: What general words refer to one time in relation to another time?
+    words: relative to, in relation to, before or after
+    sentence: When did it happen <relative to> his death?

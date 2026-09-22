@@ -1,0 +1,21 @@
+code: "6.2.8"
+guid: 0D972590-5947-4983-A092-443697BAEC24
+name: Agricultural tool
+description: Use this domain for words related to agricultural tools.
+louwNidaCodes: 6B Instruments Used in Agriculture and Husbandry
+related: ["6.7"]
+questions:
+  - q: What tools are used for cutting plants?
+    words: pruning hook, pruning shears
+  - q: What tools are used for digging?
+    words: hoe, shovel, spade
+  - q: What tools are used for plowing?
+    words: plow, plow blade
+  - q: What tools are used for fertilizing?
+    words: manure
+  - q: What words are used with each of these tools?
+    words: >-
+      to prune, to hoe, to plow, to pull a plow, to guide a plow, to use a shovel, to dig
+      with a hoe
+  - q: What are the parts of each tool?
+    words: tip, edge, handle, blade

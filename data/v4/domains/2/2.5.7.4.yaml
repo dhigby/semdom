@@ -1,0 +1,29 @@
+code: "2.5.7.4"
+guid: 250A52E4-EDE0-427D-8382-46A5742D4F96
+name: Hospital
+description: Use this domain for words that refer to a place where the sick and injured are treated.
+ocmCodes: 743 Hospitals and Clinics
+questions:
+  - q: What words refer to a place where the sick and injured are treated?
+    words: >-
+      hospital, infirmary, hospice, clinic, medical center, health center, doctor's office,
+      the doctor's, dispensary, aid post/station, nursing home
+  - q: What words refer to a hospital for people who are mentally ill?
+    words: mental hospital, psychiatric hospital, institution, asylum
+  - q: What are the parts of a hospital?
+    words: >-
+      ward, unit, operating room, operating theater, emergency room, casualty department,
+      accident and emergency, lab, x-ray room, nurses' station, intensive care, surgery,
+      waiting room, mortuary, morgue
+  - q: What words refer to a place where medicine is kept or given out?
+    words: pharmacy, medicine cabinet
+  - q: What words refer to a vehicle for transporting the injured?
+    words: ambulance, hospital ship
+  - q: What words refer to putting someone in the hospital?
+    words: hospitalize
+  - q: What words refer to a sick person in a hospital?
+    words: patient, inpatient, outpatient
+  - q: What words refer to being a patient in a hospital?
+    words: >-
+      go to the hospital, have someone in, stay in the hospital, hospital stay, admit,
+      discharge

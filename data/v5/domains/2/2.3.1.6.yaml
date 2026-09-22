@@ -1,0 +1,18 @@
+code: "2.3.1.6"
+guid: CD6F1B37-5BDD-4237-8827-B1C947C8E1B4
+name: Transparent
+description: Use this domain for words that describe how well you can see through something.
+louwNidaCodes: 79F Transparent
+questions:
+  - q: What words describe something that can be seen through?
+    words: >-
+      transparent, clear, see-through, glassy, clear as crystal, crystal clear, show
+      through, unclouded, crystalline, sheer, limpid, vitreous
+  - q: >-
+      What words describe something that light shines through but you can't see through
+      clearly?
+    words: >-
+      translucent, frosted, cloudy, clouded, hazy, dim, unclear, vague, foggy, smoky,
+      indistinct, faint, misty, muddy, shadowy, turbid
+  - q: What words describe something that cannot be seen through?
+    words: opaque, obscure, dark, darkened, impervious-to-light

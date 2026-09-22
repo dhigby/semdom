@@ -1,0 +1,10 @@
+code: "7.3.3.3"
+guid: 87C55AEA-2C3F-44CE-81EC-18A153C5DEB2
+name: Send
+description: >-
+  Use this domain for words related to sending something--to cause someone to take something
+  somewhere.
+louwNidaCodes: 15D Leave, Depart, Flee, Escape, Send
+questions:
+  - q: What words refer to sending something?
+    words: send, sent with, have someone take, have something delivered

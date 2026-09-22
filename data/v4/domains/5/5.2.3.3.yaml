@@ -1,0 +1,14 @@
+code: "5.2.3.3"
+guid: 36AD58E3-ADE7-49B9-9922-DE0B5C3F13C3
+name: Cooking ingredients
+description: >-
+  Use this domain for general words referring to ingredients--the things that are added
+  together when preparing food.
+louwNidaCodes: 5B Condiments
+questions:
+  - q: What general words refer to ingredients?
+    words: ingredient
+  - q: What words refer to thickeners?
+    words: >-
+      thickener, cornstarch, pectin, egg, gelatin, agar, wheat flour, corn flour, tapioca
+      flour, cassava flour, sago flour, rice flour, glutinous rice flour

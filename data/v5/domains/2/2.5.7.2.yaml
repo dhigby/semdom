@@ -1,0 +1,43 @@
+code: "2.5.7.2"
+guid: B82C7BA0-9F4E-44DA-BCD0-D30F5B224DE5
+name: Medicine
+description: >-
+  Use this domain for words related to medicine, types of medicine, and the application of
+  medicine.
+ocmCodes: 751 Preventive Medicine; 278 Pharmaceuticals
+louwNidaCodes: 6T Medicines
+questions:
+  - q: What general words refer to medicine?
+    words: medicine, medication, medicinal, drug, narcotic, antidote, elixir, remedy, herb
+  - q: What are the names of particular types of medicine?
+    words: >-
+      analgesic, antacid, antibiotic, antidote, antihistamine, antiseptic, antitoxin,
+      aspirin, barbiturate, cathartic, chloroquine, drops, eye drops, emetic, iodine,
+      immunization, inoculation, lozenge, painkiller, paregoric, penicillin, prophylactic,
+      purgative, sedative, sleeping pill, stimulant, sulfa, tranquilizer, transfusion,
+      Tylenol, vaccine, wine
+  - q: What words refer to medicine you put on your skin?
+    words: ointment, salve, liniment, lotion, poultice, balm, cream
+  - q: What words refer to medicine that you eat or drink?
+    words: tablet, pill, capsule, potion, syrup, tonic
+  - q: What words refer to medicine that is injected under the skin?
+    words: shot, injection, jab
+  - q: What words refer to giving medicine?
+    words: >-
+      medicate, apply medicine/ointment, give a shot, inject someone with, vaccinate,
+      immunize, inoculate, administer, prescribe medicine, apply a bandage, (cover oneself
+      under steaming herbal medicine), massage, rub something in
+  - q: What words refer to taking medicine?
+    words: take something for, drink, swallow
+  - q: What words refer to some medicine that is given at one time?
+    words: dose, dosage, course of medicine, overdose
+  - q: What words refer to the equipment used to store and administer medicine?
+    words: medicine bottle, needle, syringe, IV
+  - q: >-
+      What words refer to the written instructions a doctor gives about how much medicine to
+      take?
+    words: prescription, prescribe
+  - q: What words refer to someone who makes and sells medicine?
+    words: chemist, pharmacist, druggist, pharmacy, herbalist
+  - q: What words refer to preventing disease with an injection or dose?
+    words: vaccine, vaccination, vaccinate, immunize, immunization, booster, jab

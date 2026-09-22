@@ -1,0 +1,18 @@
+code: "7.6.1"
+guid: 0CE61F27-9DE8-49B2-9189-6F6EFE488F6D
+name: Search
+description: Use this domain for words related to searching for something that has been hidden or lost.
+related: ["3.2.2.1"]
+questions:
+  - q: What words refer to searching for something?
+    words: >-
+      search, look, look for, seek, hunt for, dig, explore, root, sniff, spy, track, be on
+      the lookout for
+  - q: What words refer to the act of searching for something?
+    words: search (n), quest
+  - q: What words refer to seeing something that you have been looking for?
+    words: >-
+      spot, locate, descry, detect, discern, distinguish, espy, catch a glimpse of, spy,
+      sight something
+  - q: What words refer to looking for something and not seeing it?
+    words: overlook

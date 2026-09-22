@@ -1,0 +1,9 @@
+code: "7.7.7"
+guid: 06BE473E-C2F3-45FE-8522-3A0C033B5067
+name: Mark
+description: Use this domain for words related to making a mark on something.
+questions:
+  - q: What words refer to making a mark on something?
+    words: mark, stain
+  - q: What words refer to a mark on something?
+    words: mark, stain, spot, smudge, fingerprint

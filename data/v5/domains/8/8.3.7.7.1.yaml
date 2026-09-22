@@ -1,0 +1,25 @@
+code: "8.3.7.7.1"
+guid: 21F21658-A69A-491C-A37B-156A8F4AD3FB
+name: Wrong, unsuitable
+description: >-
+  Use this domain for words describing something, such as a tool or way of doing something,
+  that is unsuitable for a particular time, place, purpose, or job.
+louwNidaCodes: 66 Proper, Improper
+questions:
+  - q: What words describe something that is unsuitable?
+    words: >-
+      improper, ill-suited, ill-timed, inadmissible, inapt, incongruous, incorrect,
+      indecent, indelicate, malapropos, presumptuous, unacceptable, unapt, unbecoming,
+      unbefitting, undue, unfit, unfitting, unsuited to, untimely, untoward
+  - q: What words refer to something being unsuitable for a particular purpose or situation?
+    words: >-
+      wrong, unsuitable, not suitable, unsuited to, not suited to, inappropriate, not
+      appropriate, hardly the time/place/person
+  - q: What words refer to someone being unsuitable for a job?
+    words: unsuitable, not suitable, not be cut out for, wrong, ill-suited to, not suited to
+  - q: What words refer to something being unsuitable because it isn't good enough?
+    words: unfit, not fit
+  - q: What words refer to something being unsuitable for a particular place?
+    words: be out of place, be out of keeping, not be in keeping, incongruous
+  - q: What words refer to someone being unsuitable for a particular place?
+    words: be out of place, misfit

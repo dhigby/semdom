@@ -1,0 +1,40 @@
+code: "1.1.3"
+guid: B4AA4BBD-8ABF-4503-96E4-05C75EFD23D5
+name: Weather
+description: Use this domain for words related to the weather.
+ocmCodes: 132 Climate
+louwNidaCodes: 14A Weather
+related: ["8.3.4", "8.3.4.1"]
+questions:
+  - q: What words refer to the weather?
+    words: weather, weather conditions, atmospheric (conditions)
+  - q: What words describe the weather when it is good?
+    words: sunny, sunshine, clear (weather), good (weather), fair (weather), fine (day)
+  - q: What words describe the weather when it is getting better?
+    words: clear, clear up, sun comes out
+  - q: What words describe the weather when it is bad?
+    words: bad, terrible, foul, inclement, rough, dirty sky, severe
+  - q: What words describe the weather when it is getting worse?
+    words: cloud up, deteriorate
+  - q: What words describe the weather when it changes?
+    words: (cold/warm/storm) front
+  - q: What words describe the weather when it stays the same?
+    words: stretch (of good weather), keep up
+  - q: What words are used to describe any kind of weather?
+    words: rain or shine, all weather, in all weathers
+  - q: What words describe the temperature?
+    words: >-
+      temperature, hot, warm, heat, cold, chilly, crisp, mild, unseasonably warm/cold,
+      scorching, heat wave, cold spell, cold snap, frigid, freezing, be a chill in the air
+  - q: What words describe the weather when there is a lot of water in the air?
+    words: humid, humidity, damp, sultry
+  - q: What words refer to the type of weather a place normally has?
+    words: climate, dry/wet/cold/hot climate, tropical, temperate
+  - q: What words describe something that has been exposed to the weather for a long time?
+    words: weather-beaten, weathered
+  - q: What words refer to studying the weather?
+    words: meteorology, meteorologist, weatherman
+  - q: What instruments are used to study the weather?
+    words: thermometer, barometer, weather vane
+  - q: What words refer to a report about the weather?
+    words: weather forecast, weather report, the weather, the outlook

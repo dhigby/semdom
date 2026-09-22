@@ -1,0 +1,26 @@
+code: "1.1"
+guid: 999581C4-1611-4ACB-AE1B-5E6C1DFE6F0C
+name: Sky
+description: Use this domain for words related to the sky.
+louwNidaCodes: 1B Regions Above the Earth
+questions:
+  - q: What words are used to refer to the sky?
+    words: sky, firmament, canopy, vault
+  - q: What words refer to the air around the earth?
+    words: air, atmosphere, airspace, stratosphere, ozone layer
+  - q: What words are used to refer to the place or area beyond the sky?
+    words: heaven, space, outer space, ether, void, solar system
+  - q: What words describe something in the sky or something that happens in the sky?
+    words: aerial, heavenly, atmospheric, stratospheric, celestial
+  - q: What words describe the appearance of the sky?
+    words: >-
+      blue, clear, black (night), cloudy, cloud filled, brilliant, dark, night sky,
+      foreboding, stormy, dark, star studded
+  - q: What words refer to the edge of the sky where it meets the ground?
+    words: horizon, skyline
+  - q: What words refer to something in the sky?
+    words: heavenly body, celestial body, luminary
+  - q: What words refer to the lights that appear in the northern (or southern) sky?
+    words: aurora borealis, northern lights
+  - q: What words refer to something being in the sky?
+    words: aloft, up in the sky, up in the air

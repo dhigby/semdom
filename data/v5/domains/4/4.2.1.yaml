@@ -1,0 +1,14 @@
+code: "4.2.1"
+guid: 935DA513-126E-4CAB-8E07-625458821181
+name: Come together, form a group
+description: Use this domain for words referring to coming together to form a group.
+questions:
+  - q: What words refer to people coming together to form a group?
+    words: >-
+      come together, assemble, band together, collect, cluster, come together, congregate,
+      convene, crowd, flock, gather, join forces, muster, rendezvous, stream, throng, unite,
+      join
+  - q: What words refer to the act of forming a group?
+    words: unification, union
+  - q: What words describe a group that has been formed?
+    words: unified

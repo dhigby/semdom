@@ -1,0 +1,19 @@
+code: "7.3.2.6"
+guid: 756F67E9-2B22-4C43-913C-CEFF0E781545
+name: Put in
+description: Use this domain for words referring to putting something inside something else.
+questions:
+  - q: What words refer to putting something inside something else?
+    words: >-
+      put in, put inside, move in, insert, introduce, inject, implant, penetrate, pierce,
+      inset, inlay, pack in, stuff in, load
+  - q: What words refer to pushing something into an opening or into something soft?
+    words: stick, ram, drive, plunge, thrust
+  - q: What words refer to pushing something into a small space?
+    words: force, stuff, squeeze, jam, cram, pack, wedge in
+  - q: What words refer to putting something into a hole or small space?
+    words: put in/into/inside, slide something into, tuck in/into/under, insert
+  - q: What words refer to putting something into liquid?
+    words: immerse, submerge
+  - q: What words refer to putting something into liquid for a short time?
+    words: dip, dunk

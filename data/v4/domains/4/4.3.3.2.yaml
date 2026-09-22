@@ -1,0 +1,23 @@
+code: "4.3.3.2"
+guid: B553E989-2B2A-4B1E-A987-AE75F3862501
+name: Not care
+description: Use this domain for words related to not caring about someone.
+questions:
+  - q: What words describe someone who is uncaring?
+    words: uncaring, unconcerned, unfeeling, apathetic, indifferent, unmoved, blasé
+  - q: What words refer to being uncaring?
+    words: don't care, not give a damn, couldn't care less, be past caring, shrug off
+  - q: What words refer to the quality of being uncaring?
+    words: unconcern
+  - q: What words describe something someone does when they don't care?
+    words: casual, offhand, nonchalant, gaily
+  - q: What do people say when they don't care?
+    words: >-
+      for all I care, who cares?, so what?, not my problem, not my concern, that's your
+      problem, that's your lookout, tough!
+  - q: >-
+      What do people say when they don't care what happens, because they would be happy with
+      whatever happens?
+    words: >-
+      not mind, not be fussy, it doesn't matter to me, it doesn't bother me, I'm easy, suit
+      yourself, have no objection

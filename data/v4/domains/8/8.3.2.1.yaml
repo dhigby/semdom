@@ -1,0 +1,9 @@
+code: "8.3.2.1"
+guid: 867F515B-ED0F-431E-A84A-6C562E1BDBB7
+name: Smooth
+description: Use this domain for words referring to being smooth.
+questions:
+  - q: What words describe something that is smooth?
+    words: smooth, silky, satin smooth, even, velvety, fine
+  - q: What words refer to making something smooth?
+    words: to smooth, even out, polish, buff, shine

@@ -1,0 +1,7 @@
+code: "6.2.2.2"
+guid: 62030451-C0F2-4E80-8085-05C6400FC914
+name: Plow a field
+description: Use this domain for words related to plowing a field.
+questions:
+  - q: What words refer to plowing a field?
+    words: plow, cultivate, dig, hoe, harrow, make a row, plow a furrow, break up soil

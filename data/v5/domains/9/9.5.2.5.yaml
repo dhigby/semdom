@@ -1,0 +1,10 @@
+code: "9.5.2.5"
+guid: 52F9A8F0-D97D-4AA1-8C2C-D907D7CB83FC
+name: In groups
+description: Use this domain for words indicating that the subjects of a clause do something in groups.
+questions:
+  - q: What words indicate that something is done in groups?
+    words: in, by
+    sentence: >-
+      The participants entered two <by> two.; The students lined up class <by> class.; We
+      lined up the shoes <in> pairs.; The guests were seated <in> groups of six.

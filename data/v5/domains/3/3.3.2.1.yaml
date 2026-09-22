@@ -1,0 +1,18 @@
+code: "3.3.2.1"
+guid: D2E73238-FF99-4BA3-8CE6-D8AE98721710
+name: Agree to do something
+description: Use this domain for words related to agreeing to do something.
+questions:
+  - q: What words refer to agreeing to do something?
+    words: >-
+      agree to do something, accept, approve a plan, consent to, give your consent, grant
+      someone's request, jump at the chance, jump at the opportunity, OK something, give
+      your OK, say yes, give something the thumbs up, take on
+  - q: What words refer to the act of agreeing to do something?
+    words: agreement, consent
+  - q: What do people say when they agree to do something?
+    words: All right, Yes you can, Sure, Of course, Help yourself, Be my guest
+  - q: What words indicate that you are doing something that someone has asked you to do?
+    words: at someone's request, at the request of
+  - q: What words refer to agreeing to do something after first refusing?
+    words: give in, bow to, accede to

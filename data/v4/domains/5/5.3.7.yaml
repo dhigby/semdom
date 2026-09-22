@@ -1,0 +1,16 @@
+code: "5.3.7"
+guid: 4445CCCD-E9B9-4F25-9E8C-2EF58408297D
+name: Wear clothing
+description: Use this domain for words related to wearing clothing.
+louwNidaCodes: 49 Activities Involving Clothing and Adorning
+questions:
+  - q: What words refer to wearing clothing?
+    words: wear, have on, be clothed, clad, shod
+  - q: What words refer to putting clothing on?
+    words: >-
+      to dress, get dressed, put on, clothe, get into, throw on, jump into, don, tuck in,
+      button, zip, tie
+  - q: What words refer to taking clothing off?
+    words: to undress, get undressed, take off, strip, rip off, get out of
+  - q: What words refer to not wearing a piece of clothing?
+    words: barefoot, shoeless, shirtless, hatless, unshod, topless

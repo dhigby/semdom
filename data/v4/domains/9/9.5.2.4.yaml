@@ -1,0 +1,16 @@
+code: "9.5.2.4"
+guid: D39B2432-87D5-4F3E-8101-DE06001B42D6
+name: Each other
+description: Use this domain for words indicating that two or more people do something to each other.
+questions:
+  - q: What words indicate that two people do something to each other?
+    words: each other, one another, each...the other, exchange, trade, reciprocate
+    sentence: >-
+      They helped <each other> with their work.; We all helped <one another>.; <Each>
+      accused <the other> of causing the problem.; We <exchanged> glances.; They <traded>
+      insults.
+  - q: What words describe something that people do to each other?
+    words: mutual, reciprocal, two-way
+    sentence: >-
+      The feeling is <mutual>.; The two countries signed a <reciprocal> trade agreement.;
+      Effective communication is <two-way>.

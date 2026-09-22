@@ -1,0 +1,17 @@
+code: "3.5.5"
+guid: F4B77866-C607-43F0-B816-95459C269525
+name: Foolish talk
+description: >-
+  Use this domain for words related to foolish talk--something someone says that other
+  people think is silly or stupid.
+louwNidaCodes: 33N' Foolish Talk
+questions:
+  - q: What words refer to foolish talk?
+    words: >-
+      foolish talk, foolishness, babble, balderdash, bilge, blather, chit-chat, drivel,
+      folderol, gossipy, hooey, humbug, idle talk, joking, nonsense, prate, prattle,
+      stupidity, twaddle
+  - q: What words describe foolish talk?
+    words: foolish, meaningless, silly, stupid
+  - q: What words refer to a person who says foolish things?
+    words: babbler, fool

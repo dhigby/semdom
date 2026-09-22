@@ -1,0 +1,17 @@
+code: "4.4.2.4"
+guid: C8C8B1F6-A898-4D5B-A1CE-FA7284915E8F
+name: Disaster
+description: Use this domain for words related to a disaster.
+ocmCodes: 731 Disasters
+related: ["6.2.5.2"]
+questions:
+  - q: What general words refer to a disaster?
+    words: disaster, catastrophe, tragedy, calamity, crisis, emergency
+  - q: What words refer to a natural disaster?
+    words: natural disaster, 'act of God'
+  - q: What words describe an event that causes a disaster?
+    words: disastrous, catastrophic, tragic
+  - q: What types of disasters are there?
+    words: >-
+      epidemic (of disease), forest/grass fire, storm, famine, plague (of insects),
+      earthquake, war

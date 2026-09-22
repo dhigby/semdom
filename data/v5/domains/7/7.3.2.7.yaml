@@ -1,0 +1,22 @@
+code: "7.3.2.7"
+guid: 5A39EDAE-1ACE-4889-B636-1DFD2A1BCC3C
+name: Take something out of something
+description: Use this domain for words referring to taking something out of something else.
+related: ["7.5.2.4"]
+questions:
+  - q: What words refer to taking something out of something else?
+    words: >-
+      take out, get something out, remove, extract, extricate, eliminate, bring out, clear
+      something out, clean out, withdraw, fish out
+  - q: What words refer to taking something out of the ground?
+    words: root out, uproot, dig out, pull up, weed out, grub up, rake out
+  - q: What words refer to taking water out of something?
+    words: >-
+      pour, dip out, wring out, wring from, squeeze out, suck out, pump, milk, soak up,
+      absorb, absorbent
+  - q: What words refer to turning a container so that its contents come out?
+    words: pour, dump, spill
+  - q: What words refer to pulling something out of something?
+    words: pull out, draw out, pluck, tear out
+  - q: What words refer to pushing something out of something?
+    words: push out, eject, squeeze out, expel

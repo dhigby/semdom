@@ -1,0 +1,8 @@
+code: "4.6.7.4"
+guid: EC998DC6-D509-4832-8434-D2ABAC34BA70
+name: Community
+description: Use this domain for words related to a community.
+ocmCodes: 620 Community
+questions:
+  - q: What words refer to a community?
+    words: community

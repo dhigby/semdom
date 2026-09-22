@@ -1,0 +1,9 @@
+code: "8.6.7"
+guid: E1E0B800-85AD-4886-ABE5-9F67C022A5ED
+name: End, point
+description: Use this domain for words related to the end of something.
+questions:
+  - q: What words refer to the end of something?
+    words: end (n), point, tip, nose, head
+  - q: What words describe something that is on the end?
+    words: end (adj), pointy

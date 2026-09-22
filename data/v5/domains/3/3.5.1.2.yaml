@@ -1,0 +1,24 @@
+code: "3.5.1.2"
+guid: E45B8BAC-9623-4f84-A113-9DEC13A8DB64
+name: Talk about a subject
+description: Use this domain for words related to talking about a subject.
+related: ["3.5.1.2.9"]
+questions:
+  - q: What words refer to talking about a subject?
+    words: talk about, dwell on, discuss, address, treat, cover
+  - q: What words refer to the thing being talked about?
+    words: subject, topic, theme, issue, question, matter, business, thing
+  - q: What words refer to a part of a subject?
+    words: point, aspect
+  - q: What words refer to starting to talk about something?
+    words: bring up, raise, broach, introduce, launch into
+  - q: What words refer to starting to talk about a different subject?
+    words: change topics, switch topics, turn to, get onto
+  - q: What words refer to talking about the subject you are supposed to be talking about?
+    words: get to the point, stick to the point, to the point
+  - q: >-
+      What words refer to starting to talk about something else instead of what you are
+      supposed to be talking about?
+    words: >-
+      get off the subject, digress, get sidetracked, stray from, ramble, lose the thread,
+      where was I?

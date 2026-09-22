@@ -1,0 +1,19 @@
+code: "3.3.3.1"
+guid: 8EA4E0D4-71A2-4583-A1FE-F1A941AF8478
+name: Suggest
+description: >-
+  Use this domain for words referring to suggesting something--saying that something might
+  be good.
+questions:
+  - q: What words refer to suggesting something to someone?
+    words: suggest, make a suggestion, float, recommend, propose, propound, submit
+  - q: What words refer to formally suggesting something to a person in authority?
+    words: propose, recommend, put forward, put something before someone, submit, present
+  - q: What words do people use when suggesting something?
+    words: >-
+      I suggest, can I suggest, can I make a suggestion, let's, how about, what about, why
+      don't you, you could always, we may as well, we might as well
+  - q: What words refer to suggesting someone for a job?
+    words: suggest, recommend, nominate, propose, put someone's name forward
+  - q: What words refer to something that someone suggests?
+    words: suggestion, proposal, recommendation, proposition, submission

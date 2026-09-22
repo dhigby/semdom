@@ -1,0 +1,11 @@
+code: "1.6.1.1.5"
+guid: 31171AA9-E243-4B46-ABD8-F3E52843CDFC
+name: Marsupial
+description: >-
+  Use this domain for marsupials (phylum Chordata, class Mammalia, order Marsupialia).
+  Marsupials carry their young in a pouch.
+questions:
+  - q: What general words refer to marsupials?
+    words: marsupial
+  - q: What species of marsupials are there?
+    words: opossum, possum, kangaroo, wallaby, Tasmanian devil, wombat

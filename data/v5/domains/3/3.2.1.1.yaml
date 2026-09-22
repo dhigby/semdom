@@ -1,0 +1,49 @@
+code: "3.2.1.1"
+guid: 2A2AF155-9DB9-41C5-860A-FE0A3A09D6DE
+name: Think about
+description: Use this domain for words related to thinking about something for some time.
+louwNidaCodes: >-
+  30 Think; 30A To Think, Thought; 30B To Think About, with the Implied Purpose of
+  Responding Appropriately
+questions:
+  - q: What words refer to thinking about something for a period of time?
+    words: >-
+      think about, brood, cogitate, consider, give consideration to, contemplate, meditate,
+      muse, mull over, occupy your mind, ponder, reconsider, reflect, reflection, ruminate,
+      speculate, study, weigh, wonder, go around in your mind, do some thinking, keep your
+      mind on, have something on your mind, deduce, deduction, induction, inductive, logic,
+      apply yourself, pay attention, bethink, conclude, observe, process, reason, theorize
+  - q: What words refer to thinking carefully?
+    words: >-
+      attend, attention, beware, careful, caution, cautious, concentrate, concentration,
+      concern, concerned, consider, consideration, foresight, guard, intentional, interest,
+      occupy, precaution, provident, prudent, purposeful, refuse, regard, tend, think
+      thoroughly, give thought, thoughtful, think hard
+  - q: What words refer to not thinking carefully?
+    words: careless, casual, dismiss, disregard, incautious, neglect, overlook, shrug, wing it
+  - q: What words refer to thinking about what is good for someone?
+    words: be concerned about, care about
+  - q: What words refer to thinking before making a decision?
+    words: >-
+      think about, look at, think over, consider, think something out, think twice, think
+      of, take into consideration, take into account
+  - q: What words refer to a series of thoughts?
+    words: line of thought, line of thinking, train of thought, reasoning
+  - q: What words refer to thinking about something again?
+    words: think again, reconsider, change your mind, on second thought, on reflection
+  - q: What words refer to the thoughts a person is thinking at a particular time?
+    words: thinking
+  - q: What words refer to thinking about many things?
+    words: mind is full
+  - q: What words refer to the way a person thinks about something?
+    words: attitude, logic, outlook, perspective, thoughtful, view
+  - q: What words describe the way a person thinks?
+    words: clear, cogent, concise, observant
+  - q: What words refer to trying not to think about something?
+    words: ignore, try to forget, put out of your mind, empty your mind
+  - q: What words refer to stopping thinking about something?
+    words: drop (a line of thought), distract, distraction, take your mind off
+  - q: What words refer to failing to think about what you are doing?
+    words: unthinking, unintentional, thoughtless, mindless
+  - q: What words refer to a person who thinks a lot?
+    words: thinker, brain, intellectual, philosopher

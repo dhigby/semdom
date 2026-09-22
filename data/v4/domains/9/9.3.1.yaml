@@ -1,0 +1,24 @@
+code: "9.3.1"
+guid: AAF9D375-F0A0-4C7B-BBF8-3C7FFD4F5A52
+name: Degree
+description: Use this domain for words that indicate a degree on a scale.
+louwNidaCodes: 78 Degree; 78E Up to, As Much As, To the Degree That
+questions:
+  - q: What words refer to the degree of something?
+    words: degree, extent, level, thus
+  - q: What words indicate a degree on a scale?
+    words: high, low, greater, lesser, first, primary, secondary
+    sentence: >-
+      Ambassador Stevenson is a very <high> level official.; <Low> priority tasks should be
+      placed later in the list.; The musician gave a <first> rate performance.; Finding a
+      suitable place to live was of <primary> importance.
+  - q: What words refer to a marked extent?
+    words: up to, as much as, to the degree that
+  - q: What words refer to a change in degree?
+    words: fluctuate, fluctuation, move, vary
+  - q: What words express a comparative degree?
+    words: more, -er
+    sentence: fast<er>
+  - q: What words express a superlative degree?
+    words: most, -est
+    sentence: fast<est>

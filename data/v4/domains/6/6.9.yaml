@@ -1,0 +1,19 @@
+code: "6.9"
+guid: F726D9BB-AE80-4C01-BDEF-B600CB27736E
+name: Business organization
+description: Use this domain for words related to business organization.
+ocmCodes: >-
+  470 Business and Industrial Organization; 471 Ownership and Control of Capital; 472
+  Individual Enterprise; 473 Corporate Organization; 474 Cooperative Organization; 475 State
+  Enterprise; 476 Mutual Aid; 477 Competition
+questions:
+  - q: What general words refer to business?
+    words: >-
+      business, organization, company, industry, industrial, enterprise, establishment,
+      firm, institution
+  - q: What words refer to part of a business?
+    words: office, department
+  - q: What words refer to the place where a business works?
+    words: office, factory, plant
+  - q: What words refer to the way an organization is organized?
+    words: system, structure, network, framework, apparatus, mechanism, set-up

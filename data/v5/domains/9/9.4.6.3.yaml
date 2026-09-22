@@ -1,0 +1,12 @@
+code: "9.4.6.3"
+guid: E64E647E-A5FB-463C-8EEF-44879E2E70B2
+name: Markers expecting a negative answer
+description: Use this domain for words indicating that a negative answer is expected to a question.
+louwNidaCodes: 69E Markers for an Negative Response to Questions
+questions:
+  - q: What words are used to indicate that a negative answer is expected to a question?
+    words: n't...are you
+    sentence: >-
+      You are<n't> going, <are you>? (The expected answer in English is, 'No, I'm not
+      going.'); He is<n't> going, <is he>? (No, he's not going.); You're <not> going? (No,
+      I'm not going.); He is<n't> going? (No, he's not going.)

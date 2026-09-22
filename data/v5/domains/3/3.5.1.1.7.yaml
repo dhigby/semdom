@@ -1,0 +1,9 @@
+code: "3.5.1.1.7"
+guid: E96F6860-0914-4324-9C49-48F24A0FF7F1
+name: Speak well
+description: Use this domain for words related to speaking well.
+questions:
+  - q: What words refer to speaking well?
+    words: >-
+      speak well, be eloquent, be a good speaker, be an excellent speaker, be fluent, speak
+      clearly, articulate

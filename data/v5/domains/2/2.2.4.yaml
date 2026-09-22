@@ -1,0 +1,13 @@
+code: "2.2.4"
+guid: 591FD489-36E6-4FFD-A976-58876D851829
+name: Mucus
+description: Use this domain for words related to mucus in the nose.
+questions:
+  - q: What does the nose produce?
+    words: mucus, snot, booger
+  - q: What words express how mucus drains from the nose?
+    words: run, runny nose, be stuffed up
+  - q: What do people do with mucus?
+    words: blow your nose, pick your nose, wipe your nose
+  - q: What do people use to blow their nose?
+    words: handkerchief, hanky, tissue

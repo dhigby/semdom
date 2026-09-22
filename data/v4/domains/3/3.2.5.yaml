@@ -1,0 +1,17 @@
+code: "3.2.5"
+guid: 541DFA10-BF97-4713-A534-9CBCC7F66BC9
+name: Opinion
+description: >-
+  Use this domain for situations in which a question or issues are being debated, more than
+  one option is possible, and a person chooses to think in one way about the question or
+  issue.
+louwNidaCodes: >-
+  31A Have an Opinion, Hold a View; 31 Hold a View, Believe, Trust; 31D Acknowledge; 31G
+  Accept as True; 31H Change an Opinion Concerning Truth
+questions:
+  - q: What words refer to taking a position toward a question or issue?
+    words: take a position, lean toward, regard
+  - q: What words refer to holding an opinion toward a question or issue?
+    words: hold/have an opinion, hold a view, have a perspective
+  - q: What words refer to the position a person takes toward a question or issue?
+    words: position, view, outlook, perspective, leaning, opinion

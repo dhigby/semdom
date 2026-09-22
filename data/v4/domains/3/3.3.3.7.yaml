@@ -1,0 +1,18 @@
+code: "3.3.3.7"
+guid: 3445E61B-61A3-4EDE-93F5-402EBE9CA51C
+name: Warn
+description: >-
+  Use this domain for words related to warning someone--saying something to someone so that
+  he will not do something bad.
+louwNidaCodes: 33U' Warn
+questions:
+  - q: What words refer to warning someone?
+    words: >-
+      warn, forewarn, admonish, advise against, discourage someone from doing something,
+      dissuade
+  - q: What words refer to what is said when someone is warning someone?
+    words: warning, admonition, alarm, alert, caution, caveat, discouragement, forewarning
+  - q: What words describe something that should not be done?
+    words: inadvisable
+  - q: What words refer to something that makes a sound to warn people?
+    words: alarm, bell, buzzer

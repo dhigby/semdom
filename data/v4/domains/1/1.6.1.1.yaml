@@ -1,0 +1,8 @@
+code: "1.6.1.1"
+guid: 5E9F361D-17DC-4ADA-A312-8DA269D22A64
+name: Mammal
+description: Use this domain for general words referring to mammals (phylum Chordata, class Mammalia).
+ocmCodes: 136f Mammals
+questions:
+  - q: What general words refer to mammals?
+    words: mammal, mammalian, animal

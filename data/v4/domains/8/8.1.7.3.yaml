@@ -1,0 +1,40 @@
+code: "8.1.7.3"
+guid: D1B3D0F0-5319-4a6a-8A70-2179A8E76D22
+name: Need
+description: Use this domain for words related to needing something for some purpose.
+louwNidaCodes: 57E Need, Lack
+questions:
+  - q: What words refer to needing something?
+    words: >-
+      need, be in need of, require, be a need for, could do with, have a need, be in a
+      pinch, be in want
+  - q: What words refer to needing something very much?
+    words: >-
+      be desperate for, be crying out for, can't do without, be dependent on, depend on,
+      rely on, be reliant on, badly need
+  - q: What words refer to something that is needed?
+    words: someone's needs, necessity, requirement, need (n)
+  - q: What words describe something that is needed?
+    words: >-
+      necessary, essential, vital, indispensable, be a necessity, be a must, requisite,
+      prerequisite, required
+  - q: What words refer to a situation in which someone needs something?
+    words: need (n), time of need, dependence, reliance
+  - q: What words describe someone who needs something?
+    words: needy, dependent
+  - q: What words refer to something needing something done to it?
+    words: need, be in need of, could do with
+  - q: What words indicate that something makes it necessary to do something?
+    words: make it necessary, necessitate, call for, entail, take, need, require
+  - q: What words refer to providing something that is needed?
+    words: >-
+      meet a need, satisfy a need, fulfill requirements, meet requirements, meet the demand,
+      fill a need
+  - q: What words refer to not needing something?
+    words: >-
+      don't need, can do without, can manage without, have no need of, have no use for, can
+      dispense with
+  - q: What words describe something that is not needed?
+    words: unnecessary, needless, gratuitous, dispensable, luxury
+  - q: What words describe someone who does not need anything?
+    words: independent

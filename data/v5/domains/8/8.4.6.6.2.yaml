@@ -1,0 +1,11 @@
+code: "8.4.6.6.2"
+guid: 776DE0C6-FDD7-46DF-B33F-B1E4AF6EE099
+name: Sometimes
+description: Use this domain for words referring to something happening sometimes.
+questions:
+  - q: What words indicate that an event happens sometimes?
+    words: >-
+      sometimes, occasionally, every so often, once in a while, at times, now and again, now
+      and then, from time to time
+  - q: What words describe something that happens sometimes?
+    words: occasional, the odd, periodic, intermittent, casual

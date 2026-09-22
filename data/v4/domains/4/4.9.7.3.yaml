@@ -1,0 +1,9 @@
+code: "4.9.7.3"
+guid: AB8F5391-AD8B-42DC-A43C-22590A09CE77
+name: Islam
+description: Use this domain for words used in Islam.
+questions:
+  - q: What words are used to talk about Islam?
+    words: >-
+      Islam, Islamic, Muslim, Allah, Mohammad, the Prophet, Koran, Kaaba, mosque, sharia,
+      Ramadan, hajj

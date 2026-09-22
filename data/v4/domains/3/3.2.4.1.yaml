@@ -1,0 +1,13 @@
+code: "3.2.4.1"
+guid: CAB8E9DC-5E4F-4A12-8B3D-4ACBB7AD2059
+name: Misunderstand
+description: Use this domain for when a person does not understand a topic or the meaning of something.
+louwNidaCodes: 31B Hold a Wrong View, Be Mistaken
+questions:
+  - q: What words refer to misunderstanding something?
+    words: >-
+      misunderstand, understand wrong, fail to understand, misinterpret, interpret wrongly,
+      miss the meaning, get it wrong, mishear, be mistaken, lose (someone), lack of
+      understanding
+  - q: What words refer to understanding something differently than someone else?
+    words: understand differently, give a different interpretation

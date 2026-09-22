@@ -1,0 +1,10 @@
+code: "8.6.4.1"
+guid: E2806BED-B450-4469-900A-1AFA7DED2224
+name: Outer part
+description: Use this domain for words related to the outside or surface part of something.
+related: ["8.5.1.4.1"]
+questions:
+  - q: What words refer to the outside part of something?
+    words: outside (n), exterior, surface, cover, covering, skin, shell
+  - q: What words describe something that is on the outside?
+    words: outside (adj), outer, external, surface, superficial

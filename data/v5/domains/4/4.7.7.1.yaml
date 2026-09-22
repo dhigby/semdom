@@ -1,0 +1,8 @@
+code: "4.7.7.1"
+guid: BA98F891-77DF-4910-8657-38F4BA79D3A5
+name: Reward
+description: Use this domain for words related to rewarding someone.
+louwNidaCodes: 38B Reward, Recompense
+questions:
+  - q: What words refer to rewarding someone?
+    words: reward, recompense

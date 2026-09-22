@@ -1,0 +1,10 @@
+code: "7.8.5"
+guid: 313A65BF-450F-48DA-8903-A43247F1A5F8
+name: Make hole, opening
+description: Use this domain for words related to making a hole or opening in something.
+louwNidaCodes: 19B Pierce, Cut
+questions:
+  - q: What words refer to making a hole in something?
+    words: make a hole, make an opening, pierce, put a hole in, bore, drill, stab, broach
+  - q: What words refer to an opening?
+    words: opening, hole, aperture

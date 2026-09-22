@@ -1,0 +1,19 @@
+code: "5.2.3.7.2"
+guid: D067B555-E53C-4C16-BB09-5314862D8BAE
+name: Drunk
+description: Use this domain for words related to drinking alcohol and the effect it has on a person.
+ocmCodes: 275 Drinking Establishment
+louwNidaCodes: 88K' Drunkenness
+questions:
+  - q: What words refer to drinking alcohol?
+    words: drink, imbibe
+  - q: What words refer to someone who drinks a lot of alcohol?
+    words: drunkard, drunk, wino, alcoholic
+  - q: What words refer to the effect alcohol has on a person?
+    words: >-
+      be drunk, be intoxicated, soused, had too many, under the influence, drink under the
+      table
+  - q: What words refer to the aftereffects of being drunk?
+    words: hangover
+  - q: What words refer to a drinking establishment?
+    words: bar, saloon, bartender

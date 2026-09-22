@@ -1,0 +1,7 @@
+code: "6.6.2.9.1"
+guid: 1FD8A8D6-6795-4A5B-90E0-342E8B0975A1
+name: Explode
+description: Use this domain for words related to bombs or chemicals exploding.
+questions:
+  - q: What words refer to bombs or chemicals exploding?
+    words: explode, blow up, detonate

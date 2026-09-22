@@ -1,0 +1,7 @@
+code: "5.2.3.1.5"
+guid: 462F5606-5BD8-4543-AA35-26B0CFFD7163
+name: Food from roots
+description: Use this domain for words referring to food from roots.
+questions:
+  - q: What types of roots are eaten?
+    words: potato, sweet potato, carrot, onion, beet, cassava, yam, ginger

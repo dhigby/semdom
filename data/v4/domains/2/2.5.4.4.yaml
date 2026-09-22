@@ -1,0 +1,13 @@
+code: "2.5.4.4"
+guid: D2F05CC8-1A3F-4BC2-9A2B-38174BB84091
+name: Mute
+description: >-
+  Use this domain for words related to being mute--unable to speak (usually because of being
+  unable to hear).
+questions:
+  - q: What words refer to the condition of being mute?
+    words: be dumb, mute, unable to speak
+  - q: What words refer to a person who cannot speak?
+    words: mute, dumb person
+  - q: What things are used by the person who cannot speak?
+    words: sign language, gestures, writing

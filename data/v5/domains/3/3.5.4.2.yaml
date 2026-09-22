@@ -1,0 +1,21 @@
+code: "3.5.4.2"
+guid: 65EF6AAE-019F-4980-B6D9-5B7AD2C8E68F
+name: Saying, proverb
+description: >-
+  Use this domain for words referring to a saying or proverb--a short thing that people say
+  to teach something.
+questions:
+  - q: What words refer to a saying?
+    words: >-
+      saying, proverb, adage, axiom, byword, expression, formula, maxim, moral, saw, truism,
+      household word, well-turned phrase
+  - q: What words refer to a saying taken from a book or movie?
+    words: quotation
+  - q: What words refer to a saying used by someone to express their beliefs?
+    words: motto, slogan, catchphrase
+  - q: What words refer to a saying that is used so often that people think it is stupid?
+    words: cliché, platitude
+  - q: What words describe a saying?
+    words: proverbial, axiomatic, pithy, succinct, terse
+  - q: What words do people use to begin a saying?
+    words: as the saying goes, as they say, to coin a phrase

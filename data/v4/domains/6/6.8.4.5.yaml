@@ -1,0 +1,12 @@
+code: "6.8.4.5"
+guid: 0CA05184-08B9-4DC7-A4C7-FF762380B111
+name: Pay
+description: Use this domain for words related to paying money for something.
+louwNidaCodes: 57L Pay, Price, Cost
+questions:
+  - q: What words refer to paying money for something?
+    words: pay, payment, remunerate, remuneration
+  - q: What words refer to a piece of paper that says how much you must pay?
+    words: bill
+  - q: What words refer to a piece of paper that says you have paid for something?
+    words: receipt, ticket

@@ -1,0 +1,15 @@
+code: "7.2.6.1"
+guid: 34C9408C-C3F7-49db-8BCE-DE7FA7DA03D7
+name: Catch, capture
+description: Use this domain for words related to catching someone who is trying to escape.
+louwNidaCodes: 37F Seize, Take into Custody
+related: ["4.6.6.1.1"]
+questions:
+  - q: What words refer to catching someone?
+    words: catch, catch up with, capture, get, corner, hunt down, nab, seize, seizure, trap
+  - q: What words refer to catching someone and not letting them leave?
+    words: capture, round up, take someone prisoner, recapture
+  - q: What words refer to the police catching a criminal?
+    words: arrest, get, take someone into custody, apprehend, detain
+  - q: What words refer to catching an animal?
+    words: catch, trap, snare, capture, round up

@@ -1,0 +1,49 @@
+code: "1.5"
+guid: 025DA6F4-B1B6-423A-8C0F-B324F531A6F1
+name: Plant
+description: >-
+  Use this domain for general words for all plants. Use a book of pictures to identify plant
+  names and the scientific name. Languages divide plants into various domains that are not
+  always comparable from language to language. Criterial features may be characteristics
+  (trees and bushes are distinguished by size and number of trunks) and use (grass and weeds
+  are distinguished by their desirability). A common distinction is between trees and
+  non-trees, with trees described as being big, woody, and having a life expectancy of
+  several years, while non-trees are small, non-woody, and have a life expectancy of
+  typically not more than one year (Heine, Bernd and Karsten Legere. 1995. Swahili plants.
+  Rudiger Koppe Verlag: Koln.). Agricultural societies will divide plants into wild and
+  cultivated. However most plants for which there are names have some use. Therefore it does
+  not seem helpful to divide plant names into domains for useful and non-useful plants.
+  Since only parts of plants are eaten, edible parts of plants are listed under the domain
+  'Food'. Some languages may have more domains than are used in this list, others may have
+  fewer. The classification system used here does not agree entirely with the system used by
+  botanists. For instance botanists do not classify all the tree species together. The palm
+  trees belong to the class Monocotyledoneae and are classified with lilies, bananas, and
+  orchids. Apple and cherry trees belong to the class Dicotyledoneae and are classified in
+  the rose family along with roses and blackberries. The acacia tree also belongs to the
+  class Dicotyledoneae and is classified in the pulse family along with lupines and beans.
+  However most folk taxonomies bring all the trees together. The scientific classification
+  system for plants and animals is taken from: Carruth, Gorton, ed. 1989. The Volume
+  Library, Vols. 1 and 2. The Southwestern Company: Nashville.
+ocmCodes: 137 Flora
+louwNidaCodes: 3 Plants; 3A Plants
+related: ["2.5.7.3", "5.2.3.1", "6.2"]
+questions:
+  - q: What words refer to all plants?
+    words: plant, flora, greenery, vegetation, herbage
+  - q: What words describe types of plants?
+    words: >-
+      angiosperm, annual, aquatic, biennial, bracken, brake, creeper, deciduous, edible,
+      flower, greens, herbaceous, hybrid, leafy, legume, luscious, parasite, perennial,
+      plankton, pulse, sedge, succulent, tropical, vegetable, vine, weed, woody, wort
+  - q: What words are used to describe plants that grow wild?
+    words: wild, uncultivated
+  - q: What words refer to cultivated plants?
+    words: cultivated
+  - q: What words refer to a group of plants?
+    words: >-
+      bale, bouquet, bracken, brush, bunch, canopy, clump, cluster, cover, covert, corsage,
+      crop, culture, forest, greenery, grove, growth, hassock, haystack, herbage, jungle,
+      kelp, nosegay, orchard, scrub, sheaf, shock, shrubbery, skein, spray, stand, sward,
+      thicket, tuft, turf, tussock, underbrush, undergrowth, vegetation, verdure, vermin
+  - q: What words refer to the study of plants?
+    words: botany, botanist, herbalist

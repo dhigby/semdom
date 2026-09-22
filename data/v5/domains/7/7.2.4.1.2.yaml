@@ -1,0 +1,17 @@
+code: "7.2.4.1.2"
+guid: 4D1AC5E6-DFE3-4643-B6E5-21649A01CCE9
+name: Railroad
+description: Use this domain for words related to railroads.
+questions:
+  - q: What words refer to a railroad?
+    words: railroad, railway, station
+  - q: What words refer to a train?
+    words: >-
+      train, railroad car, engine, caboose, freight train, passenger train, locomotive,
+      freight car, trolley, streetcar
+  - q: What words refer to the tracks?
+    words: tracks, railroad tracks, rail, tie, bed
+  - q: What words refer to moving in a train?
+    words: ride, ride the rails, go on the train
+  - q: What words refer to a person who operates a train?
+    words: engineer, conductor, station master

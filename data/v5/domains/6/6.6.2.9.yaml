@@ -1,0 +1,34 @@
+code: "6.6.2.9"
+guid: 8B76F4A2-9926-4C76-8D4F-563371683219
+name: Working with chemicals
+description: Use this domain for words related to working with chemicals.
+ocmCodes: >-
+  303 Manufacturing of Toilet Accessories; 380 Chemical Industries; 381 Chemical
+  Engineering; 382 Petroleum and Coal Products Industries; 383 Rubber Industry; 384
+  Synthetics Industry; 385 Industrial Chemicals; 386 Paint and Dye Manufacture; 387
+  Fertilizer Industry; 388 Soap and Allied Products; 389 Manufacture of Explosives; 549 Art
+  and Recreational Supplies Industries; 719 Munitions Industries
+questions:
+  - q: What words refer to working with chemicals?
+    words: chemistry
+  - q: What words refer to a person who works with chemicals?
+    words: chemist, alchemist
+  - q: What tools are used to work with chemicals?
+    words: test tube, beaker, Bunsen burner, periodic table, formula, catalyst
+  - q: What words refer to elements?
+    words: atom, atomic, element, electron, neutron, nuclear, proton
+  - q: What words refer to chemicals?
+    words: chemical, compound, molecule, molecular, radical, valence
+  - q: What types of chemicals are there?
+    words: acid, base, alkali, biochemical, organic, inorganic, synthetic, plastic
+  - q: What are the names of specific chemicals?
+    words: >-
+      acetate, alcohol, amino, ammonia, arsenic, asbestos, bicarbonate, butane, camphor,
+      carbohydrate, chloride, chlorine, cleaner, cleanser, colloidal, creosote, cyanide,
+      detergent, diesel, dioxide, emulsion, enamel, ethane, ethanol, ether, fluoride,
+      fluorite, fuel, gas, gel, helium, hydrogen, iodine, leaven, hydrocarbon, hydrochloric,
+      gasohol, gasoline, glycerin, kerosene, lacquer, latex, lithium, lubricant, methane,
+      neon, nitrogen, nylon, oil, oxide, oxygen, ozone, paraffin, peroxide, phosgene,
+      petrochemical, petrol, petrolatum, petroleum, polyester, protein, rayon, resin, rosin,
+      yeast, silicate, silicon, sodium, solution, sol, solvent, spar, sulfuric, tallow,
+      tannin, tartar, thinner, turpentine, varnish, vitriol, water

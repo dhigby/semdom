@@ -1,0 +1,33 @@
+code: "3.6.2"
+guid: 3FDBA5E5-EB24-4B2F-A6FC-D1ED7397C39C
+name: School
+description: Use this domain for words related to school.
+ocmCodes: >-
+  870 Education; 871 Educational System; 872 Elementary Education; 873 Liberal Arts
+  Education; 874 Vocational Education; 875 Teachers; 876 Educational Theory and Methods; 877
+  Students
+questions:
+  - q: What words refer to a school?
+    words: school
+  - q: What words refer to a school for different ages?
+    words: >-
+      nursery school, kindergarten, grammar school, elementary school, secondary school,
+      high school, university, college
+  - q: What words refer to a special kind of school?
+    words: >-
+      public school, state school, private school, boarding school, co-educational,
+      comprehensive school, religious school, seminary, academy
+  - q: What words refer to a place in a school?
+    words: classroom, lecture hall, playground, sports field, gymnasium, auditorium, staffroom
+  - q: What words refer to a group of students in a school?
+    words: class, grade, form, year, set, student body
+  - q: What equipment is used in a school?
+    words: >-
+      textbook, desk, chair, blackboard, chalk, eraser, rubber, uniform, school-bag,
+      exercise book
+  - q: What words refer to attending school?
+    words: attend, go to school, enter school
+  - q: What words refer to leaving school?
+    words: leave, graduate, drop out, dropout
+  - q: What words refer to making someone leave school because of bad behavior?
+    words: expel, kick out, suspend

@@ -1,0 +1,14 @@
+code: "1"
+guid: 63403699-07C1-43F3-A47C-069D6E4316E5
+name: Universe, creation
+description: >-
+  Use this domain for general words referring to the physical universe. Some languages may
+  not have a single word for the universe and may have to use a phrase such as 'rain, soil,
+  and things of the sky' or 'sky, land, and water' or a descriptive phrase such as
+  'everything you can see' or 'everything that exists'.
+ocmCodes: 772 Cosmology; 130 Geography
+louwNidaCodes: 1A Universe, Creation; 14 Physical Events and States
+questions:
+  - q: What words refer to everything we can see?
+    words: universe, creation, cosmos, heaven and earth, macrocosm, everything that exists
+    sentence: In the beginning God created <the heavens and the earth>.

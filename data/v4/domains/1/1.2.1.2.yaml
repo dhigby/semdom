@@ -1,0 +1,19 @@
+code: "1.2.1.2"
+guid: D50F3921-FCEA-4AC9-B64A-25BF47DC3292
+name: Volcano
+description: Use this domain for words related to volcanoes.
+questions:
+  - q: What words refer to a volcano?
+    words: volcano, volcanic
+  - q: What are the parts of a volcano?
+    words: cone, cinder cone, core of a volcano, crater, lava flow
+  - q: What do volcanoes do?
+    words: >-
+      erupt, eruption, spew (gas, lava, ash), explode, blow, produce a cloud, cause
+      earthquakes, bury things (under lava, ash), smoke
+  - q: What do volcanoes produce?
+    words: >-
+      lava, molten lava, volcanic ash, cloud of ash, ash flow, pyroclastic flow, volcanic
+      cinder, volcanic glass (obsidian), pumice, thunder egg
+  - q: What words refer to whether a volcano is erupting or not?
+    words: active, dormant, extinct

@@ -1,0 +1,7 @@
+code: "6.1.2.7"
+guid: 6EB2EF50-7E6B-41B8-A82E-6EB307C908CA
+name: Effective
+description: Use this domain for words related to being effective.
+questions:
+  - q: What words describe a method that is effective?
+    words: effective, work, successful

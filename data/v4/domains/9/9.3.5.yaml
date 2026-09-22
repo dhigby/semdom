@@ -1,0 +1,8 @@
+code: "9.3.5"
+guid: C7C3AA7D-A4B5-45AF-9A31-A640179E8FA4
+name: Attribution of an attribute
+description: Use this domain for words that modify an attribute.
+questions:
+  - q: What words modify an attribute?
+    words: fairly, sort of, quite
+    sentence: <light> blue, <dark> red, <dull> gray, <faded> colors

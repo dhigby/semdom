@@ -1,0 +1,10 @@
+code: "7.6.3"
+guid: B7F4FD44-FA17-46A8-BDAF-D3399D6CB0AC
+name: Lose, misplace
+description: >-
+  Use this domain for words referring to putting something in a place and not being able to
+  find it again, or for when someone else moves something without your knowledge so that you
+  cannot find it.
+questions:
+  - q: What words refer to losing something?
+    words: lose, loss, misplace

@@ -1,0 +1,8 @@
+code: "6.3.3"
+guid: D85391FA-680A-4715-81AC-C0835ACAC8C5
+name: Milk
+description: Use this domain for words related to milking an animal.
+ocmCodes: 234 Dairying
+questions:
+  - q: What words refer to milking an animal?
+    words: milk (v), milk (n), milk jug, bucket, dairy, dairy cow

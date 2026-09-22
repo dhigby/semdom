@@ -1,0 +1,21 @@
+code: "9.1.2.3"
+guid: D47B69E0-AB4A-4111-AEC3-2C889A4E70B3
+name: Create
+description: >-
+  Use this domain for words referring to creating something--causing something to be that
+  did not exist before.
+louwNidaCodes: 42C Make, Create
+related: ["8.4.6.1"]
+questions:
+  - q: What words refer to inventing something?
+    words: >-
+      create, dream up, imagine, compose, contrive, design, devise, invent, conceive of,
+      think up, make up
+  - q: What words refer to something that has been invented?
+    words: design, invention, conception, dream
+  - q: What words refer to something that has been created?
+    words: creation, creature
+  - q: What words refer to a person who creates?
+    words: creator, inventor
+  - q: What words describe something that was created?
+    words: created

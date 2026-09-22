@@ -1,0 +1,11 @@
+code: "8.1.5.9"
+guid: 3389561C-F264-48B9-B94C-86C33FC3C423
+name: Average
+description: Use this domain for words related to an average number.
+questions:
+  - q: What words refer to an average number?
+    words: average (n), mean, medium, median
+  - q: What words describe an average number?
+    words: average (adj), mean (adj), medium (adj), medial, on average
+  - q: What words refer to calculating the average?
+    words: average (v), average out

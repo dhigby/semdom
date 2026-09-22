@@ -1,0 +1,14 @@
+code: "5.4.3"
+guid: 6B8366B9-B5E8-42B8-991C-C568D4442A81
+name: Care for hair
+description: Use this domain for words related to caring for your hair.
+related: ["2.1.5"]
+questions:
+  - q: What words refer to actions done to the hair?
+    words: braid, plait, perm, dye, style
+  - q: What words describe the condition of a person's hair?
+    words: hair condition, dry, greasy, split end, tangled, combed, uncombed
+  - q: What words refer to a person that cares for people's hair?
+    words: beautician, hair stylist
+  - q: What words refer to a business that cares for people's hair?
+    words: beauty salon, beauty parlor, barber shop, hair salon

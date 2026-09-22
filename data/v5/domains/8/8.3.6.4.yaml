@@ -1,0 +1,13 @@
+code: "8.3.6.4"
+guid: 6C305AF5-CFF5-4F7F-BD89-040D4C265355
+name: Dense
+description: Use this domain for words describing something that is dense.
+questions:
+  - q: What words describe something that is dense?
+    words: dense, thick, compact, consolidated, thickset
+  - q: What words refer to making something more dense?
+    words: compress, consolidate, consolidation
+  - q: What words describe something that is not dense?
+    words: thin, porous, spongy, hollow, tenuous, rare
+  - q: What words refer to making something less dense?
+    words: thin, rarefy

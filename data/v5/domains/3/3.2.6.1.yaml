@@ -1,0 +1,16 @@
+code: "3.2.6.1"
+guid: CE30EB9C-8260-476B-878C-0A078D596955
+name: Forget
+description: Use this domain for words referring to forgetting something.
+louwNidaCodes: 29C Not Remembering, Forgetting
+questions:
+  - q: What words refer to not remembering something?
+    words: >-
+      forget, didn't think of it, overlook, draw a blank, escape me, slip my mind, fly right
+      out of your mind, lose your train of thought, lose track of
+  - q: What words refer to failing to remember to do something?
+    words: neglect, omit, let something pass, slip, unmindful, miss
+  - q: What words describe someone who has trouble remembering?
+    words: forgetful, absentminded
+  - q: What words refer to forgetting many things because of a head injury?
+    words: amnesia

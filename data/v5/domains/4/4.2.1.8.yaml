@@ -1,0 +1,13 @@
+code: "4.2.1.8"
+guid: 86F90EFF-158B-4F6D-82E9-FAB136DFD141
+name: Organization
+description: Use this domain for words referring to an organization.
+ocmCodes: 575 Sodalities
+related: ["7.5.5"]
+questions:
+  - q: What words refer to an organization?
+    words: organization, club, society, institution, company
+  - q: What words refer to a part of an organization?
+    words: department, committee
+  - q: What words refer to starting an organization?
+    words: form, organize

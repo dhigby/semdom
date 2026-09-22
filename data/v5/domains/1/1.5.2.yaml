@@ -1,0 +1,12 @@
+code: "1.5.2"
+guid: 531AF868-B5FB-41C2-BA50-764458F9102F
+name: Bush, shrub
+description: >-
+  Use this domain for bushes and shrubs--plants that are smaller than trees and have several
+  wooden trunks (Phylum Spermatophyta, Subdivision Angiospermae).
+ocmCodes: 137e Shrubs
+questions:
+  - q: What general words refer to bushes?
+    words: bush, bushy, shrub, hedge
+  - q: What types of bushes are there?
+    words: poinsettia, rose bush, bougainvillea

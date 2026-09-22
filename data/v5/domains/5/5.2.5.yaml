@@ -1,0 +1,28 @@
+code: "5.2.5"
+guid: 3710E019-46C9-44DB-A0AA-9054D3126161
+name: Narcotic
+description: >-
+  Use this domain for words related to narcotics and drugs that are not used as medicine but
+  as stimulants. Narcotics are often addicting and harmful to a person's health.
+ocmCodes: 276 Recreational and Non-therapeutic Drugs; Narcotics and Stimulants
+questions:
+  - q: What general words refer to narcotics?
+    words: narcotic, drug
+  - q: What types of narcotics are there?
+    words: marijuana, bhang, LSD, heroin, opium
+  - q: What words refer to taking drugs?
+    words: take drugs, be on drugs
+  - q: What tools are used to take drugs?
+    words: drug paraphernalia
+  - q: What words refer to a person who takes drugs?
+    words: addict, user, junkie
+  - q: What words refer to a dosage of drugs?
+    words: joint
+  - q: What affect do drugs have on people?
+    words: addiction, dependence, be high
+  - q: What words refer to being addicted to drugs?
+    words: be addicted, dependent, be hooked
+  - q: What words refer to the need for drugs?
+    words: addiction, habit, dependence
+  - q: What words describe a drug that makes people addicted?
+    words: addictive

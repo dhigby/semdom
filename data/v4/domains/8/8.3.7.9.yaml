@@ -1,0 +1,19 @@
+code: "8.3.7.9"
+guid: CD4300C9-265E-4457-8E33-4E0C9A4D4BA8
+name: Value
+description: Use this domain for words related to the value of something.
+louwNidaCodes: 65 Value; 65A Valuable, Lacking in Value; 65B Worthy, Not Worthy
+related: ["3.2.2.3"]
+questions:
+  - q: What words refer to the value of something?
+    words: value, price, worth
+  - q: What words refer to evaluating the value of something?
+    words: evaluate, evaluation, value (v)
+  - q: What words describe something that is valued as good?
+    words: good, valuable, worthy, advantageous, important, useful, dear
+  - q: What words describe something that is valued as bad?
+    words: bad, worthless, unworthy, unimportant, useless
+  - q: What words refer to increasing the value of something?
+    words: increase in value, inflate, inflation, appreciate
+  - q: What words refer to decreasing the value of something?
+    words: decrease in value, debase, degrade, deflate, deflation, depreciate

@@ -1,0 +1,41 @@
+code: "9.4.4.1"
+guid: AD7CC381-1DC6-4FC2-94A4-ACD5BF7A11DA
+name: Certainly, definitely
+description: >-
+  Use this domain for words that a speaker uses to indicate that he thinks something is
+  certainly true or is certain to happen.
+louwNidaCodes: 71C Certain, Uncertain
+related: ["9.4.4.2"]
+questions:
+  - q: What words indicate that something is certainly true?
+    words: >-
+      certainly, absolutely, definitely, there is no doubt, undoubtedly, without a doubt,
+      without doubt, without a shadow of a doubt, unquestionably, be beyond dispute, there's
+      no denying, there are no two ways about it, there is no question
+  - q: What words indicate that something will certainly happen?
+    words: >-
+      certainly, definitely, be bound to, be sure to, be certain to, be assured of, be only
+      a matter of time, be just a matter of time, cut and dried, you can bet your life, you
+      can bet your bottom dollar, be a certainty, be a foregone conclusion, for sure
+  - q: What words indicate that something will certainly succeed?
+    words: >-
+      can't go wrong, be a dead cert, it's in the bag, it's a safe bet, it's a sure bet,
+      foolproof
+  - q: What words refer to doing something in order to be certain that something will happen?
+    words: make sure, make certain, insure, ensure, see that, see to it
+  - q: >-
+      What words indicate that something is certain to happen and nothing can be done to
+      stop it?
+    words: >-
+      inevitable, whether you like it or not, willy-nilly, be fated to, be destined to,
+      predestined, be meant to be, pre-ordained, doomed, the inevitable
+  - q: What words describe something that is certain?
+    words: certain, definite, conclusive
+  - q: What words indicate that something is certainly not true?
+    words: >-
+      absolute, assurance, assured, can, certain, certainly, certitude, clear, decided,
+      decisive, definite, doubtless, established, fixed, guaranteed, incalculable,
+      incontestable, incontrovertible, indisputable, indubitable, ineluctable, inevitable,
+      infallible, inescapable, inevitable, irrefragable, irrefutable, positive, really, set,
+      settled, single-minded, sure, sureness, trustworthy, unarguable, unavoidable,
+      undeniable, unequivocal, unmistakable, unquestionable

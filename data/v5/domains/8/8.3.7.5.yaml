@@ -1,0 +1,8 @@
+code: "8.3.7.5"
+guid: 11665F1D-ACA9-4699-AFB2-BCDEA69C6645
+name: Important
+description: Use this domain for words describing something that is important.
+louwNidaCodes: 65F Important, Unimportant
+questions:
+  - q: What words describe something that is important?
+    words: important, main (thing), grand, great, urgent, worthy

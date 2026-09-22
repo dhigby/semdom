@@ -1,0 +1,11 @@
+code: "5.6.6"
+guid: C09EEDD3-C4E1-4CF9-B6D1-A01624C6426A
+name: Wipe, erase
+description: Use this domain for words related to wiping dirt off of things.
+questions:
+  - q: What words refer to wiping dirt and dust off things?
+    words: wipe, erase, to dust
+  - q: What tools are used?
+    words: dust cloth, rag, eraser, rubber
+  - q: What words refer to the dirt that is removed?
+    words: dust

@@ -1,0 +1,9 @@
+code: "4.7.9.2"
+guid: 793D3124-8B77-4FF0-82EC-09A3A9D8D865
+name: Unfair
+description: Use this domain for words related to being unfair.
+questions:
+  - q: What words refer to whether someone deserves something?
+    words: unfair, unjust, wrongful
+  - q: What words describe something that someone does not deserve?
+    words: undeserved, inappropriate, unwarranted, unearned

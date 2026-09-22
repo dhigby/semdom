@@ -1,0 +1,15 @@
+code: "2.5.6.3"
+guid: 6EABA0C3-CDFE-435D-8811-7F2DDF6FACBD
+name: Swell
+description: Use this domain for words related to swelling of the body.
+questions:
+  - q: What words refer to swelling?
+    words: swell, swelling, edema, inflammation
+  - q: What words refer to swelling in a particular part of the body?
+    words: swollen abdomen, swollen muscle, hernia, swelling in groin
+  - q: What words describe something that has swollen?
+    words: swollen, puffy, inflamed
+  - q: What words refer to swelling increasing?
+    words: swell up, get swollen
+  - q: What words refer to swelling decreasing?
+    words: relieve swelling, reduce swelling, go down

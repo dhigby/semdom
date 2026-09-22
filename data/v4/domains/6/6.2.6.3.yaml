@@ -1,0 +1,11 @@
+code: "6.2.6.3"
+guid: 47ED6C39-B728-4AE7-BE7C-C45C714C3153
+name: Thresh
+description: Use this domain for words related to threshing grain.
+questions:
+  - q: What words refer to threshing grain?
+    words: thresh, beat
+  - q: What crops are threshed?
+    words: beans
+  - q: Where is grain threshed?
+    words: threshing floor

@@ -1,0 +1,28 @@
+code: "8.2.2.2"
+guid: B844D2F8-D3EF-4605-B038-8BC0A2CFF0AF
+name: Tall
+description: >-
+  Use this domain for words related to being tall--a word describing something that is big
+  from the top to the bottom.
+louwNidaCodes: 23K Grow, Growth; 81B High, Low, Deep
+questions:
+  - q: What words describe something that is tall?
+    words: tall, high
+  - q: What words describe something that is very tall?
+    words: soaring, towering
+  - q: What words describe a tall person?
+    words: tall, lanky, gangling, leggy, hulking, gangly, strapping
+  - q: What words refer to a tall person?
+    words: giant
+  - q: What words refer to becoming tall?
+    words: get taller, grow, sprout, shoot up, put on height
+  - q: What words refer to making something tall?
+    words: raise, heighten
+  - q: What words describe something that has been made tall?
+    words: raised, heightened
+  - q: What words refer to being taller than another thing?
+    words: taller, tallest, tower over, tower above, dwarf (v), dominate
+  - q: What words refer to how tall something is?
+    words: height, stature
+  - q: What words indicate how tall something is?
+    words: how tall, be (six feet) tall, be (ten meters) high, be (six feet) in height

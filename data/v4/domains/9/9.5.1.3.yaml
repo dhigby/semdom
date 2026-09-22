@@ -1,0 +1,9 @@
+code: "9.5.1.3"
+guid: 4F587B2B-60A6-4EA0-9FE5-89E5A502D380
+name: Means
+description: Use this domain for words indicating the means by which something is done.
+louwNidaCodes: 89L Means
+questions:
+  - q: What words indicate the means by which something is done?
+    words: by, by means of
+    sentence: John travels to work <by> bus.; He intends to get there <by means of> his wits.

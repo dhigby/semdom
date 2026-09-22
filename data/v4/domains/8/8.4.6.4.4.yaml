@@ -1,0 +1,18 @@
+code: "8.4.6.4.4"
+guid: 04543543-4C3D-4D71-AA87-53191EF3B7B0
+name: Immediately
+description: >-
+  Use this domain for words referring to something happening immediately--without any time
+  passing before it happens.
+louwNidaCodes: 68G Rapidity, Suddenness
+questions:
+  - q: What words indicate that someone does something immediately?
+    words: immediate, right away, in no time at all
+  - q: What words indicate that something happened immediately?
+    words: >-
+      immediately, instantly, this instant, sudden, suddenly, right away, right now, at
+      once, without any time going by, without delay, no sooner
+  - q: What words describe something that happens immediately?
+    words: immediate, instant, instantaneous
+  - q: What words indicate that someone does something immediately without thinking about it?
+    words: then and there

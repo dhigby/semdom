@@ -1,0 +1,44 @@
+code: "8.1.7"
+guid: 286EE16C-A218-43D5-BBAC-AB15F80C3FCF
+name: Enough
+description: >-
+  Use this domain for words related to being or having enough--to have as much of something
+  or as many of something as you need or want.
+louwNidaCodes: 57B Have Sufficient; 59E Enough, Sufficient
+questions:
+  - q: What words describe something that you have enough of?
+    words: enough, sufficient, adequate, satisfactory, enough to go round
+  - q: What words indicate that there is enough of something for what you need?
+    words: be enough, do, suffice, cover, last, meet someone's needs, get by, afford to
+  - q: What words indicate that someone is strong enough or old enough to do something?
+    words: enough, sufficiently
+    sentence: John <is> strong enough to walk now.
+  - q: >-
+      What words describe a situation in which someone does enough or something happens
+      enough?
+    words: do enough, sufficiently, adequacy, adequately, satisfactorily, sufficiency
+  - q: What words refer to having enough of something?
+    words: have enough, be OK for, be all right for, be well off for, have sufficient
+  - q: What words refer to having enough of something to do what you want?
+    words: have the time/money, can afford, can spare, run to
+    sentence: John <has> the money to buy a bicycle.
+  - q: What words refer to having more than enough, but not too much?
+    words: more than enough, plenty, ample
+  - q: What words refer to not having enough?
+    words: >-
+      not enough, insufficient, too little, too few, scarce, inadequate, inadequacy,
+      shortage, lack of, be in short supply, be short
+  - q: What words indicate that there is not enough of something for what you need?
+    words: not be enough, be running short, not last, won't last
+  - q: What words indicate that someone is not strong enough or old enough to do something?
+    words: not (strong) enough, not sufficiently
+  - q: >-
+      What words describe a situation in which someone does not do enough or something does
+      not happens enough?
+    words: not...enough, too little
+  - q: What words refer to not having enough of something?
+    words: >-
+      not have enough, be short of, be short on, go short, be running short of, deficient,
+      be starved of, be lacking in
+  - q: What words refer to not having enough of something to do what you want?
+    words: not have enough, can't afford, be strapped for cash

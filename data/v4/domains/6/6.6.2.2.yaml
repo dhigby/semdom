@@ -1,0 +1,14 @@
+code: "6.6.2.2"
+guid: 993B8955-52DB-4B2A-8E9A-405A155E7B60
+name: Smelting
+description: Use this domain for words related to smelting--melting rocks to get metal out of them.
+ocmCodes: 325 Metallurgy; 327 Iron and Steel Industry
+questions:
+  - q: What words refer to melting rocks to get metal out of them?
+    words: smelt (metal ore), melt
+  - q: What words refer to rocks that have metal in them?
+    words: ore
+  - q: What tools and equipment are used to get metal out of rocks?
+    words: furnace, forge, crucible
+  - q: What words refer to the material left over after metal has been taken out of rocks?
+    words: slag, slagheap, dross

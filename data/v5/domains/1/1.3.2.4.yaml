@@ -1,0 +1,27 @@
+code: "1.3.2.4"
+guid: 741C417A-11E9-460C-9AB3-51B8220DF016
+name: Wave
+description: Use this domain for words related to waves and what they do.
+questions:
+  - q: What types of waves are there?
+    words: wave, ripple, swell, breaker, billow, surf, tidal wave, tsunami
+  - q: What are the parts of a wave?
+    words: crest, trough, curl, foam
+  - q: What words describe the movement of a wave?
+    words: >-
+      surge, move, come roaring down on, race before the wind, wave pattern, violence of the
+      waves, undertow, toss
+  - q: What do waves do when they hit the shore?
+    words: >-
+      hit the shore, break on the shore/rocks, break against, break over, crash against,
+      crash down on, lap against, wash against the shore, gentle wash of the waves
+  - q: What words describe a wave getting bigger?
+    words: swell, mount up, pile up, rise and fall, curl
+  - q: What do waves do to things?
+    words: >-
+      wash up on shore, wash out to sea, wash away, erode, wear away, lift, rise and fall
+      with the waves, rock
+  - q: What do people do with waves?
+    words: surf, surfboard, ride the waves, dive under
+  - q: What sounds do waves make?
+    words: crash, roar, thunder, thunderous roar, slap

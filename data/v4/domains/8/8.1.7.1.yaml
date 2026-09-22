@@ -1,0 +1,20 @@
+code: "8.1.7.1"
+guid: 755A7462-1D87-48B0-939C-08BE5B5EA002
+name: Extra
+description: >-
+  Use this domain for words related to having extra--to have more than enough or more than
+  what you need.
+louwNidaCodes: 59F Abundance, Excess, Sparing
+questions:
+  - q: What words refer to having extra?
+    words: have extra
+  - q: What words indicate that there is more than enough of something?
+    words: >-
+      plenty of, more than enough, bags of, in large quantities, plentiful, ample, abundant,
+      an abundance of, in abundance, copious, galore, to spare
+  - q: What words refer to the amount that is extra?
+    words: extra (n), surplus, excess, leftover, overflow
+  - q: What words describe something that is extra?
+    words: extra (adj), spare, superfluous
+  - q: What words refer to having too much?
+    words: too much, too many, excessive

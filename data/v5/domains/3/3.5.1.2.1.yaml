@@ -1,0 +1,15 @@
+code: "3.5.1.2.1"
+guid: 1148684A-0F44-4B5A-9E3E-3823163CD4A1
+name: Announce
+description: >-
+  Use this domain for words related to announcing something--communicating something to many
+  people.
+questions:
+  - q: What words refer announcing something?
+    words: >-
+      announce, declare, proclaim, publicize, publish, broadcast, make something public,
+      make known, promote, advertise, inform, post
+  - q: What words refer to what is announced?
+    words: announcement, publicity, propaganda
+  - q: What words describe something that has been communicated to many people?
+    words: well publicized

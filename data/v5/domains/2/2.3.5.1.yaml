@@ -1,0 +1,24 @@
+code: "2.3.5.1"
+guid: 295DC021-5B50-47B3-8340-1631C6D6FADC
+name: Comfortable
+description: >-
+  Use this domain for words related to feeling comfortable--to feel good in your body
+  because there is nothing around you that makes you feel bad. This includes comfortable
+  clothes, chair, bed, temperature, or journey.
+questions:
+  - q: What words refer to feeling comfortable?
+    words: comfortable, comfort, comfy, in comfort, snug
+  - q: What words describe something that makes you feel comfortable?
+    words: comfortable, cozy, snug, smooth, luxurious
+  - q: What words refer to something that makes you feel comfortable?
+    words: comfort, luxury
+  - q: What words refer to a comfortable feeling?
+    words: comfort
+  - q: What words refer to making yourself comfortable?
+    words: make yourself comfortable, settle down, snuggle
+  - q: What words refer to not feeling comfortable?
+    words: uncomfortable, discomfort
+  - q: What words describe something that makes you feel uncomfortable?
+    words: uncomfortable, rough, bumpy
+  - q: What words refer to living without things that make you feel comfortable?
+    words: rough it, austere, austerity, Spartan

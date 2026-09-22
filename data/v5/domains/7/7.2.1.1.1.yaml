@@ -1,0 +1,24 @@
+code: "7.2.1.1.1"
+guid: B16DE6A0-71DD-448C-9FFA-49F6646A5219
+name: Run
+description: Use this domain for words referring to running--moving fast on your legs.
+louwNidaCodes: 15D' Run x
+questions:
+  - q: What general words refer to running?
+    words: run
+  - q: What words refer to running slowly?
+    words: trot, canter, jog, lope
+  - q: What words refer to running quickly?
+    words: >-
+      race, gallop, dash, make a dash, tear (along), streak, double time, sprint, charge,
+      dart, scurry, scuttle, scamper, scoot, stampede, bound, bolt
+  - q: What words refer to how fast you are running?
+    words: pace
+  - q: What words refer to beginning to run?
+    words: break into a run, set off on a run
+  - q: What words refer to running faster?
+    words: speed up, put on a spurt, kick
+  - q: What words refer to a race?
+    words: race, dash, marathon, long/short distance race, racecourse
+  - q: What words refer to being in pain because of running?
+    words: be out of breath, be winded, have a stitch (in your side)

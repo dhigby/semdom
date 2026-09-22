@@ -1,0 +1,38 @@
+code: "1.5.1"
+guid: 0EE5B933-F1AB-485F-894A-51FE239CB726
+name: Tree
+description: >-
+  Use this domain for trees--flowering plants with roots, stems, and leaves, which are large
+  and have a wooden trunk (Phylum Spermatophyta, Subdivision Angiospermae). Also include the
+  evergreen trees (Phylum Spermatophyta, Subdivision Gymnospermae). Evergreen trees do not
+  have flowers, but have cone like fruits (pinecones) that contain seeds. Their leaves are
+  shaped like needles and are retained for over a year.
+ocmCodes: 137d Trees and wood
+louwNidaCodes: 3B Trees
+questions:
+  - q: What general words refer to trees?
+    words: tree, arboreal
+  - q: What words refer to general types of trees?
+    words: >-
+      broadleaf, conifer, coniferous, cycad, deciduous, evergreen, fir, fruit tree, palm,
+      pine, timber
+  - q: What types of trees are there?
+    words: >-
+      acacia, alder, almond, apple, apricot, ash, aspen, avocado, azalea, balsa, balsam,
+      banyan, bayberry, beech, betel nut, birch, blackberry, blueberry, box, boxwood,
+      Brazil, breadfruit, broom, camellia, cashew, cassia, catalpa, cedar, cherry, chestnut,
+      chinaberry, cinchona, cinnamon, citron, citrus, clove, coca, coconut, coffee, cornel,
+      cottonwood, cranberry, currant, cypress, date, dogwood, ebony, elder, elm, eucalyptus,
+      fig, fir, forsythia, gardenia, ginkgo, grapefruit, guava, gum, hawthorn, hazel,
+      hazelnut, hemlock, henna, hickory, ironwood, juniper, jute, kumquat, laburnum, larch,
+      laurel, lemon, lignum, lilac, lime, linden, litchi, locust, magnolia, mahogany, mango,
+      mangrove, manzanita, maple, marijuana, mesquite, mimosa, mistletoe, mulberry, myrtle,
+      nutmeg, oak, oleander, olive, orange, papaw, papaya, peach, pear, pecan, persimmon,
+      pine, pistachio, plane, plum, poinciana, pomegranate, poplar, quince, redwood,
+      rosewood, sandalwood, sapling, sassafras, satinwood, saxifrage, scrub, senna, sequoia,
+      sisal, spruce, spurge, stinkwood, sumac, sycamore, tamarack, tamarind, tamarisk,
+      tangerine, teak, upas, walnut, willow, yew, ylang-ylang
+  - q: What types of trees are used for decoration?
+    words: bonsai
+  - q: What words refer to a group of trees?
+    words: forest, woods, grove, stand

@@ -1,0 +1,19 @@
+code: "7.5.7"
+guid: BE2F2785-7219-4A35-B8D3-AA56B9B78514
+name: Multiple things moving
+description: Use this domain for words referring to multiple things moving.
+questions:
+  - q: What words refer to more than one thing moving in the same direction?
+    words: move together, move parallel
+  - q: What words refer to more than one thing moving away from each other?
+    words: disperse, thin out, melt away, break up, spread out, diverge, permeate
+  - q: What words refer to more than one thing moving toward each other?
+    words: >-
+      gather, collect, form, mass, congregate, converge, close (v), close in on,
+      concentrate, crowd in
+  - q: What words refer to more than one thing meeting?
+    words: meet, come together, unite, crash, collide
+  - q: What words refer to the place where things come together?
+    words: meeting point, focal point, focus, confluence
+  - q: What words refer to more than one thing moving around in a place?
+    words: crowd, fill, mill around, swarm

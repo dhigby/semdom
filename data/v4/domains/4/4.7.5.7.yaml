@@ -1,0 +1,10 @@
+code: "4.7.5.7"
+guid: 59D19623-0F3B-484D-96EB-A9093B020C8D
+name: Take oath
+description: Use this domain for words related to taking an oath.
+louwNidaCodes: 33B" Swear, Put Under Oath, Vow
+questions:
+  - q: What words refer to taking an oath?
+    words: >-
+      take an oath, swear, solemnly swear, promise, guarantee, invoke a curse, vow,
+      forswear, raise right hand, blood oath, adjure

@@ -1,0 +1,12 @@
+code: "6.4.5"
+guid: EA46DE30-A1A9-4828-84A8-9165F61F8B20
+name: Fishing
+description: Use this domain for words related to catching fish.
+ocmCodes: 226 Fishing; 225 Marine Hunting
+questions:
+  - q: What words refer to catching fish?
+    words: to fish, to catch (fish), a catch (of fish), fishing boat
+  - q: What methods are used to catch fish?
+    words: net, hook, angle, trap, spear, arrow, harpoon, poison, dynamite, trawling, fishpond
+  - q: What do people do to fish?
+    words: catch, scale, gut, clean, smoke, dry, smoked fish, dried fish

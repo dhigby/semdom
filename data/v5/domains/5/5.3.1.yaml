@@ -1,0 +1,9 @@
+code: "5.3.1"
+guid: EE6E993C-5551-42AE-B35E-26BC6AEEB3A4
+name: Men's clothing
+description: Use this domain for words related to men's clothing.
+questions:
+  - q: What words refer to pieces of men's clothing?
+    words: >-
+      shirt, pants, trousers, short pants, sock, stocking, shoe, boot, belt, hat, cap,
+      underclothes, underwear, tie, suit, vest, coat, gloves, robe, pajamas, overcoat

@@ -1,0 +1,21 @@
+code: "9.5.1.1"
+guid: 93DF663C-9A5E-48AA-984F-FDF413079BC2
+name: Beneficiary of an event
+description: >-
+  Use this domain for words that mark the beneficiary of an event. The sentence "John built
+  a house for his father" is ambiguous. If the house was for his father to live in, then
+  "for" would mark the 'Beneficiary of a patient', meaning that the house was for the
+  father. If, on the other hand, the father was intending to build the house to sell, but
+  couldn't due to an injury, then "for" would mark the 'Beneficiary of an event', meaning
+  the father benefited from the building of the house.
+louwNidaCodes: 90I Benefaction
+questions:
+  - q: What words mark the beneficiary of an event?
+    words: >-
+      for, for (someone's) sake, for the sake of, for (someone's) benefit, for the benefit
+      of
+    sentence: >-
+      John held our coats <for> us.; John manages the business <for> us.; John invited some
+      older couples to join them <for> his parent's <sake>.; <For the sake of> his parents
+      John invited some older couples to join them.; <For the benefit of> the children we
+      included a trip to the zoo.; Because you are sick, Mary has offered to cook <for> you.

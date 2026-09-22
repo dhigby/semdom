@@ -1,0 +1,9 @@
+code: "6.8.5.2"
+guid: EC90E061-E6A0-435F-8784-7269A24C670A
+name: Give pledge, bond
+description: Use this domain for words related to giving a pledge to replay a loan.
+questions:
+  - q: What words refer to giving a pledge to repay a loan?
+    words: >-
+      give a pledge, bond, collateral, earnest, put up collateral, promissory note, lien,
+      credit, security, surety

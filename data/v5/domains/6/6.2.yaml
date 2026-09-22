@@ -1,0 +1,10 @@
+code: "6.2"
+guid: 5BB29704-FE0F-4594-9622-CE0AA42B93C8
+name: Agriculture
+description: Use this domain for words related to agriculture--working with plants.
+ocmCodes: 240 Agriculture; 242 Agricultural Science
+louwNidaCodes: 43 Agriculture
+related: ["1.5"]
+questions:
+  - q: What general words refer to working with plants?
+    words: agriculture, farming

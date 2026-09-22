@@ -1,0 +1,23 @@
+code: "3.4.1.2.1"
+guid: 26FB2E94-B8FE-4216-9057-CA17A71DF83B
+name: Relaxed
+description: >-
+  Use this domain for words related to feeling relaxed--to feel good when you are not
+  working and nothing bad is happening.
+related: ["3.4.2.4.2", "7.1.7.1"]
+questions:
+  - q: What words refer to feeling relaxed?
+    words: >-
+      relax, rest, unbend, unwind, feel at home, feel at ease, be at ease, take it easy,
+      take things easy, make yourself at home, loosen up, let your hair down, let yourself
+      go
+  - q: What words refer to the feeling of relaxation?
+    words: relaxation, comfort
+  - q: What words describe someone who feels relaxed?
+    words: relaxed, at ease, calm, comfortable, laid-back, uninhibited
+  - q: What words refer to causing someone to feel relaxed?
+    words: relax someone, put someone at ease, make someone feel at home
+  - q: What words refer to something that causes someone to feel relaxed?
+    words: sedative, relaxant
+  - q: What words describe something that causes someone to feel relaxed?
+    words: relaxing

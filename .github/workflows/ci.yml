@@ -1,0 +1,45 @@
+name: Validate
+
+# The repository is the source of truth for the Semantic Domains standard, so every
+# proposed change is checked before it can reach main. Nothing ran on pull requests
+# before this workflow existed.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      - name: Validate domain data
+        run: node scripts/validate.mjs
+
+      - name: Generate XML and verify fidelity against the historic v4 export
+        run: node scripts/build-xml.mjs --out .verify --verify
+
+      - name: Build the site
+        run: npx astro build
+
+      # A reviewer gets a readable report, never a 2.8 MB XML diff. Written to the step
+      # summary rather than posted as a PR comment because pull requests from forks get
+      # a read-only token and cannot comment.
+      - name: Report
+        if: always()
+        run: node scripts/report.mjs >> "$GITHUB_STEP_SUMMARY"
+
+      # The actual generated files, for a reviewer who wants to load them into FieldWorks.
+      - name: Upload generated XML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: semdom-xml
+          path: .verify/*.xml
+          if-no-files-found: warn

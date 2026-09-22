@@ -1,0 +1,14 @@
+code: "4.9.5.4"
+guid: 5A4A8AE5-A209-4946-8FA1-3C3BD5083E0D
+name: Religious ceremony
+description: Use this domain for words related to religious ceremonies.
+ocmCodes: 796 Organized Ceremonial; 788 Ritual; 786 Ecstatic religious practices; Orgies
+louwNidaCodes: 33S Preach, Proclaim
+related: ["4.2.2.1"]
+questions:
+  - q: What words refer to performing a religious ceremony?
+    words: perform a religious ceremony, hold communion
+  - q: What words refer to a religious ceremony?
+    words: >-
+      religious ceremony, worship service, church service, time of prayer, prayer meeting,
+      Bible study, liturgy, invocation

@@ -1,0 +1,55 @@
+code: "2.5.6.1"
+guid: 768AED05-DBC9-4CAF-9461-76CB3720F908
+name: Pain
+description: Use this domain for words related to pain.
+louwNidaCodes: 24F Pain, Suffering
+related: ["4.4.2.6"]
+questions:
+  - q: What words refer to pain?
+    words: pain, ache, hurt (n), misery, suffering, sufferings, soreness
+  - q: What words refer to being in pain?
+    words: >-
+      be in pain, be in agony, feel pain, have a pain in, suffer, hurt (vi), bear pain,
+      endure, agonize, feel bad, feel miserable, suffer
+  - q: What words refer to a part of your body hurting?
+    words: hurt, ache, be agony, sting
+  - q: What words describe a part of your body that is in pain?
+    words: painful, aching, sore (adj), stiff, tender
+  - q: What words refer to pain in a particular part of your body?
+    words: >-
+      backache, earache, headache, migraine, stomachache, toothache, labor pains, sore
+      throat
+  - q: What words refer to a mild pain?
+    words: >-
+      discomfort, feel uncomfortable, mild, hurts a little bit, itch, prickle, smart, sting,
+      stinging, tingle, tingling, stitch, twinge, dull
+  - q: What words refer to a bad pain?
+    words: >-
+      agony, agonize, agonizing, anguish, burn, hurts a lot, really hurts, acute, racked
+      with pain, horrible, excruciating, torment, raw pain
+  - q: What words describe pain increasing?
+    words: increase, grow, rise
+  - q: What words describe pain decreasing?
+    words: subside, go away, fade
+  - q: What words refer to a pain that increases and decreases repeatedly?
+    words: throb, throbbing
+  - q: What words refer to a pain that lasts a short time?
+    words: >-
+      attack, sharp, pang, piercing, prick, shooting, stab, stabbing, throes, paroxysm,
+      wrenching pain
+  - q: What words refer to causing pain?
+    words: hurt, inflict pain, torture, afflict, torment
+  - q: What words refer to something causing pain?
+    words: hurt, painful, cause pain, sting, irritate
+  - q: What words refer to relieving pain?
+    words: relieve, relief, soothe, treat, alleviate, painkiller, anesthetize, anesthetic
+  - q: What words refer to making noise because you are in pain?
+    words: cry out, scream, howl, yell, shriek, groan, moan, weep
+  - q: What words refer to moving because you are in pain?
+    words: >-
+      writhe in pain, double up, contorted with pain, convulse, convulsion, cramp, cramps,
+      wince
+  - q: What do you say when you are hurt?
+    words: Ow! Ouch!
+  - q: What words refer to not causing pain?
+    words: not hurt, painless, not feel a thing

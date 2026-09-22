@@ -1,0 +1,7 @@
+code: "9.3.4"
+guid: A22D5C1C-DAED-4E7A-8243-493F2D841314
+name: Do intensely
+description: Use this domain for words indicating intensity of an action.
+questions:
+  - q: What words are used to indicate that something is being done intensely?
+    words: intense, intensely, extensively

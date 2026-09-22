@@ -1,0 +1,28 @@
+code: "9.2.3.2"
+guid: D4521B0F-0703-48CC-94A0-F42CCC09959C
+name: Indefinite pronouns
+description: >-
+  Use this domain for pronouns that do not refer to a definite person or thing, but can
+  refer to anyone or anything. Some languages will not have all the sets of pronouns
+  described below. Add each set you find in your language to the pronoun chart.
+questions:
+  - q: What pronouns express indefinite reference of a person?
+    words: person, who, someone, anyone, everyone, no one, each one, whoever
+  - q: What pronouns express indefinite reference of a thing?
+    words: thing, what, something, anything, everything, nothing, each thing, whatever, whichever
+  - q: What pronouns express indefinite reference of a time?
+    words: >-
+      time, period, when, sometime, anytime, every time, never, at no time, each time,
+      whenever, sometimes
+  - q: What pronouns express indefinite reference of a place?
+    words: >-
+      place, where, somewhere, anywhere, everywhere, nowhere, each place, wherever, which
+      way
+  - q: What pronouns express indefinite reference of a reason?
+    words: >-
+      reason, why, for what reason, for some reason, for any reason, for each and every
+      reason, for no reason, why ever
+  - q: What pronouns express indefinite reference of a manner?
+    words: manner, means, how, somehow, anyhow, every way, no way, each way, however
+  - q: What pronouns express indefinite reference of an amount?
+    words: amount, how much, however many, however much, plenty

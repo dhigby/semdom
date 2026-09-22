@@ -1,0 +1,17 @@
+code: "4.5.6"
+guid: 785E7F1F-21ED-46B6-8599-C6CED4FD26D8
+name: Status
+description: Use this domain for words related to a person's social status.
+ocmCodes: >-
+  550 Individuation and Mobility; 554 Status, Role, and Prestige; 555 Talent Mobility; 557
+  Manipulative Mobility; 558 Downward Mobility
+louwNidaCodes: 87 Status; 87A Position, Rank
+questions:
+  - q: What general words refer to a person's status?
+    words: status, rank, position
+  - q: What words refer moving to a higher status or position in an organization?
+    words: >-
+      be promoted, move up the ladder, move on to higher things, promotion, rise,
+      advancement
+  - q: What words refer to giving someone a higher position?
+    words: promote, upgrade, elevate

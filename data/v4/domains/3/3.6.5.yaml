@@ -1,0 +1,7 @@
+code: "3.6.5"
+guid: 87DD09B8-689C-4A56-B3F6-846A849F71B8
+name: Correct
+description: Use this domain for words related to correcting a mistake.
+questions:
+  - q: What words refer to correcting a mistake?
+    words: correct, edit, mark, reprove, punish, discipline

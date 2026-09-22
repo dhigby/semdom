@@ -1,0 +1,11 @@
+code: "5.3"
+guid: 8A11E609-E88D-4247-8C5F-224DDB20DE10
+name: Clothing
+description: Use this domain for words related to clothing.
+ocmCodes: 290 Clothing; 291 Normal Garb
+louwNidaCodes: 6Q Cloth, Leather, and Objects Made of Such Materials
+questions:
+  - q: What general words refer to clothing?
+    words: clothing, clothes, dress
+  - q: What words describe clothing?
+    words: shabby

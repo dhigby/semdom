@@ -1,0 +1,30 @@
+code: "3.2.2"
+guid: A42DB5B4-6317-4D3F-BEFF-CB92DBACA914
+name: Learn
+description: >-
+  Use this domain for words referring to learning something, acquiring information, gaining
+  knowledge (whether done intentionally or unintentionally), or discovering the answer to
+  some question.
+louwNidaCodes: 27 Learn; 27A Learn
+questions:
+  - q: What words refer to learning something?
+    words: >-
+      learn, acquaint, acquire, ascertain, conclude, dawn on, deduce, determine, discover,
+      examine, experience, figure out, find, get (the answer), glean, grasp (mentally), gain
+      (knowledge/understanding), look something up, master, obtain, perceive, pick someone's
+      brain, pick up (a subject), question (v), realize, recognize, reflect, study, get an
+      education
+  - q: What words refer to learning something no one else knows or something that is secret?
+    words: discover, discovery, find out about
+  - q: What words refer to someone who is learning?
+    words: amateur, disciple, layman, student
+  - q: What words describe someone who is learning?
+    words: ignorant, uneducated, unlearned
+  - q: What words refer to someone who has learned?
+    words: graduate, teacher, scholar
+  - q: What words describe someone who has learned?
+    words: instructed, learned, well-taught
+  - q: What words refer to what is learned?
+    words: >-
+      learning, answer, solution, information, conclusion, discovery, discipline, education,
+      initiation, instruction, training

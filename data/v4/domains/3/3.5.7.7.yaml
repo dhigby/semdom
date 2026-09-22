@@ -1,0 +1,15 @@
+code: "3.5.7.7"
+guid: D586A164-AC8F-4356-8AA8-07721C2B5E09
+name: Letter
+description: Use this domain for words referring to letter--a written message that is sent to someone.
+questions:
+  - q: What words refer to a letter?
+    words: letter, note, memo, correspondence, epistle
+  - q: What words refer to letters that are delivered to you?
+    words: mail (n), post
+  - q: What words refer to sending a letter?
+    words: send, mail (v), post
+  - q: What words refer to someone who delivers a letter?
+    words: postman
+  - q: What words refer to the government agency that delivers letters?
+    words: post office, postal service

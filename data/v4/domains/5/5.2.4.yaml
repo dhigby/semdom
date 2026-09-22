@@ -1,0 +1,20 @@
+code: "5.2.4"
+guid: C6688928-6694-4264-8048-A60B665B5793
+name: Tobacco
+description: Use this domain for words related to using tobacco.
+ocmCodes: 277 Tobacco Industry
+questions:
+  - q: What words refer to tobacco?
+    words: tobacco, cigarette, pack of cigarettes, cigar, pipe, chewing tobacco
+  - q: What methods of using tobacco are there?
+    words: smoke, light up, light (a cigarette), chew
+  - q: What tools are used to smoke or chew tobacco?
+    words: filter, pipe cleaner, ashtray, spittoon
+  - q: What words refer to a person who smokes tobacco?
+    words: smoker
+  - q: What affect does tobacco have on a person?
+    words: smokers cough, smokers hack, habit, addiction, lung cancer
+  - q: What is produced by smoking tobacco?
+    words: cigarette ash, cigarette smoke, cigarette butt
+  - q: What does tobacco contain?
+    words: nicotine, tar

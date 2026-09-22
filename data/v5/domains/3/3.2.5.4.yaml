@@ -1,0 +1,28 @@
+code: "3.2.5.4"
+guid: FD9B8618-1F62-419B-85C3-365A12E85523
+name: Agree with someone
+description: >-
+  Use this domain for when two people agree on something, think the same way about
+  something, or agree on a decision.
+louwNidaCodes: 33W Agree; 31C Agree, Consent
+questions:
+  - q: What words refer to when two people agree?
+    words: >-
+      agree, agreement, concur, accede, think the same, think alike, hold the same view, be
+      of the same mind, be of like mind, like-minded, be in accord, be of one accord, be
+      united, be in the same place, be together on something, be with someone, coincide in
+      our thinking
+  - q: What words refer to two people coming to agreement?
+    words: come to an agreement, come together, ratify a treaty
+  - q: What words refer to the act or state of agreeing?
+    words: agreement, like-mindedness, cooperation, unity, concord, be in congruity
+  - q: What words refer to a written document expressing agreement?
+    words: written agreement, peace accord, peace treaty
+  - q: What words refer to a gesture expressing agreement?
+    words: shake hands, shake on it, kiss, holding hands, bow, nod in agreement
+  - q: What words refer to changing your thinking so that you agree with someone else?
+    words: >-
+      accede, accession, accept, acquiesce, acquiescence, give assent, consent, yield, grant
+      a point
+  - q: What words refer to two people compromising?
+    words: compromise

@@ -1,0 +1,39 @@
+code: "3.2.5.9"
+guid: A3F1D702-8CA1-457A-A569-EB6FDF696BBE
+name: Approve of something
+description: >-
+  Use this domain for words related to approving of doing something--to think that doing
+  something is good.
+questions:
+  - q: What words refer to approving of something?
+    words: >-
+      approve, meet with someone's approval, agree with, believe in, condone, endorse, be
+      for, be in favor of, okay (v), give it your okay, pass, sanction, subscribe, sustain,
+      think something is right, uphold, value (v), think something is right
+  - q: What words refer to approving of something very much?
+    words: be all for, be all in favor of, be a great believer in, be an advocate of
+  - q: What words refer to someone's approval?
+    words: approval, approbation, advocacy, endorsement, sanction
+  - q: What words describe something that someone approves of?
+    words: admirable, creditable, estimable, honorable, meritorious
+  - q: What words refer to not approving of something?
+    words: >-
+      not approve, condemn, critical, critique, deprecate, disapprove of, disapproving,
+      disqualify, frown on, invalidate, reject, take a dim view of, have a low opinion of,
+      think badly of
+  - q: What words refer to someone's disapproval?
+    words: disapproval, disapprobation, disfavor, rejection
+  - q: What words describe something that someone does not approve of?
+    words: >-
+      abominable, blameworthy, deplorable, despicable, detestable, dishonorable, execrable,
+      lamentable, reprehensible, unsatisfactory
+  - q: What words refer to saying that you disapprove of something?
+    words: >-
+      voice your disapproval, express your disapproval, register your disapproval, condemn,
+      denounce, deplore
+  - q: What words refer to looking at someone in a disapproving way?
+    words: give someone a disapproving look, give someone a dirty look, frown, look askance
+  - q: What words describe something said in a disapproving way?
+    words: disapproving, derogatory, pejorative
+  - q: What words refer to when people start to disapprove of something?
+    words: fall into disrepute

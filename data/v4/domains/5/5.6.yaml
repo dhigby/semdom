@@ -1,0 +1,12 @@
+code: "5.6"
+guid: BBB897B5-F09B-4263-9F81-826CA61084F1
+name: Cleaning
+description: Use this domain for general words related to cleaning things.
+louwNidaCodes: 47B Use of Liquids
+questions:
+  - q: What general words refer to removing dirt from something?
+    words: clean, scrub, scour, cleanse
+  - q: What general words refer to using water to remove dirt?
+    words: wash
+  - q: What materials are used to wash things?
+    words: soap, shampoo, laundry soap, detergent, cleanser, scouring powder

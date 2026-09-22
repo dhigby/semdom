@@ -1,0 +1,18 @@
+code: "5.3.4"
+guid: C3B808D4-D94E-4C8E-B7B2-87B4F4A83198
+name: Clothes for special occasions
+description: >-
+  Use this domain for words referring to special clothes worn on special occasions. It is
+  necessary to think through all the various special occasions in the culture and think of
+  any special clothes worn on those occasions. Two examples are given below for work and
+  graduation, but there are many others.
+ocmCodes: 292 Special Garments
+questions:
+  - q: What general words refer to clothes worn on a special occasion?
+    words: sports clothes, work clothes, formal clothes, informal, office wear
+  - q: What special clothes are worn for work?
+    words: >-
+      work clothes, overalls, coveralls, apron, work gloves, hardhat, steel-toed shoes,
+      boots, goggles
+  - q: What special clothes are worn for graduation?
+    words: cap and gown

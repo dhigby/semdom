@@ -1,0 +1,47 @@
+code: "8.1.3.1"
+guid: 1B6B0C12-9ECD-45CB-BB0E-0DADB435EDDF
+name: Many, much
+description: >-
+  Use this domain for words indicating that there are many things or people, or that there
+  is much of something.
+louwNidaCodes: 59A Many, Few; 59B Much, Little; 59F Abundance, Excess, Sparing
+questions:
+  - q: What words indicate that there is a large amount of something?
+    words: >-
+      a lot of, lots of, a great deal of, a good deal of, a fair bit of, a fair amount of,
+      much, loads of, tons of, masses of, scads of, piles of, heaps of, stacks of, a
+      mountain of, extensive, widespread, big amount, lots and lots
+  - q: What words indicate that there are a large number of things or people?
+    words: >-
+      a lot of, lots of, many, many of, a large number of, large numbers of, plenty of,
+      loads of, tons of, masses of, scads of, a bunch of, dozens of, numerous, a host of,
+      quite a few, a wide range of, a raft of, multi-, multiple, a multitude of,
+      considerable, goodly number, plethora, profuse, oodles, scores of
+  - q: What words indicate that there are a very large number of things or people?
+    words: >-
+      hundreds of, thousands of, millions of, a great many, countless, innumerable,
+      overwhelming, myriad
+  - q: What words indicate that many things are happening?
+    words: flood of, wave of, deluge of, avalanche of, stream, torrent
+  - q: What words indicate that many bad things are happening?
+    words: spate of, epidemic, rash of, wave, be a hotbed of
+  - q: What words indicate that many people are doing something?
+    words: >-
+      in large numbers, in droves, in force, in strength, thick and fast, be dying like
+      flies, be dropping like flies
+  - q: What words describe something that many people are doing?
+    words: common, popular, widespread, widely
+  - q: What words indicate that someone does something a lot?
+    words: a lot, a good deal, a great deal, quite a bit, plenty, heavy
+  - q: What words describe something that contains a lot of a particular substance?
+    words: high in, rich in
+  - q: What words describe someone who makes many things?
+    words: productive, prolific
+  - q: What words refer to using or giving a lot of something?
+    words: generous, liberal
+  - q: What words describe a large number or amount?
+    words: >-
+      large, big, high, sizable, considerable, substantial, significant, generous, handsome,
+      hefty
+  - q: What words describe a very large number or amount?
+    words: huge, enormous, vast, massive, colossal, goodly, immense, whopping

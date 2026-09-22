@@ -1,0 +1,13 @@
+code: "8.3.1.6.1"
+guid: 2D563D27-8AC3-41C9-B326-856C9E1F6401
+name: Concave
+description: >-
+  Use this domain for words describing something that is concave--extending inward in shape
+  away from the viewer. The inside of a bowl is concave in shape.
+questions:
+  - q: What words describe something that is concave?
+    words: concave, hollow, hollowed out, caved in, dented, indented, vaulted
+  - q: What words refer to making something concave?
+    words: hollow out, carve out, dent in, indent, push in the side
+  - q: What words refer to a concave part of something?
+    words: nook

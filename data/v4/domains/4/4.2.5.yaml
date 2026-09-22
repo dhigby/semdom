@@ -1,0 +1,33 @@
+code: "4.2.5"
+guid: E27ADDA9-0761-4B7F-ABBF-24938CE1C01A
+name: Drama
+description: Use this domain for words related to drama.
+ocmCodes: 536 Drama; 545 Musical and Theatrical Productions
+related: ["3.5.9.4"]
+questions:
+  - q: What words refer to a type of drama?
+    words: >-
+      drama, play, skit, comedy, tragedy, musical, melodrama, parody, suspense, film, movie,
+      cinema, show
+  - q: What words refer to acting in a drama?
+    words: act, enact, reenact, go on stage
+  - q: What words refer to performing as a particular character?
+    words: play a part, portray, role, part
+  - q: What words refer to the people who act?
+    words: actor, actress, star, performer, extra, director, stagehand
+  - q: What words refer to the most important actor or actress?
+    words: star, co-star, star in, play the lead
+  - q: What words refer to all the actors?
+    words: cast
+  - q: What words indicate that a drama has a particular actor in it?
+    words: star (v), feature, with, be in, appear in
+  - q: What words refer to a person who writes plays?
+    words: playwright, play writer, dramatist
+  - q: What are the parts of a drama?
+    words: performance, act, scene, intermission, curtain call
+  - q: What words refer to a place where a drama is performed?
+    words: theater, cinema, stage, set, on location
+  - q: What words refer to the things used in a drama?
+    words: prop, scenery, backdrop, curtain
+  - q: What words refer to acting with too much emotion?
+    words: overact, ham it up

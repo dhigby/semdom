@@ -1,0 +1,11 @@
+code: "7.3.8"
+guid: 991357DC-9F56-47ED-8790-85CBD5F9B06F
+name: Transport
+description: Use this domain for words referring to moving something in a vehicle.
+questions:
+  - q: What words refer to moving something in a vehicle?
+    words: >-
+      transport, transportation, carry, cart, convey, drive, ferry, fly, haul, row, truck,
+      trundle, wheel
+  - q: What words refer to putting something in a vehicle?
+    words: load

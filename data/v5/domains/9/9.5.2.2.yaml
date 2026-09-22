@@ -1,0 +1,14 @@
+code: "9.5.2.2"
+guid: 3A545732-145A-4034-8F72-E08D752CB4D4
+name: With, be with
+description: >-
+  Use this domain for words indicating a person who accompanied the subject of a
+  proposition.
+questions:
+  - q: >-
+      What words indicate a person who accompanied the person who is the subject of the
+      clause?
+    words: >-
+      with, be accompanied by, company, in someone's company, in someone's presence,
+      contact, along with, together with
+    sentence: John was <with> me at supper last night.; John was there <along with> David.

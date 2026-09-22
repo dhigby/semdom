@@ -1,0 +1,31 @@
+code: "3.4.2.1.6"
+guid: BFE8902A-32A7-4092-93B2-9DCF3DCE205F
+name: Upset
+description: >-
+  Use this domain for word related to feeling upset--to feel very bad because someone has
+  done something bad to you or because something bad has happened to you, so that your
+  thinking and behavior is affected.
+questions:
+  - q: What words refer to feeling upset about something?
+    words: be upset, hurt, distressed, troubled
+  - q: What words refer to the feeling of being upset?
+    words: agitation, distress, uproar
+  - q: What words describe someone who feels upset?
+    words: upset, agitated
+  - q: What words refer to feeling very upset?
+    words: >-
+      deeply hurt, deeply distressed, distraught, be in a state, be in an uproar, emotions
+      in an uproar, torment, tormented
+  - q: What words refer to becoming upset?
+    words: get upset, get worked up, take something to heart
+  - q: What words refer to causing someone to feel upset?
+    words: >-
+      upset someone, agitate, churn me up inside, discomfit, discompose, disconcert,
+      distract, distress, disturb, hurt, hurt someone's feelings, perturb, pressure (v),
+      rattle, stir, unsettle
+  - q: What words refer to something that causes someone to feel upset?
+    words: agitation, distraction, pressure, trauma, traumatic experience, turbulence, turmoil
+  - q: What words describe something that causes someone to feel upset?
+    words: upsetting, distressing, harrowing, painful, traumatic
+  - q: What words describe someone who gets upset easily?
+    words: sensitive

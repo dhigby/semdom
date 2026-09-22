@@ -1,0 +1,39 @@
+code: "3.4.2.2"
+guid: DA39C0D9-A5C1-4F10-BD3B-4E988ABCAB5A
+name: Sorry
+description: >-
+  Use this domain for words related to feeling sorry--to feel bad about something bad that
+  you did.
+louwNidaCodes: 25W Sorrow, Regret
+questions:
+  - q: What words refer to feeling sorry?
+    words: >-
+      feel sorry, be sorry, regret, feel remorse, feel convicted, conscience stricken, feel
+      guilty, lament, rue, rue the day, ruefully, wish you hadn't done something, kick
+      yourself, repent, be ashamed, feel ashamed, have a bad conscience, have a guilty
+      conscience, be on your conscience, feel bad about
+  - q: What words refer to the feeling of sorrow?
+    words: >-
+      sorrow, regret, remorse, guilt, conviction, contrition, penitence, repentance, shame,
+      conscience
+  - q: What words describe someone who feels sorry?
+    words: sorry, penitent, regretful, remorseful, rueful, convicted, guilty, contrite, repentant
+  - q: What words refer to feeling very ashamed?
+    words: guilt-ridden
+  - q: What words refer to feeling sorry for a long time?
+    words: gnaw at you
+  - q: What words refer to causing someone to feeling sorry?
+    words: convict
+  - q: What words refer to something that causes someone to feel sorry?
+    words: conscience, conviction
+  - q: What words describe something that causes someone to feel sorry?
+    words: convicting
+  - q: What do people say when they feel sorry?
+    words: why did I, why didn't I, I could have kicked myself
+  - q: What words refer to not feeling sorry?
+    words: >-
+      impenitent, not regret, not be sorry, have no regrets, would do the same thing again,
+      remorseless, unrepentant, not feel guilty, a clear conscience, have no qualms about,
+      have no compunction, feel no compunction
+  - q: What words refer to trying to stop yourself from feeling sorry?
+    words: salve your conscience, clear your conscience

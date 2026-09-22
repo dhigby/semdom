@@ -1,0 +1,9 @@
+code: "6.8.6.1"
+guid: 0772919E-EB4C-45E3-B705-73007F5E5583
+name: Monetary units
+description: Use this domain for words related to monetary units.
+questions:
+  - q: What are the units of currency?
+    words: >-
+      cent, penny, nickel, dime, quarter, half dollar, dollar, silver dollar, greenback,
+      bill, C note, pence, pound

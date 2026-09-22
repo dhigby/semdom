@@ -1,0 +1,31 @@
+code: "8.1.6.1"
+guid: AADEFEE4-ED14-4753-952E-E945F2972E37
+name: Part
+description: >-
+  Many things have parts. Use this domain for words referring to a part of something, and
+  for words that express the idea that something has parts, that something is a part of
+  something, or that link the whole with a part.
+louwNidaCodes: 63D Part
+related: ["8.6", "8.3.6"]
+questions:
+  - q: What words refer to a part of something?
+    words: part, bit, portion, section, segment, sample, cross-section, member
+  - q: What words refer to the parts that something is made from?
+    words: component, element, piece, ingredient, constituent
+  - q: What words refer to the parts of a process?
+    words: stage, phase, round
+  - q: What words refer to the parts of an organization?
+    words: branch, department, division, section, sector, wing, end, subdivision
+  - q: What words refer to the parts of a story?
+    words: episode, installment, chapter, scene, part, extract, excerpt, clip
+  - q: What words refer to the parts of a situation?
+    words: aspect, side, dimension, facet, factor, feature, detail
+  - q: What words refer to being a part of something?
+    words: be part of, form a part of, inherent
+  - q: What words indicate that something has parts?
+    words: >-
+      have, of, -'s, consist of, be made of, be made up of, be composed of, comprise, be
+      divided into, include
+    sentence: >-
+      Many animals <have> four feet.; The story <is composed of> several episodes.; This
+      page <is part of> that document.; the wheel <of> the car; the boy<'s> foot

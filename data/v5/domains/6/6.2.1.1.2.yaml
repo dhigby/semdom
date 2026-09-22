@@ -1,0 +1,7 @@
+code: "6.2.1.1.2"
+guid: D7E4E538-039F-47BB-AA42-A2CF455668CC
+name: Growing wheat
+description: Use this domain for words related to growing wheat.
+questions:
+  - q: What words refer to growing wheat?
+    words: sheaf

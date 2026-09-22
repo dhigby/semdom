@@ -1,0 +1,12 @@
+code: "2.6.3.9"
+guid: 34A02A17-23FB-4260-9F97-C125842A3594
+name: Birth ceremony
+description: Use this domain for words related to a birth ceremony.
+ocmCodes: 852 Ceremonial During Infancy and Childhood; 851 Social Placement
+questions:
+  - q: What words refer to a ceremony celebrating a child's birth?
+    words: birth ceremony, christening, naming ceremony, baptism
+  - q: What words refer to the day a person was born?
+    words: birthday
+  - q: What words refer to a yearly celebration of a person's birth?
+    words: birthday party

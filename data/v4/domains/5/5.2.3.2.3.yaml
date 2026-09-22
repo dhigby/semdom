@@ -1,0 +1,9 @@
+code: "5.2.3.2.3"
+guid: AA5658DA-8926-4519-83A5-D451DC5A6B49
+name: Egg dishes
+description: Use this domain for words related to food made from eggs.
+questions:
+  - q: What words refer to egg dishes?
+    words: >-
+      boiled egg, fried egg, scrambled eggs, poached egg, omelet, baked eggs, quiche, caviar
+      (fish eggs)

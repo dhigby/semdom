@@ -1,0 +1,28 @@
+code: "4.8.3.1"
+guid: 225C48DD-9FC2-4467-944F-16A098B4E518
+name: Defeat
+description: Use this domain for words related to defeating someone.
+louwNidaCodes: 39L Conquer
+questions:
+  - q: What words refer to defeating an army or enemy in war?
+    words: >-
+      defeat, annihilate, beat, conquer, crush, humble, kayo, lick, master, nip,
+      outmaneuver, overcome, overpower, overwhelm, prevail over, rebuff, reduce, rout,
+      seize, subdue, subject, subjugate, thrash, trample, tread, triumph, vanquish, whip,
+      bring someone to his knees, scatter, gain ground, give someone a beating
+  - q: What words refer to defeating someone in a game or other competition?
+    words: beat, defeat, outplay, be more than match for
+  - q: What words refer to defeating someone easily?
+    words: rout, thrash, skunk, smash, slaughter, clobber, hammer, lick, trounce
+  - q: What words describe a complete victory?
+    words: crushing, overwhelmingly
+  - q: What words refer to defeating someone by using your intelligence?
+    words: outwit, outsmart, be too clever for
+  - q: What words refer to the defeat of an enemy?
+    words: >-
+      defeat (n), rout, beating, conquest, discomfiture, drubbing, subjection, triumph,
+      victory
+  - q: What words refer to the person who defeats the enemy?
+    words: conqueror, vanquisher, victor
+  - q: What words describe the person who defeats the enemy?
+    words: conquering, victorious

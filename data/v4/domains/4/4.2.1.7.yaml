@@ -1,0 +1,14 @@
+code: "4.2.1.7"
+guid: 87EB572C-BAE2-45D8-A36A-919561B55D0D
+name: Crowd, group
+description: Use this domain for words referring to a crowd or group of people.
+ocmCodes: 571 Social Relationships and Groups
+louwNidaCodes: 11 Groups and Classes of Persons and Members of Such Groups and Classes; 11A General
+questions:
+  - q: What words refer to a crowd?
+    words: >-
+      crowd, group, congregation, bunch of people, horde, mass of people, gang, mob,
+      multitude, host, crush of people, throng, clique, rabble, horde, army, scores,
+      thousands, swarm, body of people, crew, knot, pack, batch, band, party, company, team
+  - q: What words describe a crowd?
+    words: huge, large, crowded

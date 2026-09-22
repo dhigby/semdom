@@ -1,0 +1,16 @@
+code: "4.8.2.3.1"
+guid: 5489F4AE-34A7-4F8B-9086-4247B0D8B3DE
+name: Ambush
+description: >-
+  Use this domain for words related to ambushing someone--to attacking someone without
+  warning.
+louwNidaCodes: 39K Ambush
+questions:
+  - q: What words refer to ambushing someone?
+    words: >-
+      ambush, ambuscade, bushwhack, jump, lie in wait for, mug, pounce, strike, turn on,
+      waylay
+  - q: What words refer to an ambush?
+    words: ambush (n), mugging, strike (n), sneak attack, surprise attack
+  - q: What words refer to a person who ambushes someone?
+    words: ambusher, bushwhacker

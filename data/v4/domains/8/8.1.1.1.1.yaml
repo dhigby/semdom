@@ -1,0 +1,19 @@
+code: "8.1.1.1.1"
+guid: 2C04FA05-EEBF-4331-B392-23F795C32382
+name: One
+description: >-
+  Use this domain for words related to the number one. It appears that every language has a
+  word for 'one' and 'two', but not every language has a word for the numbers higher than
+  two. Many languages have several words that mean 'one'.
+related: ["8.4.6.6", "8.1.5.7", "4.1.6.3"]
+questions:
+  - q: What words refer to one?
+    words: one, first, individual, single, only, the one, one apiece, one each
+  - q: What words refer to being by yourself?
+    words: alone, by yourself, sole
+  - q: What words refer to doing something by yourself?
+    words: alone, on your own, solo, solely
+  - q: What words refer to people doing something one by one?
+    words: one by one, singly, individually
+  - q: What words indicate that something happens or is done one time?
+    words: once, one time, single time, one-off

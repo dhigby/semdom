@@ -1,0 +1,24 @@
+code: "7.2"
+guid: C7C85346-158D-4881-839D-9A6A8E47209B
+name: Move
+description: >-
+  Use this domain for intransitive verbs of movement referring to moving your whole body to
+  a different location. There are many components of meaning involved in verbs of movement.
+  They can include a source location (from), a goal location (to), a path (along), manner
+  (walk, run), speed (race, crawl), direction (forward, back, side, up, down, toward, away
+  from), shape of the path (straight, curve, circle, angle), relationship to some object or
+  objects (on, hang, against, between, across, through, into, out of, onto, off of, around),
+  proximity (near, far), multiple movements (back and forth, return, bounce), inclusion with
+  other objects or parts of objects (join, leave, collect, disperse, unite, separate),
+  volition (go versus drift), intransitive versus transitive (move versus move something).
+  Some verbs of movement do not involve moving from one place to another, but express bodily
+  movement.
+ocmCodes: 481 Locomotion
+louwNidaCodes: 15 Linear Movement; 15A Move, Come/Go; 16 Non-Linear Movement
+questions:
+  - q: What general words refer to moving your body to a different location?
+    words: move, movement, change position, maneuver, jockey for position, budge
+  - q: What words refer to beginning to move?
+    words: stir, make a move
+  - q: What words describe something that is moving?
+    words: moving, be in motion

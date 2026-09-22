@@ -1,0 +1,25 @@
+code: "8.3.1.4"
+guid: 82A4AE36-8E70-4C0D-8144-AD9FC3C0E04F
+name: Horizontal
+description: >-
+  Use this domain for words describing a horizontal orientation in relation to the ground or
+  something that is level--a flat surface that does not rise in any direction. A person is
+  horizontal when he is sleeping. A field is level when it is not on a hill and it has no
+  uneven areas in it.
+louwNidaCodes: 17D Prostrate x
+related: ["7.1.3"]
+questions:
+  - q: What words describe something in a horizontal position?
+    words: >-
+      horizontal, prone, prostrate, longwise, flat on the ground, on its side, lie, prone,
+      flush, on an even keel, on the level, parallel to the ground
+  - q: What words refer to becoming horizontal?
+    words: >-
+      fall on your face, fall prone, prostrate oneself, get horizontal, fall flat, hit the
+      dirt, lay flat
+  - q: What words refer to causing something to be horizontal?
+    words: lay something flat, lay something down, align
+  - q: What words describe a surface that is level?
+    words: level (adj), even (adj), flat
+  - q: What words refer to making something level?
+    words: make level, level (v)

@@ -1,0 +1,7 @@
+code: "6.2.2.3"
+guid: 58DE3766-8729-48E2-97FE-937A441EB722
+name: Fertilize a field
+description: Use this domain for words related to fertilizing a field.
+questions:
+  - q: What words refer to fertilizing a field?
+    words: fertilize, add fertilizer, fertilizer, fertile, manure

@@ -1,0 +1,39 @@
+code: "1.6.1.2"
+guid: 83B483B8-F036-44BE-8510-EA337D010A1C
+name: Bird
+description: Use this domain for birds (phylum Chordata, class Aves).
+ocmCodes: 136i Bird
+louwNidaCodes: 4B Birds
+questions:
+  - q: What general words refer to birds?
+    words: bird, fowl, poultry
+  - q: What words refer to kinds of birds?
+    words: >-
+      bird of prey, songbird, flightless bird, flying, water bird, arboreal, domesticated,
+      insectivorous, migratory, nocturnal, oceanic, predator, raptor, seabird, songbird,
+      shorebird, waterfowl
+  - q: What species of bird are there?
+    words: >-
+      accipiter, accipitrine, anhinga, albatross, aquiline, auk, avocet, bittern, blackbird,
+      blackcap, bluebird, blue jay, bobolink, bobwhite, booby, brant, bullfinch, bunting,
+      bustard, buteo, buzzard, canary, caracara, cardinal, cassowary, catbird, chat,
+      chickadee, chicken, cock, cockatoo, cormorant, condor, coot, crane, crepuscular, crow,
+      cuckoo, curlew, cygnet, dove, drake, duck, duckling, dunlin, eagle, eaglet, egret,
+      eider, emu, erne, falcon, fieldfare, finch, flamingo, flicker, flycatcher, fulmar,
+      gallinule, gander, gannet, gnatcatcher, goatsucker, godwit, goldfinch, goose, goshawk,
+      gosling, grackle, grebe, grouse, gull, gyrfalcon, hawk, hen, heron, hoopoe,
+      hummingbird, ibis, jackdaw, jaeger, jay, junco, kea, kingbird, kingfisher, kite,
+      kittiwake, kiwi, lapwing, lark, loon, lovebird, lyrebird, macaw, magpie, mallard,
+      martin, merganser, mew, moa, mockingbird, myna, nighthawk, nightjar, nonpasserine,
+      nuthatch, oriole, oscine, osprey, ostrich, owl, parakeet, passerine, parrot,
+      partridge, peacock, peafowl, peahen, peewit, pelican, penguin, peregrine, petrel,
+      pewee, pewit, phalarope, pheasant, pigeon, pintail, pipit, plover, ptarmigan, puffin,
+      quail, quetzal, rail, ratite, raven, redbird, rhea, ricebird, ringdove, robin,
+      rooster, rook, runner, sandpiper, sapsucker, scoter, seagull, shearwater, shelduck,
+      siskin, skua, snipe, snowbird, sparrow, spoonbill, squab, starling, stilt, stork,
+      swallow, swan, swift, tailorbird, tanager, teal, tern, thrasher, thrush, tit,
+      titmouse, towhee, trumpeter, tumbler, turkey, turnstone, turtledove, vireo, vulture,
+      vulturine, wading, warbler, waxwing, weaverbird, whistler, willet, woodcock,
+      woodpecker, wren, yellowhammer, yellowleg, yellowthroat
+  - q: What words describe birds?
+    words: long-necked, short-necked, long-winged, zygodactyl

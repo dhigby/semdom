@@ -1,0 +1,22 @@
+code: "3.5.1.6.2"
+guid: E5020B79-6FB0-4BE4-A359-D4F899DA5C7E
+name: Quarrel
+description: Use this domain for words related to quarreling--to fight with words.
+louwNidaCodes: 33Y' Argue, Quarrel
+questions:
+  - q: What words refer to quarreling?
+    words: >-
+      quarrel (v), altercate, argue, bicker, clash, contend with, differ, disagree, dispute
+      (v), dissent, feud (v), fight (v), quibble, row (v), scrap, squabble (v), wrangle (v),
+      find fault with
+  - q: What words refer to a quarrel between people?
+    words: >-
+      quarrel (n), altercation, arguing, argument, bickering, contention, controversy,
+      disagreement, dispute (n), feud (n), fight (n), fracas, row (n), ruckus, rumpus, spat,
+      squabble (n), tiff, wrangle (n), wrangling, friendly argument, heated debate
+  - q: What words refer to something someone says in an quarrel?
+    words: argument, argumentation, angry words, disputation
+  - q: What words refer to something people quarrel about?
+    words: bone of contention
+  - q: What words describe someone who quarrels often?
+    words: quarrelsome, contentious, argumentative, combative, pugnacious, faultfinding

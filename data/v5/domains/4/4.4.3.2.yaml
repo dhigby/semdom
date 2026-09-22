@@ -1,0 +1,28 @@
+code: "4.4.3.2"
+guid: 401BBBE4-A33A-4A1E-B26A-18A756E002C4
+name: Cowardice
+description: >-
+  Use this domain for words related to feeling cowardly--to be afraid to do something
+  because you think something bad might happen to you.
+related: ["3.4.2.4"]
+questions:
+  - q: What words refer to feeling cowardly?
+    words: be cowardly, be a coward, act cowardly, have a yellow streak
+  - q: What words refer to the feeling of cowardice?
+    words: cowardice
+  - q: What words describe someone who feels cowardly?
+    words: >-
+      cowardly, chicken, chickenhearted, fainthearted, gutless, lily-livered, pusillanimous,
+      sissified, spineless, weak-kneed, wimpy, yellow, yellow bellied
+  - q: What words refer to causing someone to feel cowardly?
+    words: unnerve
+  - q: What words describe something that causes someone to feel cowardly?
+    words: daunting
+  - q: What words refer to a coward?
+    words: coward, milksop, sissy, wimp, yellow-belly
+  - q: What words refer to becoming cowardly?
+    words: >-
+      lose your nerve, get cold feet, not dare, chicken out, not have the guts, not have the
+      nerve
+  - q: How do people show that they feel cowardly?
+    words: cower

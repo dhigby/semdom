@@ -1,0 +1,17 @@
+code: "4.2.1.6"
+guid: EFD03C89-BF8B-4D46-A921-06CC06F28356
+name: Participate
+description: Use this domain for words related to participating in a group--to do things with a group.
+questions:
+  - q: What words describe a person's participation in a group?
+    words: >-
+      full, complete, enthusiastic, whole-hearted, with reservations, half-hearted,
+      hesitant, reserved, doesn't have his heart in it, involved
+  - q: What words describe a person's stance toward a group?
+    words: for, against, opposed, hold back, be on the fringes
+  - q: What words describe a person's role in a group?
+    words: ringleader, follower, hanger-on, adherent
+  - q: What words describe a person's relationship with a group?
+    words: join with, hesitate to join, stand apart, stand aloof
+  - q: What words refer to a person who is not involved in a group or activity?
+    words: bystander, onlooker, spectator, wall flower

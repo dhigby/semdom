@@ -1,0 +1,85 @@
+code: "1.5.3"
+guid: C345F278-91FF-463D-B9A6-8ABAC8A267EB
+name: Grass, herb, vine
+description: >-
+  Use this domain for small plants that have roots, stems, flowers, and seeds, but do not
+  have a wooden trunk (Phylum Spermatophyta, Subdivision Angiospermae). Also include the
+  seedless plants, such as ferns (phylum Pteridophyta, class Filicineae), horsetails (phylum
+  Pteridophyta, class Equisetineae), and club mosses (phylum Pteridophyta, class
+  Lycopodineae). Plants of the Pteridophyta phylum have no flowers or seeds. Ferns have
+  large, divided, feather-like leaves, or fronds. Club mosses are small (rarely over one
+  meter) evergreen plants with simple leaves resembling pine or hemlock needles. Sometimes
+  they grow upright, but often trail on the ground, where they propagate by means of
+  runners. Horsetails send up tall, vertical, jointed stalks with branches covered with
+  scale like leaves.
+ocmCodes: 137f Grass and Weeds; 137g Herbs, medicinal, fungus
+louwNidaCodes: 3C Plants That Are Not Trees
+questions:
+  - q: What general words refer to small plants?
+    words: (no words in English)
+  - q: What general types of small plants are there?
+    words: >-
+      herb, grass, vine, aquatic, bulb, bulbous, briar, brier, burr, cactus, cane, creeper,
+      cultivated, fern, flowering, gourd, reed, sod, sprawling, thorny, weed, wild
+  - q: What types of plants are there?
+    words: >-
+      absinthe, acacia, agave, anemone, arbutus, arrowhead, arrowroot, artemisia, arum,
+      asparagus, aster, banana, bean, beet, begonia, belladonna, bellflower, bindweed,
+      bluebell, broccoli, burdock, buttercup, cabbage, carnation, carrot, cassava, cattail,
+      celery, chard, chickpea, chickweed, chive, chrysanthemum, clematis, collard,
+      columbine, corn, cosmos, crocus, cucumber, cyclamen, daffodil, dahlia, daisy,
+      dandelion, delphinium, dock, dogbane, duckweed, eggplant, endive, everlasting,
+      figwort, fireweed, flax, flower, forget-me-not, fritillaria, fuchsia, garbanzo,
+      garlic, gentian, geranium, gladiola, gladiolus, globeflower, goldenrod, glory,
+      grapevine, greenbrier, groundsel, heather, hibiscus, hollyhock, hyacinth, honeysuckle,
+      hop, holly, hyssop, indigo, iris, ivy, jasmine, jonquil, kale, knotweed, hydrangea,
+      larkspur, lavender, leek, lespedeza, lettuce, liana, lily, lobelia, lotus, locoweed,
+      lupine, maguey, mallow, manioc, marguerite, marigold, mayflower, mescal, mignonette,
+      milkweed, monkshood, mustard, narcissus, nasturtium, nettle, okra, oleaster, onion,
+      orchid, paintbrush, pansy, pea, peanut, pennycress, peony, pepper, periwinkle,
+      petunia, pigweed, phlox, pimpernel, plantain, poinsettia, pokeweed, poppy, potato,
+      primrose, radish, ragweed, ranunculus, rhododendron, rue, rutabaga, sagebrush,
+      sandbur, seaweed, smilax, soybean, sedge, spinach, spiraea, spirea, squash, stinkweed,
+      strawberry, strawflower, sundew, sunflower, thistle, tobacco, tomato, tulip,
+      tumbleweed, turnip, vegetable, verbena, vervain, vetch, vine, viola, violet,
+      wallflower, watermelon, william, wisteria, wormwood, yam, yucca
+  - q: What types of grass are there?
+    words: >-
+      alfalfa, bamboo, barley, bluegrass, buckwheat, bulrush, burmuda grass, cane, cereal,
+      clover, corn, crabgrass, elephant grass, foxtail, grass, horsetail, knotgrass,
+      lemongrass, maize, millet, oat, reed, rye, sesame, shortgrass, sorghum, speargrass,
+      sugarcane, weed, wheat
+  - q: What types of aromatic herbs are there?
+    words: >-
+      amaryllis, angelica, anise, balm, basil, chamomile, cardamom, cassia, catnip,
+      chamomile, chervil, chicory, cosmopolitan, cowpea, cress, cumin, dill, fennel,
+      fenugreek, feverfew, foxglove, ginseng, henbane, herb, horehound, hyssop, licorice,
+      lucerne, mandrake, marjoram, medicinal, mint, parsley, parsnip, peppermint, portulaca,
+      purslane, rosemary, sage, savory, saxifrage, skunk, sorrel, spearmint, spikenard,
+      tarragon, thyme, valerian, watercress, wintergreen, yarrow
+  - q: What types of vines are there?
+    words: grape vine, morning glory
+  - q: What types of reeds are there?
+    words: reed, papyrus, rush, cane, sugarcane, bamboo
+  - q: What types of plants have flowers?
+    words: rose, carnation, orchid, sunflower
+  - q: What types of plants have edible seeds?
+    words: legume, bean, pea, soybean, wheat, rice
+  - q: What plants have fruit?
+    words: grape, pineapple
+  - q: What types of berries are there?
+    words: berry, strawberry, raspberry, cranberry, blueberry
+  - q: What types of bananas are there?
+    words: banana, plantain, cooking banana
+  - q: What types of plants have edible roots?
+    words: potato, carrot, sweet potato, cassava, cocoyam, taro, yam, beets, ginger
+  - q: What plants are eaten by animals?
+    words: hay, alfalfa
+  - q: What plants are used for making fibers, cloth or rope?
+    words: cotton, sisal
+  - q: What species of ferns are there?
+    words: bracken, brake, fern, maidenhair
+  - q: What species of horsetails are there?
+    words: horsetail
+  - q: What species of club mosses are there?
+    words: club moss

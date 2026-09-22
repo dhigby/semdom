@@ -1,0 +1,20 @@
+code: "1.2.1.7"
+guid: B3745F13-3632-4F13-B0CC-A74C51F8F2A1
+name: Earthquake
+description: >-
+  Use this domain for words related to earthquakes. In some languages earthquakes are
+  thought of as moving somewhere. In Amele (PNG) they say "mim nen" which means 'the
+  earthquake came down (from above)'. In Northern Embera an earthquake is a "house-shaking".
+  They say "a house-shaking went."
+louwNidaCodes: 14J Movement of the Earth x
+questions:
+  - q: What words refer to earthquakes?
+    words: earthquake, quake, tremor, temblor, shock, seismic, upheaval
+  - q: What do earthquakes do?
+    words: >-
+      rock (house, ground), shake (house, ground), crack (ground), knock down (things),
+      cause (buildings) to collapse, ground splits, earth shifts
+  - q: Where do earthquakes occur?
+    words: earthquake fault, fault line, epicenter, fissure
+  - q: What words refer to a large wave caused by an earthquake?
+    words: tidal wave, tsunami

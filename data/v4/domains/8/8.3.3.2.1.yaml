@@ -1,0 +1,16 @@
+code: "8.3.3.2.1"
+guid: CBA6876C-5B48-42F4-AE0A-7FBE9BB971EF
+name: Shadow
+description: >-
+  Use this domain for words related to a shadow--the area on the ground where the light does
+  not shine because something is in the way. For instance if the sun (or another light) is
+  shining on an object, the area behind the object is in shadow (dark).
+questions:
+  - q: What words refer to a shadow?
+    words: shadow
+    sentence: The sun was hot, so we got under the shadow of a tree.
+  - q: What words refer to something blocking the light from shining on something?
+    words: shade, cast a shadow, block the light, eclipse, overshadowing
+    sentence: You are in my light.
+  - q: What words describe something in the shadow of something else?
+    words: in the shade, shaded, shady, shadowy

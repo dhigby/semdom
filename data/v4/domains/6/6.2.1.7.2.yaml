@@ -1,0 +1,7 @@
+code: "6.2.1.7.2"
+guid: 22300E2C-3D7D-4C36-A2B7-E2BBB247F793
+name: Growing coffee
+description: Use this domain for words related to growing coffee.
+questions:
+  - q: What words refer to growing coffee?
+    words: bean, dry, grind

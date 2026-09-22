@@ -1,0 +1,11 @@
+code: "4.7.7.6"
+guid: 9FCAE400-CE8F-4E30-9516-97AB794C30A9
+name: Pardon, release
+description: >-
+  Use this domain for words related to pardoning someone who has been found guilty of a
+  crime.
+questions:
+  - q: What words are used of not punishing someone who has been found guilty?
+    words: >-
+      pardon, grant a pardon, have mercy on, release, commute sentence, reduce sentence, let
+      out, let off

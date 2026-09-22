@@ -1,0 +1,7 @@
+code: "6.2.5.1"
+guid: 0E5A6BD0-470F-4231-9F57-A73B725807F4
+name: First fruits
+description: Use this domain for words referring to the first fruits or crops to be harvested.
+questions:
+  - q: What words refer to the first fruits to be harvested?
+    words: first fruits, eat first of new crops

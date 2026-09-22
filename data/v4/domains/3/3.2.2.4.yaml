@@ -1,0 +1,11 @@
+code: "3.2.2.4"
+guid: F1AF3F4C-6E0E-4CFA-ADCF-9DCDDF05FEAB
+name: Guess
+description: >-
+  Use this domain for words referring to answering a question when one is unsure of the
+  answer.
+questions:
+  - q: What words refer to answering a question when you are unsure of the answer?
+    words: guess, estimate, suppose, assume, theorize
+  - q: What words refer to what is being guessed?
+    words: guess, estimate, supposition, assumption, theory, intuition

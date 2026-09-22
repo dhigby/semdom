@@ -1,0 +1,10 @@
+code: "9.5.1.2"
+guid: 4415AFF1-4D74-463E-A25D-9832C7477329
+name: Instrument
+description: Use this domain for words that mark an instrument used to do something.
+louwNidaCodes: 90B Instrument
+related: ["6.7", "6.1.2.2"]
+questions:
+  - q: What words mark the instrument used to do something?
+    words: with, using
+    sentence: John hit the dog <with> a stick.; John caught the rat <using> a trap he built.

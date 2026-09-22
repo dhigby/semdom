@@ -1,0 +1,24 @@
+code: "5.6.4"
+guid: DAE6488C-7FEA-4FA3-84C9-B611D017B6A5
+name: Wash clothes
+description: Use this domain for words related to washing clothes.
+ocmCodes: 296 Garment Care
+questions:
+  - q: What words refer to washing clothes?
+    words: wash clothes, launder, do the laundry, dry clean
+  - q: What are the steps is washing clothes?
+    words: >-
+      soak, scrub, rinse, wring, hang up (to dry), dry, take down, iron, fold, put away,
+      hang up
+  - q: Who does the laundry?
+    words: washerwoman, dry cleaner
+  - q: What tools are used to wash clothes?
+    words: >-
+      laundry soap, detergent, washing machine, drier, washtub, washbasin, sink, basin,
+      washboard, clothesline, clothespin, bucket, hanger, scrubbing stone
+  - q: What words refer to the clothes to be washed?
+    words: laundry, dirty laundry, dirty clothes, wash (n)
+  - q: What words are used to describe the condition of clothes?
+    words: >-
+      clean, dirty, filthy, soiled, stained, faded, old, new, brand new, never been worn,
+      worn, torn, ripped, patched, mended

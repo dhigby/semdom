@@ -1,0 +1,12 @@
+code: "9.2.5.3"
+guid: AE04020A-3BB2-4672-AD75-71CE72D461EA
+name: Sentence conjunctions
+description: >-
+  Use this domain to list all sentence level conjunctions--conjunctions that join two
+  sentences.
+questions:
+  - q: What conjunctions join two sentences?
+    words: then, so
+    sentence: >-
+      I want you to come here. <Then> I'll go there.; You wanted to come here. <So> I
+      decided to let you.

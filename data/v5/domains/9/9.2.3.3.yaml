@@ -1,0 +1,11 @@
+code: "9.2.3.3"
+guid: 8DB17EEF-6C42-4BA0-9F07-A3B0E7C8F1E1
+name: Relative pronouns
+description: Use this domain for pronouns used in relative clauses.
+louwNidaCodes: 92F Relative Reference
+questions:
+  - q: What pronouns are used in relative clauses?
+    words: who, whom, that, which, why
+    sentence: >-
+      I'm looking for the man <who> killed John.; I found the coin <that> I lost.; That is
+      the reason <why> I did it.

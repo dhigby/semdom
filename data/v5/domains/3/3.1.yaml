@@ -1,0 +1,21 @@
+code: "3.1"
+guid: 1CB79293-D4F7-4990-9F50-3BB595744F61
+name: Soul, spirit
+description: >-
+  Use this domain for general words related to the immaterial, non-physical part of a
+  person, as opposed to the body.
+louwNidaCodes: 26 Psychological Faculties
+questions:
+  - q: What words refer to the immaterial part of a person?
+    words: >-
+      soul, spirit, spiritual, psyche, psychological, psychology, internal makeup, inside,
+      inward, conscious self, consciousness, ego, essence, humanity, id, self, subconscious,
+      superego, unconscious
+  - q: What words refer to the part of a person that thinks and knows?
+    words: mind, intellect, mental faculty, reason, reasoning, sense, thinking, thought, thoughts
+  - q: What words refer to the part of a person that wants and decides?
+    words: will, volition
+  - q: What words refer to the part of a person that feels?
+    words: heart, breast, emotions, emotional makeup, feeling, feelings, sensitivity, gut
+  - q: What words refer to the part of a person that affects his behavior?
+    words: personality, character, conscience, disposition, nature, tendency

@@ -1,0 +1,9 @@
+code: "1.6.1.3"
+guid: EE446395-781B-4651-AFEF-CAD78B71F843
+name: Reptile
+description: Use this domain for general words referring to reptiles (phylum Chordata, class Reptilia).
+ocmCodes: 136h Reptile
+louwNidaCodes: 4D Reptiles and Other 'Creeping Things'
+questions:
+  - q: What general words refer to reptiles?
+    words: reptile, reptilian

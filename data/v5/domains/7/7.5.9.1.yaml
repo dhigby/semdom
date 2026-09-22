@@ -1,0 +1,9 @@
+code: "7.5.9.1"
+guid: 4068488F-59E9-47d1-8884-A1D6DCC10C36
+name: Load, pile
+description: Use this domain for words related to putting lots of things on something.
+questions:
+  - q: What words refer to putting lots of things on something?
+    words: >-
+      cram, crowd, drape, dust, hang, heap, jam, load, mound, pack, pile, scatter, settle,
+      sew, shower, spread, stack, stick, stock, strew, string, stuff, wrap

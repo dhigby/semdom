@@ -1,0 +1,29 @@
+code: "6.1.1.1"
+guid: B6EAD5E6-DAB5-4941-9017-D03452182709
+name: Expert
+description: Use this domain for words related to being an expert--someone who can do something well.
+related: ["9.4.2.1"]
+questions:
+  - q: What words refer to an expert?
+    words: >-
+      expert, professional, master, craftsman, specialist, old hand, old-timer, the best we
+      have, leader in his field, on the cutting edge, senior, graduate, doctor, consultant,
+      trainer, teacher, is degreed, has a degree
+  - q: What words are used to refer to the knowledge or ability of an expert?
+    words: >-
+      expertise, knowledge, expert knowledge, experience, ability, craftsmanship, training,
+      understanding, proficiency
+  - q: What words describe an expert?
+    words: >-
+      the best we have, leader in his field, on the cutting edge, master (craftsman), expert
+      (machinist), leading (scholar), degreed (scholar), foremost (expert), knowledgeable,
+      experienced, able (seaman), well-trained, proficient, capable, clever, skilled,
+      skillful
+  - q: What words are used to refer to someone who is not an expert?
+    words: >-
+      student, apprentice, trainee, novice, jack-of-all-trades, greenhorn, beginner, new
+      recruit, plebe, freshman
+  - q: What words describe someone who is not an expert?
+    words: >-
+      green, beginning (student), new, uninitiated, ignorant, untrained, inexperienced,
+      unknowledgeable

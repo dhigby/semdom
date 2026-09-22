@@ -1,0 +1,14 @@
+code: "3.5.7.2"
+guid: 8DB7C016-BDC9-410B-9523-3197602358F4
+name: Written material
+description: Use this domain for words referring to written material--something that has writing on it.
+ocmCodes: >-
+  538 Literature; 539 Literary Texts; 900 Texts; 901 Texts in the Language of the Culture or
+  Ethnic Group; 902 Texts Translated in English; 903 Interlinear Translations
+questions:
+  - q: What words refer to written material?
+    words: >-
+      written material, literature, writing, book, composition, essay, article, card,
+      document, inscription, envelope, page, passage
+  - q: What words refer to something used to store written material?
+    words: library, bookcase, file cabinet, archive

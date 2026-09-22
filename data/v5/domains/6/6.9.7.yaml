@@ -1,0 +1,13 @@
+code: "6.9.7"
+guid: BDD140DB-78F9-8846-9FDE-798E98EDBD7C
+name: Aid and development organization
+description: >-
+  Use this domain for words related to non-governmental, charitable, and development
+  organizations and the aid work they do.
+questions:
+  - q: What words refer to an aid or development organization?
+    words: NGO, charity, nonprofit, aid agency, foundation, mission, cooperative
+  - q: What words refer to the help such organizations provide?
+    words: aid, relief, donation, grant, funding, development, project, volunteer
+  - q: What words refer to people helped by or working for such organizations?
+    words: beneficiary, recipient, volunteer, aid worker, donor

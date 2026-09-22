@@ -1,0 +1,14 @@
+code: "4.9.4.5"
+guid: 7C7F62D8-0293-45BA-8658-956C38BAFC66
+name: Destiny
+description: >-
+  Use this domain for words related to destiny--decisions and actions by God, spirits, or by
+  impersonal forces that determine or influence what happens to a person.
+ocmCodes: 777 Luck and Chance
+questions:
+  - q: What words refer to the decisions God makes concerning what happens to a person?
+    words: God's will, providence
+  - q: What words refer to an impersonal force that determines what happens to a person?
+    words: destiny, fate, fortune, luck, chance, throw of the dice
+  - q: What words refer to something to which a person or thing is destined?
+    words: destiny, fate

@@ -1,0 +1,31 @@
+code: "3.4.2.3.1"
+guid: 8CE6709F-F772-4638-A1AA-C132666F3563
+name: Annoyed
+description: >-
+  Use this domain for words related to feeling annoyed--to feel a little angry because
+  someone keeps doing something you don't like.
+questions:
+  - q: What words refer to feeling annoyed?
+    words: >-
+      be annoyed, feel annoyed, be fed up, be tired of, be sick of, have had enough of, have
+      had it, have had it up to here, be at the end of your tether
+  - q: What words refer to the feeling of annoyance?
+    words: annoyance, exasperation, frustration, irritation
+  - q: What words describe someone who feels annoyed?
+    words: annoyed, frustrated, hacked off, irritated, jaded, ticked off
+  - q: What words refer to feeling very annoyed?
+    words: exasperated
+  - q: What words refer to causing someone to feel annoyed?
+    words: >-
+      annoy, antagonize, bug, exacerbate, exasperate, frustrate, gall, harass, hassle,
+      irritate, nag, needle, nettle, pester, piss someone off, much to my annoyance, it
+      ticks me off, it hacks me off, get on your nerves, get under your skin, drive you
+      crazy, drive you nuts, drive you up the wall
+  - q: What words refer to something that causes someone to feel annoyed?
+    words: >-
+      annoyance, exasperation, frustration, irritation, nuisance, pain in the neck, pain in
+      the ass, pain in the butt, pest
+  - q: What words describe something that causes someone to feel annoyed?
+    words: >-
+      annoying, exasperating, frustrating, irritating, galling, nettlesome, stupid, bloody,
+      be a drag

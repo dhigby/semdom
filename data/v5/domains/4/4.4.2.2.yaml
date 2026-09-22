@@ -1,0 +1,15 @@
+code: "4.4.2.2"
+guid: E0E83CC9-B876-47F6-8E66-60C9C505B927
+name: Danger
+description: >-
+  Use this domain for words referring to danger--things and events that threaten to inflict
+  damage, pain, or death.
+louwNidaCodes: 21 Danger, Risk, Safe, Save; 21A Danger
+related: ["4.4.4.8"]
+questions:
+  - q: What words refer to danger?
+    words: danger, threat
+  - q: What words describe something that is dangerous?
+    words: dangerous, threatening, life threatening
+  - q: What words describe something that is not dangerous?
+    words: safe, harmless, out of harm's way

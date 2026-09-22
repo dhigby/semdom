@@ -1,0 +1,9 @@
+code: "4"
+guid: 62B4AE33-F3C2-447A-9EF7-7E41805B6A02
+name: Social behavior
+description: >-
+  Use this domain for very general words having to do with how people behave in relationship
+  to other people.
+questions:
+  - q: What general words refer to how people act in relationship to each other?
+    words: behave, behavior, conduct, relate, relationship, socialize, society

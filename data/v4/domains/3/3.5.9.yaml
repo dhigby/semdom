@@ -1,0 +1,17 @@
+code: "3.5.9"
+guid: CAC1D7A8-7382-466E-BA4A-BA2BFE50F13B
+name: Mass communication
+description: >-
+  Use this domain for words related to radio, television, newspapers, magazines and other
+  forms of mass communication.
+ocmCodes: >-
+  2010 Internet Communications; 202 Transmission of Messages; 203 Dissemination of News and
+  Information; 204 Press; 205 Mail; Postal System; 206 Telephone and Telegraph; 207 Radio
+  and Television
+questions:
+  - q: What words refer to different kinds of mass communication?
+    words: radio, television, newspaper, magazine
+  - q: What words refer to programs and messages?
+    words: program, article
+  - q: What words refer to making programs?
+    words: broadcast

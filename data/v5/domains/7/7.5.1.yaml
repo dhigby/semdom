@@ -1,0 +1,27 @@
+code: "7.5.1"
+guid: C16334A0-BE29-4A1E-A870-4CB3F1DF984D
+name: Gather
+description: >-
+  Use this domain for words referring to gathering things into a group. The basic idea of
+  this domain involves a situation in which two or more things are not together, and someone
+  moves them so that they are together.
+louwNidaCodes: 15M Gather, Cause to Come Together
+related: ["4.2.1.1"]
+questions:
+  - q: What words refer to gathering things?
+    words: >-
+      gather, accumulate, amass, assemble, bring together, bunch up, collect, compile,
+      concentrate, consolidate, cumulate, group (v), heap, heap up, herd together, layer
+      (v), mass together, pile, rally, round-up, stack, stack up, load
+  - q: What words refer to things gathering?
+    words: >-
+      gather, clump, cluster, collect, congregate, crowd together, flock, form, gang, horde,
+      meet, pile up, swarm, throng
+  - q: What words describe things that have been gathered?
+    words: >-
+      gathered, collected, concentrated, crowded, crowding, cumulative, massed together,
+      massing, togetherness, heaped, loaded, piled
+  - q: What words refer to a group of things that have been gathered together?
+    words: >-
+      gathering, assemblage, bunch, collection, concentration, group, heap, huddle, mass,
+      pile, stack

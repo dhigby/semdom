@@ -1,0 +1,18 @@
+code: "2.1.3.3"
+guid: 9CFE4C5A-80D4-4B31-BA89-79B2E3D28A1C
+name: Finger, toe
+description: Use this domain for words related to the fingers and toes.
+related: ["5.4.7"]
+questions:
+  - q: What general words refer to the fingers and toes?
+    words: finger, toe, digit
+  - q: What are the names of each finger?
+    words: thumb, index finger, forefinger, middle finger, ring finger, little finger
+  - q: What are the names of each toe?
+    words: big toe, first toe, middle toe, third toe, little toe
+  - q: What words refer to the parts of a finger or toe?
+    words: knuckle, fingertip, fingerprint
+  - q: What words refer to a fingernail or toenail?
+    words: nail, fingernail, toenail
+  - q: What are the parts of a fingernail?
+    words: cuticle, root

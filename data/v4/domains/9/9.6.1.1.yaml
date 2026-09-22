@@ -1,0 +1,31 @@
+code: "9.6.1.1"
+guid: C029EED8-2EC0-4F6F-AA22-3A066BB23EA6
+name: And, also
+description: >-
+  Use this domain for words that indicate that you are adding another thought to a previous
+  thought. Words in this domain may indicate a variety of relationships between words,
+  phrases, clauses, or sentences. For instance the words may join two clauses that are the
+  same except that the subjects are different, or the objects are different, or the verbs
+  are different.
+louwNidaCodes: 89Q Addition
+questions:
+  - q: What words indicate that you are adding another thought to a previous one?
+    words: >-
+      and, also, too, besides, besides this, as well, so do I/so has she/so are they, in
+      addition, not to mention, likewise, both...and, and also, again, further, in addition
+      to, not only...but also, some...others, first...then, let me add
+    sentence: >-
+      Mary washed <and> ironed the dress.; Mary washed the dress <and also> ironed it.; Mary
+      <and> Laura washed the dress.; Mary washed the dress <and> Laura washed it <too>.;
+      Laura <also> washed the dress.; Mary washed the dress <and> the shirt.
+  - q: What words indicate that you are adding something new to what you just said?
+    words: and, also, furthermore, moreover, what's more, besides, by the way, incidentally
+  - q: What words indicate that you could add more things to the end of a list?
+    words: >-
+      and so on, and so on and so forth, et cetera, etc, and whatever, or whatever, and the
+      like, and suchlike
+  - q: What words indicate that you are adding another in a list of thoughts?
+    words: >-
+      first, second, third, firstly, secondly, thirdly, in the first/second/third place,
+      first of all, to begin with, to start with, finally, lastly, to conclude, in
+      conclusion, last but not least

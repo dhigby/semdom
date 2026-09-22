@@ -1,0 +1,11 @@
+code: "4.4.2.1"
+guid: 4C823E93-3966-461F-BD64-3A9303966338
+name: Problem
+description: Use this domain for words related to problems.
+questions:
+  - q: What words refer to a problem?
+    words: >-
+      problem, bind, conundrum, difficulty, dire straits, fix, jam, mess, misfortune,
+      pickle, pinch, plight, predicament, scrape, trouble
+  - q: What words refer to solving a problem?
+    words: solve, resolve, figure out

@@ -1,0 +1,9 @@
+code: "3.5.1.1.3"
+guid: B2FA4109-1165-4C1F-9613-C5B2D349D2D4
+name: Speak a lot
+description: Use this domain for words related to speaking a lot.
+questions:
+  - q: What words refer to speaking a lot?
+    words: speak a lot, talkative, loquacious, verbose
+  - q: What words refer to speaking for a long time?
+    words: loquacious, verbose, wordy, run on, long-winded, compendious, interminable

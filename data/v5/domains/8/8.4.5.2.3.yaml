@@ -1,0 +1,18 @@
+code: "8.4.5.2.3"
+guid: 69D039E6-F669-4D54-8B67-89B19FF0A19C
+name: During
+description: >-
+  Use this domain for words indicating that something happened during some time period, or
+  that something happened while something else was happening.
+louwNidaCodes: '67G Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout'
+questions:
+  - q: What words indicate that something happened during some time period?
+    words: >-
+      during, in, in the course of, during the course of, through, throughout, over, by day,
+      by night, during the middle of, in the interim, within
+    sentence: It rained <during> the night.
+  - q: >-
+      What words indicate that something happened during the time when something else was
+      happening?
+    words: while, meanwhile, in the meantime
+    sentence: I decided to eat something <while> I waited for the rain to stop.

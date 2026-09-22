@@ -1,0 +1,19 @@
+code: "8.3.3.4"
+guid: AED6C1EC-ABBE-47e3-A6CC-A99ECFF3B825
+name: Shiny
+description: >-
+  Use this domain for words that describe something that is shiny--when something gives back
+  light because light is shining on it.
+questions:
+  - q: What words describe something that is shiny?
+    words: shiny, glossy, polished, glassy, gleaming, sleek, silky, shining
+  - q: What words describe something that is shiny like metal?
+    words: silvery, metallic
+  - q: What words describe something that is shiny like water?
+    words: shimmering, glistening
+  - q: What words refer to something being shiny when light shines on it?
+    words: shine (in the light), gleam, glint, glisten, glister, glitter, glow, shimmer, sparkle
+  - q: What words refer to the shiny appearance of something?
+    words: shine, sheen, gloss, luster
+  - q: What words describe something that is not shiny?
+    words: dull, matt

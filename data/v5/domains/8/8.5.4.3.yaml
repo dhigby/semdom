@@ -1,0 +1,13 @@
+code: "8.5.4.3"
+guid: F45A456E-8E23-4364-8842-047CC73F529B
+name: Space, room
+description: >-
+  Use this domain for words referring to the amount of empty space that is available to be
+  used.
+questions:
+  - q: What words refer to the amount of empty space that is available to be used?
+    words: space, room, clearance, floor space, elbow room
+  - q: What words refer to providing space for someone or something?
+    words: make room, clear a space, make way, get out of the way
+  - q: What words describe a situation where there is just enough room?
+    words: a tight squeeze, barely enough room, close fit

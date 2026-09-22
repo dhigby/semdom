@@ -1,0 +1,59 @@
+code: "4.8.3.7"
+guid: 738A09A5-59DF-40F9-8A4E-176E00D03BBF
+name: Weapon, shoot
+description: Use this domain for words related to a weapon and using a weapon.
+ocmCodes: >-
+  411 Weapons; 710 Military Technology; 711 Military Engineering; 712 Military
+  Installations; 713 Ordnance; 714 Uniform and Accouterment; 715 Military Vehicles; 716
+  Naval Vessels; 717 Military Aircraft; 718 Special Military Equipment
+louwNidaCodes: 6G Weapons and Armor; 55A To Arm
+questions:
+  - q: What general words refer to a weapon?
+    words: weapon, weaponry, arms, armament, munitions, ordnance
+  - q: What words refer to a group of weapons?
+    words: armory, arsenal, battery
+  - q: What types of guns are there?
+    words: >-
+      gun, firearm, rifle, pistol, revolver, repeater, shotgun, six-gun, six-shooter,
+      smoothbore, machine gun
+  - q: What are the parts of a gun?
+    words: >-
+      holster, trigger, muzzle, chamber, barrel, stock, bolt, bayonet, bore, breech, bullet,
+      butt, hammer, musket, safety, sight
+  - q: What types of bows are there?
+    words: bow, arrow, crossbow, longbow
+  - q: What are the parts of a bow?
+    words: quiver, string, arrowhead, shaft, feather
+  - q: What types of swords are there?
+    words: sword, knife, bayonet, dagger, bolo, machete, rapier, saber, scimitar, stiletto
+  - q: What are the parts of a sword?
+    words: hilt, blade, guard
+  - q: What types of spears are there?
+    words: spear, dart, javelin, pike
+  - q: What are the parts of a spear?
+    words: shaft, tip
+  - q: What types of axes and clubs are there?
+    words: ax, axe, blackjack, club, halberd, hatchet, mace, tomahawk, truncheon
+  - q: What types of artillery are there?
+    words: artillery, cannon, bazooka, catapult, howitzer, mortar
+  - q: What types of bombs are there?
+    words: bomb, grenade, mine, missile, rocket, atomic bomb, hydrogen bomb
+  - q: What are the parts of a bomb?
+    words: warhead, fuse, fin
+  - q: What words refer to things shot from weapons?
+    words: ammunition, bullet, projectile, shot, shell, cartridge, clip, pellet
+  - q: What other types of weapons are there?
+    words: blowgun, ram, sling, slingshot, whip
+  - q: What words refer to using a weapon?
+    words: >-
+      archery, draw a pistol, draw a sword, draw a bow, fit an arrow, raise a gun, aim,
+      load, stab, hurl a spear, swing an ax, drop a bomb, stick a knife into someone,
+      bludgeon, whip (v)
+  - q: What words refer to shooting a weapon?
+    words: shoot (a gun), shoot at someone, shot, shell, fire, launch, aim, volley
+  - q: What types of armor are there?
+    words: >-
+      armor, shield, helmet, breastplate, greave, buckler, corselet, mail, panoply, plate,
+      plating, bullet proof vest, visor
+  - q: What words describe weapons?
+    words: defensive, offensive, protective, deadly, weapon of mass destruction, conventional

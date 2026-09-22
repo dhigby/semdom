@@ -1,0 +1,8 @@
+code: "6.3.5"
+guid: C880C81F-65DC-4D93-8C39-22920FDBE4C7
+name: Wool production
+description: Use this domain for words related to wool production--cutting the hair off of a sheep.
+ocmCodes: 236 Wool Production
+questions:
+  - q: What words refer to cutting the hair off of a sheep?
+    words: wool, shear, fleece

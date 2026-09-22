@@ -1,0 +1,20 @@
+code: "9.5.3.3"
+guid: 55B93F1C-6CE0-4D13-AE1E-F06360E4689C
+name: With (a patient)
+description: >-
+  Use this domain for words that mark a second Patient that accompanies the primary Patient
+  of an activity. In this type of sentence there are actually two Patients, but one of them
+  has more prominence than the other. The primary patient is usually expressed as the object
+  of the sentence. The second Patient may be marked by an oblique case or
+  preposition/postposition. For instance it may be conceived as accompanying the first
+  Patient.
+louwNidaCodes: 89R Linkage
+related: ["8.3.7.7.3"]
+questions:
+  - q: What words mark something that is used with another thing?
+    words: >-
+      with, together with, combined with, in combination, in conjunction with, alongside,
+      along with
+    sentence: >-
+      John drank coffee <with> milk.; John sent flowers to Mary <along with> a birthday
+      card.; He paid back my money <with> interest.

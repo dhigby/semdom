@@ -1,0 +1,8 @@
+code: "4.6.4"
+guid: FF0A16F2-C44D-4ED4-9520-C214ACFB68E5
+name: Rule
+description: Use this domain for words related to ruling.
+louwNidaCodes: 37D Rule, Govern; 37 Control, Rule
+questions:
+  - q: What words refer to ruling?
+    words: rule, reign, be in power

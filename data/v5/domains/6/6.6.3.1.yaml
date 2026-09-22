@@ -1,0 +1,18 @@
+code: "6.6.3.1"
+guid: 345E019F-87D2-415D-BA37-9FB85460F7E1
+name: Lumbering
+description: Use this domain for words related to lumbering--cutting down trees and cutting them up.
+ocmCodes: 313 Lumbering
+questions:
+  - q: What words refer to lumbering?
+    words: lumbering, forestry, lumber industry
+  - q: What activities are involved in lumbering?
+    words: harvest lumber, cut down, chop down, to log, wood cutting, clear cut, fell a tree
+  - q: What words refer to a person involved in lumbering?
+    words: lumberjack, woodcutter
+  - q: What words refer to the trees that are cut down?
+    words: tree, timber
+  - q: What are the products of lumbering?
+    words: timber, log
+  - q: What tools are used in lumbering?
+    words: saw, ax, logging truck

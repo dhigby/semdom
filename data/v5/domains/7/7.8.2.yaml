@@ -1,0 +1,9 @@
+code: "7.8.2"
+guid: B62B5FC7-1B20-4F63-8459-8EB4991839EE
+name: Crack
+description: >-
+  Use this domain for words referring to a crack--a partial break in something that does not
+  entirely divide it in pieces.
+questions:
+  - q: What words refer to a crack?
+    words: crack, split, fissure, crevasse

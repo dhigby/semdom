@@ -1,0 +1,19 @@
+code: "8.3.1.5.3"
+guid: 8F7C9D7D-9B2A-40F3-9314-8F16F0AA31EF
+name: Fold
+description: Use this domain for words referring to folding something.
+questions:
+  - q: What words refer to folding something?
+    words: fold, fold up, crease, turn down, double over, crimp, dog-ear
+  - q: What words refer to something folding?
+    words: fold, fold up, crease, get creased
+  - q: What words describe something that is folded?
+    words: folded, creased, dog-eared
+  - q: What words refer to a fold in something?
+    words: fold, crease, angle, plait, wrinkle, flap, lapel, dog-ear, tuck, gather, pleat
+  - q: What words refer to making many folds in something?
+    words: crumple, gather, pleat, rumple, tuck, wrinkle
+  - q: What words describe something that has many folds?
+    words: crumpled up, pleated, wrinkled
+  - q: What words describe something that can be folded?
+    words: folding, jointed

@@ -1,0 +1,10 @@
+code: "6.5.2.1"
+guid: 50903B35-5606-4727-8474-01C06BF588DA
+name: Wall
+description: Use this domain for words related to walls.
+louwNidaCodes: 7F Walls and Fences
+questions:
+  - q: What words refer to the side of a house?
+    words: wall, side of the house
+  - q: What are the parts of a wall?
+    words: frame, siding, insulation, arch

@@ -1,0 +1,7 @@
+code: "8.3.5.3.1"
+guid: F6896060-4D5C-45E2-B89A-F9F6328A479C
+name: Usual
+description: Use this domain for words describing something that is usual.
+questions:
+  - q: What words describe something that is usual?
+    words: usual, normal, natural, typical, ordinary

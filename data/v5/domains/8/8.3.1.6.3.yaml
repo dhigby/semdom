@@ -1,0 +1,11 @@
+code: "8.3.1.6.3"
+guid: 3D10E03A-7902-458D-9C45-938DA103D639
+name: Hollow
+description: Use this domain for words describing something that is hollow--empty on the inside.
+questions:
+  - q: What words describe something that is hollow?
+    words: hollow, cavernous, inflated
+  - q: What words refer to making something convex?
+    words: hollow out
+  - q: What words refer to something that is not hollow?
+    words: solid

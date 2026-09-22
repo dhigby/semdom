@@ -1,0 +1,39 @@
+code: "4.9.9"
+guid: 725D78EB-8CAC-4B2F-B5A4-F0A9ADB80F5D
+name: Nonreligion
+description: >-
+  Use this domain for words about not following a religion, and for words that religious
+  communities use for beliefs, people, or acts they regard as outside or opposed to their
+  religion. Terms such as "infidel", "heathen", "pagan", or "godless" are evaluations used
+  by religious speakers about others and are not neutral descriptions.
+ocmCodes: 798 Religious Intolerance
+louwNidaCodes: 53L Sacrilege
+questions:
+  - q: What words refer to a person who does not follow a religion?
+    words: >-
+      atheist, agnostic, nonbeliever, secularist, freethinker, humanist; (as named by
+      believers:) unbeliever, infidel, pagan, heathen
+  - q: >-
+      What words refer to a religious group, which the official religion considers to be
+      false?
+    words: false religion, sect
+  - q: What words refer to a belief, which the official religion considers to be false?
+    words: heresy, heretical, heretic, false doctrine/teaching
+  - q: What words refer to not believing in a god or gods?
+    words: disbelief, unbelief, doubt, skepticism, agnosticism, atheism
+  - q: What words refer to speaking against God?
+    words: blaspheme, scoff, profane, irreverent
+  - q: What words refer to treating sacred things without respect?
+    words: desecrate, sacrilege, profane, defile, blasphemy
+  - q: What words describe someone who rejects or disrespects religion?
+    words: impious, irreligious, profane
+  - q: What words refer to turning away from God?
+    words: apostasy, backsliding, reprobate
+  - q: What words refer to pretending to be religious?
+    words: hypocrisy, hypocrite
+  - q: What words refer to extreme or intolerant religious or ideological views?
+    words: fanatic, fanaticism, bigot, bigotry, extremism
+  - q: What words refer to religious practices that are done in ignorance?
+    words: superstition
+  - q: What words refer to allowing other people to practice their religion?
+    words: tolerance, intolerance

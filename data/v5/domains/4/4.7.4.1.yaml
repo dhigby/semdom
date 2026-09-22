@@ -1,0 +1,18 @@
+code: "4.7.4.1"
+guid: CCA44B46-437C-42EE-93D7-A8820D61D0C8
+name: Legal personnel
+description: Use this domain for words related to legal personnel.
+louwNidaCodes: 56G Attorney, Lawyer
+questions:
+  - q: What words refer to legal personnel?
+    words: legal personnel, arbitrator, scribe
+  - q: What is the staff of a court?
+    words: judge, court clerk, court recorder, bailiff
+  - q: What is a person called who argues a case before a judge?
+    words: >-
+      lawyer, counsel, legal counsel, counselor-at-law, attorney, attorney-at-law, legal
+      adviser, advocate, barrister, solicitor
+  - q: What is a lawyer called who defends the accused person?
+    words: defense attorney, counsel for the defense
+  - q: What is a lawyer called who tries to convict the accused person?
+    words: prosecutor, district attorney, prosecuting attorney, attorney general

@@ -1,0 +1,16 @@
+code: "4.6.6.1"
+guid: 16D2C60A-52D7-4EC5-A5B1-C559DC078BF3
+name: Police
+description: Use this domain for words related to the police.
+ocmCodes: 625 Police
+questions:
+  - q: What words refer to the police?
+    words: police, police officer, policeman, police force, chief of police, posse
+  - q: What do police do?
+    words: enforce the law, investigate crime, patrol, set up roadblocks, file reports
+  - q: What tools do police use?
+    words: >-
+      gun, revolver, billy club, handcuffs, police uniform, badge, police car, siren, police
+      radio, whistle
+  - q: Where do the police work?
+    words: police station, precinct, beat

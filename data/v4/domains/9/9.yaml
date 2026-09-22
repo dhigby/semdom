@@ -1,0 +1,24 @@
+code: "9"
+guid: 349F0278-7998-422A-9C3B-6053989CBB20
+name: Grammar
+description: >-
+  Use this domain for technical linguistic terms that refer to grammatical words and
+  constructions. Most languages have few if any words in this domain.
+related: ["3.5.3.1"]
+questions:
+  - q: What words refer to the study of grammar?
+    words: grammar, syntax, morphology
+  - q: What words refer to types of grammatical words?
+    words: >-
+      noun, verb, adjective, adverb, conjunction, preposition, particle, article, word,
+      participle, infinitive, part of speech, compound, derivative
+  - q: What words refer to types of grammatical constructions?
+    words: phrase, clause, sentence, paragraph
+  - q: What words refer to parts of words?
+    words: root, stem, affix, prefix, suffix, ending, morpheme
+  - q: What words are used to talk about grammar?
+    words: >-
+      inflect, inflection, case, decline, declension, conjugate, conjugation, parse,
+      paradigm, rule, singular, plural
+  - q: What words are used to talk about the sounds of a language?
+    words: letter, consonant, vowel, syllable

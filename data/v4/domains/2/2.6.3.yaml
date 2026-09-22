@@ -1,0 +1,25 @@
+code: "2.6.3"
+guid: 35E61EC4-0542-4583-B5DA-0AA5E31A35AA
+name: Birth
+description: Use this domain for words related to giving birth and being born.
+ocmCodes: >-
+  163 Birth Statistics; 840 Reproduction; 841 Menstruation; 844 Childbirth; 846 Postnatal
+  Care
+louwNidaCodes: 23C Birth, Procreation
+questions:
+  - q: What words refer to a mother giving birth?
+    words: have a baby, give birth, become a mother, bear a child, deliver, hatch
+  - q: What words refer to a baby being born?
+    words: be born, birth, arrive, arrival, come along, come into the world
+  - q: What words refer to the event of giving birth?
+    words: birth, childbirth, birthing, childbed, parturition, nativity
+  - q: What are the steps or stages in giving birth?
+    words: labor, birth, first breath, tie the umbilical cord, cut the umbilical cord
+  - q: What words refer to what is done for the baby?
+    words: wash (the baby), anoint, swaddle (wrap in cloth)
+  - q: What words describe something to do with birth?
+    words: maternity, postnatal
+  - q: What words refer to the entire process of producing a baby?
+    words: reproduce, breed, reproduction
+  - q: What words refer to having your first baby?
+    words: start a family

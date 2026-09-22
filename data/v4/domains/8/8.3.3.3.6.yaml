@@ -1,0 +1,24 @@
+code: "8.3.3.3.6"
+guid: A8B3FA0C-077E-4C0D-B4CC-36DCFBDCB4D4
+name: Change color
+description: Use this domain for words related to changing the color of something.
+questions:
+  - q: What words refer to changing the color of something?
+    words: >-
+      color (v), color something in, blacken, bleach, denigrate, dye, discolor, emblazon,
+      imbue, ingrain, paint (v), redden, shade (v), stain, tinge, tint, add color, mix
+      colors, tone down, whiten
+  - q: What words are used of something changing color?
+    words: change color, lose its color, blush, turn pale, pale, blanch
+  - q: What words refer to dye being washed out of cloth?
+    words: wash out, run
+  - q: What words refer to the sun changing the color of something?
+    words: fade, bleach
+  - q: What words describe something whose color has changed?
+    words: >-
+      colored, discolored, bleached, dyed, faded, mantled, painted, shaded, stained, tinged,
+      tinted
+  - q: What words refer to things used to change the color of something?
+    words: paint (n), dye (n), bleach (n), food coloring, stain (n)
+  - q: What words describe a color that does not change?
+    words: fast

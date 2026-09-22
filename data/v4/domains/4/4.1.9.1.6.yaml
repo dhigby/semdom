@@ -1,0 +1,16 @@
+code: "4.1.9.1.6"
+guid: 75202262-CDBA-4C43-9343-764C84138797
+name: Uncle, aunt
+description: Use this domain for words related to your uncles and aunts.
+ocmCodes: 604 Avuncular and Nepotic Relatives
+questions:
+  - q: What words refer to your father's brother?
+    words: uncle
+  - q: What words refer to your father's sister?
+    words: aunt
+  - q: What words refer to your mother's brother?
+    words: uncle
+  - q: What words refer to your mother's sister?
+    words: aunt
+  - q: What words refer to a brother or sister of one of your grandparents?
+    words: granduncle, grandaunt, great-uncle, great-aunt

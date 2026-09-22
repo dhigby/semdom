@@ -1,0 +1,19 @@
+code: "6.6.1.4"
+guid: 77D1610F-4757-46DE-B5F8-E127DC270DFD
+name: Weaving cloth
+description: Use this domain for words related to weaving cloth.
+ocmCodes: 286 Woven Fabrics
+related: ["6.6.4.2"]
+questions:
+  - q: What words refer to weaving?
+    words: weave
+  - q: What words refer to someone who weaves?
+    words: weaver
+  - q: What tools are used to weave?
+    words: loom
+  - q: What are the parts of a loom?
+    words: shuttle
+  - q: What words describe cloth that has been made by weaving?
+    words: woven
+  - q: What words describe a woven pattern?
+    words: plaid, tartan

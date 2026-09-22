@@ -1,0 +1,27 @@
+code: "3.6.6"
+guid: 1886FFC9-0A18-41EA-B2F6-C17C297F1681
+name: Science
+description: Use this domain for words related to science.
+ocmCodes: >-
+  378 Atomic Energy; 810 Sciences and Humanities; Exact Knowledge; 811 Logic; 812
+  Philosophy; 813 Scientific Method; 814 Humanistic Studies; 815 Science; 816 Applied
+  Science; 820 Ideas about Nature and People; Ideas about Nature and Man; 821
+  Ethnometeorology; 822 Ethnophysics; 823 Ethnogeography; 824 Ethnobotany; 825 Ethnozoology;
+  826 Ethnoanatomy; 827 Ethnophysiology; 828 Ethnopyschology; 829 Ethnosociology
+questions:
+  - q: What general words refer to science?
+    words: science
+  - q: What words refer to a branch of science?
+    words: mathematics, physics
+  - q: What words refer to the study of the physical universe?
+    words: physics, chemistry, natural science, physical science
+  - q: What words refer to the study of the sky?
+    words: astronomy, astrology
+  - q: What words refer to the study of the ground?
+    words: geology
+  - q: What words refer to the study of water?
+    words: hydrology, oceanography
+  - q: What words refer to the study of living things?
+    words: biology, ecology
+  - q: What words refer to a person who studies science?
+    words: scientist

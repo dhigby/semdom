@@ -1,0 +1,8 @@
+code: "4.2"
+guid: 57225F57-BA51-45D7-B6D2-B22052877EA4
+name: Social activity
+description: Use this domain for general words referring to social activities.
+ocmCodes: 517 Leisure Time Activities
+questions:
+  - q: What general words refer to social activities?
+    words: socialize

@@ -1,0 +1,27 @@
+code: "4.2.3"
+guid: 5446B5CF-F05A-4BB2-89EB-CE63E27040F3
+name: Music
+description: Use this domain for words related to music.
+ocmCodes: 533 Music; 545 Musical and Theatrical Productions
+questions:
+  - q: What general words refer to music?
+    words: music, musical
+  - q: What styles of music are there?
+    words: >-
+      style, pop, rock, country western, jazz, folk music, classical, longhair, modern,
+      popular, chamber music, march, symphony, opera, ballet, musical, dance number, canned
+      music
+  - q: What words refer to a piece of music?
+    words: piece of music, music piece, song, number, selection, encore
+  - q: What words refer to part of a piece of music?
+    words: movement, introduction, bar, finale
+  - q: What words refer to a piece of music meant to be played or sung by one person?
+    words: solo
+  - q: >-
+      What words refer to a piece of music meant to be played or sung by two, three, or more
+      people?
+    words: duet, trio, quartet, quintet
+  - q: What words describe the sounds of music?
+    words: >-
+      scale, tune, melody, melodic, harmony, chord, pitch, soft, pianissimo, loud, forte,
+      crescendo, rhythm, rhythmic, beat, time

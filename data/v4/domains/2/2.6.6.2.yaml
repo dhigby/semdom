@@ -1,0 +1,11 @@
+code: "2.6.6.2"
+guid: 7E2B6218-0837-4B16-A982-C9535CCCDB21
+name: Corpse
+description: Use this domain for words referring to a corpse--the body of a person who has died.
+questions:
+  - q: What words refer to a dead body?
+    words: body, dead body, corpse, cadaver, stiff, carcass, carrion, mummy
+  - q: What words refer to a dead body decaying?
+    words: decay, decompose, rot, return to dust, eaten by worms, corrupt, putrid, putrefy
+  - q: What words refer to a body after it has decayed?
+    words: remains, bones, skeleton

@@ -1,0 +1,11 @@
+code: "4.4.4"
+guid: 3DD684E6-75D9-41F4-AAA3-FB0CB3C7D400
+name: Respond to someone in trouble
+description: Use this domain for words related to responding to someone in trouble.
+ocmCodes: 748 Social Work
+louwNidaCodes: 25M Encouragement, Consolation
+questions:
+  - q: What words refer to the response of a person who sees someone in trouble?
+    words: respond, help, go to help, come to the aid of
+  - q: What words refer to the response of a person who sees someone in trouble?
+    words: response, help, aid

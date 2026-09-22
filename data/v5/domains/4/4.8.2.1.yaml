@@ -1,0 +1,9 @@
+code: "4.8.2.1"
+guid: E072BD42-EB0F-48C8-97FD-AE9CA8BC3A75
+name: Fight for something good
+description: Use this domain for words referring to fighting for something good.
+questions:
+  - q: What words refer to fighting for something good?
+    words: fight for, work for, campaign, champion, be a champion of
+  - q: What words refer to the process of fighting for something good?
+    words: fight (n) for, struggle for, battle, campaign for, crusade for, drive

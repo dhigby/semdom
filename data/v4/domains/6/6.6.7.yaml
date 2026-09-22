@@ -1,0 +1,20 @@
+code: "6.6.7"
+guid: 683F570A-0BFE-4A97-B55D-4319B328508B
+name: Working with water
+description: Use this domain for words related to working with water.
+ocmCodes: 376 Water Power
+louwNidaCodes: 7E Constructions for Holding Water
+related: ["1.3.1.4"]
+questions:
+  - q: What words refer to digging a well?
+    words: dig (a well), drill (a well), sink (a bore hole)
+  - q: What words are used for storing water?
+    words: reservoir, cistern, water tank, water barrel, bucket, jerry can, water tower
+  - q: What words are used of a system of water transportation?
+    words: canal, water-way, navigation channel, lock, dock
+  - q: What words refer to using water power?
+    words: water-power, water mill, water-wheel
+  - q: What words are used of generating electricity using water power?
+    words: dam, hydroelectric power plant, electric generating plant, dynamo
+  - q: What words are used of removing water from something?
+    words: sieve, drain, press, extract, strain

@@ -1,0 +1,14 @@
+code: "6.5.2.8"
+guid: 84A8D541-9571-4CE9-ABEA-BD9CCCB8DBF0
+name: Floor, story
+description: Use this domain for words related to the levels of a building.
+questions:
+  - q: What words refer to the levels in a building?
+    words: floor, story, level
+  - q: What words refer to particular levels in a building?
+    words: basement, ground floor, first floor, second floor, upstairs, downstairs
+  - q: What words refer to stairs and other ways of climbing to a higher level?
+    words: >-
+      stair, step, rung (of a ladder), staircase, stairway, stairwell, stairs, flight of
+      stairs, elevator, lift, escalator, fire escape, ladder, banister, handrail, landing,
+      ramp

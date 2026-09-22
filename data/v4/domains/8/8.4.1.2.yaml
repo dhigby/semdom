@@ -1,0 +1,19 @@
+code: "8.4.1.2"
+guid: AFE7CC92-E0AD-40D9-BE56-AA12D2693A3F
+name: Day
+description: Use this domain for words referring to a day.
+questions:
+  - q: What words refer to a day?
+    words: >-
+      day, whole day, day and night, a day and a night, 24 hour day, 'morning, noon and
+      night'
+  - q: What words are used to indicate that something happens every day?
+    words: daily, every day, each day
+  - q: What words refer to an indefinite day?
+    words: >-
+      someday, one day, a certain day, the other day, some day in the future, one day long
+      ago
+  - q: What words indicate that something happens during the whole day?
+    words: all day long, the whole day long, the whole day through
+  - q: What words are used for the period of time when the sun is shining?
+    words: day (as opposed to night), during the day, daytime, daylight, daylight hours

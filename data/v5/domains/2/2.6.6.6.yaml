@@ -1,0 +1,12 @@
+code: "2.6.6.6"
+guid: 32CF3835-BCED-4EA1-9C7A-F7FF653E59FE
+name: Grave
+description: Use this domain for words related to a grave--the place where a dead body is put.
+louwNidaCodes: 7G Miscellaneous Constructions
+questions:
+  - q: What words refer to the place where a body is placed?
+    words: grave, tomb, burial plot, sepulcher, vault, crypt, barrow
+  - q: What words refer to a place where many bodies are buried?
+    words: cemetery, churchyard, graveyard, mausoleum, mass grave, burial ground, charnel house
+  - q: What words refer to a marker of a grave?
+    words: grave marker, gravestone, headstone, tombstone, slab, memorial, monument, epitaph

@@ -1,0 +1,11 @@
+code: "1.6.2.5"
+guid: 5D72AF95-FACD-4BE2-80E9-37528F0F34B5
+name: Parts of small animals
+description: Use this domain for the parts of small animals.
+questions:
+  - q: What are the parts of shellfish?
+    words: shell, mother of pearl, mantle, foot, swimmeret
+  - q: What are the parts of worms?
+    words: segment
+  - q: What are the parts of an octopus or squid?
+    words: tentacle, sucker, appendage

@@ -1,0 +1,16 @@
+code: "3.4.2.1.5"
+guid: 39611E8D-CC67-4C84-977C-094C5CBE9DBC
+name: Lonely
+description: >-
+  Use this domain for words related to feeling lonely--to feel bad because you are alone and
+  not with people you love.
+related: ["4.1.6.3"]
+questions:
+  - q: What words refer to feeling lonely?
+    words: feel lonely, feel alone, feel isolated, feel abandoned, miss someone
+  - q: What words refer to the feeling of loneliness?
+    words: loneliness, homesickness
+  - q: What words describe someone who feels lonely?
+    words: lonely, lonesome, homesick
+  - q: What words refer to feeling very lonely?
+    words: pine away

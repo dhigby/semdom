@@ -1,0 +1,19 @@
+code: "4.9.5.3"
+guid: 2CCAB97A-FB98-4054-A29B-E5CEAC8CA1B4
+name: Worship
+description: >-
+  Use this domain for personal expressions of devotion to God, in whatever ways the religion
+  defines and expresses it.
+louwNidaCodes: 53G Worship, Reverence
+questions:
+  - q: What words refer to relating to God or to the spirits?
+  - q: What words refer to acts of worship toward God?
+    words: worship, adore, revere, reverence, lift up your heart, pay homage
+  - q: What words refer to the act of worship?
+    words: >-
+      worship, adoration, devotion, homage, service, reverence, veneration, deification,
+      idolization
+  - q: What actions or postures symbolize worship?
+    words: bow, kneel, genuflect, prostrate oneself
+  - q: What types of actions make up worship?
+    words: prayer, singing hymns, praising God

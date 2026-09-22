@@ -1,0 +1,10 @@
+code: "4.1.9.1.9"
+guid: 89944377-8694-4394-BCED-153CC22A0E30
+name: Birth order
+description: Use this domain for words related to birth order.
+related: ["4.1.9.1.3"]
+questions:
+  - q: What words refer to the order in which a child was born?
+    words: oldest, youngest, firstborn, second born, last born, middle child
+  - q: What words refer to the only child of its parents?
+    words: only child

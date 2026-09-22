@@ -1,0 +1,23 @@
+code: "4.9.6"
+guid: 1C3F8996-362E-4EE0-AF02-0DD02887F6AA
+name: Heaven, hell
+description: >-
+  Use this domain for words related to heaven and hell--the place where people go after they
+  die.
+ocmCodes: 772 Cosmology; 775 Eschatology
+louwNidaCodes: 1C Regions Below the Surface of the Earth
+questions:
+  - q: What is the place or home of God called?
+    words: Heaven, the highest heaven, the abode of God, the throne of God
+  - q: What is the place called where dead people are?
+    words: >-
+      Hades, Sheol, the place of the dead, the grave, the other side, the beyond,
+      underworld, nether world
+  - q: What is the place called where believers (good people) go when they die?
+    words: heaven, paradise, your reward
+  - q: What is the place called where unbelievers (bad people) go when they die?
+    words: hell, the pit, fire and brimstone, eternal damnation
+  - q: What words refer to going to heaven or hell?
+    words: pass on, go to heaven, go to hell
+  - q: What words describe something belonging to heaven or hell?
+    words: celestial, heavenly, hellish

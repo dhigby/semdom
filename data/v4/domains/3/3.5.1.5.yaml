@@ -1,0 +1,14 @@
+code: "3.5.1.5"
+guid: 77B4D6C1-87BF-4839-B4BE-6A45119B700A
+name: Ask
+description: Use this domain for words related to asking a question.
+ocmCodes: 124 Interviewing in Research
+louwNidaCodes: 33L Ask For, Request; 33N Question, Answer
+related: ["3.3.2"]
+questions:
+  - q: What words refer to saying something in order to get information?
+    words: ask, question, inquire, interrogate, interview
+  - q: What words refer to what is said?
+    words: question, inquiry, interrogation, interview
+  - q: What words describe someone who asks a lot of questions?
+    words: inquisitive, curious

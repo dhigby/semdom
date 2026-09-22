@@ -1,0 +1,25 @@
+code: "8.1.5.7"
+guid: E94A5CF3-1FD4-4B52-902F-BBF0AD6BAC2B
+name: Only
+description: >-
+  Use this domain for words referring to only a particular number or amount of people or
+  things--no more than one, or no more than a particular number or amount.
+questions:
+  - q: What words describe the only person or thing?
+    words: only, sole, the one, lone, solitary, alone, one and only, single
+    sentence: I had four brothers, but I am the <only> one who is still alive.
+  - q: What words indicate that there is only a particular number or amount of something?
+    words: only, just, no more than, all
+    sentence: We <only> have five chairs.
+  - q: >-
+      What words indicate something is true of only one thing or one group of things, and
+      not true of others?
+    words: >-
+      only, just, exclusively, nothing but, nothing else, be limited to, be restricted to,
+      be confined to, be unique to, be peculiar to, exclusive
+    sentence: <Only> men can grow beards.
+  - q: What words indicate that something is only what you say it is, and not something more?
+    words: only, just, purely, merely, mere, nothing but
+    sentence: >-
+      He doesn't understand--he's <only> a child.; I don't want anything--I <only> want to
+      help.

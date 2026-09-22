@@ -1,0 +1,39 @@
+code: "7.2.6.3"
+guid: 36E8F1DF-1798-4AE6-904D-600CA6EB4145
+name: Escape
+description: Use this domain for words related to escaping from danger.
+questions:
+  - q: What words refer to escaping from a dangerous place?
+    words: >-
+      escape, get out, flee, make your escape, get away, get clear, abandon ship, bail out,
+      evacuate, fly the coop, get free, get loose, run away, scarper, break away, break
+      free, break loose, sneak out
+  - q: What words refer to escaping from prison?
+    words: break out, make a break for it, bust out
+  - q: What words refer to escaping from someone who is chasing you?
+    words: >-
+      get away, give someone the slip, throw someone off the scent, slip through someone's
+      fingers, shake off, make a clean getaway, elude, evade, avoid capture, dodge,
+      sidestep, cover your trail/tracks
+  - q: What words refer to running away from someone?
+    words: >-
+      run away, run off, bolt, run for it, make a run for it, take to your heels, scatter,
+      run for your life
+  - q: What words refer to escaping from a difficult situation?
+    words: extricate yourself, talk your way out of
+  - q: What words refer to escaping with something you have stolen?
+    words: get away with, make off with
+  - q: What words refer to helping someone escape?
+    words: get someone out, spring, liberate
+  - q: What words refer to the act of escaping?
+    words: escape (n), breakout, jailbreak, getaway, prison break, evasion, evacuation
+  - q: What words refer to someone who has escaped?
+    words: runaway, fugitive, escapee, refugee
+  - q: What words describe someone who has escaped?
+    words: escaped, be on the loose, be at large, be on the run, elusive, free
+  - q: What words describe something related to escaping?
+    words: evasive (maneuvers), getaway (car)
+  - q: What words refer to being unable to escape?
+    words: >-
+      can't escape, can't get out, trapped, be stuck, there is no escape, be imprisoned, be
+      a prisoner

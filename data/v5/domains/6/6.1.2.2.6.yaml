@@ -1,0 +1,7 @@
+code: "6.1.2.2.6"
+guid: A72515EC-998D-4B48-BD69-C67CF9245ABC
+name: Waste
+description: Use this domain for words related to wasting something.
+questions:
+  - q: What words refer to wasting something?
+    words: waste, squander, dissipate, uneconomical

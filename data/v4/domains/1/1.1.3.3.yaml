@@ -1,0 +1,32 @@
+code: "1.1.3.3"
+guid: BFA3BE74-0390-4E2E-BDB7-ED41EB67E4F1
+name: Rain
+description: Use this domain for words related to the rain.
+louwNidaCodes: 14C Rain
+questions:
+  - q: What words refer to the rain?
+    words: rain, precipitation, rainfall
+  - q: What does the rain do?
+    words: rain (v), fall, pelt, splatter, drench, water (v)
+  - q: What words describe the weather when it is raining?
+    words: rainy, wet
+  - q: What words refer to when the rain stops?
+    words: stop raining
+  - q: What words describe how hard it is raining?
+    words: >-
+      sprinkle, drizzle, light rain, shower, pour, downpour, cloudburst, rainstorm,
+      hard/heavy/driving rain, torrential, deluge, thundershower
+  - q: What words describe when it rains a lot?
+    words: rainy season, monsoon, the rains
+  - q: What is a single drop of rain?
+    words: raindrop, drop
+  - q: What words refer to rain water on the ground?
+    words: rainwater, puddle, run-off
+  - q: What sound does the rain make?
+    words: pitter-patter, drum, drip drip
+  - q: What words refer to a rainbow?
+    words: rainbow
+  - q: What words refer to dew?
+    words: dew, dewdrop, (ground is) damp with dew, moisture
+  - q: What do people use to protect themselves from the rain?
+    words: umbrella, raincoat, boot

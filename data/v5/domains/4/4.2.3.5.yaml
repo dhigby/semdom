@@ -1,0 +1,32 @@
+code: "4.2.3.5"
+guid: 91DDF495-A28B-4A32-90DC-6F997D0CD069
+name: Musical instrument
+description: >-
+  Use this domain for words referring to musical instruments and people who play a
+  particular instrument.
+ocmCodes: 534 Musical Instruments
+louwNidaCodes: 6L Musical Instruments
+questions:
+  - q: What is the general term for musical instrument?
+    words: musical instrument, band instrument
+  - q: What are the types of instruments that have strings that you pluck?
+    words: >-
+      stringed instrument, strings, piano, harp, guitar, banjo, violin, fiddle, viola,
+      cello, bass fiddle
+  - q: What are the types of instruments that you hit?
+    words: >-
+      percussion instruments, drum, snare drum, bass drum, tympani, cymbal, bell, xylophone,
+      marimba, rattle, castanet, bangle, jingle
+  - q: What are the types of instruments that you blow into?
+    words: >-
+      wind instruments, winds, reeds, organ, flute, clarinet, oboe, brass instruments, horn,
+      trumpet, cornet, bugle, trombone, French horn, baritone horn, tuba, harmonica,
+      bagpipes, pipe
+  - q: What words refer to playing a musical instrument?
+    words: play, pluck, fiddle, blast, beat
+  - q: What words refer to a person who plays a musical instrument?
+    words: instrumentalist, player, pianist, violinist, drummer, trumpeter, flutist
+  - q: What words describe the sound made by a musical instrument?
+    words: blast (of a trumpet), blare, crash (of a cymbal), timbre
+  - q: What words refer to the parts of musical instruments?
+    words: mouthpiece, bell, key, keyboard, drumstick, reed, bow, string, fret, pick, organ pipe

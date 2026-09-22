@@ -1,0 +1,31 @@
+code: "7.2.7.3"
+guid: D88D862C-01D4-4B43-9FBE-59208922E022
+name: Wait
+description: >-
+  Use this domain for words referring to waiting in a place, waiting to do something, or
+  waiting for something to happen. The basic idea of waiting is for someone to not do
+  anything for a period of time, because he expects something to happen that will cause him
+  to do something.
+questions:
+  - q: What words refer to waiting?
+    words: >-
+      wait, wait for, wait up for, wait on, await, hang on, stand by, wait around, hang
+      around, hold off, wait your turn, sit something out, cool your heels, bide your time,
+      sit tight, sweat it out, hesitate, hesitation, wait and see, wait behind, lie in wait,
+      waiting room, waiting list
+  - q: How do you tell someone to wait?
+    words: >-
+      Wait! Wait up. Just a minute. Just a moment. I'll be right with you. Hold on. Hang on.
+      Please hold.
+  - q: What words refer to waiting in a line of people?
+    words: line up, queue, stand in line, cut in line
+  - q: What words describe how a person feels when he must wait?
+    words: look forward to, expectant, (I) can't wait, patient, impatient
+  - q: What words refer to making someone wait?
+    words: keep someone waiting, make someone wait, delay
+  - q: What words refer to a period of time when you have to wait?
+    words: wait (n), delay (n)
+  - q: >-
+      What words refer to refusing to wait patiently and going ahead of other people
+      instead?
+    words: cut in line, cut in front of someone, cut someone off, jump the queue, push in

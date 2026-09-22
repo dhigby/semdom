@@ -1,0 +1,21 @@
+code: "1.6.1.1.3"
+guid: BBD3C3F1-7387-4EC6-A75D-66C1355A94EF
+name: Hoofed animals
+description: >-
+  Use this domain for even-toed hoofed animals (phylum Chordata, class Mammalia, order
+  Artiodactyla), odd-toed hoofed animals (phylum Chordata, class Mammalia, order
+  Perissodactyla), and elephants (phylum Chordata, class Mammalia, order Proboscidea).
+questions:
+  - q: What general words refer to hoofed animals?
+    words: ungulate, herbivore, clean animal, ruminant
+  - q: What species of two-toed hoofed animals are there?
+    words: >-
+      cattle, cow, goat, sheep, alpaca, antelope, bighorn sheep, bison, buffalo, camel,
+      carabao, caribou, chamois, deer, stag, buck, doe, dromedary, eland, elk, gazelle,
+      gemsbok, giraffe, gnu, hart, hartebeest, ibex, kudu, llama, moose, musk ox, okapi,
+      oryx, pronghorn, reindeer, roe, roebuck, sable antelope, sambar, springbok, steenbok,
+      wildebeest, yak
+  - q: What species of four-toed hoofed animals are there?
+    words: pig, hog, warthog, peccary, javelina, hippopotamus
+  - q: What species of odd-toed hoofed animals are there?
+    words: horse, donkey, zebra, tapir, rhinoceros, elephant, pachyderm, onager

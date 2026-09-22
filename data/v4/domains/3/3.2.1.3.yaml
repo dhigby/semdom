@@ -1,0 +1,30 @@
+code: "3.2.1.3"
+guid: 48AC206F-2706-4500-BB63-2E499B790259
+name: Intelligent
+description: Use this domain for words that describe a person who thinks well.
+louwNidaCodes: 32D Capacity for Understanding
+questions:
+  - q: What words describe someone who thinks well?
+    words: >-
+      intelligent, brainy, bright, brilliant, capable, clever, crafty, discerning, educated,
+      ingenious, insightful, keen, knowledgeable, learned, literate, perceptive,
+      philosophical, profound, rational, scholarly, sharp, shrewd, sly, smart,
+      sophisticated, sound, wily, have a lot of sense, have a high IQ
+  - q: What words describe an intelligent child?
+    words: bright, gifted, precocious, prodigy, whiz kid
+  - q: What words describe someone who can think quickly?
+    words: quick, sharp, whiz, be quick on the uptake, be on the ball, think on your feet
+  - q: What words describe someone who is intelligent, well-educated, and thinks a lot?
+    words: intellectual, academic, learned, brains, intelligentsia
+  - q: What words describe someone who makes good decisions?
+    words: wise, sagacious, prudent, sensible, good sense, sound judgment
+  - q: What words refer to the ability to think well?
+    words: >-
+      ability, capacity, circumspection, cleverness, competence, cunning, discernment,
+      discretion, discrimination, insight, intelligence, IQ, judgment, knowledge,
+      philosophy, profundity, prudence, rationality, reasoning, sagacity, sanity, sense,
+      sensibility, shrewdness, smarts, sophistication, understanding, wisdom, wit
+  - q: What words refer to a person who thinks well?
+    words: >-
+      academician, genius, highbrow, illuminati, intellectual, literati, magus, philosopher,
+      priest, prodigy, sage, scholar, scholastic, thinker, able thinker, wise man

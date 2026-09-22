@@ -1,0 +1,12 @@
+code: "9.2.5.1"
+guid: A42AA891-E4FD-489E-B573-B9D20DFC5C2A
+name: Phrase conjunctions
+description: >-
+  Use this domain to list all phrase level conjunctions--conjunctions that join two words
+  within a phrase.
+questions:
+  - q: What conjunctions join two words within a phrase?
+    words: and, both...and, or, either...or, neither...nor, but
+    sentence: >-
+      coming <and> going; me <and> you; men <and> women; <both> this <and> that; <either>
+      good <or> bad; <neither> good <nor> bad; quickly <but> not carelessly

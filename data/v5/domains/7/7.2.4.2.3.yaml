@@ -1,0 +1,15 @@
+code: "7.2.4.2.3"
+guid: 0BBE1739-E0B4-442E-B69C-02A0EA20D790
+name: Dive
+description: Use this domain for words referring to moving under the water.
+questions:
+  - q: What words refer to diving into water?
+    words: dive, plunge, belly flop, jump in
+  - q: What words refer to sinking under the water?
+    words: sink, go down, go under, submerge
+  - q: What words refer to moving while underwater?
+    words: run submerged, swim underwater
+  - q: What words refer to coming to the surface of the water?
+    words: rise to the surface, surface (v), float to the surface
+  - q: What words refer to drowning?
+    words: drown

@@ -1,0 +1,22 @@
+code: "8.1.6.2"
+guid: 1D34380D-61BF-4247-9145-BA318A14A97E
+name: Piece
+description: >-
+  Use this domain for words referring to a part of something that has been broken or cut
+  off.
+questions:
+  - q: What words refer to a piece of something?
+    words: piece, bit
+    sentence: a <piece> of bread
+  - q: What words refer to a piece that has flat sides?
+    words: block, cube, slab, bar
+  - q: What words refer to a piece that is irregular in shape?
+    words: chunk, hunk, lump, dollop
+  - q: What words refer to a thin piece?
+    words: sheet, slip, pane, slice
+  - q: What words refer to a very small piece?
+    words: grain, flake, speck, fleck, crumb, morsel, tidbit, dot, mote
+  - q: What words refer to a small piece that is left after something has been broken?
+    words: fragment, scrap, splinter, chip, shard
+  - q: What words refer to a part of something that has been made by dividing it in some way?
+    words: pinch (of salt), cut (of meat), slice (of bread), bite (of cake)

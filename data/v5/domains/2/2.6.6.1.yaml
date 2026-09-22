@@ -1,0 +1,63 @@
+code: "2.6.6.1"
+guid: B8D2FDB9-22EA-4040-8ABB-AEEFF0399F23
+name: Kill
+description: Use this domain for words related to killing someone--to cause someone to die.
+ocmCodes: 762 Suicide
+louwNidaCodes: 20D Kill
+questions:
+  - q: What general words refer to killing someone?
+    words: >-
+      kill, murder, assassinate, bump off, do away with, finish someone off, take someone's
+      life, dispatch, dispose, finish, eliminate, liquidate, commit murder, waste, zap,
+      slay, snuff, send to Davy Jones locker, lynch, silence, terminate
+  - q: What words describe the manner of killing someone?
+    words: >-
+      shoot, gun down, blow someone away, stab, stab someone to death, butcher, behead,
+      decapitate, beat someone to death, asphyxiate, choke, garrote, strangle, suffocate,
+      throttle, smother, stifle, crucify, drown, electrocute, hang, hanging, poison, stone,
+      starve
+  - q: What words refer to the act of killing someone?
+    words: >-
+      murder (n), homicide, killing, assassination, foul play, capital crime, beheading,
+      bloodshed, butchery, crucifixion, decapitation, electrocution, fratricide, immolation,
+      infanticide, liquidation, manslaughter, martyrdom, matricide, patricide, regicide,
+      shooting, slaying, strangulation, smothering, suffocation, terrorism
+  - q: What words refer to the government killing someone because they committed a crime?
+    words: >-
+      execute, put someone to death, sentence someone to death, capital punishment, the
+      death penalty, capital offence, capital crime, punishable by death, execution,
+      condemned, be on death row
+  - q: What words refer to killing many people?
+    words: massacre, slaughter, exterminate, annihilate, wipe out, bloody
+  - q: What words refer to the killing of many people?
+    words: >-
+      massacre (n), slaughter, carnage, genocide, mass murder, ethnic cleansing,
+      annihilation, blood-bath, extermination, holocaust, pogrom
+  - q: What words refer to killing yourself?
+    words: >-
+      kill yourself, commit suicide, take your own life, end it all, suicide, suicidal, be a
+      suicide, do away with yourself
+  - q: What words refer to trying to kill someone?
+    words: attempted murder, attempt on someone's life
+  - q: What words refer to someone who kills another person?
+    words: >-
+      murderer, killer, assassin, hitman, slayer, executioner, hangman, liquidator,
+      murderess, slaughterer, slayer, terrorist, strangler
+  - q: What words describe someone who wants to kill someone?
+    words: homicidal, murderous
+  - q: What words refer to the person who was killed?
+    words: martyr, murdered man/woman, victim, fatality
+  - q: What words refer to a person killed in war?
+    words: killed in action, casualty, casualty of war, civilian casualty, collateral damage
+  - q: What words refer to something used to kill someone?
+    words: murder weapon
+  - q: What words describe something that can kill someone?
+    words: fatal, killer, mortal, lethal, deadly, poisonous, toxic
+  - q: What words refer to something such as an accident or disease killing someone?
+    words: kill, kill off, cause death, be a killer, destroy, decimate, wipe out
+  - q: What words refer to doing something that might result in your death?
+    words: risk your life
+  - q: What words refer to doing something that results in your death?
+    words: cost you your life
+  - q: What words refer to killing an animal?
+    words: slaughter, destroy, put down, put away, put something out of it misery

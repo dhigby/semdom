@@ -1,0 +1,28 @@
+code: "4.8.2.4"
+guid: 243D8A57-D5ED-4D7F-BD5E-F2605634F0FC
+name: Defend
+description: Use this domain for words related to defending someone from attack.
+related: ["4.7.5.4"]
+questions:
+  - q: What words refer to defending yourself from attack?
+    words: >-
+      defend, fight back, hit back at, put up a fight, struggle against, resist,
+      self-defense
+  - q: What words refer to defending someone from attack?
+    words: >-
+      defend, come to someone's defense, in defense of, in someone's defense, guard,
+      protect, safeguard, shield, stand up for, stick up for
+  - q: What words refer to successfully defending yourself or someone?
+    words: >-
+      beat back, beat off, drive off, hold out against, fend off, fight off, fling back,
+      repel, repulse
+  - q: What words refer to defense?
+    words: defense, resistance
+  - q: What words refer to a person who defends?
+    words: defender, guard, sentinel, lookout, watchman
+  - q: What words describe someone who cannot defend himself?
+    words: defenseless
+  - q: What words describe something you do or use to defend yourself?
+    words: defensive, protective
+  - q: What words refer to a place easier to defend?
+    words: fortify, entrench, dig in

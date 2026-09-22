@@ -1,0 +1,14 @@
+code: "5.9"
+guid: F07F867D-808F-4750-92CA-859AEA59E58C
+name: Live, stay
+description: Use this domain for words related to living in a place.
+louwNidaCodes: 85E Dwell, Reside
+questions:
+  - q: What words refer to living in a place?
+    words: live, stay, be at home, dwell, reside, inhabit
+  - q: What words refer to a person who lives in a house?
+    words: inhabitant, resident, dweller, roommate
+  - q: What words refer to living in a place for a short time?
+    words: camp, migrate
+  - q: What words describe someone who likes to stay at home?
+    words: homebody

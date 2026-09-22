@@ -1,0 +1,13 @@
+code: "6.5.2.2"
+guid: EEC72226-106C-4825-B245-6E18110EE917
+name: Roof
+description: Use this domain for words related to a roof.
+questions:
+  - q: What words refer to the top of a house?
+    words: roof, ceiling
+  - q: What are the parts of a roof?
+    words: >-
+      rafter, truss, center pole, ridgepole, eaves, rain gutter, peak, corner, dormer
+      window, chimney
+  - q: What is the area called formed by the sides of the roof?
+    words: attic

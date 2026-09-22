@@ -1,0 +1,11 @@
+code: "6.8.9.5"
+guid: 892B66F4-5DFD-4451-A491-4C4FD2179081
+name: Bribe
+description: Use this domain for money given to a person to do something bad.
+questions:
+  - q: What words refer to bribing someone?
+    words: >-
+      bribe, offer a bribe, give a bribe, take a bribe, bribery, corrupt, corruption,
+      kickback, money under the table
+  - q: What words refer to money given to a person for betraying or murdering someone?
+    words: murder money, blood money, cursed money

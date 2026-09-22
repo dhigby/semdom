@@ -1,0 +1,25 @@
+code: "4.2.1.4"
+guid: 4F19AB95-428A-4A0B-A069-CA8BE6B72B08
+name: Visit
+description: Use this domain for words related to visiting someone.
+ocmCodes: 574 Visiting and Hospitality
+louwNidaCodes: 34F Visit
+questions:
+  - q: What words refer to going to someone's place to see them?
+    words: >-
+      visit, pay a visit, call, call on, drop by, drop in on, go round, make the rounds,
+      look in on, see, spend time with, stop by
+  - q: What words refer to the event of visiting someone?
+    words: visit, appointment, interview, stay, time with, visitation
+  - q: What words refer to agreeing to visit?
+    words: make an appointment, arrange a visit
+  - q: What words refer to visiting over a night?
+    words: stay overnight, stay with, have a sleepover
+  - q: What words refer to a visitor?
+    words: visitor, guest, houseguest, overnight visitor, caller
+  - q: What words refer to the person visited?
+    words: host, hostess
+  - q: >-
+      What words refer to a visitor who stays for a long time but doesn't pay or help with
+      the work?
+    words: freeload, freeloader, sponge, sponger

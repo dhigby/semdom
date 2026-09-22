@@ -1,0 +1,11 @@
+code: "4.5.4.1"
+guid: B632B00B-B03F-4549-8E02-6402C05A4F06
+name: Obey
+description: Use this domain for words related to obeying someone.
+questions:
+  - q: What words refer to being obedient?
+    words: obey, abide by the law, submit, comply
+  - q: What words refer to a person who obeys?
+    words: law-abiding citizen
+  - q: What words describe a person who obeys?
+    words: obedient, law-abiding, submissive, compliant

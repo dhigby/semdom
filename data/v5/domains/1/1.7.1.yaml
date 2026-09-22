@@ -1,0 +1,13 @@
+code: "1.7.1"
+guid: F4ED1712-C072-4213-B89D-EB3A9BE233B2
+name: Natural
+description: >-
+  Use this domain for words describing something that is natural--something in the world
+  around us, as opposed to something that has been made or changed by people.
+louwNidaCodes: 79B Natural, Spiritual
+related: ["6.1.7", "4.9"]
+questions:
+  - q: What words describe something that is natural?
+    words: >-
+      natural, naturally, wild (animals, country), raw (materials), virgin (forest),
+      untamed, organic

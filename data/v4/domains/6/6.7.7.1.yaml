@@ -1,0 +1,8 @@
+code: "6.7.7.1"
+guid: 4D3412E3-85A0-4F81-9DAD-EFD6101B4945
+name: Bag
+description: Use this domain for words related to bags.
+questions:
+  - q: What words refer to bags?
+    words: bag, purse
+  - q: What words are used to describe the actions done with these tools?

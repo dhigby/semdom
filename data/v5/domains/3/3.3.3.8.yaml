@@ -1,0 +1,18 @@
+code: "3.3.3.8"
+guid: C1C1DCB4-8FE5-43AC-9B91-B2B2BC33DE5B
+name: Threaten
+description: >-
+  Use this domain for words related to threatening someone--to say that you will do
+  something bad to someone if they don't do what you want them to do.
+louwNidaCodes: 33Z Threaten
+questions:
+  - q: What words refer to threatening someone?
+    words: >-
+      threaten, menace, intimidate, terrorize, frighten, cow, bully, browbeat, blackmail,
+      extort, warn
+  - q: What words refer to the act of threatening or to what is said?
+    words: threat, menace, intimidation, terrorism, blackmail, extortion, warning
+  - q: What words describe a person who threatens?
+    words: threatening, menacing, intimidating, bullying
+  - q: What words refer to a person who threatens?
+    words: bully, terrorist, blackmailer, extortionist

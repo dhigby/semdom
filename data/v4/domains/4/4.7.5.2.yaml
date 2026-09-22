@@ -1,0 +1,17 @@
+code: "4.7.5.2"
+guid: 67D74DE1-33F9-4D39-8FA5-5DD27E7CD1D1
+name: Suspect
+description: >-
+  Use this domain for words related to suspecting someone--to think that someone might have
+  done something bad.
+questions:
+  - q: What words refer to thinking that someone did something bad?
+    words: >-
+      suspect (v), suspicious, suspicion, have a sneaking suspicion, smell a rat, have your
+      suspicions
+  - q: What words describe something that makes you suspect someone?
+    words: suspicious, suspect (adj), fishy, dubious, questionable
+  - q: What words refer to someone who is suspected?
+    words: suspect (n)
+  - q: What words describe someone who is suspected?
+    words: suspected (terrorist), be under suspicion

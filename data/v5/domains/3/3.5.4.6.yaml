@@ -1,0 +1,9 @@
+code: "3.5.4.6"
+guid: A4FA9F98-73C6-4c3e-9DAD-D73D2634BE3B
+name: Verbal tradition
+description: >-
+  Use this domain for words referring to verbal tradition--something that your ancestors
+  told to each successive generation.
+questions:
+  - q: What words refer to verbal tradition?
+    words: verbal tradition, hand down a tradition

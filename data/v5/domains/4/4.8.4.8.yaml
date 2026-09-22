@@ -1,0 +1,10 @@
+code: "4.8.4.8"
+guid: A1DD1D94-FA8E-4325-9F72-B39BCAC69755
+name: Make peace
+description: Use this domain for words related to making peace--to try to prevent or end a war.
+ocmCodes: 728 Peacemaking
+questions:
+  - q: What words refer to trying to prevent or end a war?
+    words: keep the peace, peace-keeping, mediate between
+  - q: What words refer to ending a war with your enemies?
+    words: settle dispute, end hostilities, restore harmony, pacify

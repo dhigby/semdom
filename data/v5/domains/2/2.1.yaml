@@ -1,0 +1,22 @@
+code: "2.1"
+guid: 1B0270A5-BABF-4151-99F5-279BA5A4B044
+name: Body
+description: >-
+  Use this domain for general words for the whole human body, and general words for any part
+  of the body. Use a drawing or photo to label each part. Some words may be more general
+  than others are and include some of the other words. For instance 'head' is more general
+  than 'face' or 'nose'. Be sure that both general and specific parts are labeled.
+ocmCodes: 140 Human Biology; 141 Anthropometry; 142 Descriptive Somatology
+louwNidaCodes: 8 Body, Body Parts, and Body Products; 8A Body; 8B Parts of the Body
+related: ["2.6.6.2"]
+questions:
+  - q: What words refer to the body?
+    words: body
+  - q: What words refer to the shape of a person's body?
+    words: build, figure, physique
+  - q: What general words refer to a part of the body?
+    words: part of the body, body part, anatomy, appendage, member, orifice
+  - q: What words describe something about your body?
+    words: physical, physically, bodily
+  - q: What words refer to cells?
+    words: cell, cellular, chromosome, protoplasm

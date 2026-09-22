@@ -1,0 +1,16 @@
+code: "4.5.6.2"
+guid: 9ED42115-8532-4F99-B0C0-36ABFE9DB652
+name: Low status
+description: Use this domain for words related to low social status.
+louwNidaCodes: 87D Low Status or Rank
+questions:
+  - q: What words refer to being low in status?
+    words: be low down, be at the bottom, be at the bottom of the pile
+  - q: What words refer to low status?
+    words: low status, low estate
+  - q: What words describe someone who is low in status?
+    words: junior, low-ranking
+  - q: What words refer to being lower in status than someone else?
+    words: assistant, subordinate, under
+  - q: What words are used of lowering someone's status?
+    words: be reduced in status, humble, reduce in rank, bust (in rank), debase, degrade, demote

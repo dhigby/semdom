@@ -1,0 +1,12 @@
+code: "2.5.7.3"
+guid: F3627C41-5DAF-4F73-AC42-8A0522035E0B
+name: Medicinal plants
+description: Use this domain for plants that are used for medicine.
+related: ["1.5", "1.5.3"]
+questions:
+  - q: What words refer to a plant that is used as a medicine?
+    words: herb, herbal
+  - q: What plants are used as medicine?
+    words: poppy, pyrethrum, quinine, aloe
+  - q: What words are used to describe the properties of these plants?
+    words: medicinal, curative

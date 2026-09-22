@@ -1,0 +1,7 @@
+code: "4.3.4.7"
+guid: 9060339E-D697-4C35-BC83-CED6BEBFEE63
+name: Enter by force
+description: Use this domain for words related to entering a place, such as a house, by force.
+questions:
+  - q: What words refer to entering something by force?
+    words: enter by force, break in, force your way in, forcible entry

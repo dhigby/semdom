@@ -1,0 +1,13 @@
+code: "4.7.6.2"
+guid: 0EDE51D2-69BD-411E-97F9-DA0D5118BBFF
+name: Condemn, find guilty
+description: Use this domain for words related to condemning someone.
+questions:
+  - q: What words are used of the action of condemning a person?
+    words: recover damages, render a guilty verdict, hand down a conviction
+  - q: What words refer to the judgment?
+    words: judgment, verdict, sentence, conviction, condemnation
+  - q: What words refer to the person who is condemned?
+    words: condemned man, convict, guilty party
+  - q: What words refer to his guilt?
+    words: guilt

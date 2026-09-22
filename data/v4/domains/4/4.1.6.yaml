@@ -1,0 +1,23 @@
+code: "4.1.6"
+guid: D59A84E1-5E12-4CB7-B72B-15C51810AD48
+name: Disunity
+description: >-
+  Use this domain for words related to disunity--when a group of people do not agree with
+  each other and are fighting.
+louwNidaCodes: 39A Opposition, Hostility; 39B Division
+questions:
+  - q: What words refer to the disunity of a social group?
+    words: >-
+      disunity, division, discord, dissidence, dissonance, friction, incompatibility,
+      variance, dissension, dissent
+  - q: What words refer to dividing a social group or more than one social group?
+    words: >-
+      divide, sow dissension, set at odds, pit against, part company with, have a falling
+      out, differ, clash, disagree
+  - q: What words describe a group that is disunited?
+    words: >-
+      disunited, divided, divided in spirit, going in different directions, discordant, out
+      of tune, on bad terms, dissenting, factious, at odds, at cross purposes, up in arms,
+      embroiled, torn
+  - q: What words describe a person, force, or influence that divides a group?
+    words: divisive, disruptive

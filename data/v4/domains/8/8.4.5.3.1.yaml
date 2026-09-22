@@ -1,0 +1,21 @@
+code: "8.4.5.3.1"
+guid: EB662979-604C-455E-A2C6-A84B03A2EE3A
+name: Early
+description: >-
+  Use this domain for words that indicate that something happens early--before the expected
+  time, before the usual time, or before the time that was agreed on. Some words may include
+  the idea that it is good that the event happened early. Other words may include the idea
+  that it is bad that the event happened early.
+questions:
+  - q: What words indicate that something happens early?
+    words: early (adv), ahead of time, ahead of schedule, in good time
+  - q: What words describe something that happens early?
+    words: early (adj)
+  - q: What words refer to something happening early?
+    words: be early
+  - q: What words indicate that something happens too early?
+    words: too early, too soon, untimely, premature, prematurely, jump the gun
+  - q: What words indicate that something happens early in the morning?
+    words: early, first thing, at the crack of dawn, bright and early
+  - q: What words indicate that something will happen no earlier than a particular time?
+    words: at the earliest, no earlier than

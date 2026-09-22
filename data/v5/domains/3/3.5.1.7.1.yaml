@@ -1,0 +1,38 @@
+code: "3.5.1.7.1"
+guid: 27048124-C204-4585-9997-C51728F085D6
+name: Thank
+description: >-
+  Use this domain for words related to thanking someone--to tell someone that you feel good
+  about something they did for you.
+louwNidaCodes: 33J' Thanks; 25I Thankful, Grateful
+questions:
+  - q: What words refer to thanking someone?
+    words: >-
+      thank, say thank you, express your thanks, acknowledge (a gift), appreciate, show your
+      appreciation, express your gratitude, show gratitude, recognize, in recognition of
+  - q: What words refer to the act of expressing thanks?
+    words: thanks, thank you, thankfulness, thanksgiving, acknowledgement
+  - q: What words describe a person who feels thankful?
+    words: thankful, grateful, gratefully, appreciate, appreciative, be indebted to, owe
+  - q: What words refer to the feeling of wanting to thank someone?
+    words: appreciation, gratitude
+  - q: What do people say when they thank someone?
+    sentence: >-
+      Thank you. Thanks. That's very kind of you. That's very good of you. I appreciate it.
+      You shouldn't have, You've saved my life. I'd like to thank. Many thanks. Bless you.
+      Blessings on you. Much obliged. I'm indebted to you. I'm in your debt. I'm beholden to
+      you.
+  - q: What do people say when someone thanks them?
+    sentence: >-
+      Don't mention it. That's all right. That's OK. You're welcome. My pleasure. Not at
+      all. Think nothing of it. It was nothing. No problem.
+  - q: What words refer to not thanking someone?
+    words: ingratitude
+  - q: What words describe a person who does not thank someone?
+    words: unthankful, unappreciative, ungrateful
+  - q: What words refer to a person who does not thank someone?
+    words: ingrate, ungrateful wretch
+  - q: What words describe someone that no one thanks?
+    words: unappreciated
+  - q: What words describe something someone does that no one thanks him for?
+    words: thankless (task), unacknowledged, unappreciated

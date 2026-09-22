@@ -1,0 +1,17 @@
+code: "9.4.4.7"
+guid: 7C022751-A9F9-412D-8B27-8CD03B797E2D
+name: Just, almost not
+description: >-
+  Use this domain for words indicating that although something is true, it almost is not
+  true.
+questions:
+  - q: What words indicate that although something is true, it almost is not true?
+    words: just, almost didn't, nearly didn't, only just, narrowly, barely
+  - q: What words indicate that something bad almost happened, but it did not?
+    words: narrowly missed, close shave
+  - q: What words indicate that you did something, but almost didn't do it?
+    words: just, only just, barely, be a near thing, be a close thing, by the skin of your teeth
+  - q: What words indicate that you can do something, but it is difficult?
+    words: can hardly, can barely, can scarcely
+  - q: What words indicate that something is a particular amount, but not much more?
+    words: just, only just, barely

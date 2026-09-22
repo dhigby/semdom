@@ -1,0 +1,22 @@
+code: "7.2.5.2"
+guid: 1B73B2BF-9582-4F8A-822A-E0D020272C7C
+name: Follow
+description: Use this domain for words related to following someone.
+louwNidaCodes: 15T Follow, Accompany; 15Q Come/Go Behind
+questions:
+  - q: What words refer to following someone?
+    words: follow, follow someone around, tag along, follow on, come behind, come after, go last
+  - q: What words refer to following someone closely?
+    words: be on someone's tail, be on someone's heels, tailgate, be right behind
+  - q: What words refer to following someone at a distance?
+    words: follow at a distance
+  - q: What words refer to moving at the same speed as the person you are following?
+    words: keep up, keep pace, stay up with
+  - q: What words refer to moving faster than the person following you?
+    words: pull ahead
+  - q: What words refer to moving faster than the person you are following?
+    words: gain on
+  - q: What words refer to moving slower than the person you are following?
+    words: lag behind, fall behind, straggle
+  - q: What words refer to reaching someone that you are following?
+    words: catch up with, overtake

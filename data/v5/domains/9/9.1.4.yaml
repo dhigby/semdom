@@ -1,0 +1,16 @@
+code: "9.1.4"
+guid: 316F27AA-ED6D-4BC3-9D14-840946A6F4E9
+name: General adjectives
+description: Use this domain for general adjectives that can replace or stand for a specific adjective.
+questions:
+  - q: What general words can replace an adjective?
+    words: such, that kind of, that sort of
+    sentence: >-
+      We all admire <such> a man. (a generous man); We all admire <that kind of> a man.; We
+      all admire <that sort of> a man.
+  - q: What question words ask for an adjective in the answer?
+    words: what kind of, what sort of
+    sentence: <What kind of> a man is he? (a good man); <What sort of> man is he?
+  - q: What question words ask for an ad-adjective in the answer?
+    words: how
+    sentence: <How> big a box is it? (very big)

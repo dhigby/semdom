@@ -1,0 +1,51 @@
+code: "2.3.5"
+guid: 72274E9D-5D3C-4AE7-93AB-DB3617CDDA1E
+name: Sense of touch
+description: >-
+  Use this domain for words related to the sense of touch--to feel something with your skin,
+  to feel hot or cold, to feel tired or rested.
+louwNidaCodes: 24E Touch, Feel
+related: ["2.5.6.1", "3.4.1.1.1"]
+questions:
+  - q: What words refer to feeling something?
+    words: feel
+  - q: What words refer to deliberately trying to feel something?
+    words: feel, touch, palpate
+  - q: What words refer to feeling something with your whole body?
+    words: feel (hot/cold/tired/sick), experience, come over all
+  - q: What words refer to the ability to feel?
+    words: feeling, sense of touch, sense of feeling
+  - q: What words refer to a feeling?
+    words: feeling, sensation
+  - q: What words describe something that has to do with feeling?
+    words: tactile
+  - q: What words refer to the way something feels?
+    words: feel (n), texture
+  - q: What words indicate that something feels like another thing or feels a particular way?
+    words: feel like, feel of, feel (good/bad), have a (good/bad) feel, (tired) feeling
+  - q: What words refer to feeling good?
+    words: comfortable
+  - q: What words refer to feeling bad?
+    words: uncomfortable
+  - q: What words describe something that feels good?
+    words: soothing, pleasurable, sensuous
+  - q: What words describe something that feels bad?
+    words: irritating, itchy, prickly, scratchy, ticklish, tingly
+  - q: What words refer to a good feeling?
+    words: pleasure, comfort
+  - q: What words refer to a bad feeling?
+    words: pain, itch, irritation, tickle
+  - q: What words do people use to say that something feels bad?
+    words: ouch
+  - q: What words describe something that can be felt?
+    words: touchable, tangible, palpable
+  - q: What words describe something that cannot be felt?
+    words: unfelt, intangible
+  - q: What words refer to feeling things more than most people?
+    words: sensitive, feel the (heat/cold)
+  - q: What words refer to not being able to feel anything?
+    words: >-
+      be numb, have no feeling, can't feel anything, be insensitive (to pain), go to sleep,
+      go dead, go numb, lose feeling
+  - q: What words refer to causing a person not to feel anything?
+    words: anesthetize, numb (an area), deaden

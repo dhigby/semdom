@@ -1,0 +1,29 @@
+code: "8.2.6.2"
+guid: 1133AD78-9CE9-46AA-B181-BB6F7A84A07B
+name: Near
+description: Use this domain for words indicating that something is near something else.
+louwNidaCodes: 83E At, Beside, Near, Far x
+questions:
+  - q: What words indicate that something is near something else?
+    words: >-
+      near, nearby, close, close to, close by, not far, practically on top of, a short
+      distance, locally, in the vicinity, nigh, around, a stone's throw, in the neighborhood
+  - q: What words describe something that is near?
+    words: nearby, nearest, the next, neighboring, local, surrounding
+  - q: What words refer to how near something is?
+    words: nearness, closeness, proximity
+  - q: What words indicate that something is near enough so that you can do something?
+    words: >-
+      near enough, close enough, within walking distance, within reach, within range,
+      convenient, handy, be close at hand, around the corner, close up, up close, at close
+      quarters, at close range, right under your nose
+  - q: What words refer to moving nearer to someone or something?
+    words: >-
+      approach, get near, get nearer, near (v), draw near, get close, get closer, close in
+      on, get as close as possible
+  - q: What words refer to moving nearer to a person or vehicle in front of you?
+    words: catch up, be gaining on, be closing on
+  - q: What words refer to staying near something?
+    words: stay close, keep close, hug, cling to
+  - q: What words indicate that something is nearer than something else?
+    words: nearer, closer, before, on this side of, nearest, closest

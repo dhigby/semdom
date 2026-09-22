@@ -1,0 +1,16 @@
+code: "4.3.4.5.1"
+guid: 0F323BEE-0D8A-4564-9691-87880F55D910
+name: Provide for, support
+description: >-
+  Use this domain for words referring to providing someone with what they need to live each
+  day, such as providing for an elderly parent who can no longer earn what they need.
+louwNidaCodes: 35C Provide For, Support
+questions:
+  - q: What words refer to providing someone with what they need?
+    words: provide for, support, furnish, supply
+  - q: What words refer to needing someone to provide for you?
+    words: depend on, dependent, rely on
+  - q: What words refer to a person who provides?
+    words: provider, means of support, supplier
+  - q: What words refer to what is provided?
+    words: provisions, support (n), supply (n)

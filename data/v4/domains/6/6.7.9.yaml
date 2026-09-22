@@ -1,0 +1,24 @@
+code: "6.7.9"
+guid: 7575D654-E528-4FE0-85EB-481B0E6654BB
+name: Machine
+description: Use this domain for words referring to machines.
+ocmCodes: >-
+  400 Machines; 401 Mechanics; 402 Industrial Machinery; 403 Electrical Machines and
+  Appliances; 404 Household Machines and Appliances; 405 Weighing, Measuring, and Recording
+  Machines; 406 Weight-moving Machinery; 407 Agricultural Machinery; 408 Computer
+  Technology; 416 Appliances
+questions:
+  - q: What words refer to machines?
+    words: machine, mechanics, machinery, apparatus, engine, motor
+  - q: What words refer to types of machines?
+    words: pump, generator, grinder, mill, computer
+  - q: What words refer to machines used in homes?
+    words: appliance, refrigerator, stove, oven
+  - q: What words refer to when a machine is working?
+    words: be on, run, operate, work
+  - q: What words refer to when a machine is not working?
+    words: be off, break down, broken
+  - q: What words refer to starting a machine?
+    words: start, turn on, switch on, ignition
+  - q: What words refer to stopping a machine?
+    words: stop, turn off, shut down

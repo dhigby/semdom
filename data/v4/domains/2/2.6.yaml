@@ -1,0 +1,34 @@
+code: "2.6"
+guid: 50DB27B5-89EB-4FFB-AF82-566F51C8EC0B
+name: Life
+description: Use this domain for general words referring to being alive and to a person's lifetime.
+ocmCodes: 761 Life and Death; 159 Life History Materials
+louwNidaCodes: 23G Live, Die
+related: ["1.4"]
+questions:
+  - q: What words refer to being alive?
+    words: be alive, live, life, stay alive, be going strong
+  - q: What words describe someone who is alive?
+    words: living, alive, animate (adj)
+  - q: What words refer to the process a person goes through from birth to death?
+    words: life, life cycle, cycle of life
+  - q: What words refer to the time when a person is alive?
+    words: life, lifetime, days, lifespan, life expectancy
+  - q: What words refer to causing someone to be alive?
+    words: animate (v), bring to life, give life to, give breath to, breathe life into, vivify
+  - q: What words refer to bringing a dead person back to life?
+    words: >-
+      resurrect, resurrection, resuscitate, revive, rise again, rise from the dead,
+      regenerate, bring back to life
+  - q: What words refer to keeping someone alive?
+    words: keep alive, life support, preserve, sustain, subsist on
+  - q: What words refer to living longer than someone else?
+    words: outlive, survive
+  - q: What words refer to having a particular kind of life?
+    words: >-
+      a good/bad/hard life, a life of crime/poverty, a miserable/lonely existence, lead a
+      good/bad/hard life, live well/happily
+  - q: What words refer to the kind of life a person lives?
+    words: way of life, lifestyle
+  - q: What words indicate that something is true of your whole life?
+    words: all your life, for life, lifelong

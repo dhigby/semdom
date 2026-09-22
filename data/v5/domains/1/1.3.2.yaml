@@ -1,0 +1,20 @@
+code: "1.3.2"
+guid: 50AB3705-A81E-4FCC-B3AE-95C075966F69
+name: Movement of water
+description: Use this domain for words referring to the way in which water and other liquids move.
+louwNidaCodes: >-
+  47 Activities Involving Liquids or Masses; 47A Movement of Liquids or Masses; 14E Events
+  Involving Liquids and Dry Masses
+related: ["6.6.7.2"]
+questions:
+  - q: What words refer to water moving into something?
+    words: fill, flow in, inflow, infuse, infusion, run into
+  - q: What words refer to water coming out of something?
+    words: >-
+      spray, bleed, blow, burst, discharge, drain, gush, issue, jet, pour, pouring, run,
+      spew, spout, dribble, drip, effusion, erupt, exude, ooze, outflow, percolate, seep,
+      spout, squirt, sweat, vomit, tap
+  - q: What words refer to water breaking into drops?
+    words: splash, spray
+  - q: What words refer to water forming bubbles?
+    words: bubble, foam, foaming, froth, whip

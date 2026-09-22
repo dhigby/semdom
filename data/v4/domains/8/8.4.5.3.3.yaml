@@ -1,0 +1,27 @@
+code: "8.4.5.3.3"
+guid: 6FB1D03C-B0FE-49B7-A473-168F12A54A36
+name: Late
+description: >-
+  Use this domain for words describing something happening late--after the expected time,
+  after the usual time, or after the time that was agreed on.
+questions:
+  - q: What words indicate that something happens late?
+    words: late (adv), not on time, lateness (of the hour), late in life
+  - q: What words describe something that happens late?
+    words: late (adj), overdue, belated
+  - q: What words describe someone who is late?
+    words: tardy, latecomer
+  - q: What do people say to someone who is late?
+    words: >-
+      about time too, what time do you call this? where have you been? better late than
+      never
+  - q: What words refer to being late to pay back a loan?
+    words: be behind with, overdue, be in arrears
+  - q: What words indicate that something happens late at night?
+    words: last thing at night, in the middle of the night, the early hours, till all hours
+  - q: What words refer to not finishing something within the time that is allowed?
+    words: be behind, be behind schedule, be running late, overrun
+  - q: What words indicate that something is too late?
+    words: too late, it's a little late in the day, leave it a bit late, miss
+  - q: What words indicate that something will happen no later than a particular time?
+    words: no later than, at the latest

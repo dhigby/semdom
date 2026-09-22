@@ -1,0 +1,10 @@
+code: "4.5.4.5"
+guid: 896D57D4-4C25-4F0B-9985-A30974F64704
+name: Follow, be a disciple
+description: Use this domain for words related to being a disciple of someone.
+louwNidaCodes: 36D Follow, Be a Disciple
+questions:
+  - q: What words refer to a disciple following someone?
+    words: follow, be a disciple
+  - q: What words refer to a disciple?
+    words: disciple, adherent, devotee, follower, imitator, learner, proselyte

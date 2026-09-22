@@ -1,0 +1,15 @@
+code: "8.3.3.1.2"
+guid: 2330813B-7413-41A8-8EB2-AE138511C953
+name: Bright
+description: Use this domain for words describing something that is bright.
+questions:
+  - q: What words describe a light that is bright?
+    words: bright, strong, good, harsh
+  - q: What words describe a light that is very bright?
+    words: blazing, brilliant
+  - q: What words describe a light that is so bright it hurts your eyes?
+    words: blinding, dazzling, glare
+  - q: What words describe a place where there is lots of light?
+    words: bright, light, well lit, ablaze with light
+  - q: What words refer to the light becoming brighter?
+    words: get light, brighten, lighten, the light grows

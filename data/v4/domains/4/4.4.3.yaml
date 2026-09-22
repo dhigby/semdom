@@ -1,0 +1,7 @@
+code: "4.4.3"
+guid: 65BB0844-9A71-4EEC-9B86-BF4B4B508A28
+name: Respond to trouble
+description: Use this domain for words related to responding to trouble.
+questions:
+  - q: What does a person do when he is in trouble?
+    words: cry for help, rise to the occasion, respond, take action, deal with

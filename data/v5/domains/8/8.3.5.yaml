@@ -1,0 +1,26 @@
+code: "8.3.5"
+guid: BFEBA2A4-4479-49E9-838C-3BAA2AD0FCAE
+name: Type, kind
+description: >-
+  Use this domain for words related to something being a type of thing, or that something
+  belongs to a class of things.
+louwNidaCodes: 58D Class, Kind; 58 Nature, Class, Example
+related: ["8.1.3.3"]
+questions:
+  - q: What words indicate that something belongs to a class of things?
+    words: be, be a kind of, be a type of, be a member of, include
+    sentence: >-
+      An ant <is> an insect.; An ant <is a kind of> insect.; Dogs, cats, and horses <are
+      members of> the animal <class>.; Plants <include> trees, flowers, and weeds.; The
+      animal <class> <includes> dogs, cats, and horses.
+  - q: What words refer to the class to which something belongs?
+    words: type, kind, class, group, variety
+  - q: What words refer to a member of a class?
+    words: kind (of), type (of), member (of), example (of), sort (of), such
+  - q: What words refer to assigning something to a class?
+    words: >-
+      classify (with, as), classification, class, assign to a class, categorize, grade,
+      group, sort
+    sentence: >-
+      Mushrooms are not <classified with> the plants.; I would not <classify> this fossil
+      <as> a dinosaur.

@@ -1,0 +1,17 @@
+code: "4.4.2.3"
+guid: 9EC62FFE-69BE-4B9B-944C-29A0F4F133DB
+name: Accident
+description: >-
+  Use this domain for words related to accidents--something bad that happens without anyone
+  wanting it to happen or doing anything to cause it to happen.
+questions:
+  - q: What words refer to an accident?
+    words: accident, mishap
+  - q: What words refer to a big accident?
+    words: disaster
+  - q: What words refer to an accident involving vehicles?
+    words: accident, crash, wreck, pile-up, collision
+  - q: What words refer to having an accident?
+    words: have an accident, be involved in an accident, crash
+  - q: What words describe something that happens in an accident?
+    words: accidental

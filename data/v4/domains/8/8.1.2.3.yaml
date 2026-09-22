@@ -1,0 +1,16 @@
+code: "8.1.2.3"
+guid: 7CF6312E-F9F0-49E8-AE60-7677FAC86C3F
+name: Subtract numbers
+description: Use this domain for words related to subtracting one number from another.
+questions:
+  - q: What words refer to subtracting one number from another number?
+    words: subtract, take, take away, deduct, subtraction
+  - q: What words are used for subtraction equations?
+    words: minus, subtracted from, from, less
+    sentence: >-
+      Four <minus> two equals two.; Two <subtracted from> four equals two.; Two <from> four
+      is two.
+  - q: What words indicate the answer?
+    words: leave, be left with
+  - q: What words refer to the answer?
+    words: remainder, difference

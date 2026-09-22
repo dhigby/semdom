@@ -1,0 +1,13 @@
+code: "2.6.4.8"
+guid: 9E587127-4F2C-4796-9C67-D37332B57303
+name: Peer group
+description: >-
+  Use this domain for words referring to a peer group--all the people who were born during
+  the same time period.
+ocmCodes: 561 Age Stratification
+related: ["8.4.6.5"]
+questions:
+  - q: What words refer to people born during the same time period?
+    words: same age, age mate, generation, peer, peer group, age group
+  - q: What words do you use when you talk to someone in your peer group?
+    words: mate

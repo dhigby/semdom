@@ -1,0 +1,9 @@
+code: "7.5.1.2"
+guid: 71B19B9E-231C-4196-A7D7-AA56A5079782
+name: Include
+description: Use this domain for words related to including something in a group.
+questions:
+  - q: What words refer to including something in a group?
+    words: include, incorporate, involve, integrate
+  - q: What words refer to excluding something from a group?
+    words: exclude, segregate

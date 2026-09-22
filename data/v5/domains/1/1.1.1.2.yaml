@@ -1,0 +1,26 @@
+code: "1.1.1.2"
+guid: B044E890-CE30-455C-AEDE-7E9D5569396E
+name: Star
+description: Use this domain for words related to the stars and other heavenly bodies.
+related: ["9.7.2.5"]
+questions:
+  - q: What words are used to refer to the stars?
+    words: star, starry, stellar
+  - q: What words describe the sky when the stars are shining?
+    words: >-
+      starlit (sky), (sky is) ablaze with stars, starry (sky), star studded (sky), stars are
+      shining
+  - q: What words are used for where the stars are shining?
+    words: starlit, lit by the stars
+  - q: What words are used for when or where the stars don't shine?
+    words: starless (sky, night)
+  - q: What words refer to the light of the stars?
+    words: starlight
+  - q: What words describe the brightness of the stars?
+    words: bright, brilliant, dim, luminous
+  - q: What words describe the appearance of the stars?
+    words: twinkle, wink, glittering, star shaped
+  - q: What words refer to the study of the stars?
+    words: astronomy, astronomer, astrology, astrologer, stargazer, magi
+  - q: What is a group of stars called?
+    words: constellation, galaxy, nebula

@@ -1,0 +1,9 @@
+code: "3.5"
+guid: C9AEE4DF-AC3E-4159-BD1A-060DB1A5F070
+name: Communication
+description: Use this domain for general words referring to communication of all kinds.
+ocmCodes: 200 Communication
+louwNidaCodes: 33 Communication
+questions:
+  - q: What general words refer to communicating?
+    words: communicate, communication

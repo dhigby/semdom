@@ -1,0 +1,9 @@
+code: "6.2.4.4"
+guid: A9FE3347-12AE-4624-B55E-45EA42CDBF9B
+name: Trim plants
+description: Use this domain for words related to trimming plants.
+questions:
+  - q: What words refer to trimming plants?
+    words: trim, prune, cut back, thin
+  - q: What tools are used to trim plants?
+    words: pruning hook, pruning shears

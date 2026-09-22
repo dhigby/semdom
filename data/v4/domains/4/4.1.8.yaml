@@ -1,0 +1,8 @@
+code: "4.1.8"
+guid: AEB20093-26BA-492B-A69D-AF18D5BA51EB
+name: Show affection
+description: Use this domain for words related to showing affection.
+louwNidaCodes: 34I Kiss, Embrace
+questions:
+  - q: What words refer to showing affection to someone?
+    words: show affection, kiss, embrace, hug, hold hands, public display of affection

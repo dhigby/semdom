@@ -1,0 +1,12 @@
+code: "3.5.2.1"
+guid: CC3F1DC8-A31E-4459-BA13-F82B45DF37B5
+name: Report
+description: >-
+  Use this domain for words related to reporting something--to say that something has
+  happened and to tell about it.
+louwNidaCodes: 33O Inform, Announce; 33P Assert, Declare; 33S Preach, Proclaim
+questions:
+  - q: What words refer to reporting about something that has happened?
+    words: to report, give a report, give an account, broadcast, claim
+  - q: What words refer to the message that is reported?
+    words: report, account

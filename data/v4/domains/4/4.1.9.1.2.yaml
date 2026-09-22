@@ -1,0 +1,29 @@
+code: "4.1.9.1.2"
+guid: 44DC42E4-E9C7-4AA9-AC9B-1008385244B1
+name: Father, mother
+description: Use this domain for words related to parents.
+questions:
+  - q: What words refer to your parents?
+    words: parent, folks
+  - q: What words refer to your father?
+    words: father, dad, old man, pa, papa, sire
+  - q: What words do you use when talking to your father?
+    words: Dad, Father, Daddy, Pop
+  - q: What words refer to your mother?
+    words: mother, mom, mum, ma, mama
+  - q: What words do you use when talking to your mother?
+    words: Mom, Mum, Mother, Mommy, Mummy
+  - q: What words refer to the state of being a parent?
+    words: fatherhood, motherhood, parenthood
+  - q: What words describe something having to do with your parents?
+    words: parental, paternal, maternal, fatherly, motherly, parentage
+  - q: If your father has more than one wife, what do you call his other wives?
+    words: father's wife, second wife
+  - q: >-
+      If your father dies and your mother remarries, what do you call your mother's second
+      husband?
+    words: stepfather
+  - q: >-
+      If your mother dies and your father remarries, what do you call your father's second
+      wife?
+    words: stepmother

@@ -1,0 +1,23 @@
+code: "8.6.6"
+guid: FC170F70-520E-4f3e-B8B8-98E4B898FD24
+name: Edge
+description: >-
+  Use this domain for words related to the edge of something--the part of something where
+  two sides come together.
+questions:
+  - q: What words refer to the edge of something?
+    words: edge (n), border, outskirts, perimeter, margin, periphery, curb
+  - q: What words refer to the edge of an area of land?
+    words: border, boundary, frontier
+  - q: What words refer to the edge of a cup or plate?
+    words: rim, lip, brim
+  - q: What words refer to the edge of a piece of clothing?
+    words: hem, fringe
+  - q: What words refer to something put along the edge of something?
+    words: frame, edging, skirting
+  - q: What words describe something that is on the edge?
+    words: edge (adj), peripheral, marginal, border (adj), bordering
+  - q: What words refer to the corner of something?
+    words: corner (n)
+  - q: What words describe something that is on the corner?
+    words: corner (adj)

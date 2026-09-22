@@ -1,0 +1,37 @@
+code: "2.6.4.2.1"
+guid: CA91E41A-81C3-4C96-87E6-F67477FCD686
+name: Rear a child
+description: >-
+  Use this domain for words related to rearing a child--to take care of someone while they
+  are a child so that their needs are met and they become a good person.
+ocmCodes: >-
+  855 Child Care; 860 Socialization; 861 Techniques of Inculcation; 862 Weaning and Food
+  Training; 863 Cleanliness Training; 864 Sex Training; 865 Aggression Training; 866
+  Independence Training; 867 Transmission of Cultural Norms; 868 Transmission of Skills; 869
+  Transmission of Beliefs
+louwNidaCodes: 35F Rear, Bring Up
+questions:
+  - q: What general words refer to rearing a child?
+    words: >-
+      bring up, raise, rear, have custody, parent (v) a child, mother (v) a child,
+      child-rearing
+  - q: What words refer to caring for a child's needs?
+    words: care for, take care of
+  - q: What words refer to teaching and training a child?
+    words: teach, train, upbringing
+  - q: What words refer to disciplining a child?
+    words: discipline, correct
+  - q: What words refer to rearing a child well?
+    words: well brought up
+  - q: What words refer to not rearing a child well?
+    words: neglect, abuse, spoil, deprive
+  - q: What words refer to rearing a child who is not your own?
+    words: adopt, foster, guardian
+  - q: >-
+      What words refer to taking care of a child while their parents are doing something
+      else?
+    words: look after, mind (a child), keep an eye on, baby-sit, sit, take care of, childcare
+  - q: What words refer to someone who cares for a child?
+    words: nurse, nursemaid, guardian, nanny, babysitter, sitter, child minder
+  - q: What words refer to a place where children are cared for?
+    words: nursery, crèche, childcare facility

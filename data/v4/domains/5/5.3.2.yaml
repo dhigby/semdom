@@ -1,0 +1,9 @@
+code: "5.3.2"
+guid: 410A3D81-290F-416B-8012-3AA16EAA9E55
+name: Women's clothing
+description: Use this domain for words related to women's clothing.
+questions:
+  - q: What words refer to pieces of women's clothing?
+    words: >-
+      dress, skirt, blouse, underwear, slip, petticoat, bra, shoe, sock, nylons, stockings,
+      hat, glove, sweater, coat, nightgown, maternity dress, belt, scarf, shawl, veil

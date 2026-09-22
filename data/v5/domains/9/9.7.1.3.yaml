@@ -1,0 +1,12 @@
+code: "9.7.1.3"
+guid: 774CDFF1-8CBA-4F94-A519-C66ABD3B5F49
+name: Clan names
+description: >-
+  Use this domain for the proper names of the clans that exist within the language
+  community. The distinction between family, clan, tribe, and nation is based on politics
+  and emotion. Our purpose here is not to make political statements, but merely to list the
+  names. There may be no distinction between family and clan, in which case ignore this
+  domain and use the domain 'Family names'.
+questions:
+  - q: What are the proper names of the clans?
+    words: Hatfields, McCoys, Bear Clan

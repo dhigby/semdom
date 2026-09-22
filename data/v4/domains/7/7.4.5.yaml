@@ -1,0 +1,7 @@
+code: "7.4.5"
+guid: 7DF3078C-F681-4123-A712-4B83E438EA1D
+name: Keep something
+description: Use this domain for words related to keeping something.
+questions:
+  - q: What words refer to keeping something?
+    words: keep, save, hold on to, retain, keep possession of

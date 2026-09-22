@@ -1,0 +1,13 @@
+code: "3.2.1.5"
+guid: 6866EE4C-78CD-47D1-BA4A-8461FDCC5E2A
+name: Logical
+description: Use this domain for words describing logical thinking.
+questions:
+  - q: What words describe thinking that is logical?
+    words: >-
+      logical, sound, rational, reasonable, well thought out, well-founded, make sense, hang
+      together, coherent, add up
+  - q: What words refer to a logical way of thinking?
+    words: logic, reasoning
+  - q: What words describe thinking that is not logical?
+    words: illogical, irrational, make no sense, not hold water, not stand up, not add up

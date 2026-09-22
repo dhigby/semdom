@@ -1,0 +1,9 @@
+code: "6.7.1"
+guid: EFE8E7B5-E008-4A3A-B3E1-23AE03A0083E
+name: Cutting tool
+description: Use this domain for words related to cutting tools.
+questions:
+  - q: What types of cutting tools are there?
+    words: >-
+      knife, paring knife, butcher knife, jackknife, pocketknife, hunting knife, ax,
+      hatchet, saw, blade, razor blade, scissors, wire-cutters

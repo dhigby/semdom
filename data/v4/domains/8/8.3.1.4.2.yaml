@@ -1,0 +1,28 @@
+code: "8.3.1.4.2"
+guid: 0ADD0775-0ED0-46BE-BA4A-76310E63A036
+name: Leaning, sloping
+description: >-
+  Use this domain for words describing a leaning orientation in relation to the ground, or a
+  surface that is sloping.
+related: ["7.1.6"]
+questions:
+  - q: What words describe something in a leaning position?
+    words: >-
+      leaning, at an angle, out of plumb, angled, on a slant, aslant, slanted, inclined,
+      oblique, tilted, crooked, list, askew, out of kilter
+  - q: What words refer to causing something to lean?
+    words: lean, angle, tilt, slant, incline
+  - q: What words refer to leaning something against something else?
+    words: lean something against, incline, prop against
+  - q: What words describe a surface that is sloping?
+    words: >-
+      sloping, slope up/down, on an incline, rising, rise up (toward), ascending, upgrade,
+      uphill, falling, fall away, descending, downgrade, downhill, dip
+  - q: What words refer to a surface that is sloping?
+    words: slope (n), ramp, ascent, rise, bank, incline (n), grade
+  - q: What words refer to how much something is leaning or sloping?
+    words: >-
+      angle, slope (n), inclination, pitch, grade, gradient, steep, precipitous, gradual
+      (rise)
+  - q: What words describe a surface that is not level?
+    words: uneven, rough, hilly, wavy, lumpy, broken (ground), rugged

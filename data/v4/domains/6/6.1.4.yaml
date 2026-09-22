@@ -1,0 +1,11 @@
+code: "6.1.4"
+guid: 2E9F06F3-C986-43DA-A035-E3CC9AEF13D4
+name: Job satisfaction
+description: Use this domain for words related to being satisfied with your job.
+questions:
+  - q: What words refer to being satisfied with your job?
+    words: >-
+      job satisfaction, rewarding, fulfilling, satisfying, profitable, like your job,
+      challenging
+  - q: What words refer to not being satisfied with your job?
+    words: hate your job, boring

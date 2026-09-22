@@ -1,0 +1,11 @@
+code: "8.5.4.1"
+guid: EC6F626C-E7A0-4EC7-A541-D683F20C9271
+name: Vicinity
+description: Use this domain for words related to a vicinity--an area around something else.
+louwNidaCodes: 80A Space, Place
+related: ["8.5.1.2.1"]
+questions:
+  - q: What words refer to the area around something else?
+    words: >-
+      area, vicinity, environs, neighborhood, surroundings, community, district, region,
+      context

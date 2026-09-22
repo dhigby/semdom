@@ -1,0 +1,7 @@
+code: "4.9.7.5"
+guid: DF647B1A-ED79-4A8E-B781-56ED25FE4405
+name: Buddhism
+description: Use this domain for words used in Buddhism.
+questions:
+  - q: What words are used to talk about Buddhism?
+    words: Buddhism, Buddhist, Buddha, temple, pagoda, nirvana, enlightenment, monk

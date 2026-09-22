@@ -1,0 +1,27 @@
+code: "6.3.1.1"
+guid: 32FC19FD-A04E-4B69-9442-F7D57348EC55
+name: Cattle
+description: Use this domain for words related to cattle and the care of cattle.
+questions:
+  - q: What words refer to cattle?
+    words: cattle, bovine
+  - q: What words refer to male or female cattle?
+    words: bull, cow
+  - q: What words refer to young cattle?
+    words: calf, bullock, heifer
+  - q: What words refer to a castrated bull?
+    words: ox, steer
+  - q: What types of cows are there?
+    words: Angus, aurochs, Brahma, Guernsey, Holstein, Jersey, longhorn, shorthorn
+  - q: What are the parts of a cow?
+    words: udder
+  - q: How do cattle eat?
+    words: graze, chew the cud
+  - q: What sounds do cows make?
+    words: moo, low, bellow, snort
+  - q: Where are cows kept?
+    words: cow pasture, cattle range, cow barn, cowshed, stall
+  - q: What do cows produce?
+    words: milk, blood, meat
+  - q: What is the meat of a cow called?
+    words: beef, steak, hamburger, minced meat, rump roast, fillet

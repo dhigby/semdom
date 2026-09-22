@@ -1,0 +1,25 @@
+code: "8.2.3"
+guid: B1688009-474D-4E2E-A137-ACC1E32A435F
+name: Thick
+description: Use this domain for words referring to being thick.
+louwNidaCodes: 81D Narrow, Wide
+related: ["8.2.3.2"]
+questions:
+  - q: What words describe something that is thick?
+    words: thick, chunky, fat
+  - q: What words describe something like a branch or rope that is thick?
+    words: thick, stout
+  - q: What words describe something like cloth or paper that is thick?
+    words: thick, heavy
+  - q: What words refer to something becoming thick?
+    words: thicken, get thick
+  - q: What words refer to making something thick?
+    words: thicken
+  - q: What words refer to being thicker than another thing?
+    words: thicker, thickest
+  - q: What words refer to how thick something is?
+    words: thickness
+  - q: What words indicate how thick something is?
+    words: how thick, be ten centimeters thick
+  - q: What words describe a part of something that is thick?
+    words: thickening

@@ -1,0 +1,29 @@
+code: "9.1.3.2"
+guid: 74CD7314-5EF6-4505-A35A-81468B5A3F3A
+name: Situation
+description: >-
+  Use this domain for words referring to a situation--a particular time and place, and the
+  things that are true about it.
+questions:
+  - q: What words refer to the general situation that exists in a place?
+    words: situation, things, conditions, state of affairs, set-up, context
+  - q: 'What words refer to a situation that affects what can happen or what people can do? '
+    words: >-
+      situation, circumstances, environment, climate, conditions, the lay of the land, which
+      way the wind blows, scenario
+  - q: >-
+      What words refer to a situation that exists at some time during a larger event or
+      process?
+    words: situation, position, state of play
+  - q: >-
+      What words refer to the true situation rather than the situation that people think
+      exists?
+    words: the picture, the score, what's going on
+  - q: What words refer to the situation a person is in?
+    words: situation, circumstances, position, case, plight
+  - q: >-
+      What words indicate that something must happen or cannot happen because of the
+      situation?
+    words: >-
+      under the circumstances, in the circumstances, given the circumstances, given the
+      situation, as it is, as things stand, force of circumstances, the way things are

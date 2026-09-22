@@ -1,0 +1,19 @@
+code: "8.3.1.3.1"
+guid: 61F40376-729D-4D99-894F-06C5689A06AC
+name: Flat
+description: >-
+  Use this domain for words describing something that is flat--having a surface that is
+  even. A board or wall is flat when its surface is even and it does not bend.
+questions:
+  - q: What words describe something that is flat?
+    words: flat, flat as a pancake, even, flush
+  - q: What words refer to making something flat?
+    words: >-
+      flatten, even (v), even out, smooth, level, roll something flat, press, squish,
+      squash, smash, mash, spread thin
+  - q: What words refer to something becoming flat?
+    words: flatten, flatten out, level off
+  - q: What words refer to something flat?
+    words: plane, sheet
+  - q: What words describe something that is not flat?
+    words: rough, bumpy, uneven, lumpy, hilly, rolling, mountainous

@@ -1,0 +1,10 @@
+code: "6.2.6"
+guid: 8080C7ED-E69A-4A8A-BD8D-BF3447B13630
+name: Process harvest
+description: Use this domain for words related to processing the harvest.
+ocmCodes: 250 Food Processing; 251 Preservation and Storage of Food
+questions:
+  - q: What words refer to processing the harvest?
+    words: >-
+      process harvest, shell groundnuts, shell beans, remove beans from pods, husk corn,
+      remove leaves from maize cob, remove maize from the cob, dry, separate bad from good

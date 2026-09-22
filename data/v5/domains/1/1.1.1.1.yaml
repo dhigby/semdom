@@ -1,0 +1,37 @@
+code: "1.1.1.1"
+guid: 1BD42665-0610-4442-8D8D-7C666FEE3A6D
+name: Moon
+description: >-
+  Use this domain for words related to the moon. In your culture people may believe things
+  about the moon. For instance in European culture people used to believe that the moon
+  caused people to become crazy. So in English we have words like "moon-struck" and
+  "lunatic." You should include such words in this domain.
+questions:
+  - q: What words refer to the moon?
+    words: moon, lunar, satellite
+  - q: What words refer to how the moon moves?
+    words: rise, set, sink
+  - q: What words refer to the time when the moon rises?
+    words: moonrise, rising of the moon
+  - q: What words refer to the time when the moon sets?
+    words: moonset, setting of the moon
+  - q: What words refer to when the moon is shining?
+    words: moon is shining, by the light of the moon, moon is/comes out
+  - q: What words describe where the moon is shining?
+    words: moonlit, be in the moonlight, lit by the moon, shine on
+  - q: What words describe when or where the moon doesn't shine?
+    words: moonless night, eclipse of the moon, eclipse (v)
+  - q: What words refer to the light of the moon?
+    words: moonlight, moonbeam, moonshine
+  - q: What words describe the brightness of the moon?
+    words: bright, pale
+  - q: What words describe the appearance of the moon?
+    words: man in the moon, harvest moon
+  - q: What words refer to the spots on the moon?
+    words: lunar sea, crater
+  - q: What words refer to the phases of the moon?
+    words: >-
+      phase, new moon, full moon, half moon, quarter moon, crescent, sliver, moon is waxing
+      (getting bigger), moon is waning (getting smaller), wax and wane
+  - q: What words refer to the time it takes for the moon to go through its phases?
+    words: (lunar) month
