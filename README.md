@@ -63,7 +63,7 @@ npm run verify       # generate and prove byte-fidelity against the historic v4 
 node scripts/validate.mjs   # the CI gate: every invariant
 ```
 
-Node 20 (matches CI). `dist/`, `public/SemDom*.xml` and `reports/` are generated and
+Node 24 (matches CI). `dist/`, `public/SemDom*.xml` and `reports/` are generated and
 gitignored.
 
 ## Provenance
