@@ -12,8 +12,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version: 20
           cache: npm
@@ -38,8 +38,13 @@ jobs:
       # The actual generated files, for a reviewer who wants to load them into FieldWorks.
       - name: Upload generated XML
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: semdom-xml
+          # `.verify` is a dot directory, and upload-artifact excludes hidden paths
+          # unless told otherwise - without this the artifact silently uploads nothing.
+          include-hidden-files: true
+          # Stays `warn`, not `error`: this step is `if: always()`, so on a failed
+          # validate the XML legitimately does not exist yet.
           path: .verify/*.xml
           if-no-files-found: warn
