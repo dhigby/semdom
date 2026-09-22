@@ -22,7 +22,7 @@ node scripts/report.mjs     # the plain-language change summary CI posts on a PR
 Editing a domain means editing `data/<version>/domains/<root>/<code>.yaml` and opening a
 pull request - never editing XML.
 
-Node 20 (matches CI). `dist/`, `node_modules/`, `.astro/`, `reports/` and the
+Node 24 (matches CI). `dist/`, `node_modules/`, `.astro/`, `reports/` and the
 generated `public/SemDom*.xml` are gitignored.
 
 ## Architecture
@@ -36,7 +36,7 @@ output, not an input. This was inverted deliberately; see `README.md` and
   metadata (the XML header) is `data/<v>/list.yaml`.
   - **`scripts/lib/domains.mjs` is the single loader**, shared by the site
     (`src/lib/semdom.ts`), the XML generator and the CI validator, so they cannot drift.
-    It is plain ESM, not TS, because CI runs Node 20 and must import it without a build.
+    It is plain ESM, not TS, so CI can import it directly with no build step.
   - It loads YAML with **`yaml.FAILSAFE_SCHEMA`**. This is load-bearing: under the
     default schema `code: 4.10` parses as the number `4.1` and silently collides with
     the real domain 4.1. 102 codes per version sit in that danger zone.
