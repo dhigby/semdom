@@ -1,0 +1,9 @@
+code: "8.4.4.2"
+guid: C4FDB9CE-93CC-405B-B673-4058821BF794
+name: Clock, watch
+description: Use this domain for machines that indicate what time it is.
+questions:
+  - q: What words refer to machines for telling time?
+    words: >-
+      timepiece, watch, clock, alarm clock, digital watch, analog watch, electric clock,
+      sundial, pendulum, hourglass

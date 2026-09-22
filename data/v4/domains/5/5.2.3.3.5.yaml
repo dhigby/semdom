@@ -1,0 +1,9 @@
+code: "5.2.3.3.5"
+guid: C7C1C25A-D89D-4720-846C-D6E1DD723A17
+name: Cooking oil
+description: Use this domain for words related to cooking oil.
+questions:
+  - q: What words refer to oil used in cooking?
+    words: cooking oil, oil, margarine, shortening
+  - q: What seeds are used to make oil?
+    words: olive, corn, canola, cottonseed

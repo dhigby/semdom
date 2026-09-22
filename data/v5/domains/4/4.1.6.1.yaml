@@ -1,0 +1,16 @@
+code: "4.1.6.1"
+guid: EAED8C63-9F97-4116-927C-19F364A99E72
+name: Unfriendly
+description: >-
+  Use this domain for words related to being antisocial--when someone does not want to talk
+  to other people or be friends with them.
+related: ["4.8.1"]
+questions:
+  - q: What words describe someone who is unfriendly?
+    words: unfriendly, cold, inhospitable, hostile, antagonistic, give someone the cold shoulder
+  - q: What words describe someone who does not like to be friendly and wants to be alone?
+    words: antisocial, standoffish, distant, aloof, dour, reserved
+  - q: What words describe a relationship that is unfriendly?
+    words: unfriendly, cool, strained, frosty, turn sour
+  - q: What words describe a place or situation where people are unfriendly?
+    words: unfriendly, unwelcoming, inhospitable, impersonal, forbidding

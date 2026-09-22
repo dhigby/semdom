@@ -1,0 +1,13 @@
+code: "5.6.1"
+guid: 46AD1505-9049-41D8-831B-768F46F12500
+name: Clean, dirty
+description: Use this domain for words describing whether something is clean or dirty.
+ocmCodes: 318 Environmental Quality
+louwNidaCodes: 79J Clean, Dirty; 79K Spotted, Spotless
+questions:
+  - q: What words describe something that is clean?
+    words: clean, spanking clean, spotless, sparkling clean
+  - q: What words describe something that is dirty?
+    words: >-
+      be dirty, filthy, soiled, stained, smeared, dusty, spotted, corrupted, grimy, greasy,
+      polluted

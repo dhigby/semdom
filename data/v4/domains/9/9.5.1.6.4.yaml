@@ -1,0 +1,12 @@
+code: "9.5.1.6.4"
+guid: 66E2806D-3E16-4FB2-A158-7F3B4DD5D9AF
+name: Origin (of a person)
+description: >-
+  Use this domain for words that mark the place where someone was born or the place where
+  they have been living.
+questions:
+  - q: What words indicate the place where someone was born?
+    words: from, be from (the tribe, or country)
+    sentence: John <is from> New York.; I<'m from> California.; <from> the tribe of; <from> America
+  - q: What words refer to the place where a person is from?
+    words: home town

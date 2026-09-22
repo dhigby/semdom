@@ -1,0 +1,14 @@
+code: "3.5.9.3"
+guid: 12781062-EE36-4703-9BC0-CEE4ED467EE5
+name: Newspaper
+description: Use this domain for words related to newspapers and magazines.
+ocmCodes: 203 Dissemination of News and Information; 204 Press
+questions:
+  - q: What words refer to newspapers and magazines?
+    words: newspaper, paper, magazine, press, periodical
+  - q: What words refer to things written in a newspaper?
+    words: article, editorial, column
+  - q: What words refer to a person who works for a newspaper?
+    words: reporter, editor, newsboy
+  - q: What words refer to an issue of a newspaper?
+    words: issue, edition

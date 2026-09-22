@@ -1,0 +1,12 @@
+code: "5.2.6"
+guid: 029E0760-3306-41cc-B032-40BEFB22303E
+name: Stimulant
+description: >-
+  Use this domain for words related to stimulants--substances that are drunk, eaten, or
+  chewed to make a person more alert or give him more energy.
+ocmCodes: 276 Recreational and Non-therapeutic Drugs; Narcotics and Stimulants
+questions:
+  - q: What general words refer to stimulants?
+    words: stimulant
+  - q: What types of stimulants are there?
+    words: coffee, tea, mate, hookah, chewing gum, beetle nut

@@ -1,0 +1,16 @@
+code: "8.1.7.2"
+guid: 1621AAC3-4EA9-4373-BF1B-40FCE0CA7B5E
+name: Lack
+description: Use this domain for words related to having insufficient--to not have enough.
+louwNidaCodes: 57E Need, Lack
+questions:
+  - q: What words refer to not having enough?
+    words: >-
+      lack, suffer lack, be lacking in, have insufficient, be insufficient, don't have
+      enough, ill-furnished, ill-provided, deficient
+  - q: What words describe something that you lack?
+    words: inadequate, insufficient, meager, needed, poor, scant, scanty, scarce, short
+  - q: What words refer to something that you lack?
+    words: lack (n), want (n), deficiency, scarcity, shortage
+  - q: What words refer to not having enough food or money to live?
+    words: destitute, can't make ends meet, starve

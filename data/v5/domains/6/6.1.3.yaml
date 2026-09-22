@@ -1,0 +1,11 @@
+code: "6.1.3"
+guid: 31CCB9E3-D434-4430-AC84-486CC5A1C53D
+name: Difficult, impossible
+description: Use this domain for words describing something that is difficult or impossible to do.
+questions:
+  - q: What words describe a difficult task?
+    words: difficult, hard, challenging, tough, not easy, arduous, demanding
+  - q: What words indicate that a task cannot be done?
+    words: be impossible, too hard, can't do it, not doable
+  - q: What words refer to how difficult a job is?
+    words: difficulty

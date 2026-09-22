@@ -1,0 +1,12 @@
+code: "6.6.1.2"
+guid: 7EDF9E7C-3E32-4307-B5E3-B0D704DF7803
+name: Spinning thread
+description: Use this domain for words related to spinning thread.
+ocmCodes: 283 Cordage
+questions:
+  - q: What words refer to spinning thread?
+    words: spin
+  - q: What tools and machines are used to spin thread?
+    words: spinning wheel, distaff, spindle, bobbin, spool
+  - q: What types of thread are there?
+    words: fiber, thread, yarn, string, cord, rope

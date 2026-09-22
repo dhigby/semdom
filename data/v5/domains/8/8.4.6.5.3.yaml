@@ -1,0 +1,45 @@
+code: "8.4.6.5.3"
+guid: EFEF45BD-26BE-46F8-B85B-424BE55BCDAC
+name: New
+description: >-
+  Use this domain for words describing something new--a word describing something that has
+  only existed for a short time.
+louwNidaCodes: 58K New, Old
+questions:
+  - q: What words describe something that is new?
+    words: new, newness, newly, modern, state-of-the-art, untrodden, up-to-date
+  - q: What words describe something that has just been made?
+    words: new, brand new, fresh
+  - q: What words describe food that is new?
+    words: fresh, raw
+  - q: What words describe something that has been sold for only a short time?
+    words: new, brand new, recent, latest, be just out, be hot off the press
+  - q: What words describe an organization that has existed for a short time?
+    words: new, young
+  - q: What words describe something that has just been discovered?
+    words: new, newly discovered, fresh
+  - q: What words describe an experience or feeling that you have never had before?
+    words: new, newfound
+  - q: What words describe a new idea or way of doing something?
+    words: >-
+      new, newfangled, avant-garde, contemporary, forward-looking, fresh, futuristic,
+      go-ahead, be in its infancy, innovative, inventive, modern, ultra-modern, move with
+      the times, novel, original, originality, pioneering, present-day, progressive,
+      revolutionary, up-to-date, up-to-the-minute, ahead of your time
+  - q: >-
+      What words describe someone who has recently arrived in a place or just started a new
+      job?
+    words: new, newcomer, new arrival, be new to, fresh, green, stranger
+  - q: What words describe something or someone that has recently replaced the one before it?
+    words: new, fresh
+  - q: What words refer to changing something that is old, so that it is like new?
+    words: >-
+      renew, renewal, freshen, modernize, modernization, recondition, reconditioning,
+      refresh, refurbish, refurbishing, rejuvenate, rejuvenation, renovate, restore, update,
+      bring something up to date
+  - q: What words describe something that is old, but has been made to look new?
+    words: >-
+      as good as new, renewed, freshened, modernized, reconditioned, refreshed, refurbished,
+      rejuvenated, renovated, restored
+  - q: What words refer to something that is new?
+    words: novelty, innovation, latest, original

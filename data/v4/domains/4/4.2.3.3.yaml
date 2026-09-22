@@ -1,0 +1,26 @@
+code: "4.2.3.3"
+guid: DE6B15D3-6409-4998-B03D-903133F4AD70
+name: Sing
+description: Use this domain for words related to singing.
+louwNidaCodes: 33G Sing, Lament
+questions:
+  - q: What words refer to singing?
+    words: sing, serenade, yodel, chant, croon, burst into song, wail, warble
+  - q: What words refer to singing without using words?
+    words: hum, whistle
+  - q: What words refer to a person who sings?
+    words: singer, vocalist, soloist, minstrel
+  - q: What words refer to a group of people singing together?
+    words: choir, chorale, singing group, duet, trio, ensemble
+  - q: What words refer to something that is sung?
+    words: song, singing, tune, melody
+  - q: What types of songs are there?
+    words: lullaby, hymn, psalm, carol, national anthem, lament, ballad, funeral dirge
+  - q: What words refer to a part of a song?
+    words: verse, chorus, theme, note, melody, harmony
+  - q: What words describe how well a person sings?
+    words: beautiful singing voice, can't carry a tune in a bucket, sing on/off key
+  - q: What words describe how high or low a person sings?
+    words: soprano, alto, baritone, bass
+  - q: What words describe whether or not people are singing the same thing together?
+    words: sing in unison, sing in harmony, sing the melody/harmony, keep time

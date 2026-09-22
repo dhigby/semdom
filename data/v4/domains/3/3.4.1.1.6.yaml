@@ -1,0 +1,15 @@
+code: "3.4.1.1.6"
+guid: F0FDBDFA-094E-4BEC-AE19-AF23D2C02ED6
+name: Contentment
+description: Use this domain for words related to feeling contented.
+louwNidaCodes: 25G Content, Satisfied
+related: ["3.5.1.8.5"]
+questions:
+  - q: What words refer to feeling good about your present conditions?
+    words: be content, be happy with your lot, feel satisfied
+  - q: What words describe when a person feels bad about his conditions or situation?
+    words: discontent, discontented, dissatisfied, dissatisfaction, discontent
+  - q: What words refer to not being satisfied?
+    words: >-
+      be displeased with, be unhappy with, not happy, dissatisfied, discontented,
+      disgruntled

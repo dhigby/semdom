@@ -1,0 +1,27 @@
+code: "4.8.2.5"
+guid: 530FF7E0-E3CB-4DC3-9C1C-3034969E1CE8
+name: Revenge
+description: >-
+  Use this domain for words related to revenge--to do something bad to someone because they
+  did something bad to you.
+louwNidaCodes: 39F Revenge
+questions:
+  - q: What words refer to getting revenge?
+    words: >-
+      revenge, get revenge, take revenge, in revenge, avenge, get back at, get even with,
+      pay back, repay, requite, retaliate, in retaliation, retribution, wreak vengeance,
+      I'll get you for this, be out to get
+  - q: What words refer to revenge?
+    words: >-
+      revenge, reprisal, requital, retaliation, retribution, tit-for-tat, vendetta,
+      vengeance
+  - q: What words refer to a person who gets revenge?
+    words: avenger, nemesis
+  - q: What words describe someone who wants to get revenge?
+    words: vengeful, vindictive
+  - q: >-
+      What words refer to a situation in which both people have done something bad to each
+      other?
+    words: be even, be quits
+  - q: What words describe something done in revenge?
+    words: retributive

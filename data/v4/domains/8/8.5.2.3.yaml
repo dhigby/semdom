@@ -1,0 +1,13 @@
+code: "8.5.2.3"
+guid: 1A8322D7-CDA9-41E5-A14B-F41274CB7157
+name: Right, left
+description: Use this domain for words referring to right and left.
+questions:
+  - q: What words refer to the right side?
+    words: right
+  - q: What words refer to the left side?
+    words: left
+  - q: What words describe a person who usually uses his right hand?
+    words: right-handed
+  - q: What words describe a person who usually uses his left hand?
+    words: left-handed

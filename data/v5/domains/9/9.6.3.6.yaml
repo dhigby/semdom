@@ -1,0 +1,7 @@
+code: "9.6.3.6"
+guid: 15E0B54B-BB7C-4900-B048-20B718D05F79
+name: Markers of focus
+description: Use this domain for words indicating that one of several things is in focus.
+questions:
+  - q: What words focus especially on one of several things?
+    words: especially, particularly, particular, most of all

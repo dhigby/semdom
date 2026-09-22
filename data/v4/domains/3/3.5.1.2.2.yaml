@@ -1,0 +1,19 @@
+code: "3.5.1.2.2"
+guid: DC1AB28C-3E1E-474C-8359-2548B7AD5595
+name: Describe
+description: >-
+  Use this domain for words related to describing something--to say some things about
+  something.
+ocmCodes: 105 Cultural Summary
+related: ["3.5.1.2.7"]
+questions:
+  - q: What words refer to describing something?
+    words: >-
+      describe, give a description of, portray, depict, paint a picture, characterize,
+      define, redefine, represent, treat
+  - q: What words refer to describing an event?
+    words: describe, talk about, write about, give an account of, tell of
+  - q: What words refer to what you say when you describe something?
+    words: >-
+      description, descriptive, portrayal, profile, account, report, commentary,
+      characterization, definition, redefinition, depiction, representation

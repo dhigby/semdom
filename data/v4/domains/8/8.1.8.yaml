@@ -1,0 +1,46 @@
+code: "8.1.8"
+guid: 8A81B9BC-9C66-4D57-A2D1-2E592604C4B1
+name: Full
+description: Use this domain for words referring to a container being full of something.
+louwNidaCodes: 59D Full, Empty
+questions:
+  - q: What words describe something that is full?
+    words: >-
+      full, full up, bulging, be full to the brim, be bursting at the seams, be full to
+      capacity, be chock-a-block, be packed out, be up to the brim, brimful, brimming,
+      bursting, charged, chock-full, chockablock, jam-packed, jammed, loaded, replete,
+      saturated, soaked, stuffed, supercharged
+  - q: What words refer to something being full of something?
+    words: >-
+      be full of, be filled with, be crammed with, be stuffed with, be packed with, be
+      packed full of, be crammed full of
+  - q: What words describe a place that is full of people?
+    words: >-
+      crowded, packed, crammed with, be packed out, booked up, fully booked, congested,
+      dense, occupied, throng, thronged, thronging
+  - q: What words refer to something become full?
+    words: fill, fill up
+  - q: What words refer to making something full?
+    words: >-
+      fill, fill up, cram, pack, stuff, crowd, load, load up, fill to the brim, flood,
+      inject, jam, pump something full, suffuse
+  - q: What words describe something that has been made full?
+    words: filled
+  - q: What words refer to filling something again after it has been emptied?
+    words: refill, replenish, top up, top off
+  - q: What words refer to a place being full of animals or insects?
+    words: swarm, teem, be teeming with, be swarming with, be crawling with
+  - q: What words refer to being fuller than another thing?
+    words: fuller, fullest
+  - q: What words refer to the state of being full?
+    words: fullness
+  - q: What words indicate how full something is?
+    words: how full, be (half) full
+  - q: What words describe something that is almost full?
+    words: almost full, not quite full
+  - q: What words refer to something being partly full?
+    words: half full
+  - q: What words describe something that is full and overflowing?
+    words: >-
+      overflow, overflowing, run over, running over, brimming over, full and running over,
+      overcrowded, overfilled

@@ -1,0 +1,21 @@
+code: "3.5.1.8.4"
+guid: 7BCA1201-31F8-4F65-8DA9-AF0EFF36B388
+name: Gossip
+description: >-
+  Use this domain for words related to gossip--to say something bad about a person who is
+  not with you.
+louwNidaCodes: 33Q' Gossip
+questions:
+  - q: What words refer to gossiping?
+    words: >-
+      gossip, talk about someone behind their back, bitch about, slag off, bad-mouth, start
+      a whispering campaign, tattle, stab in the back, tell tales, start a rumor, spread
+      rumors, spread an evil report, slander
+  - q: What words refer to what is said in gossip?
+    words: >-
+      gossip, rumor, tale, report, juicy detail, hearsay, scandal, slander, second hand
+      story
+  - q: What words refer to someone who gossips?
+    words: gossip, busybody, talebearer, tattler, tattletale, chatterer, slanderer
+  - q: What do rumors do?
+    words: circulate, float, go around, be all over town, get spread

@@ -1,0 +1,24 @@
+code: "2.6.5.1"
+guid: 04582A28-B94A-4E7F-8CC4-5CDEFA8A39F0
+name: Man
+description: Use this domain for words referring to a man or any male person.
+louwNidaCodes: 9B Males
+questions:
+  - q: What words refer to a man?
+    words: man, guy, bloke, chap, fellow, gentleman, male, men folk
+  - q: What words refer to a young man?
+    words: boy, lad, youth, young man, schoolboy, little shaver
+  - q: What words describe a man?
+    words: cad, chesty, dandified, dandy, fatherly, foppish, fox, gentlemanly, rake, stud
+  - q: What words describe a man who acts like a man?
+    words: masculine, virile, manly, macho, he-man
+  - q: What words describe a man who acts like a boy or a woman?
+    words: >-
+      boyish, childish, effeminate, milksop, mincing, sissified, sissy, unmanly, wimp,
+      womanish
+  - q: What words describe something to do with men?
+    words: male, masculine
+  - q: What words refer to whether or not a man is married?
+    words: bachelor, castrated, celibate, divorcé, eunuch, widower
+  - q: What do you call a man when you talk to him?
+    words: sir, Mr., mate, buddy, mister, sire, lord

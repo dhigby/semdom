@@ -1,0 +1,18 @@
+code: "8.4.2.3"
+guid: C8185CA6-567A-40EF-939F-FFEFDD9A4770
+name: Forever
+description: Use this domain for words referring to something happening forever.
+questions:
+  - q: What words are used to indicate that an event or state that will continue forever?
+    words: >-
+      forever, always, ever, eternally, incessantly, unceasingly, forever and ever, in
+      perpetuity, for all eternity, for all time
+  - q: What words are used to describe something will continue forever?
+    words: >-
+      eternal, infinite, everlasting, constant, perpetual, unending, endless, never-ending,
+      unceasing, ceaseless, incessant, undying, immortal, imperishable, deathless,
+      boundless, indefinite, unlimited, immeasurable, never failing, unfailing, timeless
+  - q: What words are used to indicate that something will continue forever?
+    words: be forever, last forever, go on forever, always be there, never fail/end/die/stop
+  - q: What words are used to refer to all time or a time that will never end?
+    words: eternity, infinity, all times

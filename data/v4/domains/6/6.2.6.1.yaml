@@ -1,0 +1,10 @@
+code: "6.2.6.1"
+guid: 8FB9A1A6-844D-45A5-86C7-977D3E420149
+name: Winnow grain
+description: >-
+  Use this domain for words related to winnowing grain--to separate the chaff from the
+  grain.
+louwNidaCodes: 7G Miscellaneous Constructions
+questions:
+  - q: What words refer to winnowing grain?
+    words: winnow, winnowing basket, winnowing fork, winnowing floor, chaff, grain

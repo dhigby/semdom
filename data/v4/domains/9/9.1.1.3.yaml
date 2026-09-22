@@ -1,0 +1,32 @@
+code: "9.1.1.3"
+guid: DA988F73-FC9D-4A23-B70D-22299A7C6097
+name: Have, of
+description: >-
+  Many languages have several general words that are used to indicate a variety of
+  relationships between two things. There are three such words in English: "have," "of," and
+  the possessive suffix "-'s." The basic meaning of these words in English is 'to own', but
+  they can mean many other things too. For instance they can mean that I am related to
+  someone (I have a brother), something has a part (birds have wings), and many other ideas.
+  There is also a set of pronouns in English that are like nouns ending in -'s (my/mine,
+  your/yours, his, her/hers, its, our/ours, their/theirs, whose). Use this domain for these
+  general words.
+related: ["6.8.1.1"]
+questions:
+  - q: What general words relate two nouns?
+    words: have, of, -'s
+    sentence: >-
+      Own: John <has> a house (to sell), the house <of> John, John<'s> house, hi<s> house,
+      who<se> house (is this?), the house is hi<s>; Kinship: John <has> a brother, the
+      brother <of> John, John<'s>brother, hi<s> brother; Relationship: John <has> a friend,
+      the friend <of> John, John<'s> friend, a friend of hi<s>; Member: The school <has> (a
+      hundred) students, the students <of> the school, the school<'s> students; Part: Trees
+      <have> leaves, the leaves <of> the tree, the tree<'s> leaves, it<s> leaves; Name: John
+      <has> three names, the three names <of> John, John<'s> three names, hi<s> names; Know:
+      John <has> the answer, John<'s> answer, hi<s> answer; Hold: John <has> the key (in his
+      pocket), John<'s> key, hi<s> key; Feel: John <has> anger, the anger <of> John, John's
+      anger, hi<s> anger; Sickness: John <has> cancer, John<'s> cancer, hi<s> cancer;
+      Located on: The yard <has> a fence, the yard<'s> fence; Be pictured in: the photo <of>
+      John, John<'s> photo, hi<s> photo; Quality: John <has> status, the status <of> John,
+      John<'s> status, hi<s> status; Use: The secretary <has> a computer, the computer <of>
+      the secretary, the secretary<'s> computer, the computer is her<s>; Event: the arrival
+      <of> John, John<'s> arrival, hi<s> arrival

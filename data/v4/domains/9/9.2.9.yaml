@@ -1,0 +1,9 @@
+code: "9.2.9"
+guid: 35624F3A-2029-43B3-B70A-83E63AC9052F
+name: Affixes
+description: >-
+  Use this domain to list all affixes that do not fit in any of the subdomains under it.
+  This section should be filled out by a linguist.
+questions:
+  - q: What affixes are in your language?
+    words: '-s, -ed, -ing'

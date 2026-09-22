@@ -1,0 +1,33 @@
+code: "8.5.6"
+guid: 8FBED974-7D25-44C3-80CB-7D02E4069007
+name: Contain
+description: Use this domain for words that express the idea that something contains something.
+related: ["6.7.7"]
+questions:
+  - q: What words indicate that something contains something?
+    words: have, of, -'s, contain, hold
+  - q: >-
+      In English 'Containership' can be expressed by a clause using the verb 'contain' with
+      the 'Container' in the subject position and the 'Content' in the object position.
+    sentence: The cup <contained> milk.
+  - q: >-
+      In English 'Containership' can be expressed by a clause using the verb with the
+      'Container' in the subject position, the 'Content' in the object position, and the
+      'Container' in a preposition phrase marked by 'in'.
+    sentence: The cup <has> milk <in it>.
+  - q: >-
+      In English 'Containership' can be expressed by a noun phrase with the 'Container' as
+      the head and the 'Content' marked by 'of'.
+    sentence: a cup <of> milk
+  - q: >-
+      In English 'Containership' can be expressed by a noun phrase with the word 'container'
+      as the head and the 'Content' marked by 'of'.
+    sentence: the <container> <of> milk
+  - q: >-
+      In English 'Containership' can be expressed by a noun phrase with the word 'contents'
+      as the head and the 'Container' marked by 'of'.
+    sentence: the <contents> <of> the cup
+  - q: >-
+      In English 'Containership' can be expressed by a possession phrase with the
+      'Container' in the first position and the word 'contents' in the second position.
+    sentence: the cup<'s> <contents>

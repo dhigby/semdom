@@ -1,0 +1,11 @@
+code: "8.3.7.7.2"
+guid: C7DBD50E-0FF5-42AF-A7A9-9EAF03671C49
+name: Convenient
+description: >-
+  Use this domain for words describing something that is convenient--a good time to do
+  something.
+questions:
+  - q: What words describe something that is convenient?
+    words: convenient, handy, suit, fit in with, be good for, a good time, no trouble, no problem
+  - q: What words describe something that is not convenient?
+    words: inconvenient, not convenient, be bad for, a bad time

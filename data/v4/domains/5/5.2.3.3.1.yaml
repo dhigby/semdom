@@ -1,0 +1,15 @@
+code: "5.2.3.3.1"
+guid: 9BB6F1ED-7170-4CAA-A14C-747FD95CA30E
+name: Sugar
+description: Use this domain for words related to sugar.
+questions:
+  - q: What words refer to sugar?
+    words: >-
+      sugar, sweetener, granulated sugar, white sugar, brown sugar, sugar cube, grain of
+      sugar
+  - q: What words describe something that has sugar in it?
+    words: sweet, sugary, sweetened
+  - q: What words refer to putting sugar in food?
+    words: sweeten, sprinkle
+  - q: What containers are used for sugar?
+    words: spoonful of sugar, sugar bowl

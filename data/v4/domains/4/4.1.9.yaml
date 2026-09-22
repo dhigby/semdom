@@ -1,0 +1,24 @@
+code: "4.1.9"
+guid: E7C58C11-2911-446A-96B0-2113247F3792
+name: Kinship
+description: Use this domain for general words for family relationships, not for specific terms.
+ocmCodes: 600 Kinship; 601 Kinship Terminology
+louwNidaCodes: 10 Kinship Terms
+related: ["4.1"]
+questions:
+  - q: What words are used to indicate that two people are related?
+    words: be related (to someone)
+  - q: What words refer to the relationship among members of a family?
+    words: kinship, relationship, close relation
+  - q: What words refer to a member of your family or larger kin group?
+    words: >-
+      relative, in-law, kinsman, relation, distant relation, distantly related, extended
+      family, folk, house, household, kin, kindred, kinfolk, kinsman, kinswoman
+  - q: What words refer to groups of people who are related by kinship?
+    words: family, clan, tribe, nation
+  - q: What words refer to a single generation?
+    words: generation
+  - q: >-
+      What words refer to talking to someone in order to discover how you are related to
+      them?
+    words: (none in English)

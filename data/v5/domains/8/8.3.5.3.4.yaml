@@ -1,0 +1,14 @@
+code: "8.3.5.3.4"
+guid: 6A6F0748-A6E9-4D64-B14E-543BB6EC2EC8
+name: Strange
+description: Use this domain for words describing something that is strange.
+related: ["4.3.8.1"]
+questions:
+  - q: What words describe something that is strange?
+    words: strange, odd, funny, peculiar, weird
+  - q: What words describe a person who is not like most other people?
+    words: >-
+      unusual, abnormal, exceptional, aberrant, peculiar, unnatural, eccentric, uncommon,
+      rare, unique, odd, strange, queer, quaint, original, unconventional, weird
+  - q: What words refer to not being like most other people?
+    words: unconformity, nonconformity

@@ -1,0 +1,26 @@
+code: "4.9.7.1"
+guid: EF860EE3-A4A5-4A42-B810-FDF41E35D151
+name: Religious person
+description: >-
+  Use this domain for words referring to religious practitioners--people who practice a
+  religion, who are members of the religion, believe in the religion, leaders of the
+  religion, and followers of the religion. Each religion has its own terms for religious
+  practitioners. List these terms separately for each religion. The examples given below are
+  for the Christian religion.
+ocmCodes: 791 Magicians and Diviners; 792 Prophets and Ascetics; Holy Men; 793 Priesthood
+louwNidaCodes: 31J Be a Believer, Christian Faith; 53I Roles and Functions
+questions:
+  - q: What is a person called who believes in a religion?
+    words: believer, member (of the faith), adherent, follower, practitioner
+  - q: What is a person called who believes in the (Christian) religion?
+    words: Christian, brother, fellow believer, saint
+  - q: What is a leader of the (Christian-Protestant) religion called?
+    words: pastor, minister, parson
+  - q: What is a leader of the (Christian-Catholic) religion called?
+    words: priest, father, bishop, archbishop, Cardinal, pope, man of the cloth
+  - q: What words refer to the profession of being a religious leader?
+    words: pastorate, priesthood, ministry
+  - q: What words refers to all religious leaders?
+    words: clergy
+  - q: What words refer to followers of a religion who are not leaders?
+    words: laity, layperson, flock

@@ -1,0 +1,11 @@
+code: "6.2.3"
+guid: BE280123-DDA6-49A0-BD8C-5E2855B56159
+name: Plant a field
+description: Use this domain for words related to planting a field.
+questions:
+  - q: What words refer to planting seeds in a field?
+    words: cultivate, plant, seed (a field), sow seed
+  - q: What words refer to planting plants?
+    words: plant, plant vines, plant cuttings, transplant
+  - q: What words refer to the things that are planted?
+    words: seed, seedling, cutting

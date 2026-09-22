@@ -1,0 +1,18 @@
+code: "2.1.8.2"
+guid: B9A4B336-080A-4973-A7E3-A9AF10FC347C
+name: Stomach
+description: >-
+  Use this domain for words referring to the stomach and to the normal functions of the
+  stomach. Do not use this domain for stomach illness.
+related: ["2.5.2.3"]
+questions:
+  - q: What are the parts of the stomach?
+    words: stomach, tummy, digestive tract, lining
+  - q: What does the stomach do?
+    words: digest (food), digestion, burp, hunger, be empty, be full, distend, fill with gas
+  - q: What noises does the stomach make?
+    words: rumble, grumble, gurgle
+  - q: What words refer to the contents of the stomach?
+    words: contents (of the stomach), undigested food, acid, digestive juices, gas
+  - q: What words describe something to do with the stomach?
+    words: gastric, gastrointestinal, abdominal

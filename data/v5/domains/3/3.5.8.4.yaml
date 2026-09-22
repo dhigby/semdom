@@ -1,0 +1,29 @@
+code: "3.5.8.4"
+guid: 8225DE87-35A3-4C7A-B35C-F45B152CAEBE
+name: Show, indicate
+description: >-
+  Use this domain for words referring to showing or indicating something--if something (such
+  as an object, something said, or something that happens) shows something, it makes people
+  think of something or understand something (e.g. When his face turns red, it indicates he
+  is angry.)
+related: ["2.3.1.4", "3.6.1"]
+questions:
+  - q: What words refer to something showing that something is true?
+    words: >-
+      show, be a sign, mean, indicate, reveal, make it clear, demonstrate, betray, be
+      evidence, reflect, illustrate, bear witness to, tell
+  - q: What words refer to something showing that something might be true?
+    words: suggest, point to, imply, give the impression
+  - q: What words refer to something showing that something has a good quality?
+    words: be a tribute to, say a lot for, reflect well on, be a testimony to
+  - q: What words refer to something showing that something has a bad quality?
+    words: >-
+      be a reflection on, be a comment on, be a symptom of, be symptomatic of, be an
+      indictment of, not say much for, reflect badly on, make a mockery of, sign of the
+      times
+  - q: What words refer to something showing that something is going to happen?
+    words: mean, herald, bode well, bode ill, spell
+  - q: What words refer to a sign that shows that something is true?
+    words: >-
+      sign, indication, indicator, evidence, mark, trace, manifestation, symptom, omen,
+      telltale, be a giveaway

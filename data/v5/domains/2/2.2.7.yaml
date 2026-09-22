@@ -1,0 +1,15 @@
+code: "2.2.7"
+guid: E7F94AEA-BA50-481D-B640-D5CD8BDEDC72
+name: Urinate, urine
+description: Use this domain for words related to urination.
+questions:
+  - q: What words refer to urinating?
+    words: urinate, pee, piss, take a piss, take a leak
+  - q: What words refer to urine?
+    words: urine, pee
+  - q: Where do people urinate?
+    words: urinal
+  - q: What do the kidneys and bladder do?
+    words: produce urine, store urine
+  - q: What words refer to a kidney stone?
+    words: kidney stone, pass (a kidney stone)

@@ -1,0 +1,24 @@
+code: "2.1.6"
+guid: 1D8633E0-4279-4DDC-826E-16AA08A977E5
+name: Bone, joint
+description: Use this domain for words related to the bones and joints.
+related: ["2.1.1", "1.6.2"]
+questions:
+  - q: What general words refer to a bone?
+    words: bone, bony
+  - q: What words refer to the entire set of bones?
+    words: skeleton, skeletal
+  - q: What words refer to specific bones?
+    words: >-
+      skull, jawbone, shoulder blade, collarbone, clavicle, backbone, rib, hip, tibia,
+      tailbone, carpal, carpus, cranium, femur, fibula, humerus, mandible, mandibular,
+      maxillary, metacarpus, metacarpal, metatarsus, metatarsal, parietal bone, pelvis,
+      pelvic, radius, shinbone, spine, sternum, tarsus, ulna, vertebra, vertebral
+  - q: What are the parts of a bone?
+    words: marrow
+  - q: What words refer to a joint between two bones?
+    words: joint, knuckle (of finger), elbow, knee, hip, coronal suture
+  - q: What are the parts of a joint?
+    words: cartilage, tendon, fluid sack, socket, ball
+  - q: What words refer to the sounds made by popping the knuckles?
+    words: to crack (your knuckles), pop

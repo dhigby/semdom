@@ -1,0 +1,12 @@
+code: "7.7"
+guid: 66D8B546-92F5-4E94-B992-08BE81C3D30C
+name: Physical impact
+description: >-
+  Use this domain for general words referring to making a physical impact on something,
+  including the words for the action itself and the result of the action.
+louwNidaCodes: 19 Physical Impact
+questions:
+  - q: What general words refer to making an impact on something?
+    words: impact (v), affect, change (v), impinge
+  - q: What words refer to the effect on the object?
+    words: impact (n), effect, change (n), impression

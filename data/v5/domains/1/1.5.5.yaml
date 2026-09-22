@@ -1,0 +1,56 @@
+code: "1.5.5"
+guid: D117AA22-3F18-47C4-9683-51ECF1DC7134
+name: Parts of a plant
+description: >-
+  Use this domain for words that refer to parts of a plant. Start with general words that
+  all plants have. Then think through each major type of plant. Finish by thinking of
+  specific plants that are well known (usually cultivated crops) and that have words for
+  specific parts (e.g. tassel on a corn/maize cob).
+ocmCodes: 137a Plant Parts
+louwNidaCodes: 3D Fruit Parts of Plants; 3E Non-Fruit Parts of Plants
+questions:
+  - q: What are the basic parts of all plants?
+    words: root, trunk, stalk, branch, stem, leaf
+  - q: What words refer to the roots?
+    words: root, tuber, tubercle, bulb, taproot, runner, root hairs, rootstock
+  - q: What words refer to the trunk?
+    words: trunk, stalk, reed, bole, woody, base
+  - q: What words refer to the branches?
+    words: branch, bough, limb, twig, stick, stem, fork
+  - q: What words refer to the leaves?
+    words: leaf, leafy, pine needle, fern, foliage, palm frond, stem, blade, vein
+  - q: What types of thorns are there?
+    words: thorn, spine, cactus needle, burr
+  - q: What words refer to the outside of a plant?
+    words: bark, burl, knot, hull, husk, shell, cork
+  - q: What is the inside of a plant called?
+    words: wood, rings, heartwood, pith, pulp, fiber
+  - q: What words refer to the seeds?
+    words: >-
+      seed, acorn, bean, berry, cone, ear, grain, gourd, kernel, nut, pinecone, pod,
+      rosehip, bran, chaff, cob, corncob, germ, head of grain, hull, husk, nutshell, pod,
+      pit, rind, section, seedcase, shell, skin, stem, stone, whole(wheat)
+  - q: What words refer to the fruit?
+    words: fruit, peel, peeling, juice, pulp, pulpy, flesh, fleshy, core, skin, stem, seed
+  - q: What words refer to the flowers?
+    words: flower, bloom, blossom, petal, stamen, pistil, nectar, pollen, spear, spike
+  - q: What are the parts of a vine?
+    words: vine, runner, creeper
+  - q: What are the parts of grass?
+    words: stem, stalk, blade of grass, straw
+  - q: What are the parts of maize?
+    words: head, cob, husk, corn silk, kernel, tassel
+  - q: What are the parts of a banana plant?
+    words: stalk, leaf, flower, bunch, hand, finger
+  - q: What are the parts of a coconut tree?
+    words: trunk, frond, midrib, leaf, needle, nut, husk, shell, meat, milk
+  - q: What is new growth on a plant called?
+    words: shoot, sprout, bud, new growth, old growth
+  - q: What is a group of fruit called?
+    words: cluster of fruit, bunch of grapes, hand of bananas
+  - q: What liquids are produced by plants?
+    words: sap, resin, juice, milk
+  - q: What are the dead parts of plants called?
+    words: dead branches, dead wood, rot, dry rot, dead leaves, dry leaves
+  - q: What words are used of plants when they have been cut down?
+    words: log, stump, grass trimmings, compost, pile of leaves, straw, hay

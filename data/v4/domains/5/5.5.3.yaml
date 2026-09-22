@@ -1,0 +1,19 @@
+code: "5.5.3"
+guid: 514974A2-C2FD-4B25-A24D-2FF52FA3D798
+name: Extinguish a fire
+description: Use this domain for all the ways a person can stop a fire.
+questions:
+  - q: What words refer to a fire stopping?
+    words: die down, go out, burn itself out
+  - q: What general words are used of a person stopping a fire?
+    words: extinguish, put out (a fire), fight (a fire), stub out (a cigarette)
+  - q: What words are used of stopping a fire with water?
+    words: douse (a fire), quench (a fire)
+  - q: What words are used of stopping a fire by blowing on it?
+    words: blow out (a candle)
+  - q: What words are used of stopping a fire by covering it?
+    words: smother (a fire), snuff out (a flame)
+  - q: What words refer to a person whose job is to stop fires?
+    words: fireman, firefighter
+  - q: What equipment is used to stop a fire?
+    words: fire engine, fire truck, fire extinguisher

@@ -1,0 +1,23 @@
+code: "7.1.3"
+guid: 0AAE0254-DC06-4906-8ECF-2D8450FB83F1
+name: Lie down
+description: Use this domain for words referring to lying down.
+louwNidaCodes: 17G Lie x; 17F Recline x
+related: ["5.1.1.3", "5.7"]
+questions:
+  - q: What words refer to lying down from a standing or sitting positions?
+    words: lie, lie down, lie back, recline, stretch out, sprawl, prostrate
+  - q: What words describe how a person lies down?
+    words: flop down, fall into bed
+  - q: What words refer to being in a lying position?
+    words: lie, be lying down, lay, be prone, recumbent, repose
+  - q: What words describe how a person is lying?
+    words: >-
+      lie on your back/front/side, stretched out, spread-eagled, sprawled, flat out,
+      reclining
+  - q: What words refer to getting up from lying down?
+    words: get up, get out of bed, sit up
+  - q: What words refer to causing someone to lie down?
+    words: lay someone (down/somewhere)
+  - q: What words refer to the place where a person lies?
+    words: bed

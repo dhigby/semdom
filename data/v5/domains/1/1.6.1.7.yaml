@@ -1,0 +1,31 @@
+code: "1.6.1.7"
+guid: ECC39BC2-6336-48CA-BE46-CF5E49A3C267
+name: Insect
+description: >-
+  Use this domain for the names of insect species (phylum Arthropoda, class Insecta). Note
+  that insects have six legs and spiders have eight legs. However some languages may not
+  distinguish insects from spiders and may use other characteristics to sub-divide the
+  Arthropods.
+ocmCodes: 136k Insect
+louwNidaCodes: 4C Insects
+questions:
+  - q: What general words refer to insects?
+    words: insect, bug
+  - q: What species of insects are there?
+    words: >-
+      ant, army ant, armyworm, bedbug, bee, beetle, bluebottle fly, botfly, bristletail,
+      bumblebee, butterfly, carpenter bee, chigger, cicada, cockroach, cricket, daddy
+      longlegs, damselfly, deerfly, dragonfly, dung beetle, earwig, firefly, flea, fly,
+      glowworm, gnat, grasshopper, hawkmoth, hellgramite, honeybee, hornet, horsefly,
+      housefly, inchworm, jigger, katydid, ladybug, leaf-hopper, lice, locust, long-horned
+      beetle, louse, mantis, mayfly, midge, millipede, mite, monarch butterfly, mosquito,
+      moth, mud wasp, nit, praying mantis, roach, sawfly, scarab, silkworm, silverfish,
+      stinkbug, swallowtail, termite, tick, tsetse fly, tumblebug, walking stick, wasp,
+      weevil, wiggler, wriggler
+  - q: What special kinds of workers exist within an insect colony?
+    words: queen (ant, bee), worker, drone (bee), soldier
+  - q: What words describe insects?
+    words: >-
+      borer, carnivorous, cosmopolitan, crawling, creeping, diurnal, dauber, flying, hopper,
+      hopping, insectile, larva, larval, nocturnal, pest, predaceous, predator, pupa, queen,
+      segmented, stinging, two-winged, venomous, winged, wingless

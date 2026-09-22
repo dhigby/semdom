@@ -1,0 +1,15 @@
+code: "6.5.1.1"
+guid: 191CA5A5-0A67-426E-ADFC-6FDF7C2AAA2C
+name: House
+description: Use this domain for general words referring to a house where people live.
+questions:
+  - q: What general words refer to a house where people live?
+    words: >-
+      dwelling, house, home, abode, habitation, residence, homestead, settlement, compound,
+      place
+  - q: What kinds of houses are there?
+    words: bungalow, mansion, duplex, apartment
+  - q: What words refer to a description of the location of a house?
+    words: address
+  - q: What words refer to the inside of a house?
+    words: inside, indoors, indoor, interior

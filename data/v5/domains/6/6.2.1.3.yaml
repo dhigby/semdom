@@ -1,0 +1,12 @@
+code: "6.2.1.3"
+guid: 2854734E-834A-42CB-8812-D9E7028916DC
+name: Growing vegetables
+description: >-
+  Use this domain for words related to growing vegetables, such as asparagus, beans,
+  broccoli, cabbage, celery, chard, cucumbers, eggplant, melons, peas, peppers, pumpkins,
+  spinach, squash, tomatoes, and watermelons. If one type of vegetable is cultivated
+  extensively and there are many words related to it, set up a separate domain for it.
+ocmCodes: 244 Vegetable Production
+questions:
+  - q: What words refer to growing vegetables?
+    words: vegetable garden, hoe, pick

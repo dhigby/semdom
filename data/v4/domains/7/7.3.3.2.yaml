@@ -1,0 +1,10 @@
+code: "7.3.3.2"
+guid: 3180B6AA-3AD9-4BD3-96F7-AE72264406FB
+name: Return something
+description: >-
+  Use this domain for words referring to moving something back to an original place or
+  person. (Something is in a place, someone (or something) moves it, then someone moves it
+  back to the first place.)
+questions:
+  - q: What words refer to putting something back in its place?
+    words: replace, put back, return (something), return to its place, restore to owner

@@ -1,0 +1,9 @@
+code: "4.1.6.4"
+guid: 0AC81210-20FF-4A89-948F-5D154668F05C
+name: Independent person
+description: >-
+  Use this domain for words describing an independent person--someone who does things
+  without other people's help.
+questions:
+  - q: What words describe a person who does things without other people's help?
+    words: independent, self-reliant, self-sufficient, individualist

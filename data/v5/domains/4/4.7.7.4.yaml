@@ -1,0 +1,14 @@
+code: "4.7.7.4"
+guid: BF5175F6-FBE4-4AC6-9041-F8AA78B7AC78
+name: Execute
+description: Use this domain for words related to executing someone for a crime.
+louwNidaCodes: 6F Instruments Used in Punishment and Execution
+questions:
+  - q: What words refer to executing someone for a crime?
+    words: execute, behead, hang, crucify, burn at the stake, impale, execution
+  - q: What words refer to someone who executes a criminal?
+    words: executioner, firing squad, hangman
+  - q: What things are used to execute someone?
+    words: >-
+      gas chamber, electric chair, gallows, gibbet, guillotine, lethal injection, noose,
+      scaffold, cross, stake, sword

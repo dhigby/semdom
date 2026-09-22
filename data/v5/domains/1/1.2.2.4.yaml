@@ -1,0 +1,21 @@
+code: "1.2.2.4"
+guid: 56C9C38C-728A-42FE-B93C-6CA67FDF2A9A
+name: Mineral
+description: >-
+  Use this domain for naturally occurring elements, compounds, and minerals--things you can
+  find in the ground.
+ocmCodes: 135 Mineral Resources
+louwNidaCodes: 2A Elements
+related: ["6.6.2"]
+questions:
+  - q: What general words refer to minerals?
+    words: mineral, mineral resources, element, chemical, atom, crystal, ore
+  - q: What types of minerals are there?
+    words: >-
+      bauxite, borax, brimstone, calcium, carbon, coal, coke, feldspar, gypsum, limestone,
+      magnetite, mica, nitrate, peat, phosphate, phosphorus, pitch, pitchblende, potash,
+      potassium, pyrite, salt, saltpeter, silica, soda, sulfur, talc, tar
+  - q: What words refer to the study of minerals?
+    words: mineralogy, mineralogist
+  - q: What words refer to the formation of minerals?
+    words: mineralize, calcify, petrify, vitrify

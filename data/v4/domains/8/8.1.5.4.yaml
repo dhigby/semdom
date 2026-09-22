@@ -1,0 +1,21 @@
+code: "8.1.5.4"
+guid: D1687857-0F1D-4098-AFFB-B283A6677B6B
+name: Most, almost all
+description: Use this domain for words related to most--more than half and less than all of something.
+questions:
+  - q: What words refer to most of something?
+    words: >-
+      most, almost all, nearly all, the majority, the bulk of, the better part of, the best
+      part of, the lion's share, the biggest slice of the cake
+  - q: What words describe something that is done by most people?
+    words: generally, broad
+  - q: What words indicate that most of a group is of one kind?
+    words: >-
+      mostly, mainly, largely, predominantly, predominate, be in the majority, a
+      preponderance
+  - q: >-
+      What words indicate that something happens or someone does something more than
+      anything else?
+    words: mostly, mainly, in most cases, most of the time
+  - q: What words refer to less than half of something?
+    words: minority

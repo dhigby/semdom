@@ -1,0 +1,12 @@
+code: "1.5.7"
+guid: F7B7EB3C-B784-4BA5-8DAC-A68FD27CE0EA
+name: Plant diseases
+description: Use this domain for words related to plant diseases.
+ocmCodes: 137c Parasites
+questions:
+  - q: What types of diseases occur in plants?
+    words: blight, wither
+  - q: What types of parasites live on plants?
+    words: mistletoe
+  - q: What words refer to plants dropping their fruit?
+    words: drop fruit

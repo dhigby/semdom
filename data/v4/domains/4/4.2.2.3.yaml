@@ -1,0 +1,12 @@
+code: "4.2.2.3"
+guid: AFF720BD-FB3D-4F85-BBC4-41D5FC5B83F8
+name: Celebrate
+description: Use this domain for words related to celebrating.
+louwNidaCodes: 51 Festivals
+questions:
+  - q: What words refer to celebrating?
+    words: >-
+      celebrate, commemorate, honor, do something in someone's honor, mark, in celebration
+      of
+  - q: What words refer to a celebration?
+    words: celebration, party, feast, festival, pageant, parade

@@ -1,0 +1,35 @@
+code: "8.2.8"
+guid: DFDCFA24-B013-4566-AF4A-28EF1DFD4742
+name: Measure
+description: >-
+  Use this domain for words related to measuring something--to find out the size, length,
+  weight, or amount of something.
+ocmCodes: 804 Weights and Measures
+louwNidaCodes: 81 Spatial Dimensions; 81A Measure, To Measure; 6V Instruments for Measuring
+related: ["8.4.4"]
+questions:
+  - q: What words refer to measuring something?
+    words: >-
+      measure, take a measurement, assay, assess, balance, calibrate, determine, fathom,
+      gauge, grade, mete, meter, pace, plumb, quantify, rank, reach, read, take a reading,
+      record, rule, sound, span, step off, stretch, stride, survey, tape, test, time
+  - q: What words refer to the size or amount of something?
+    words: >-
+      capacity, dimension, distance, extent, length, measure, portion, quantity, size,
+      volume
+  - q: What words describe something that can be measured?
+    words: measurable, quantifiable
+  - q: What words refer to the number or amount that you get when you measure something?
+    words: measurement, reading
+  - q: What general words refer to a unit of measure?
+    words: unit, measure, standard, scale, benchmark
+  - q: What words indicate that something is a particular size or amount?
+    words: is, measure (v), weigh, how big, of
+    sentence: two kilos <of> sugar
+  - q: What instruments are used to measure something?
+    words: >-
+      abacus, almanac, beam, calendar, caliper, chain, chronometer, clock, compass, dial,
+      gauge, instrument, level, line, micrometer, plumb, protractor, quadrant, rod, rule,
+      ruler, sextant, square, straightedge, tape, tapeline, thermometer, watch, yardstick
+  - q: What words refer to an amount that cannot be measured?
+    words: immeasurable, measureless, incalculable, unfathomable, unmeasured, untold

@@ -1,0 +1,15 @@
+code: "3.2.5.3"
+guid: 6FC8AE4D-9FAD-462E-9EA0-C613C3C1CB5E
+name: Doubt
+description: Use this domain for words related to doubt--not being sure if something is true or not.
+questions:
+  - q: What words are used of being unsure of the truth of something?
+    words: >-
+      doubt, doubt the truth of, have doubts, debate in your mind, be skeptical, mistrust,
+      suspect, harbor suspicions, take with a grain of salt
+  - q: What words are used of doubtful thoughts?
+    words: doubt, suspicion, skepticism
+  - q: What words refer to a person who doubts?
+    words: doubter, skeptic, agnostic
+  - q: What words refer to a person that you doubt?
+    words: suspicious character

@@ -1,0 +1,13 @@
+code: "5.4.3.3"
+guid: 64FA0BA7-73CB-40E9-A8D2-3E61FFF146C9
+name: Dye hair
+description: Use this domain for words related to dying your hair.
+questions:
+  - q: What words refer to dying the hair?
+    words: to dye, to color, tint, dye
+  - q: What words describe the color of a person's hair?
+    words: hair color, black, brown, brunette, blond, auburn, red, redhead, dyed, bleached
+  - q: What techniques are used to dye hair?
+    words: dye, rinse
+  - q: What things are used to dye hair?
+    words: hair coloring

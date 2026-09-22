@@ -1,0 +1,25 @@
+code: "1.6.3.1"
+guid: B6A40216-FE93-4B0F-B85B-5622327031D0
+name: Egg
+description: Use this domain for words related to eggs.
+questions:
+  - q: What words refer to an egg?
+    words: egg
+  - q: What types of eggs are there?
+    words: bird egg, reptile egg, insect egg
+  - q: What are the parts of an egg?
+    words: shell, eggshell, yoke, white, membrane, embryo
+  - q: What is a baby bird called?
+    words: chick, baby bird, hatchling
+  - q: What do birds do to eggs?
+    words: lay, sit on, incubate, roust, turn, fertilize
+  - q: Where do birds lay their eggs?
+    words: nest
+  - q: What is a group of eggs called?
+    words: clutch
+  - q: How do baby birds get out of their egg?
+    words: hatch, peck its way out of the egg
+  - q: What words are used for opening an egg?
+    words: crack, break, smash
+  - q: What words are used to describe a bad egg?
+    words: rotten, cracked, broken

@@ -1,0 +1,14 @@
+code: "6.5.4"
+guid: C6B62D63-B355-46C9-A8C7-E0A0BF112A9E
+name: Infrastructure
+description: >-
+  Use this domain for words related to infrastructure--the big things people make that many
+  people use, such as roads, electric power lines, and water supply systems.
+ocmCodes: >-
+  364 Refuse Disposal and Sanitary Facilities; 365 Public Utilities; 366 Commercial
+  Facilities; 367 Parks; 368 Miscellaneous Facilities
+questions:
+  - q: >-
+      What words refer to the things the government builds to provide for the needs of the
+      public?
+    words: infrastructure, public works, park

@@ -1,0 +1,15 @@
+code: "4.2.6"
+guid: 6745C89D-1FCD-44B8-BE4B-9FD9D62F64E7
+name: Entertainment, recreation
+description: Use this domain for words related to entertainment and recreation.
+ocmCodes: >-
+  540 Commercialized Entertainment; 520 Recreation; 517 Leisure Time Activities; 523
+  Hobbies; 529 Recreational Facilities; 541 Spectacles; 543 Exhibitions; 546 Motion Picture
+  Industry; 547 Night Clubs and Cabarets; 548 Illegal Entertainment; Organized Vice
+louwNidaCodes: 50 Contests and Play
+questions:
+  - q: What general words refer to things people do for fun?
+    words: >-
+      recreational activity, amusement, competition, recreation, leisure, play, hobby,
+      distraction, diversion, entertainment, frolic, fun, merriment, pastime, revelry, romp,
+      shindig

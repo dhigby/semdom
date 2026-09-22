@@ -1,0 +1,12 @@
+code: "3.5.1.1.2"
+guid: 9612BDD6-15CB-4269-AAF9-481C7B35B5DD
+name: Speak quietly
+description: Use this domain for words that describe a person speaking quietly.
+related: ["2.3.2.5"]
+questions:
+  - q: What words refer to speaking quietly?
+    words: speak quietly, talk softly, whisper, murmur, mumble
+  - q: What words refer to speaking without making any sound?
+    words: mouth the words
+  - q: What words do you use when you want someone to speak quietly?
+    words: tone it down

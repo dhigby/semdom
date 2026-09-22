@@ -1,0 +1,10 @@
+code: "4.4.4.6"
+guid: 6C282031-F1CA-492A-B94C-B48E74E6F25D
+name: Free from bondage
+description: Use this domain for words related to freeing someone from bondage.
+related: ["3.3.4.5"]
+questions:
+  - q: What words refer to freeing someone from bondage?
+    words: >-
+      liberated, be free, unfettered, unbound, unchained, unleashed, pardoned, release (n),
+      released, reprieve, parole, unrestrained, licensed, authorized, unconfined

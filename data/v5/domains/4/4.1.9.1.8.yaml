@@ -1,0 +1,9 @@
+code: "4.1.9.1.8"
+guid: EB0C9E02-E4C1-4E5E-84B6-BE63AAF439D5
+name: Nephew, niece
+description: Use this domain for words referring to your nephews and nieces.
+questions:
+  - q: What words refer to your brother's child?
+    words: nephew, niece
+  - q: What words refer to your sister's child?
+    words: nephew, niece

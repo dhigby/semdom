@@ -1,0 +1,10 @@
+code: "4.6.6.2"
+guid: 8B6AECFB-071D-439D-9EE0-EFA3C57967A0
+name: Diplomacy
+description: Use this domain for words related to diplomacy between nations.
+ocmCodes: 648 International Relations
+questions:
+  - q: What words refer to diplomacy between nations?
+    words: >-
+      diplomacy, diplomatic corps, ambassador, (king's) representative, Secretary of State,
+      treaty, international relations

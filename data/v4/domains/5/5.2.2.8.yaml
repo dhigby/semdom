@@ -1,0 +1,20 @@
+code: "5.2.2.8"
+guid: B4E6C077-4F5E-44F3-8868-1F7AE3486585
+name: Eating utensil
+description: Use this domain for words related to eating utensils.
+ocmCodes: 415 Utensils
+questions:
+  - q: What words refer to the utensils used to cut and move food?
+    words: >-
+      eating utensil, knife, butter knife, steak knife, fork, dessert fork, spoon, teaspoon,
+      soup spoon, spatula, serving spoon, chopsticks
+  - q: What words refer to a dish for food?
+    words: plate, dinner plate, salad plate, bowl, cereal bowl
+  - q: What words refer to a dish for drinking?
+    words: cup, glass, mug, goblet
+  - q: What utensils are used for catching spilled food?
+    words: bib, napkin (serviette), place mat
+  - q: What words refer to the utensils used by one person?
+    words: place setting
+  - q: What words refer to preparing the table for eating?
+    words: set the table

@@ -1,0 +1,9 @@
+code: "6.8"
+guid: 2B893D04-3450-4862-B046-7DF6F87272F6
+name: Finance
+description: Use this domain for words related to finance.
+ocmCodes: 450 Finance
+louwNidaCodes: 57 Possess, Transfer, Exchange
+questions:
+  - q: What words refer to finance?
+    words: finance, financial, monetary, fiscal

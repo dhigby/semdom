@@ -1,0 +1,15 @@
+code: "9.6.2.2"
+guid: 05E20A72-9496-4BBA-8097-5605692E83A1
+name: Limitation of topic
+description: Use this domain for words indicating the topic that is being talked about.
+louwNidaCodes: 89D Specification
+questions:
+  - q: What words indicate the specific area or topic that is being talked about?
+    words: >-
+      specify, specified, specification, specifically in regard to, with regard to, in the
+      case of, concerning, in the area of, in, with, between...and, as touching, particular,
+      particularly, more especially
+    sentence: >-
+      He is rich <in> land.; He is a leader, <specifically in regard to> strategy.; <In the
+      case of> a disagreement we will seek arbitration.; What does that have to do <with>
+      me?; There might be a problem <between> our decision <and> his.

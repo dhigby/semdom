@@ -1,0 +1,9 @@
+code: "6.4.1.1"
+guid: 62B40326-F74C-4D80-9B1C-4DAE0FC07026
+name: Track an animal
+description: Use this domain for words related to tracking an animal.
+questions:
+  - q: What words refer to following a wild animal?
+    words: track, follow, read the signs, stalk, trail, chase
+  - q: What words refer to the marks left by an animal on the ground?
+    words: track, print, footprint, paw print, hoof print, sign, trail

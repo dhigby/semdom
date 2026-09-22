@@ -1,0 +1,34 @@
+code: "3.2.1.2"
+guid: BE89E0BA-4C6A-4986-AC0D-859A901B89A1
+name: Imagine
+description: >-
+  Use this domain for imagining things--to think about something that does not exist, or to
+  think about something happening that has never happened.
+questions:
+  - q: What words refer to imagining things?
+    words: >-
+      imagine, conceive of, dream up, envisage, hypothesize, invent, picture (in your mind),
+      form a picture, make up, see, suppose, think of, think up, visualize
+  - q: What words refer to imagining something that you would like to do?
+    words: daydream (v), dream about, dream of, fantasize, live in a fantasy world
+  - q: What words refer to imagining things that do not exist?
+    words: imagine, be in the mind, be in your mind, be seeing things, hallucinate
+  - q: What words refer to the ability to imagine?
+    words: imagination, vivid imagination, fertile imagination, creativity, inventiveness, vision
+  - q: What words refer to a person who imagines?
+    words: creative genius, dreamer, visionary
+  - q: What words describe someone who imagines?
+    words: imaginative, creative (person)
+  - q: What words refer to something that someone imagines?
+    words: >-
+      image, conception, conceptualization, creation, daydream (n), dream, fancy, flight of
+      fancy, fantasy, fiction, figment of your imagination, hallucination, hypothesis,
+      invention, make believe, picture, unreality, vision, visualization
+  - q: What words describe something that someone has imagined?
+    words: >-
+      imaginary, abstract, conceptual, creative (thought), fanciful, fictional,
+      hypothetical, unreal, nonexistent, doesn't exist
+  - q: What words describe someone who does not imagine?
+    words: unimaginative, uncreative
+  - q: What words describe something that cannot be imagined?
+    words: unimaginable, inconceivable

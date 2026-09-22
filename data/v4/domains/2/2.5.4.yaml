@@ -1,0 +1,26 @@
+code: "2.5.4"
+guid: C2DBE83A-D638-45AC-A6D5-5F041B9DDE71
+name: Disabled
+description: >-
+  Use this domain for general words for being disabled--to be injured or born with a
+  condition, so that some part of your body does not work.
+ocmCodes: 732 Disabilities; Handicapped; 734 Invalidism
+questions:
+  - q: What words refer to being disabled?
+    words: >-
+      be disabled, have special needs, be crippled, be lame, be paralyzed, have a withered
+      arm
+  - q: What words refer to disabling someone?
+    words: disable, handicap (v), cripple, paralyze, maim, mutilate, disfigure
+  - q: What words refer to the condition of being disabled?
+    words: disability, handicap (n), disfigurement, mutilation, paralysis, palsy
+  - q: What words refer to a disabled person?
+    words: >-
+      the disabled, people with disabilities, the handicapped, cripple (n), lame (n),
+      paraplegic (legs only), quadriplegic (all four limbs), paralytic
+  - q: What words describe someone who has been disabled?
+    words: >-
+      disabled, handicapped, crippled, paralyzed, partially paralyzed, totally paralyzed,
+      maimed, disfigured, mutilated, lame
+  - q: What things are used by a crippled person?
+    words: crutch, cane, wheelchair, walker, stretcher, pallet

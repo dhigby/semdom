@@ -1,0 +1,13 @@
+code: "4.6.8"
+guid: FD38ABE0-2D47-51DF-BA1E-A9665936DF0A
+name: Elections, voting
+description: Use this domain for words related to choosing leaders or deciding questions by voting.
+questions:
+  - q: What words refer to an election?
+    words: election, vote, ballot, poll, referendum
+  - q: What words refer to taking part in an election?
+    words: vote (v), cast a ballot, register, campaign, run for office, stand for election
+  - q: What words refer to people involved in an election?
+    words: voter, candidate, electorate, observer, returning officer
+  - q: What words refer to the result of an election?
+    words: win, lose, elect, majority, turnout, results

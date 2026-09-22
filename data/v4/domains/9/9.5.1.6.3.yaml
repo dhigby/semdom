@@ -1,0 +1,10 @@
+code: "9.5.1.6.3"
+guid: 9F91CD53-8B9E-4D76-82E4-5EDE39112322
+name: Goal (of movement)
+description: Use this domain for words indicating the Goal of movement.
+questions:
+  - q: What words indicate the Goal of movement?
+    words: to, destination
+    sentence: >-
+      We traveled <to> New York.; Our <destination> is New York.; John moved the wood <to>
+      the back of the house.; John sent David <to> New York.

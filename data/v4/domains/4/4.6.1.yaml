@@ -1,0 +1,27 @@
+code: "4.6.1"
+guid: 7DDBD56F-E458-4A72-A9BC-9B7DB6BDE75A
+name: Ruler
+description: Use this domain for words related to the ruler of a country.
+ocmCodes: 643 Chief Executive; 644 Executive Household
+questions:
+  - q: What is the person called who is the highest ruler in the country?
+    words: >-
+      ruler, highest ruler, supreme authority, head of state, leader of the country,
+      emperor, king, president, premier, chancellor, prime minister, Caesar, pharaoh, chief,
+      paramount chief, chieftain, chief of state
+  - q: What words refer to the position or office of the ruler?
+    words: >-
+      throne, kingship, presidency, premiership, chieftaincy, chieftainship, position,
+      office
+  - q: What words describe something having to do with the ruler?
+    words: royal, regal, imperial, kingly, presidential, majestic
+  - q: What words refer to the house of the ruler?
+    words: palace, castle, White House, number 10 Downing Street
+  - q: What words refer to the symbols of the ruler?
+    words: throne, crown, diadem, scepter, royal robes, presidential seal
+  - q: What special words and phrases are used when talking to the ruler?
+    words: your majesty, live forever
+  - q: What words refer to when a ruler begins to rule?
+    words: take the throne, crown (v), swear in, take the oath of office
+  - q: What words refer to when a ruler stops ruling?
+    words: abdicate, resign, overthrow, leave office

@@ -1,0 +1,11 @@
+code: "7.2.1.7"
+guid: 32D5B3DE-0500-4AD6-B94E-20B8001D0A91
+name: Move noisily
+description: Use this domain for words referring to making a noise while moving.
+questions:
+  - q: What words refer to making a noise while moving?
+    words: >-
+      bang, buzz, chug, clack, clang, clank, clatter, click, clink, clump, clunk, crackle,
+      crash, creak, crunch, fizz, gurgle, hiss, howl, patter, ping, purr, putter, roar,
+      rumble, rustle, screech, splash, splutter, squelch, swish, thud, thump, thunder,
+      wheeze, whine, whir, zing

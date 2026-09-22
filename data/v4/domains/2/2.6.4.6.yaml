@@ -1,0 +1,22 @@
+code: "2.6.4.6"
+guid: F718FC15-59B2-4B6A-A9E3-39B3E8D487D7
+name: Grow, get bigger
+description: >-
+  Use this domain for words referring to people, animals, or plants growing and getting
+  bigger.
+ocmCodes: 145 Ontogenetic Data; 856 Development and Maturation
+louwNidaCodes: 23K Grow, Growth
+related: ["8.2.2"]
+questions:
+  - q: What words refer to growing bigger?
+    words: grow, get taller, bet bigger, develop, increase in size, mature, grow up
+  - q: What words describe something that is growing?
+    words: growing
+  - q: What words refer to growing quickly or well?
+    words: flourish, thrive, shoot up
+  - q: What words describe something that has finished growing?
+    words: fully grown, adult, mature, grown up, fully developed
+  - q: What words describe something that has not yet finished growing?
+    words: immature
+  - q: What words refer to the process of growing?
+    words: growth, development, maturation

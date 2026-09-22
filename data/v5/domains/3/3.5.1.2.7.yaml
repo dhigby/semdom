@@ -1,0 +1,12 @@
+code: "3.5.1.2.7"
+guid: 728BBC7C-E5B3-47D8-8532-72239E5C88BB
+name: Summarize
+description: >-
+  Use this domain for words referring to summarizing what you have said or what someone else
+  has said.
+related: ["3.5.1.2.2"]
+questions:
+  - q: What words refer to repeating what someone has said, but saying it in fewer words?
+    words: summarize, summary, review, recap
+  - q: What words refer to a brief description of the major points or features of something?
+    words: summarize, summary, synopsis, overview

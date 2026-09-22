@@ -1,0 +1,38 @@
+code: "3.5.6.5"
+guid: B4FE4698-54A2-4BCD-9490-E07EE1EE97AF
+name: Cry, tear
+description: >-
+  Use this domain for words related to crying--when water forms in the eyes because of
+  sadness or pain.
+louwNidaCodes: 25L Laugh, Cry, Groan x
+questions:
+  - q: What words refer to crying?
+    words: cry, weep, be in tears, tearful, have tears in your eyes, weeping, weepy, squall
+  - q: What words refer to crying a lot?
+    words: >-
+      cry your eyes out, tears roll down your cheeks, eyes full of tears, eyes are brimming
+      with tears, cry your heart out, cry yourself to sleep
+  - q: What words refer to crying in a noisy way?
+    words: sob, bawl, howl, wail
+  - q: What words refer to crying in an annoying way?
+    words: snivel, sniffle, whimper, blubber, blub, crybaby
+  - q: What words refer to starting to cry?
+    words: >-
+      start to cry, start crying, burst into tears, break down, turn on the waterworks, get
+      teary
+  - q: What words refer to almost crying?
+    words: be close to tears, have a lump in your throat, fight back tears, choke back the tears
+  - q: What words refer to crying because something gets in your eyes?
+    words: cry, your eyes water
+  - q: What words refer to making someone cry?
+    words: >-
+      make someone cry, reduce someone to tears, bring tears to someone's eyes, tearful,
+      tearjerker
+  - q: What words refer to a tear?
+    words: tear, teardrop
+  - q: What do tears do?
+    words: fall, run (down the face), streak
+  - q: What do people do to tears?
+    words: wipe away, dry
+  - q: What do people say to stop someone from crying?
+    words: don't cry, there there

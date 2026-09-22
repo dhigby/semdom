@@ -1,0 +1,11 @@
+code: "6.1.7"
+guid: 97F40359-F4E8-4545-9BA5-980B47487540
+name: Artificial
+description: >-
+  Use this domain for words describing something that is artificial--something that is made
+  by people.
+questions:
+  - q: What words describe something made by people?
+    words: artificial, synthetic, man-made, processed
+  - q: What words describe something not made by people?
+    words: natural, wild, raw, virgin, untamed, organic

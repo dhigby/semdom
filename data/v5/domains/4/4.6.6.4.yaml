@@ -1,0 +1,8 @@
+code: "4.6.6.4"
+guid: B53DEAC1-26C7-4FE9-9109-8496E248E8C7
+name: Election
+description: Use this domain for words related to an election.
+ocmCodes: 666 Elections
+questions:
+  - q: What words refer to electing a government official?
+    words: election, elect, to vote, vote, candidate, campaign

@@ -1,0 +1,46 @@
+code: "7.2.2.5.1"
+guid: B14DB9F4-5E1D-4a2b-BEC0-0D6BCB5B1A31
+name: Fall
+description: >-
+  Use this domain for words referring to something falling--for something to move down under
+  the influence of gravity.
+louwNidaCodes: 15L Fall
+questions:
+  - q: What words refer to falling?
+    words: fall, drop, fall on
+  - q: What words refer to accidentally falling from a high position?
+    words: fall off, take a fall, tumble, be thrown
+  - q: What words refer to falling from a very high position?
+    words: plunge, plummet
+  - q: What words refer to falling from a standing position?
+    words: >-
+      fall down, fall over, have a fall, fall flat on your face, collapse, topple over, keel
+      over, go head over heels, fall headlong
+  - q: What words refer to almost falling?
+    words: trip, slip, stumble, lose your balance, lose your footing, keep your balance, stay up
+  - q: What words refer to falling off of something?
+    words: fall from, fall out, come off
+  - q: What words refer to the act of falling?
+    words: fall (n), avalanche
+  - q: What words refer to slowly falling?
+    words: sink slowly, float down, drift down, settle
+  - q: What words refer to something like rain or leaves falling through the air?
+    words: fall, drop, come down, parachute
+  - q: What words refer to letting something fall?
+    words: drop
+  - q: What words refer to something falling onto its side?
+    words: fall over, topple over, tip over
+  - q: What words refer to a building falling?
+    words: fall down, collapse, fall in, cave in
+  - q: What words refer to causing someone to fall?
+    words: knock down, push over, trip, knock someone to the ground, bring down
+  - q: What words refer to causing something to fall?
+    words: knock over, upset, tip over, overturn
+  - q: What words refer to water falling?
+    words: cascade, cataract, pour, precipitate, shower
+  - q: What words refer to falling into water?
+    words: sink, fall overboard, plunge into, fall into, plop, plunk
+  - q: What words refer to the force that causes things to fall?
+    words: gravity
+  - q: What words refer to keeping something from falling?
+    words: hold up, prop up, brace

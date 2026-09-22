@@ -1,0 +1,26 @@
+code: "2.6.6.7"
+guid: 1EC85151-EBA0-48F4-B56D-4F8040602A4B
+name: Inherit
+description: >-
+  Use this domain for words related to inheriting something from your parents after they
+  die.
+ocmCodes: 428 Inheritance
+questions:
+  - q: What words refer to inheriting something?
+    words: inherit, receive an inheritance, succeed to
+  - q: What words refer to someone who inherits something?
+    words: heir, heiress, beneficiary
+  - q: What words refer to something that is inherited?
+    words: inheritance, estate, legacy
+  - q: What words refer to a will?
+    words: will, last will and testament, probate
+  - q: What words refer to the process of making a will?
+    words: make a will, draw up a will, plan your estate, estate planning, testate, intestate
+  - q: What words refer to someone who makes a will?
+    words: testator
+  - q: What words refer to giving something to someone in your will?
+    words: leave, bequeath, will (v), hand down
+  - q: What words refer to the person who distributes the property?
+    words: executor
+  - q: What words refer to the right to inherit something?
+    words: birthright

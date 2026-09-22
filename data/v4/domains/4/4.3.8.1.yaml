@@ -1,0 +1,13 @@
+code: "4.3.8.1"
+guid: 0EFE342D-4969-4BD1-95BE-556F6C62ADFC
+name: Conform
+description: >-
+  Use this domain for words related to conforming to the behavior of others--to try to
+  behave the same way as other people, or to try to behave the way other people want you to
+  act.
+related: ["8.3.5.3.4"]
+questions:
+  - q: What words refer to conforming to the behavior of others?
+    words: conform
+  - q: What words describe someone who behaves like most other people?
+    words: conventional

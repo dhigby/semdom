@@ -1,0 +1,14 @@
+code: "4.1.9.1.7"
+guid: F957A4AA-D3D4-4DAD-93D1-20565B5158D4
+name: Cousin
+description: Use this domain for words referring to your cousins.
+ocmCodes: 605 Cousins
+questions:
+  - q: What words refer to your father's brother's child?
+    words: cousin
+  - q: What words refer to your father's sister's child?
+    words: cousin
+  - q: What words refer to your mother's brother's child?
+    words: cousin
+  - q: What words refer to your mother's sister's child?
+    words: cousin

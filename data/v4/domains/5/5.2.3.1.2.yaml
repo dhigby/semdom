@@ -1,0 +1,12 @@
+code: "5.2.3.1.2"
+guid: 9CAE4EE3-03CF-46F7-9475-21D66C93AE04
+name: Food from fruit
+description: Use this domain for words related to food from fruit.
+louwNidaCodes: 3D Fruit Parts of Plants
+questions:
+  - q: What types of fruit are eaten?
+    words: >-
+      apple, apricot, avocado, banana, berry, blueberry, breadfruit, carob, citrus,
+      cranberry, date, fig, grape, grapefruit, jackfruit, legume, lemon, lime, mango, olive,
+      orange, papaya, passion fruit, pea, peach, pear, pineapple, plantain, plum, prune,
+      raisin, raspberry, strawberry, tomato

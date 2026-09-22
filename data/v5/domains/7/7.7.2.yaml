@@ -1,0 +1,19 @@
+code: "7.7.2"
+guid: 5718FCC8-1EBA-4B8D-9B6B-0C8349F53F80
+name: Aim at a target
+description: >-
+  Use this domain for words referring to aiming at a target, and for hitting or missing the
+  target.
+questions:
+  - q: What words refer to aiming at a target?
+    words: aim, point, direct, line up on, set your sights on, sight along, focus on
+  - q: What words refer to hitting a target?
+    words: hit, on target
+  - q: What words refer to missing a target?
+    words: miss, fall short, overshoot, off center, wild shot
+  - q: What words refer to the target?
+    words: target, goal
+  - q: What words refer to the center of a target?
+    words: bull's-eye, dead center
+  - q: What words refer to a person who is good at hitting a target?
+    words: sharpshooter, marksman, good aim, good eye

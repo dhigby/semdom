@@ -1,0 +1,22 @@
+code: "4.3.2"
+guid: 9B0FEF63-5935-447D-801A-BB02DD6212BB
+name: Admire someone
+description: >-
+  Use this domain for words related to admiring someone--to feel good about someone because
+  you think that he is a good person.
+questions:
+  - q: What words refer to admiring a person?
+    words: >-
+      admire, be an admirer of, accept, approve of, esteem (v), hold in someone in high
+      esteem, look up to, have a high opinion of, hold someone in high regard, respect,
+      respectful, think highly of, think well of, hold in honor
+  - q: What words refer to admiring someone very much?
+    words: idolize, revere, worship, put someone on a pedestal, hero-worship
+  - q: What words refer to what someone thinks of a person, either good or bad?
+    words: estimation, opinion, regard
+  - q: What words refer to the thought or feeling that someone is good?
+    words: admiration, adulation, esteem (n), respect
+  - q: What words refer to a person who is admired?
+    words: idol, hero, heroine
+  - q: What words describe someone who is admired?
+    words: admirable, estimable, honorable, idolized

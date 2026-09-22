@@ -1,0 +1,8 @@
+code: "2.6.4"
+guid: 444407F2-0C75-4BB9-A84C-CBD52D0FA9C9
+name: Stage of life
+description: Use this domain for words referring to a stage of life--a time period in a person's life.
+ocmCodes: 145 Ontogenetic Data; 850 Infancy and Childhood; 880 Adolescence, Adulthood, and Old Age
+questions:
+  - q: What words refer to the time periods of a person's life?
+    words: stage of life, time of life, phase

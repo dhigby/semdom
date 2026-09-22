@@ -1,0 +1,16 @@
+code: "4.5.3.4"
+guid: BF0BDEEB-564D-407B-8BDF-31221AFF7364
+name: Appoint, delegate
+description: >-
+  Use this domain for words related to appointing someone to a position of authority, or
+  delegating authority to someone.
+ocmCodes: 676 Agency
+louwNidaCodes: 37E Assign to a Role or Function
+questions:
+  - q: What words refer to appointing someone to a position of authority?
+    words: >-
+      appoint (someone to a position), appointment, assign (someone to a position), place
+      (someone in authority), designate (someone as), delegate (authority to), give
+      (authority to), entrust (someone) with (something)
+  - q: What words describe someone in a position of authority?
+    words: responsible

@@ -1,0 +1,21 @@
+code: "1.1.2"
+guid: E836B01B-6C1A-4D41-B90A-EA5F349F88D4
+name: Air
+description: >-
+  Use this domain for words related to the air around us, including the air we breathe and
+  the atmosphere around the earth.
+louwNidaCodes: 2B Air
+related: ["1.2.3.3"]
+questions:
+  - q: What words refer to the air we breathe?
+    words: air
+  - q: What words refer to how much water is in the air?
+    words: humid, humidity, damp, dry, sticky, muggy
+  - q: >-
+      What words describe good air (such as when the air in a room is clean or doesn't smell
+      bad)?
+    words: fresh air, airy, well ventilated
+  - q: >-
+      What words describe bad air (such as when the air in a room is dirty, hot, smells bad,
+      or too many people are breathing)?
+    words: stuffy, airless, stifling, polluted, air pollution, smog

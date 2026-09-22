@@ -1,0 +1,10 @@
+code: "4.6.1.2"
+guid: 5F3E44B8-E94C-49B4-9E2D-1ACD93DDDF75
+name: Government official
+description: Use this domain for words related to a government official.
+ocmCodes: 645 Cabinet
+questions:
+  - q: What words refer to a government official?
+    words: official, chancellor, court, courtier, chamberlain, eunuch, minister, cabinet member
+  - q: What words refer to position in the government?
+    words: position, post, office

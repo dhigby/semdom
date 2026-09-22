@@ -1,0 +1,9 @@
+code: "4.5.5.1"
+guid: BC61BD8D-295B-4965-A183-703D21A56996
+name: Title, name of honor
+description: Use this domain for words related to a title of honor.
+questions:
+  - q: What words refer to a title used to address a person?
+    words: title, terms of address
+  - q: What words are used to speak to a person in authority?
+    words: your honor, your majesty, your grace, sir, mister, madam, ma'am

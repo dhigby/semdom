@@ -1,0 +1,22 @@
+code: "8.1.4"
+guid: 8216627D-9D20-4A5C-8BFD-0709C16E7A08
+name: More
+description: Use this domain for words related to there being more of something.
+questions:
+  - q: What words refer to more of something in addition to what is already there?
+    words: more, extra, another, added, additional, further, supplementary, spare
+    sentence: We need more food.
+  - q: What words indicate an amount that is more than an amount already mentioned?
+    words: more than, over and above, as well as, plus, in addition to, on top of
+    sentence: We need five chickens in addition to the ten we already have.
+  - q: What words describe something that is more than another thing in number or amount?
+    words: more, greater, higher, to a greater extent, to a greater degree
+    sentence: I own more land than you.
+  - q: What words indicate that the actual number is more than a particular number?
+    words: more, over, above, beyond, greater than, in excess of, upwards of, plus, at least
+    sentence: More than 100 people came to the wedding.
+  - q: What words refer to something being more than a particular number or amount?
+    words: be more than, be greater than, exceed, outnumber, be up on, pass, go past, surpass
+    sentence: My land is more than five acres.
+  - q: What words indicate that there are many more of something?
+    words: many more, much more, far more, far beyond, way beyond, a lot more

@@ -1,0 +1,13 @@
+code: "5.7.2"
+guid: 6736DAFE-2916-40F6-B6B7-B6300100933B
+name: Dream
+description: Use this domain for words related to dreaming.
+questions:
+  - q: What words refer to dreaming?
+    words: to dream (v), a dream (n), have a dream
+  - q: What do people do while dreaming?
+    words: talk in your sleep, walk in your sleep
+  - q: What is a good dream called?
+    words: sweet dreams, pleasant dreams
+  - q: What is a bad dream called?
+    words: nightmare, bad dream

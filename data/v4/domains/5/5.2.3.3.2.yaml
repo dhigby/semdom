@@ -1,0 +1,9 @@
+code: "5.2.3.3.2"
+guid: 7BECA90C-3671-4B3C-BF9A-FB8F08FF914B
+name: Salt
+description: Use this domain for words related to salt.
+questions:
+  - q: What words refer to salt?
+    words: salt, salty, saline, to salt, grain of salt
+  - q: What containers are used for salt?
+    words: saltshaker

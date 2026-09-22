@@ -1,0 +1,20 @@
+code: "6.6.3"
+guid: ADDE4A66-9040-47A9-91AB-327934A2E97E
+name: Working with wood
+description: Use this domain for words related to working with wood.
+ocmCodes: 322 Woodworking; 335 Carpentry; 289 Paper Industry
+questions:
+  - q: What words refer to working with wood?
+    words: >-
+      carpentry, to saw, to plane, to hammer, to nail, to chisel, sharpen, fit, carve, drive
+      a screw, to screw, hollow out a log, chop in pieces
+  - q: What words refer to a person who works with wood?
+    words: carpenter
+  - q: What materials does a carpenter work with?
+    words: wood, sawdust, shavings, chips
+  - q: What tools does a carpenter work with?
+    words: >-
+      saw (n), saw kerf, saw horse, plane (n), hammer (n), nail (n), chisel (n), mortise and
+      tenon, screwdriver, screw (n), sawhorse
+  - q: Where does a carpenter work?
+    words: carpentry shop

@@ -1,0 +1,22 @@
+code: "4.1.9.1"
+guid: 529140D1-6E8E-44FE-99F0-95289E933607
+name: Related by birth
+description: >-
+  Use this domain for words referring to being related by birth--when one of your ancestors
+  and one of someone else's ancestors are the same person.
+ocmCodes: 602 Kin Relationships
+louwNidaCodes: >-
+  10A Groups and Members of Groups of Persons Regarded as Related by Blood but without
+  Special Reference to Successive Generations; 10B Kinship Relations Involving Successive
+  Generations
+questions:
+  - q: What words refer to being related by birth?
+    words: related by blood, be descended from, descent, direct line, lineal descent, consanguine
+  - q: What words refer to someone who is related to you by birth?
+    words: blood relation
+  - q: What words refer to a listing of your ancestors?
+    words: genealogy, lineage, pedigree, family tree
+  - q: What words refer to inheriting physical traits from your ancestors?
+    words: >-
+      genetics, inherit, heredity, run in the family, pass on, take after, bad blood, genes,
+      breeding

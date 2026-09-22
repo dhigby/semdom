@@ -1,0 +1,8 @@
+code: "8.5.4"
+guid: A4B03891-C2DF-4d72-BBDC-13BC8D4ECEBA
+name: Area
+description: Use this domain for words referring to an area.
+louwNidaCodes: 80 Space; 80A Space, Place
+questions:
+  - q: What words refer to an area?
+    words: area, region, district, expanse (of land)

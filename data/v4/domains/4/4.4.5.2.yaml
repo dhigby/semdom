@@ -1,0 +1,17 @@
+code: "4.4.5.2"
+guid: CE6A862D-A4BB-4378-B14D-439806870C41
+name: Unlucky
+description: Use this domain for words related to being unlucky.
+questions:
+  - q: What words refer to being unlucky on a particular occasion?
+    words: >-
+      unlucky, unfortunate, have the misfortune to do something, have bad luck, be out of
+      luck, a run of bad luck, it's one of those days, it's not my day
+  - q: What words describe someone who always has bad luck?
+    words: unlucky, with my luck, just my luck, jinxed, born under a bad star, cursed
+  - q: What words describe an unlucky situation or event?
+    words: unlucky, unfortunate, unfortunately, as bad luck would have it, be bad luck
+  - q: What words describe something that causes bad luck?
+    words: unlucky, be bad luck, bring bad luck, a jinx on
+  - q: What words refer to bad luck?
+    words: bad luck, misfortune, bit of bad luck, hard luck

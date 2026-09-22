@@ -1,0 +1,17 @@
+code: "4.7.3"
+guid: 1DC717B9-C5E8-4482-B076-22102DA9D553
+name: Break the law
+description: Use this domain for words related to breaking the law.
+ocmCodes: 674 Crime; 677 Organized Crime; 672 Liability; 673 Wrongs
+louwNidaCodes: 88R Act Lawlessly
+questions:
+  - q: What words refer to breaking the law?
+    words: commit (a crime), break the law
+  - q: What words refer to a crime?
+    words: >-
+      crime, misdemeanor, felony, capital offense, treason, illegality, lawbreaking,
+      offense, wrong, wrongdoing, outrage, transgression, trespass, sin, evil
+  - q: What words refer to a person who breaks the law?
+    words: criminal, lawbreaker, underworld
+  - q: What words describe an action that is against the law?
+    words: illegal, against the law, criminal, wrong

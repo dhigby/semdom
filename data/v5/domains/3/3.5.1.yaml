@@ -1,0 +1,15 @@
+code: "3.5.1"
+guid: 9EFA7949-DE15-499A-B382-4560E06C4FB4
+name: Say
+description: Use this domain for words related to saying something.
+ocmCodes: 191 Speech
+louwNidaCodes: 33F Speak, Talk
+questions:
+  - q: What words refer to saying something?
+    words: >-
+      say, speak, talk, tell, state, express, declare, proclaim, inform, pronounce, remark
+      on, make a remark
+  - q: What words refer to something that is said?
+    words: saying, quote, declaration, tale, speech, profession, remark, statement
+  - q: What words refer to how something is said?
+    words: pronunciation

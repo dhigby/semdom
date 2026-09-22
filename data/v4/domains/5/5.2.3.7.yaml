@@ -1,0 +1,12 @@
+code: "5.2.3.7"
+guid: 2D894ECA-8F6C-4B63-B265-0914A65D9BE9
+name: Alcoholic beverage
+description: Use this domain for types of beverages containing alcohol.
+ocmCodes: 273 Alcoholic Beverages; 270 Drink and Drugs; Drink, Drugs and Indulgence
+questions:
+  - q: What general words refer to alcoholic beverages?
+    words: alcoholic beverage, alcohol, liquor
+  - q: What types of alcoholic drinks are there?
+    words: beer, wine, rice wine, sake, mead, whiskey, vodka, millet beer, banana beer
+  - q: What words refer to how much alcohol is in a beverage?
+    words: proof

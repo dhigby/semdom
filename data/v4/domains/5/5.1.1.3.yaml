@@ -1,0 +1,16 @@
+code: "5.1.1.3"
+guid: 943EB131-2761-4C98-90A0-0BDFB0F8584D
+name: Bed
+description: Use this domain for words related to a bed.
+related: ["5.7", "7.1.3"]
+questions:
+  - q: What kinds of beds are there?
+    words: >-
+      bed, double bed, twin bed, bunk bed, queen sized bed, king sized bed, mat, sleeping
+      mat, mattress, cot, pallet, hideaway bed, hammock, berth, guest bed
+  - q: What covers are put on a bed?
+    words: sheet, blanket, covers, bedcovers, bedspread, bed curtains, pillow, mosquito net
+  - q: What do people do with beds?
+    words: >-
+      make the bed, make up the bed, pull up the covers, throw off the covers, arrange the
+      covers, sleep, lie down

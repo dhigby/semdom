@@ -1,0 +1,12 @@
+code: "4.5.4.4"
+guid: E1AC83C2-352F-4a2e-9612-99E66D6D3D0C
+name: Slave
+description: >-
+  Use this domain for words referring to a slave--a person owned by another and obligated to
+  work without wages.
+louwNidaCodes: 87E Slave, Free
+questions:
+  - q: What words refer to a slave?
+    words: slave, bondservant, serf
+  - q: What words refer to the condition of being a slave?
+    words: slavery, bondage, servitude

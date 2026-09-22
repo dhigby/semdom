@@ -1,0 +1,11 @@
+code: "6.4.4"
+guid: B0E2635E-47C4-4995-942B-07F6635FAF6F
+name: Beekeeping
+description: Use this domain for words related to keeping bees.
+questions:
+  - q: What words refer to keeping bees?
+    words: >-
+      beekeeping, beekeeper, suit, hive, bee, honey, honeycomb, wax, queen, drone, worker,
+      nectar, sting, smoke
+  - q: What words refer to collecting honey?
+    words: collect honey

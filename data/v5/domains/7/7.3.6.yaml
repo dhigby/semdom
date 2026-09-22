@@ -1,0 +1,10 @@
+code: "7.3.6"
+guid: 8B9F23F4-A147-4EA8-A13A-C5B1EDC7F5E4
+name: Open
+description: Use this domain for words related to opening something.
+louwNidaCodes: 79X Open, Closed
+questions:
+  - q: What words refer to opening something?
+    words: open, leave open
+  - q: What words describe something that is open?
+    words: open, ajar

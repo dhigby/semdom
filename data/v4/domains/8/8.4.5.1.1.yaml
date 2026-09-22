@@ -1,0 +1,18 @@
+code: "8.4.5.1.1"
+guid: 00041516-72D1-4E56-9ED8-FE235A9B1A68
+name: Series
+description: >-
+  Use this domain for words related to a series--several things that happen one after
+  another.
+related: ["8.4.5.1"]
+questions:
+  - q: What words refer to a series of things, events, numbers or people?
+    words: series, sequence, string of, succession of, stream, train of events, course of
+  - q: What words describe things in a series?
+    words: successive, consecutive, alternating, serial
+  - q: What words indicate that someone does things in a series?
+    words: >-
+      in succession, one after the other, one after another, straight, in a row, running,
+      alternate
+  - q: What words refer to the place that something has in a series?
+    words: place, order, rank, slot, grade

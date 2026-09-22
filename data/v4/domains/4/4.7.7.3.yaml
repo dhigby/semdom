@@ -1,0 +1,36 @@
+code: "4.7.7.3"
+guid: 13F62FA1-589C-4A46-9BBC-B0FD1001E21F
+name: Imprison
+description: Use this domain for words related to imprisoning someone.
+ocmCodes: 697 Prisons and Jails
+louwNidaCodes: 37H Imprison; 37I Guard, Watch Over
+questions:
+  - q: What words refer to the action of putting a person in prison?
+    words: >-
+      put in prison, imprison, to jail, incarcerate, lock up, confine, put in irons, send to
+      prison, commit, put away, captivity
+  - q: What is a person called who is imprisoned?
+    words: prisoner, jailbird, captive, felon, convict, inmate, prisoner of war
+  - q: Where are people imprisoned?
+    words: >-
+      prison, brig, can, concentration camp, correctional institution, death camp, dungeon,
+      house of correction, jail, jailhouse, county jail, joint, pen, penal colony,
+      penitentiary, federal penitentiary, pound, reformatory, slammer, stockade
+  - q: What are the parts of a prison?
+    words: cell, cellblock, bars, stocks, death row, solitary confinement, cooler
+  - q: Who are the staff of a prison?
+    words: prison warden, prison guard, jailer, keeper, turnkey, warder
+  - q: What words refer to the action of restraining a prisoner?
+    words: >-
+      restrain, control, to handcuff, tie up, put in chains, to bind, put in the stocks, to
+      gag
+  - q: What means are used to restrain prisoners?
+    words: restraints, handcuffs, chains, bonds, stocks, gag
+  - q: What words are used of escaping from prison?
+    words: escape, break out of jail, jailbreak, escapee, escaped prisoner, be on the run
+  - q: What words refer to the process of serving a sentence?
+    words: serve your sentence
+  - q: What words refer to the process of completing a sentence?
+    words: complete your sentence, serve out the sentence, fulfill your sentence
+  - q: What words refer to the action of releasing a person from prison?
+    words: release, let go, let out of prison, set free

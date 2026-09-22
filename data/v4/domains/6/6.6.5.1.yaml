@@ -1,0 +1,17 @@
+code: "6.6.5.1"
+guid: 89BA59D4-B314-4070-83BB-F9F868BCD363
+name: Draw, paint
+description: Use this domain for words related to drawing and painting pictures.
+questions:
+  - q: What words refer to drawing or painting?
+    words: draw, paint, sketch, doodle, scribble, trace
+  - q: What words refer to a person who draws or paints?
+    words: painter, artist
+  - q: What words refer to something that has been drawn or painted?
+    words: >-
+      picture, painting, drawing, sketch, illustration, study, portrait, landscape, cartoon,
+      caricature
+  - q: What tools and materials are used to draw a picture?
+    words: pencil, charcoal, eraser, paper
+  - q: What tools and materials are used to paint a picture?
+    words: paint, brush, palette, easel, canvas, medium, tempera, distemper

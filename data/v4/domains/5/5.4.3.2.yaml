@@ -1,0 +1,11 @@
+code: "5.4.3.2"
+guid: B0E3486C-BD3D-4B5C-BE9A-40CD2C0CE2A1
+name: Plait hair
+description: Use this domain for words related to plaiting your hair.
+questions:
+  - q: What words refer to plaiting the hair?
+    words: plait, braid
+  - q: What kinds of braids are there?
+    words: French braid
+  - q: What techniques are used?
+  - q: What things are used?

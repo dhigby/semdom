@@ -1,0 +1,10 @@
+code: "9.7.2.4"
+guid: 35A9DA32-53EE-44FA-9C65-5A15F88AD283
+name: Names of streets
+description: >-
+  Use this domain for the proper names of highways, roads, streets, and trails in the
+  language area. If there are many such names, only include the important names (e.g. King's
+  Highway) or commonly used names (e.g. Main Street).
+questions:
+  - q: What are the names of the streets in the language area?
+    words: King's Highway, Highway 66, Main Street, Piccadilly Square, Oregon Trail

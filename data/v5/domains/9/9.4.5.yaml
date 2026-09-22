@@ -1,0 +1,53 @@
+code: "9.4.5"
+guid: 04752883-AA3E-42A2-BD42-454E9CD99B11
+name: Evidentials
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  evidentials. An evidential is when the speaker indicates the source of the information on
+  which an assertion about a situation is based. The following definitions are taken from
+  Bybee, Joan, Revere Perkins, and William Pagliuca. 1994. The evolution of grammar. Chicago
+  and London: University of Chicago Press.
+questions:
+  - q: >-
+      direct evidence: the speaker claims to have witnessed the situation, but does not
+      specify the type of sensory evidence.
+    words: I was there and...
+  - q: 'visual evidence: the speaker claims to have seen the situation described.'
+    words: with my own eyes I saw...
+  - q: 'auditory evidence: the speaker claims to have heard the situation described.'
+    words: with my own ears I heard...
+  - q: >-
+      sensory evidence: the speaker claims to have physically sensed the situation
+      described. This can be in opposition to one or both of the above senses (i.e. any
+      other sense), or it can indicate sensory evidence that is not further specified (i.e.
+      any sensory evidence).
+  - q: >-
+      indirect evidence: the speaker claims not to have witnessed the situation, but does
+      not specify further whether the evidence is reported or simply inferred.
+    words: I wasn't there but...
+  - q: >-
+      reported evidence: the speaker claims to know of the situation described via verbal
+      means, but does not specify whether it is second-hand, hearsay, or via folklore.
+    words: I heard that...
+  - q: >-
+      second-hand evidence: the speaker claims to have heard of the situation described from
+      someone who was a direct witness.
+  - q: >-
+      evidence from hearsay: the speaker claims to have heard about the situation described,
+      but not from a direct witness.
+    words: it is rumored that...
+  - q: >-
+      evidence from folklore: the speaker claims that the situation described is part of
+      established oral history (e.g., mythology).
+    words: according to our ancestors...
+  - q: >-
+      inferred evidence: the speaker infers the event/action, but does not specify whether
+      the inference is based on observable results or on a purely mental process.
+  - q: >-
+      inference from results: the speaker infers the situation described from the evidence
+      at hand (i.e. from the observable results of the causing event/action.)
+    words: from the results I would say...
+  - q: >-
+      inference from reasoning: the speaker infers the situation described on the basis of
+      intuition, logic, a dream, previous experience, or some other mental construct.
+    words: I figure that..., I conclude that...

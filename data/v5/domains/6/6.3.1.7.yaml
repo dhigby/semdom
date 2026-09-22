@@ -1,0 +1,22 @@
+code: "6.3.1.7"
+guid: E545BAAB-581D-4AF8-81F2-5A884E272349
+name: Beast of burden
+description: >-
+  Use this domain for words related to animals that are used as a beast of burden--either to
+  ride, to carry loads, or to pull vehicles. The questions refer to horses, but can be
+  applied to any animal.
+questions:
+  - q: What types of beasts of burden are there?
+    words: beast of burden, horse, equine, donkey, burro, ass, mule, camel, llama, elephant
+  - q: What words refer to male or female horses?
+    words: stallion, mare
+  - q: What words refer to young horses?
+    words: colt, foal, filly
+  - q: What words refer to a castrated male horse?
+    words: gelding
+  - q: What types of horses are there?
+    words: Arabian, pinto, pony, thoroughbred, racehorse
+  - q: Where are horses kept?
+    words: stable, pasture, range, barn, shed, stall
+  - q: What equipment is used to ride or harness a horse?
+    words: saddle, bit, bridle, reins, harness, yoke

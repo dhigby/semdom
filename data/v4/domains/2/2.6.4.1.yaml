@@ -1,0 +1,18 @@
+code: "2.6.4.1"
+guid: 79CA34EA-68A7-4FE9-B5AC-4F3D6A1AB99D
+name: Baby
+description: Use this domain for words related to a baby.
+ocmCodes: 850 Infancy and Childhood
+questions:
+  - q: What words refer to a very small child?
+    words: >-
+      newborn, baby, babe, infant, nursling, toddler, two-year-old, three-year-old,
+      ankle-biter
+  - q: What words refer to the time period when a person is a baby?
+    words: infancy, babyhood
+  - q: What words refer to a baby moving?
+    words: crawl, wiggle, turn over, sit up, toddle
+  - q: What words refer something coming out of a baby's mouth?
+    words: drool, dribble, spit up, burp
+  - q: What sounds do babies make?
+    words: cry, babble, coo, baby talk

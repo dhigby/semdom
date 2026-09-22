@@ -1,0 +1,24 @@
+code: "4.6.2"
+guid: 134C68A9-AC3F-4B7E-8FCA-63642D796A75
+name: Citizen
+description: Use this domain for words related to a citizen of a country.
+ocmCodes: >-
+  641 Citizenship; 160 Demography; 161 Population; 162 Composition of Population; 163 Birth
+  Statistics; 164 Morbidity; 165 Mortality; 168 Population Policy
+questions:
+  - q: What words refer to a citizen of a country?
+    words: citizen, naturalized citizen, native, subject, countryman, inhabitant
+  - q: What words refer to all the citizens of a country?
+    words: people, populace, citizenry, nation
+  - q: What words refer to the status of a citizen?
+    words: citizenship, natural born, naturalized
+  - q: What official documents are used to prove citizenship?
+    words: birth certificate, passport, identification papers
+  - q: What words refer to counting the citizens?
+    words: census, take a census, number (v)
+  - q: What words refer to the number of citizens in a country or area?
+    words: population
+  - q: What words refer to studying the citizens?
+    words: demography
+  - q: What words refer to a person who lives in a country?
+    words: inhabitant, resident

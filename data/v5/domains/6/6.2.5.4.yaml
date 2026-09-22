@@ -1,0 +1,20 @@
+code: "6.2.5.4"
+guid: 4BEDAE6A-1DF4-40E5-8A2F-AB0A1F41997E
+name: Plant product
+description: >-
+  Use this domain for words referring to materials and substances that are taken from plants
+  and used for various purposes. It is necessary to think through various types of plants to
+  think of what materials are taken from each.
+louwNidaCodes: 6S Plant Products; 3F Wood and Wood Products
+related: ["5.2"]
+questions:
+  - q: What plant products are used for building?
+    words: wood
+  - q: What plant products are used for the roof of a building?
+    words: thatch, shingle
+  - q: What plant products are used for fibers, thread, and rope?
+    words: hemp, cotton
+  - q: What plant products are used for chemicals?
+    words: sap, rubber
+  - q: What plant products are used for burning?
+    words: firewood

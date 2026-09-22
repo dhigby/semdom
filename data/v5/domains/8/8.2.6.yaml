@@ -1,0 +1,23 @@
+code: "8.2.6"
+guid: 73D580AC-DC89-474C-8048-3453EBDDA807
+name: Distance
+description: Use this domain for words referring to the distance between two things.
+related: ["8.2.2"]
+questions:
+  - q: What words refer to the distance between two things?
+    words: distance, how far, span, as the crow flies
+  - q: What words indicate the distance between two places?
+    words: from, away, off, apart, away from
+    sentence: >-
+      Dallas is a thousand miles <from> Phoenix.; Our house is two miles <from> town.; Our
+      house is two miles <away>.
+  - q: What words refer to the distance something can move?
+    words: range, reach (n), extent
+    sentence: The gun has a <range> of one mile.
+  - q: What words indicate that something (like an area or road) continues for some distance?
+    words: extend, stretch, go on, continue, spread
+    sentence: The road <stretched> on for miles.
+  - q: What question words ask for the distance between two things?
+    sentence: >-
+      <How far> is New York from Washington?; <What is the distance> from New York to
+      Washington?

@@ -1,0 +1,38 @@
+code: "3.4.1.4"
+guid: F9D020D6-B129-4BB8-9509-3B4A6C27482E
+name: Interested
+description: Use this domain for words related to feeling interested.
+questions:
+  - q: What words refer to feeling interested in something?
+    words: >-
+      be interested in, show interest, express interest, find something interesting, take an
+      interest in, be curious about
+  - q: What words refer to the feeling of interest?
+    words: interest, curiosity
+  - q: What words describe someone who feels interested?
+    words: interested, curious
+  - q: What words refer to causing someone to feel interested?
+    words: >-
+      interest, get someone interested, entertain, stimulate, stir, appeal to, attract
+      someone's interest, attract someone's attention, interestingly, hold your attention,
+      rekindle interest, revive interest
+  - q: What words refer to something that is interesting?
+    words: interest, curio, attraction, entertainment
+  - q: What words describe someone that is interesting?
+    words: interesting, colorful, a character, entertainer
+  - q: What words describe something that is interesting?
+    words: >-
+      interesting, be of interest, entertaining, lively, stimulating, stimulation, unusual,
+      have character
+  - q: What words describe a time when something interesting is happening?
+    words: interesting, eventful, colorful, never a dull moment
+  - q: What words refer to becoming more interested in something?
+    words: get interested, become interested, get into
+  - q: What words refer to becoming less interested in something?
+    words: lose interest
+  - q: What words refer to making something more interesting?
+    words: make something more interesting, liven up, jazz up, add variety
+  - q: What words refer to doing something often because you are interested in it?
+    words: follow (a sport), be into, take something up
+  - q: What words refer to something you do because you are interested in it?
+    words: hobby, interest, recreation

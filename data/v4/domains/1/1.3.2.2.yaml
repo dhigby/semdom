@@ -1,0 +1,24 @@
+code: "1.3.2.2"
+guid: 647603C2-6F32-48F3-91FA-1F7F0E44B539
+name: Pour
+description: >-
+  Use this domain for words referring to water coming out of something (such as a
+  container), or causing water to come out of something.
+related: ["6.2.4.3"]
+questions:
+  - q: What words refer to water coming out of something?
+    words: pour, come out, flow, drip, leak, ooze, gush, spurt, squirt
+  - q: What words refer to pouring water out of a container?
+    words: pour, tip, sprinkle, empty, spill, decant
+  - q: What words refer to putting water on something?
+    words: water (v), add water, put water on
+  - q: What words refer to putting drops of water on something?
+    words: >-
+      sprinkle (with water), splash (water on), spray (water on), drizzle, spatter,
+      splatter, squirt
+  - q: What words refer to putting lots of water on something?
+    words: pour (out), empty (v), dump (out), douse, drench, pump
+  - q: What words refer to putting water on something accidentally?
+    words: spill
+  - q: What words refer to putting water into something?
+    words: inject

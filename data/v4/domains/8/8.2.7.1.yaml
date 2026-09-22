@@ -1,0 +1,11 @@
+code: "8.2.7.1"
+guid: 4D61F524-7213-4C2C-8C14-F8EFF3AED813
+name: Tight
+description: Use this domain for words referring to being tight--when something is too small.
+questions:
+  - q: What words describe something that is tight?
+    words: tight, too small
+  - q: What words refer to something becoming tight?
+    words: get tight
+  - q: What words refer to making something tight?
+    words: tighten

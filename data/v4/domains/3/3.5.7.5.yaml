@@ -1,0 +1,12 @@
+code: "3.5.7.5"
+guid: BA8D18BD-2556-47A0-AA33-3EBEF3E90814
+name: Record
+description: >-
+  Use this domain for words related to a record--something written because people need to
+  remember it.
+ocmCodes: 210 Records; 126 Recording and Collecting In the Field; 211 Mnemonic Devices; 217 Archives
+questions:
+  - q: What words refer to making a record?
+    words: record, keep a record, put on record, chart, document, register
+  - q: What words refer to a record?
+    words: record (n), chart (n), document (n), register (n), archives, chronicle

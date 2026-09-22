@@ -1,0 +1,13 @@
+code: "8.4.6.1.4"
+guid: 590570C5-3267-4966-B0DB-2AF7A5105C83
+name: Until
+description: >-
+  Use this domain for words that indicate that something will continue to happen until a
+  particular time or until something else happens, and then it will stop.
+questions:
+  - q: What words indicate that something will happen until something else happens?
+    words: >-
+      (In written English a hyphen is used to indicate that something happens from one time
+      until another time, as in "8:00-5:00" or "Monday-Friday".)
+  - q: What words indicate that something will not happen until something else happens?
+    words: until, wait until

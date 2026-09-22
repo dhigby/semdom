@@ -1,0 +1,9 @@
+code: "7.3.2.1"
+guid: DDEF260E-B183-47F7-837E-165FFBD1AF2C
+name: Put in front
+description: >-
+  Use this domain for words referring to putting something in front of you or in front of
+  something else.
+questions:
+  - q: What words refer to putting something in front?
+    words: put in front, place in front, advance something

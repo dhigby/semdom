@@ -1,0 +1,35 @@
+code: "7.5.3"
+guid: FE58AE61-AB0B-43A4-86FB-D9AEDD199932
+name: Mix
+description: >-
+  Use this domain for words related to mixing things together--to put two or more different
+  kinds of substances, like liquids or cooking ingredients, together.
+louwNidaCodes: 63C Mix
+questions:
+  - q: What words refer to someone mixing things together?
+    words: >-
+      mix, mix something with something, mix things together, add something to something,
+      amalgamate, bring together, coalesce, combine, commingle, dilute, fuse, imbue,
+      interlard, intermingle, intermix, join, jumble, lump, meld, merge, mingle, scramble,
+      unification, unify, unite
+  - q: What words refer to things mixing together?
+    words: amalgamate, blend, combine, commingle, fuse, intermix, meld, merge, merger, unite
+  - q: What words refer to something being a mixture of other things?
+    words: be a mixture of, combine, blend
+  - q: What words refer to stirring something so that it is mixed well?
+    words: stir, stir up, stir together, beat, blend, knead, whisk
+  - q: What words refer to something made by mixing things together?
+    words: >-
+      mix (n), mixture, admixture, amalgam, assortment, blend (n), brew (n), combination,
+      composite, compound, conglomerate, conglomeration, fusion, hodgepodge, intermixture,
+      jumble, mess, miscellany, mishmash, patchwork, odds and ends, solution, a cross
+      between
+  - q: What words describe something made by mixing things together?
+    words: >-
+      mixed, mixed up, amalgamated, assorted, blended, combined, composite, compounded,
+      conglomerated, diluted, half-and-half, heterogeneous, intermixed, jumbled, mingled,
+      miscellaneous, motley, scrambled, tangled, together, varied, variegated
+  - q: What tools and machines are used to mix things?
+    words: mixer, blender, food processor, eggbeater
+  - q: What words refer to different things that do not mix well with each other?
+    words: do not mix, incompatible, do not go well together

@@ -1,0 +1,10 @@
+code: "8.3.2.3"
+guid: 313CA832-CE91-44C9-BB35-BD130C39D924
+name: Sharp
+description: Use this domain for words describing something that is sharp.
+louwNidaCodes: 79S Sharp
+questions:
+  - q: What words describe something that is sharp?
+    words: sharp, razor sharp, keen edged
+  - q: What words refer to making something sharp?
+    words: sharpen, give an edge to

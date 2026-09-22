@@ -1,0 +1,16 @@
+code: "5.4.6.1"
+guid: 7F1DFB68-BF07-472D-A481-B802D2591CA6
+name: Circumcision
+description: Use this domain for words related to circumcision.
+related: ["2.6.4.7"]
+questions:
+  - q: What words refer to circumcision?
+    words: circumcise, circumcision
+  - q: What part is cut off?
+    words: foreskin
+  - q: What tools and materials are used?
+    words: razor blade, bandage, anesthesia, antiseptic
+  - q: Who does the operation?
+    words: surgeon
+  - q: What words refer to female circumcision?
+    words: (no words in English)

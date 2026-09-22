@@ -1,0 +1,14 @@
+code: "1.2.2"
+guid: F899802D-BD32-427F-A101-C84219F7E14E
+name: Substance, matter
+description: >-
+  Use this domain for general words referring to matter--what something is made out of, or a
+  type of solid, liquid, or gas.
+louwNidaCodes: 2 Natural Substances
+questions:
+  - q: What general words refer to matter?
+    words: substance, stuff, matter, material
+  - q: What words refer to something found naturally that people could use?
+    words: natural resources, raw materials
+  - q: What words refer to the study of matter?
+    words: chemistry

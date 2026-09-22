@@ -1,0 +1,28 @@
+code: "7.3.1.1"
+guid: 7831223B-E5ED-4186-A321-94E9AE72A27D
+name: Throw
+description: Use this domain for words referring to throwing something.
+louwNidaCodes: 15Z Throw, Hurl
+questions:
+  - q: What words refer to throwing something?
+    words: throw, cast
+  - q: What words refer to throwing something in a careless way?
+    words: chuck, sling, toss, pitch, flick
+  - q: What words refer to throwing something with force?
+    words: hurl, fling, heave, fire
+  - q: What words refer to throwing a ball when playing a game?
+    words: pass, pitch, bowl, peg
+  - q: What words refer to throwing something high in the air?
+    words: lob, throw up in the air
+  - q: What words refer to throwing something so that it turns over and over?
+    words: toss, flip
+  - q: What words refer to throwing things at someone?
+    words: pelt, stone, bombard, shower
+  - q: What words refer to something throwing something?
+    words: send something flying, catapult, propel, pitch, launch, sling
+  - q: What words refer to an act of throwing?
+    words: throw (n)
+  - q: What words refer to something hitting the ground after being thrown?
+    words: land, hit, fall
+  - q: What words refer to something used to throw things?
+    words: sling, slingshot, throwing stick

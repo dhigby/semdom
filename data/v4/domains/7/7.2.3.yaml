@@ -1,0 +1,21 @@
+code: "7.2.3"
+guid: FCD22C85-7EE1-4D31-8633-9DBD32344211
+name: Move toward something
+description: >-
+  Use this domain for words referring to moving toward, in the direction of, or near
+  something or some place. The words in this domain should refer to moving in the direction
+  of a place, but should not require that the person actually arrived. Some languages (such
+  as German and Polish) distinguish 'go on foot' from 'go in a vehicle'.
+louwNidaCodes: 15E Come Near, Approach
+questions:
+  - q: What words refer to moving toward a place?
+    words: move toward, go toward, head toward, go in the (general) direction of
+  - q: What words refer to moving near something?
+    words: approach, move near, come near, move in on
+  - q: What words refer to two things moving toward each other?
+    words: converge, be on a collision course
+    sentence: >-
+      They didn't know it, but their paths were converging.; The two ships were on a
+      collision course.
+  - q: What words refer to the place toward which a person is moving?
+    words: destination, goal

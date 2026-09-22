@@ -1,0 +1,13 @@
+code: "5.4"
+guid: 15947464-997A-4F44-9A4B-AC4916E7E19B
+name: Adornment
+description: Use this domain for words related to adornment.
+ocmCodes: 300 Adornment; 515 Personal Hygiene; 302 Toilet; 305 Beauty Specialists
+louwNidaCodes: 49 Activities Involving Clothing and Adorning
+questions:
+  - q: What general words refer to making yourself look better?
+    words: >-
+      adorn, beautify, make oneself attractive, personal care, hygiene, toilet, look your
+      best
+  - q: What general words refer to things people put on themselves in addition to clothes?
+    words: adornment, accessories, decoration

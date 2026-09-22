@@ -1,0 +1,12 @@
+code: "8.3.7.6"
+guid: C9B5F83E-529D-45AF-949F-4CC6B0591B66
+name: Improve
+description: Use this domain for words related to improving something--to make something better.
+related: ["9.1.2.6"]
+questions:
+  - q: What words refer to improving something?
+    words: >-
+      improve, improvement, ameliorate, correct, develop, reform, remedy, renovate,
+      renovation, upgrade
+  - q: What words describe something that has been improved?
+    words: improved, corrected

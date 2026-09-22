@@ -1,0 +1,14 @@
+code: "6.3.2"
+guid: 167A5BAE-F06F-424C-BFCB-EC547A076C8D
+name: Tend herds in fields
+description: Use this domain for words related to tending a herd in the fields.
+ocmCodes: 233 Pastoral Activities
+questions:
+  - q: What words refer to tending a herd in the fields?
+    words: tend, graze, shepherd, herd, pasture, feed, look after animals
+  - q: What words refer to a person who tends animals?
+    words: herdsman, herder, cowboy, shepherd
+  - q: What tools are used to tend animals?
+    words: tether, rope, prod (stick to direct cattle), cowbell
+  - q: What words refer to a place where animals can eat grass?
+    words: pasture, field, range

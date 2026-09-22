@@ -1,0 +1,10 @@
+code: "9.6.3"
+guid: F02AE505-D6B7-4B30-9D97-8505D0D1A0C7
+name: Discourse markers
+description: >-
+  Use this domain for conjunctions and particles that function on the discourse level, and
+  whose meaning and function is uncertain.
+louwNidaCodes: 91 Discourse Markers
+questions:
+  - q: What discourse markers are in your language?
+    words: just, you know, OK, yeah, like

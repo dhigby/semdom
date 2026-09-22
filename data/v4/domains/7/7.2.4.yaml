@@ -1,0 +1,30 @@
+code: "7.2.4"
+guid: 6F01B67C-33A0-4ED3-8205-F868E97A1A3A
+name: Travel
+description: >-
+  Use this domain for words referring to traveling--to move a long distance. The words in
+  this domain may imply that the person has to sleep somewhere other than his home.
+ocmCodes: >-
+  484 Travel; 480 Travel and Transportation; 485 Travel Services; 486 Regulation of Travel;
+  487 Routes; 488 Warehousing; 489 Transportation; 167 External Migration; Immigration and
+  Emigration
+louwNidaCodes: 15R Go Around, Surround; 15B Travel, Journey
+questions:
+  - q: What words refer to going on a journey?
+    words: go on a journey, journey, trip, passage, tour
+  - q: What words refer to moving from place to place?
+    words: travel, move from place to place, move around, voyage
+  - q: What words refer to moving from place to place and then returning to the first place?
+    words: circulate, go on a circuit, circumnavigate
+  - q: What words refer to going to an unknown place in order to discover what is there?
+    words: explore
+  - q: What words refer to going somewhere without intending to return?
+    words: move away, leave forever, emigrate, immigrate
+  - q: What words refer to traveling to another country?
+    words: go abroad, go overseas
+  - q: What words refer to a person who is traveling?
+    words: traveler, passenger, tourist
+  - q: What words describe someone who has traveled a lot?
+    words: well traveled, cosmopolitan
+  - q: What words refer to a place where a traveler can stay or eat?
+    words: hotel, motel, inn, campground, restaurant

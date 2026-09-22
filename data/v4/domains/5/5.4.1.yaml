@@ -1,0 +1,21 @@
+code: "5.4.1"
+guid: 844F922B-6FB6-49AA-864B-B1C49EDAA1AE
+name: Jewelry
+description: >-
+  Use this domain for objects such as jewelry that are put on or attached to the body or to
+  the clothes as decoration.
+ocmCodes: 301 Ornament
+louwNidaCodes: 6R Adornments
+questions:
+  - q: What words refer to jewelry?
+    words: jewelry, accessory, ornament
+  - q: What words refer to types of jewelry?
+    words: >-
+      earring, necklace, brooch, hairclip, comb, belt, hat, glasses, sunglasses,
+      handkerchief
+  - q: What words refer to jewelry worn on the hands and arms?
+    words: ring, bracelet, watch, armband, cuff link, bangle
+  - q: What words refer to jewelry worn on the legs?
+    words: anklet
+  - q: What words refer to putting on or having on jewelry?
+    words: bedeck, adorn

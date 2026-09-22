@@ -1,0 +1,13 @@
+code: "9.4.5.1"
+guid: CF5F83BE-2C19-4CF8-8CC5-53BD32B50530
+name: Evaluator
+description: Use this domain for words indicating who is evaluating the proposition.
+questions:
+  - q: What words indicate who is evaluating the proposition?
+    words: to, in my opinion
+    sentence: This job is very important <to> John.; The proposal looks good <in> my <opinion>.
+  - q: What words indicate that you heard what you are saying from someone else?
+    words: >-
+      according to, rumor has it, they say, people say, there is talk of, apparently,
+      supposedly, be rumored to be
+    sentence: <According to> John his business is doing very well.

@@ -1,0 +1,9 @@
+code: "8.5.1.4.1"
+guid: F4829D9D-A93F-4FC5-918C-6D4C501A6573
+name: Out, outside
+description: Use this domain for words indicating that something is outside of another thing.
+louwNidaCodes: 83D Around, About, Outside
+related: ["8.6.4.1"]
+questions:
+  - q: What words indicate that something is outside of something else?
+    words: be out, outside, outer

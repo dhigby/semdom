@@ -1,0 +1,38 @@
+code: "8.1.5.8.1"
+guid: CA752706-1C9E-43E7-BD17-845C4736CCD8
+name: Approximate
+description: Use this domain for words that indicate whether a number or amount is approximate.
+louwNidaCodes: 78C About, Approximately, Almost, Hardly
+questions:
+  - q: What words describe a number or amount that is approximate?
+    words: approximate, rough
+    sentence: We need to know the <approximate> weight of his suitcase.
+  - q: What words describe something that is not exact?
+    words: inexact, inaccurate, sort of, kind of
+  - q: What words indicate that a particular number or amount is approximate?
+    words: >-
+      about, approximately, roughly, give or take, at a guess, somewhere in the region of,
+      an estimated, some, something like, in round numbers, close to
+    sentence: It weighs <about> four kilos.; John walks <approximately> two miles a day.
+  - q: What words indicate an approximate number when the actual number is possibly more?
+    words: >-
+      or so, odd, or more, at least, and maybe more, barely, hardly, little more than,
+      scarcely
+  - q: What words indicate an approximate number when the actual number is possibly less?
+    words: at most, as much as, short of
+  - q: What words refer to determining the approximate number of amount of something?
+    words: approximate (v), estimate (v), overestimate, underestimate
+  - q: What words refer to estimating a number to the nearest ten, hundred, thousand, etc?
+    words: rounded to the nearest ten/hundred/thousand, round up, round down
+  - q: What words refer to a number that is approximate?
+    words: estimate (n), approximation, ballpark figure, round figure
+  - q: What words indicate that something happens at an approximate time?
+    words: about, around, approximately, round about, or thereabouts, circa, some time
+  - q: What words indicate that something happens at an approximate place?
+    words: about, around, in the vicinity of, near, close to
+  - q: What words describe something that is approximately the same as another thing?
+    words: narrowly, rather
+  - q: What words indicate that something is done in approximately the right way?
+    words: roughly, more or less, somewhat
+  - q: What words describe something that is approximately the same as another thing?
+    words: loose, vague, hazy, impressionistic, broad

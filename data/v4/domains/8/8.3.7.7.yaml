@@ -1,0 +1,31 @@
+code: "8.3.7.7"
+guid: F29DCCAE-1654-4EB7-8AAE-04F7DF4FE90C
+name: Right, proper
+description: >-
+  Use this domain for words describing something, such as a tool or way of doing something,
+  that is proper for a particular time, place, purpose, or job. The words in this domain
+  involve a comparison between two things, an item and a setting. An evaluation is made as
+  to how good the item is in the setting. The words may be used only of certain types of
+  items, certain types of settings, or certain types of usefulness.
+louwNidaCodes: 66 Proper, Improper
+questions:
+  - q: What words describe something that is proper?
+    words: >-
+      right, proper, applicable, apposite, apropos, becoming, befitting, correspond,
+      correspondent, corresponding, decent, due, expected, felicitous, germane, meet,
+      opportune, pertinent, pleasing, principled, properly, right-minded, rightful, smart,
+      suitable, suited, timely, well, well-timed
+  - q: What words describe something that is right for a particular job?
+    words: right, proper, accepted, approved, appropriate, correct
+  - q: What words refer to something being right for a particular job?
+    words: >-
+      suit, lends itself to, be suited to, be cut out for, be made for, fit the bill, fit
+      in, be right for, be the right person for, make a good/ideal
+  - q: What words refer to something someone does that is right for a particular situation?
+    words: >-
+      right, proper, acceptable, appropriate, apt, correct, fitting, suitable, be the done
+      thing, be the way it's done, in keeping with
+  - q: What words refer to doing something in the right way?
+    words: right, properly, correctly, by the book
+  - q: What words refer to the quality of being proper?
+    words: suitability, suitableness, fit (n)

@@ -1,0 +1,16 @@
+code: "8.3.5.4"
+guid: AC527685-F31D-42F3-81BD-97221A01C7EF
+name: Pattern, model
+description: Use this domain for words related to a pattern or model.
+louwNidaCodes: >-
+  58I Pattern, Model, Example, and Corresponding Representation; 58J Archetype,
+  Corresponding Type
+questions:
+  - q: What words refer to a pattern?
+    words: pattern, model, prototype, original
+  - q: What words refer to the best pattern or example of something?
+    words: archetype, epitome, hero, ideal, paragon
+  - q: What words refer to something made from a pattern?
+    words: image
+  - q: What words refer to the size of a model in comparison to the size of the real thing?
+    words: scale, full-scale, life-size

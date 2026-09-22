@@ -1,0 +1,19 @@
+code: "1.6.4"
+guid: E76227E8-4A04-4FBD-A16E-5BAA3D9E97A9
+name: Animal actions
+description: Use this domain for actions of animals.
+questions:
+  - q: What words refer to the ability of an animal to do something without learning it?
+    words: instinct, instinctive
+  - q: What words refer to animals hunting?
+    words: hunt, stalk, prey
+  - q: What words refer to animals sleeping during the winter?
+    words: hibernate
+  - q: What do birds do?
+    words: roost, (hen) gathers chicks
+  - q: What do snakes do?
+    words: strike, coil, crush (prey), sun (themselves), venom
+  - q: What do fish do?
+    words: spawn, lay eggs
+  - q: What do insects do?
+    words: sting, collect nectar

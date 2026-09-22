@@ -1,0 +1,20 @@
+code: "8.4.6.5.5"
+guid: 31E0FDE8-B3AB-47ae-B791-54309E6ED0BD
+name: Modern
+description: >-
+  Use this domain for words describing something modern--a word that describes something
+  like a machine, system, or country that uses the most recent equipment, ideas, and
+  methods.
+questions:
+  - q: What words describe a modern machine or system?
+    words: >-
+      modern, up-to-date, advanced, sophisticated, high-tech, state-of-the-art, be ahead of
+      its time, at the leading edge of, at the cutting edge of
+  - q: What words describe a modern country?
+    words: advanced, developed
+  - q: What words describe a modern person or organization?
+    words: progressive, innovative, forward-looking, move with the times, go-ahead
+  - q: What words describe modern art, literature, or music?
+    words: contemporary, avant-garde, futuristic
+  - q: What words refer to changing something to make it modern?
+    words: modernize, bring something up to date, update

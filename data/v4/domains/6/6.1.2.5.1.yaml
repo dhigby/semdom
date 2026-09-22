@@ -1,0 +1,8 @@
+code: "6.1.2.5.1"
+guid: DA203891-90A2-48F0-955A-8A80B6C62AF9
+name: Arrange an event
+description: Use this domain for words related to arranging an event, such as a meeting.
+related: ["2.6.1.1"]
+questions:
+  - q: What words refer to arranging an event?
+    words: arrange, organize, make arrangements, line up, prepare

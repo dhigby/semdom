@@ -1,0 +1,28 @@
+code: "7.8.1"
+guid: 23B1A6B4-8D91-425C-B8C2-52D06B1C1D23
+name: Break
+description: >-
+  Use this domain for words referring breaking something into pieces, perhaps with the added
+  idea of doing it accidentally or without being careful.
+louwNidaCodes: 19D Break, Break Through
+questions:
+  - q: What words refer to something breaking?
+    words: break
+  - q: What words refer to breaking something?
+    words: break, bust, fracture
+  - q: What words refer to breaking something into many small pieces?
+    words: break into pieces, smash, crush, pulverize, atomize
+  - q: What words describe something that has been broken?
+    words: broken, smashed, crushed, pulverized, (be) in pieces, busted
+  - q: What words refer to breaking through a barrier?
+    words: break through, breakout
+  - q: >-
+      What words refer to a container like a bag, bottle, or bubble breaking because there
+      was too much inside?
+    words: burst, break open
+  - q: What sounds do things make when they break?
+    words: snap, crack, pop, boom, crash
+  - q: What words describe something that is easily broken?
+    words: breakable, brittle, delicate, fragile, flimsy
+  - q: What words describe something that is not easily broken?
+    words: strong, tough, hard, unbreakable, durable

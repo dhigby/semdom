@@ -1,0 +1,10 @@
+code: "6.8.5.5"
+guid: 5A2355B4-C295-4B94-86DA-6AC18198BAE4
+name: Credit
+description: >-
+  Use this domain for words referring to credit--when a lending institution, such as a bank,
+  has some of your money, so they owe you something.
+ocmCodes: 452 Credit
+questions:
+  - q: What words refer to credit?
+    words: credit, account, place to your credit, to the account of, deposit

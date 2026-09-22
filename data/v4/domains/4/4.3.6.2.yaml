@@ -1,0 +1,18 @@
+code: "4.3.6.2"
+guid: 4ACC430B-9C98-4A49-A8B4-15EDC0F6D19B
+name: Tidy
+description: >-
+  Use this domain for words referring to being tidy in your habits, such as keeping your
+  belongings neat and organized,.
+related: ["7.5", "7.5.5"]
+questions:
+  - q: What words describe someone who is tidy?
+    words: tidy, neat, orderly, organized, consistent, house-proud
+  - q: What words refer to making something tidy?
+    words: >-
+      tidy, tidy up, clean up, clear up, straighten, straighten up, get the place straight,
+      put something straight, put something in order, put something away
+  - q: What words refer to the quality of being tidy?
+    words: tidiness, neatness
+  - q: What words describe something that is tidy?
+    words: tidy, immaculate, just so, neat, shipshape, smart, trim, well-kept

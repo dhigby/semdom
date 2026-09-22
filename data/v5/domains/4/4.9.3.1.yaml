@@ -1,0 +1,28 @@
+code: "4.9.3.1"
+guid: E9FDC131-ADDB-4DB6-8F79-AE0044E1EB81
+name: Sacred writings
+description: >-
+  Use this domain for words related to sacred writings. Examples are only given for the
+  Christian sacred writings. However you should include words referring to the holy books of
+  all religions.
+questions:
+  - q: What words refer to sacred writings?
+    words: sacred writings, Scripture, Bible, the Good Book, Gospel
+  - q: What words refer to a part of the sacred writings?
+    words: chapter, verse, text, Old/New Testament, Law, Prophets, Gospels, Epistles, Apocalypse
+  - q: What words refer to God's role in producing sacred writings?
+    words: inspire, inspiration, revelation
+  - q: What words describe the sacred writings or a text from the sacred writings?
+    words: inspired, holy, scriptural, biblical, sacred, prophetic, apostolic
+  - q: >-
+      What words describe whether or not a book should be considered a part of the sacred
+      writings?
+    words: canon, canonical, apocryphal
+  - q: >-
+      What words refer to a book that is revered but not considered part of the sacred
+      writings?
+    words: Apocrypha
+  - q: What words refer to the interpretation of sacred writings?
+    words: interpretation, exegesis
+  - q: What words refer to a book that interprets the sacred writings?
+    words: commentary

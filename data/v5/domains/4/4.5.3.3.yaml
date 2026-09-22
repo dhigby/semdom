@@ -1,0 +1,8 @@
+code: "4.5.3.3"
+guid: A84A5FFC-006C-4D29-B71F-5215CC40A5A8
+name: Discipline, train
+description: Use this domain for words related to disciplining someone.
+louwNidaCodes: 36B Discipline, Train
+questions:
+  - q: What words refer to disciplining someone?
+    words: discipline, train, drill, prepare, train, control, strict, severe

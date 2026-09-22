@@ -1,0 +1,15 @@
+code: "4.3.1.2.1"
+guid: 1461C106-D9E0-417D-9487-A57E6D0CCED0
+name: Below standard
+description: Use this domain for words related to behaving below a standard.
+questions:
+  - q: What words refer to being unacceptable?
+    words: >-
+      be below the standard, be unacceptable, be imperfect, be abnormal, miss the mark,
+      fail, fail to make the grade, fail to live up to expectations, not live up to
+  - q: What words refer to unacceptable behavior?
+    words: >-
+      act unacceptably, dissatisfactory, abnormal, unpleasing, unpleasantly, be impolite,
+      ill mannered
+  - q: What words describe the behavior of someone who acts unacceptably?
+    words: unacceptable, dissatisfactory, abnormal, unpleasing, impolite, ill mannered, rude

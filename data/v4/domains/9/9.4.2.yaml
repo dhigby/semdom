@@ -1,0 +1,59 @@
+code: "9.4.2"
+guid: 7BF05F4E-909F-40CA-B742-9BE21EBA9FBB
+name: Agent-oriented modalities
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  agent-oriented modalities. Agent-oriented modalities describe internal or external
+  conditions on a willful agent with respect to the completion of the predicate situation.
+  They may be combined with any of the tenses, either in the same morpheme or in
+  combinations of morphemes. The following definitions are taken from Bybee, Joan, Revere
+  Perkins, and William Pagliuca. 1994. The evolution of grammar. Chicago and London:
+  University of Chicago Press.
+louwNidaCodes: 71 Mode
+questions:
+  - q: >-
+      ability: the agent of the verb has the mental or physical ability to complete the
+      action of the main verb.
+  - q: 'ability, mental: English: ''Melissa can speak Dutch''.'
+    words: can
+  - q: 'ability, physical: English: ''Hortense can swim the English Channel''.'
+    words: can
+  - q: >-
+      attempt: the agent attempts to complete the action specified by the predicate. Note:
+      this has a sense of incompleteness, and I have seen authors call this "Incomplete" and
+      gloss the examples with 'try'.
+    words: try to, attempt to
+  - q: 'desire: the agent of the verb desires or wants to complete the action of the verb.'
+    words: want to, would like to
+  - q: 'obligation: the agent is obliged to perform the action of the verb.'
+  - q: >-
+      obligation, strong: it is absolutely incumbent upon the agent to complete the action
+      of the main verb: 'I have to mail this letter today'.
+    words: have to, must
+  - q: >-
+      obligation, weak: it is recommended that the agent complete the action of the main
+      verb: 'Harry ought to get a haircut before meeting Sue's mother'.
+    words: ought to, should
+  - q: >-
+      permission: the agent is allowed to complete the action of the main verb: 'The
+      students may check books out for two weeks'.
+    words: may
+  - q: >-
+      root possibility: it is possible for the agent to carry out the action of the main
+      verb; i.e. s/he is able and external conditions allow it: 'You can get that kind of
+      paper at Ulbrich's'.
+    words: can
+  - q: >-
+      intention: the agent intends to carry out the action of the main verb: 'Sam's gonna
+      take Sanskrit next semester'.
+    words: gonna, going to, intend to
+  - q: >-
+      andative: agent moves away from the deictic center in order to do something, literally
+      'be going to do something'. Of course such forms are often related to the verb 'to go'
+      and also may have uses of intention and future.
+    words: go to
+  - q: >-
+      venitive: the agent moves toward the deictic center in order to do something,
+      literally 'be coming to do something'. This may be related to the verb 'to come' and
+      may have future uses as well.
+    words: come to

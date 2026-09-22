@@ -1,0 +1,54 @@
+code: "1.1.1"
+guid: DC1A2C6F-1B32-4631-8823-36DACC8CB7BB
+name: Sun
+description: >-
+  Use this domain for words related to the sun. The sun does three basic things. It moves,
+  it gives light, and it gives heat. These three actions are involved in the meanings of
+  most of the words in this domain. Since the sun moves below the horizon, many words refer
+  to it setting or rising. Since the sun is above the clouds, many words refer to it moving
+  behind the clouds and the clouds blocking its light. The sun's light and heat also produce
+  secondary effects. The sun causes plants to grow, and it causes damage to things.
+louwNidaCodes: 1D Heavenly Bodies
+related: ["8.3.3", "8.3.3.2.1", "8.4.1.2.3"]
+questions:
+  - q: What words refer to the sun?
+    words: sun, solar, sol, daystar, our star
+  - q: What words refer to how the sun moves?
+    words: rise, set, cross the sky, come up, go down, sink
+  - q: What words refer to the time when the sun rises?
+    words: dawn, sunrise, sunup, daybreak, cockcrow
+    sentence: We got up before <dawn>, in order to get an early start.
+  - q: What words refer to the time when the sun is at its highest point?
+    words: noon, zenith
+  - q: What words refer to the time when the sun sets?
+    words: sunset, dusk, sundown, twilight, eventide
+  - q: What words refer to when the sun is shining?
+    words: shine, sunny, bright, give light, be sunshiny, daytime
+  - q: What words refer to the sun shining through the clouds?
+    words: come out, break through (the clouds), go behind (a cloud)
+  - q: What words describe where the sun is shining?
+    words: >-
+      sunlit, be (out) in the sun, lit by the sun, shine on, be in the sunlight, sunny
+      (spot)
+  - q: What words describe when or where the sun doesn't shine?
+    words: shade, eclipse of the sun, sunless, shady, shadow, eclipse (v)
+  - q: What words refer to the light of the sun?
+    words: sunlight, ray, sunshine, beam, light, sunbeam, radiance, glow, sparkle, glisten, glare
+  - q: What words describe the brightness of the sun?
+    words: bright, intense, brilliant, blinding, glaring, glistening, luminous, dim
+  - q: What refer to the sun heating things?
+    words: warm, heat, dry
+  - q: What else does the sun do?
+    words: looks down on
+  - q: What words describe the damage done by sunlight?
+    words: >-
+      sunburn, sunstroke, suntan, tan, heatstroke, heat prostration, sun damage, fading from
+      the sun, bleached by the sun
+  - q: What do people use to protect themselves from the sun?
+    words: >-
+      sunglasses, shade tree, suntan lotion, awning, sun umbrella, parasol, sunbonnet, hat,
+      visor
+  - q: What words are used of telling time by the sun?
+    words: sundial, angle of the sun, sun-clock, shoot the sun, position of the sun
+  - q: What words refer to using the power of the sun?
+    words: solar energy, solar power, solar panel

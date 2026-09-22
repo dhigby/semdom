@@ -1,0 +1,11 @@
+code: "5.6.3"
+guid: 9D79BE9A-F21E-4189-BE39-779DB79DA027
+name: Wash dishes
+description: Use this domain for words related to washing dishes.
+questions:
+  - q: What words refer to washing dishes?
+    words: wash dishes, rinse
+  - q: What tools are used to wash dishes?
+    words: >-
+      dishpan, pan, dish rack, dishtowel, dishcloth, sponge, dishwater, dishwasher, kitchen
+      sink

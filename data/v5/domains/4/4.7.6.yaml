@@ -1,0 +1,10 @@
+code: "4.7.6"
+guid: BD7D0C9C-791E-4C34-B9ED-EBDDAD8F9724
+name: Judge, render a verdict
+description: Use this domain for words related to judging someone.
+louwNidaCodes: 56E Judge, Condemn, Acquit; 56F Obtain Justice; 56H Lead Off to Punishment
+questions:
+  - q: What words are used of the action of judging a person?
+    words: to judge, render a verdict, rule on a case
+  - q: What words refer to the judgment?
+    words: judgment, verdict, ruling

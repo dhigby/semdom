@@ -1,0 +1,18 @@
+code: "6.5.1.2"
+guid: C8E3C39C-D895-4E42-8E1E-1574137BA016
+name: Types of houses
+description: Use this domain for words referring to types of houses.
+ocmCodes: 342 Dwellings; 343 Outbuildings
+questions:
+  - q: What types of houses are there?
+    words: >-
+      rectangular, round, one story, two story, duplex, bungalow, apartment, apartment
+      building, flat, duplex, ranch style, mansion, castle, man's house, wife's house
+  - q: What is a very good house called?
+    words: palace, mansion, sprawling (place)
+  - q: What is a very bad house called?
+    words: dump, run down place, shack, hut, log cabin
+  - q: What is a temporary house called?
+    words: tent, shelter, hut, camp
+  - q: What other buildings are associated with the house and built next to it?
+    words: outhouse, bunkhouse, garage, shed, barn

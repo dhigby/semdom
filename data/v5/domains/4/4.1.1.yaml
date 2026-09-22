@@ -1,0 +1,20 @@
+code: "4.1.1"
+guid: 646DAB64-5C2F-4F45-8E28-4D13437639D4
+name: Friend
+description: Use this domain for words related to friendship.
+ocmCodes: 572 Friendships; 573 Cliques
+questions:
+  - q: What words are used to describe the formation of a friendship?
+    words: build a friendship, become friends, befriend, be friendly
+  - q: What words are used to refer to the state of being friends?
+    words: be friends with, going together, going out, going steady
+  - q: What words are used to refer to the friendship itself?
+    words: friendship
+  - q: What words are used to refer to a person who is a friend?
+    words: friend, pal, buddy, amigo, soul mate, mate, girlfriend, boyfriend, companion
+  - q: What are the outward signs of friendship?
+    words: hold hands, be together, do things together, share, give gifts, show affection
+  - q: What words describe a friendship?
+    words: intimate, intimacy, close, deep, long-standing, old friend, improper
+  - q: What words describe a friendship that has gone bad?
+    words: broken relationship, break up, strained relationship, misunderstanding, co-dependency

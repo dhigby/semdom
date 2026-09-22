@@ -1,0 +1,36 @@
+code: "4.8.2.3"
+guid: 80563285-4DE7-4040-8080-A5B22208E7D5
+name: Attack
+description: Use this domain for words referring to attacking someone--to begin fighting someone.
+louwNidaCodes: 39J Attack
+questions:
+  - q: What words refer to attacking someone?
+    words: >-
+      attack, lead an attack, the attack fell on, assault, assail, charge, come at, drive,
+      force your way, go for, lay into, make a run on, rush, sail into, set upon, strike,
+      confront, penetrate defenses, be on the offense
+  - q: What words refer to attacking in war?
+    words: attack, invade, storm, raid, besiege, bombard
+  - q: What words refer to surrounding an enemy?
+    words: surround, encircle, envelope, encirclement, encircling movement, envelopment
+  - q: What words refer to an attack?
+    words: attack (n), assault, charge (n), onrush, rush (n), strike (n)
+  - q: What words refer to an attack in war?
+    words: >-
+      attack (n), assault (n), foray, invasion, incursion, strike (n), push, raid (n),
+      offense, offensive, onset, onslaught, aggression, ambush (n), sally, siege, sortie,
+      penetration
+  - q: What words refer to a person or group that attacks?
+    words: attacker, attacking force, aggressor, assailant, invader, invasion force
+  - q: What words refer to the person or place that is attacked?
+    words: victim, target, be under attack
+  - q: What words describe a person or place that is easy to attack?
+    words: vulnerable, sitting duck, be an easy target, open to attack
+  - q: What words refer to starting to fight?
+    words: >-
+      launch an attack, mount an attack, start a fight, pick a fight, be spoiling for a
+      fight, looking for a fight, challenge (someone to fight)
+  - q: What words describe an attack that was not caused by an earlier action?
+    words: unprovoked
+  - q: What words refer to attacking someone who has attacked you?
+    words: counter-attack, hit back, retaliate, strike back

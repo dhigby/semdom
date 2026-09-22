@@ -1,0 +1,9 @@
+code: "7.5.9"
+guid: 3FAE9066-EB66-444e-BD41-818B9F7B3BAE
+name: Put
+description: Use this domain for words related to putting something somewhere.
+louwNidaCodes: 85B Put, Place
+questions:
+  - q: What words refer to putting something somewhere?
+    words: put, install, lodge, mount, place (v), position (v), set, situate, sling, stash, stow
+    sentence: 'Put: John <put> the knife on the table.'

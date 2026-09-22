@@ -1,0 +1,24 @@
+code: "8.6"
+guid: 91913920-8A6A-4BA0-9361-D6CC9E1F3639
+name: Parts of things
+description: >-
+  Use this domain for words that refer to a part of something. These words are often based
+  on the parts of a person's body.
+related: ["7.8", "8.1.6.1"]
+questions:
+  - q: What general words refer to a part of something?
+    words: part, piece, section, component, portion, bit
+  - q: If something has two sides, what words refer to the other side?
+    words: the back, the reverse, the other side, the flip side
+  - q: What words refer to the part of something used to hold it?
+    words: handle, grip
+  - q: What words refer to the main part of something?
+    words: body, chassis
+  - q: What words refer to something added to the main part?
+    words: appendage, appurtenance, adjunct, accessory, addition, attachment
+  - q: What words refer to a layer of something?
+    words: layer, level, stratum, stratified, story, floor, sandwich
+  - q: What other words refer to a part of something?
+    words: >-
+      flap, detail, bar, blade, hook, lid, neck, nose, shelf, wheel, longitudinal,
+      projection

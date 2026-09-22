@@ -1,0 +1,12 @@
+code: "3.3.2.3"
+guid: 593073D6-9893-4670-98FB-C485406A950B
+name: Intercede
+description: >-
+  Use this domain for words related to interceding for someone--to say something to someone
+  because you want them to do something good for someone else.
+louwNidaCodes: 33I' Intercede
+questions:
+  - q: What words refer to requesting that someone do something for someone else?
+    words: intercede, intercession, intercessory, intervene on behalf of, interpose, mediate
+  - q: What words refer to a person who intercedes?
+    words: intercessor, go-between, intermediary, mediator, peacemaker

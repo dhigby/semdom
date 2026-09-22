@@ -1,0 +1,11 @@
+code: "4.1.9.7"
+guid: FA41DBC5-ADBB-4AD0-9FD2-0278D4689A28
+name: Non-relative
+description: Use this domain for words that refer to people who are not related by blood or marriage.
+ocmCodes: 608 Artificial Kin Relationships; 609 Behavior Toward Non-relatives
+related: ["4.1"]
+questions:
+  - q: >-
+      What words are used to refer to people who are not related to you by blood or
+      marriage?
+    words: non-relative, unrelated, not related

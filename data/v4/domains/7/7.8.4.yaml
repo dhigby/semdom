@@ -1,0 +1,8 @@
+code: "7.8.4"
+guid: B0B161B2-E773-4B04-99EB-23778FD2AA80
+name: Tear, rip
+description: Use this domain for words related to tearing or ripping something.
+louwNidaCodes: 19C Split, Tear
+questions:
+  - q: What words refer to tearing something?
+    words: tear, rip, shred

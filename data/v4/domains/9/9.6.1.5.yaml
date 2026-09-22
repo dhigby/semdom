@@ -1,0 +1,43 @@
+code: "9.6.1.5"
+guid: 30FFF450-1AA5-4993-9C14-C8019A5F072E
+name: But
+description: >-
+  Use this domain for words indicating a contrast between two thoughts that are different in
+  some way.
+louwNidaCodes: 89W Contrast
+questions:
+  - q: What words indicate that someone wants to do something, but is not able to do it?
+    words: but, however
+    sentence: >-
+      I want to do something, <but> can't do it.; I tried to do something, <but> couldn't do
+      it.; I promised to do something, <but> didn't do it.
+  - q: What words indicate that something seems to be true, but is not true?
+    words: but, however
+    sentence: Something seems to be true, <but> isn't true.
+  - q: >-
+      What words indicate that something is true in spite of facts or problems that make it
+      seem unlikely?
+    words: >-
+      but, yet, still, nevertheless, even so, anyway, all the same, in spite of this,
+      despite this, for all that, though, although
+    sentence: This is true, <but> that is also true.; This is true, <although> that is also true.
+  - q: What words indicate that an opinion is different than the opinion you have just given?
+    words: but, however, on the other hand, at the same time, having said that, mind you
+    sentence: I think this is true, <but> I also think that is true.
+  - q: >-
+      What words indicate that something is true of one person or thing, but not true of
+      another?
+    words: but, however, whereas, while, by contrast, conversely
+    sentence: Something is true of this person, <but> not true of that person.
+  - q: >-
+      What words indicate that although one person or thing is similar to another, there is
+      a difference between them?
+    words: but, only, except, except for the fact that
+    sentence: I am like you, <but> we are different in this way.
+  - q: >-
+      What words indicate that something could happen, but something else prevented it from
+      happening?
+    words: but, only, except
+    sentence: I could have done this, <but> you stopped me from doing it.
+  - q: What words indicate that the opposite of something is true?
+    words: on the contrary, contrary to, in contrast, as opposed to

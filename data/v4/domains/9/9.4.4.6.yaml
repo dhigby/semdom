@@ -1,0 +1,17 @@
+code: "9.4.4.6"
+guid: 1A635032-6E13-4A56-AA03-6C6A015C502E
+name: Unsure
+description: Use this domain for words related to not feeling sure about something or someone.
+questions:
+  - q: What words refer to not being sure about something?
+    words: >-
+      not be sure, not be certain, be unsure, be uncertain, not know, doubt, wonder, can't
+      be sure, not be confident, be indefinite about, ambivalent
+  - q: What words refer to not being sure whether you should do something?
+    words: >-
+      have doubts, have reservations, have misgivings, have mixed feelings, have qualms,
+      hesitant
+  - q: What words refer to making someone unsure about something?
+    words: >-
+      make someone unsure, make someone uncertain, cause doubt, cause uncertainty, it makes
+      you wonder, raise doubts

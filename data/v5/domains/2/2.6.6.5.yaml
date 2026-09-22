@@ -1,0 +1,30 @@
+code: "2.6.6.5"
+guid: CA9C215A-E568-4D09-B3A9-B5727CD831D6
+name: Bury
+description: >-
+  Use this domain for words related to disposing of a dead body. Different cultures have
+  practices other than burying a body in the ground. Include words for all practices used by
+  the culture.
+ocmCodes: >-
+  766 Special Burial Practices and Funerals; Deviant Mortuary Practices; 767 Mortuary
+  Specialists
+louwNidaCodes: 52 Funerals and Burial
+questions:
+  - q: What words refer to burying a dead body?
+    words: bury, burial, inter, interment, lay to rest, entomb
+  - q: What steps are involved in preparing a body for burial?
+    words: burial arrangements, wash (the body), wrap, anoint
+  - q: What words refer to a person who prepares a body for burial?
+    words: embalmer, undertaker, mortician, gravedigger, funeral director
+  - q: Where are bodies prepared for burial?
+    words: morgue, mortuary, crematorium
+  - q: What is used to protect a body?
+    words: grave clothes, shroud, coffin, casket, sarcophagus, urn
+  - q: What is used to carry a body?
+    words: pall, bier, hearse
+  - q: What words refer to burning a body?
+    words: cremate, cremation, pyre, ashes
+  - q: What words refer to leaving a body outside?
+    words: expose (a body), funeral platform, left to rot
+  - q: What words refer to preserving a dead body?
+    words: embalm, mummify, mummy

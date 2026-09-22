@@ -1,0 +1,16 @@
+code: "4.7.5.3"
+guid: FA660C9D-8787-4335-8744-3DBC139B2DF1
+name: Accuse, confront
+description: Use this domain for words related to accusing someone of doing something bad.
+louwNidaCodes: 33V' Accuse, Blame; 56C Accusation
+questions:
+  - q: What words refer to accusing someone?
+    words: >-
+      accuse, confront, accost, incriminate, blame, point the finger at, criticize, hold
+      responsible, find fault with, be direct with, don't mince words, tell off, rebuke,
+      reprove, remonstrate, to rebuke, correct, reproof, remonstrance, castigate, cast
+      aspersions, prove, offer proof
+  - q: What words refer to the person who accuses another person?
+    words: plaintiff
+  - q: What words refer to the person who has been accused of something?
+    words: the accused, the defendant

@@ -1,0 +1,24 @@
+code: "4.8.2.7"
+guid: 0066F0F7-02DD-4F8E-AFA5-59B8CB5A434A
+name: Betray
+description: Use this domain for words related to betraying someone.
+louwNidaCodes: 37G Hand Over, Betray
+questions:
+  - q: What words refer to betraying someone to his enemies?
+    words: betray, double-cross, stab in the back, sell out, sell someone down the river
+  - q: What words refer to handing someone over to his enemies?
+    words: hand over, deliver
+  - q: What words refer to telling secrets to an enemy?
+    words: blab, inform on, rat on, snitch, squeal, tattle
+  - q: What words refer to betraying your country?
+    words: betray, turn traitor, collaborate, treason
+  - q: What words refer to the action of betraying someone?
+    words: betrayal, sell-out, treachery, treason
+  - q: What words describe something someone does when betraying someone?
+    words: treasonous (action), subversive (activity)
+  - q: What words refer to a person who betrays someone?
+    words: >-
+      betrayer, collaborator, informant, informer, Judas, rat, renegade, saboteur, snitch,
+      squealer, subversive, tattle-tale, traitor
+  - q: What words describe someone who betrays someone?
+    words: treacherous

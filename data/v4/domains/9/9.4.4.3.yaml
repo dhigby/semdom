@@ -1,0 +1,37 @@
+code: "9.4.4.3"
+guid: 84EB31D3-B932-4B3B-B945-85884EA856C7
+name: Probably
+description: >-
+  Use this domain for words that a speaker uses to indicate that he thinks something is
+  probable or likely to occur.
+louwNidaCodes: 71B Probable, Improbable
+questions:
+  - q: What words indicate that something will probably happen?
+    words: >-
+      probably, likely, probable, be a strong possibility, it looks as if, it looks like,
+      chances are, may well, be in the cards, as likely as not, I wouldn't be surprised if,
+      I dare say, I should think, I guess
+  - q: What words indicate that something is probably true?
+    words: >-
+      probably, likely, probable, it looks as if, it's a fair bet, may well, may easily, as
+      likely as not, I should think
+  - q: What words indicate that something is very probably true
+    words: >-
+      very probably, very likely, there is a strong likelihood, there is a strong
+      probability, almost certain, be more than likely, in all probability, ten to one
+  - q: What words indicate that something good will probably happen?
+    words: ought to be, should be, promise to be, looks promising
+  - q: What words indicate that something bad will probably happen?
+    words: be heading for, be in for, threaten, threat
+  - q: What words indicate that someone or something will probably be successful?
+    words: have a good chance, stand a good chance, be set to do something, be on course
+  - q: What words indicate that someone will probably do something bad?
+    words: be quite capable of, I wouldn't put it past him
+  - q: What words indicate how probable it is that something will happen?
+    words: likelihood, probability, prospect, chances, odds
+  - q: What words indicate that something is possible but not very probable?
+    words: unlikely, improbable, doubtful, remote
+  - q: What words indicate that someone or something will probably not be successful?
+    words: >-
+      little chance, little hope, little prospect, have little chance, stand little chance,
+      outside chance

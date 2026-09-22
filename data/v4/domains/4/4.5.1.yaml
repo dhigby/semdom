@@ -1,0 +1,10 @@
+code: "4.5.1"
+guid: 67087306-0211-4C28-B17E-0B6827723F07
+name: Person in authority
+description: Use this domain for words related to a person in authority.
+ocmCodes: 622 Community Heads; Headmen; 624 Local Officials
+questions:
+  - q: What words refer to a person in authority?
+    words: >-
+      person in authority, authority, authority figure, person in charge, leader, boss,
+      captain, director, chairman, chairperson, head, figurehead, master

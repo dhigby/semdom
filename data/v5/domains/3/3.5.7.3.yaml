@@ -1,0 +1,15 @@
+code: "3.5.7.3"
+guid: 710828BC-5DFB-4685-B1A5-156700AB08F1
+name: Read
+description: Use this domain for words related to reading.
+questions:
+  - q: What words refer to reading?
+    words: read, decipher
+  - q: What words refer to a person who reads?
+    words: reader, readership, circulation
+  - q: What words refer to reading aloud or silently?
+    words: aloud, out loud, silently, recite
+  - q: What words refer to reading quickly?
+    words: scan, skim, browse, read over, look through
+  - q: What words refer to reading carefully?
+    words: study, read up on, pore over

@@ -1,0 +1,15 @@
+code: "6.5.2"
+guid: 22ACD714-B11E-462A-BD8E-6FF50843C103
+name: Parts of a building
+description: Use this domain for words referring to the parts and areas of a building.
+louwNidaCodes: 7C Parts and Areas of Buildings
+questions:
+  - q: What words refer to the parts of a building?
+    words: >-
+      structure, section, part, wing, rotunda, pillar, column, arch, archway, tower,
+      foundation, floor, roof, room, wall, door, window, entrance, exit, passage, hall,
+      corridor, courtyard
+  - q: What words refer to the side of a building?
+    words: side, front, back
+  - q: What words refer to the inside or outside of a building?
+    words: inside, interior, outside, exterior

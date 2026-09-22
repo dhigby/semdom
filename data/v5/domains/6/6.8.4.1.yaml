@@ -1,0 +1,13 @@
+code: "6.8.4.1"
+guid: 063E0810-8E49-44EF-AA8F-BB9E63BB66DD
+name: Buy
+description: Use this domain for words related to buying something.
+ocmCodes: 432 Buying and Selling
+louwNidaCodes: 57O Sell, Buy, Price
+questions:
+  - q: What words refer to buying something?
+    words: buy, purchase, pick up (at the store)
+  - q: What words refer to someone who buys something?
+    words: buyer, customer
+  - q: What words refer to something that is bought?
+    words: purchase, merchandise, goods

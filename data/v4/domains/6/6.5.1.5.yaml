@@ -1,0 +1,16 @@
+code: "6.5.1.5"
+guid: 7A8CB8D3-797D-478d-B7DD-265A1EEDC0C1
+name: Fence, wall
+description: >-
+  Use this domain for words referring to a fence, wall, hedge, or other barrier separating
+  one house from another, and a gate or entryway through a fence or wall.
+louwNidaCodes: 7F Walls and Fences
+questions:
+  - q: What words refer to a fence or wall?
+    words: wall, fence, hedge
+  - q: What words refer to a gate?
+    words: gate, gateway, entrance
+  - q: What words refer to an area that has a fence around it?
+    words: enclosure
+  - q: What words describe an area that has a fence around it?
+    words: walled, enclosed

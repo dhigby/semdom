@@ -1,0 +1,34 @@
+code: "2.3.1.1"
+guid: D7861DEF-70C1-470F-BCA6-8230CBBAA3E9
+name: Look
+description: >-
+  Use this domain for words that refer to looking at someone or something--to see something
+  because you want to.
+related: ["3.2.2.1", "7.6.1"]
+questions:
+  - q: What words refer to consciously looking at something?
+    words: >-
+      look, look at, view, observe, eye (v), cast an eye on, watch, take a look at, have a
+      look at
+  - q: What words refer to looking at something for a long time or in amazement?
+    words: stare, gaze, gape, gawk, peer
+  - q: What words refer to looking at something for a short time?
+    words: glance, cursory glance, look at briefly, (eyes) flicker over, take a quick look
+  - q: What words refer to looking quickly at many things or a large area?
+    words: >-
+      scan, survey, reconnaissance, reconnoiter, look over, eyeball, perusal, peruse, scout,
+      skim, sweep
+  - q: What words refer to looking at many things over a period of time?
+    words: browse, look around, sight-seeing
+  - q: What words describe how you look at someone if you don't trust them?
+    words: eye, look somebody up and down
+  - q: What words describe how you look at a woman if you are sexually attracted to her?
+    words: leer, ogle, make eyes at, goggle, peep, admire
+  - q: What words describe how you look at something if you are angry or unhappy about it?
+    words: glare, scowl, frown, give a dirty look, glower
+  - q: What words refer to looking hard at something because it is difficult to see?
+    words: squint, peer, crane your neck
+  - q: What words refer to looking at something secretly?
+    words: peek, peep, take a peep, sneak a look at, snoop around, spy
+  - q: What words refer to stopping looking at something and look at something else?
+    words: look away, avert your eyes

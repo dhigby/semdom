@@ -1,0 +1,29 @@
+code: "2.6.5"
+guid: 0DB5817E-05BF-4703-A6B9-E239AC44F857
+name: Male, female
+description: Use this domain for words referring to male and female people.
+louwNidaCodes: 79V Male, Female
+related: ["1.6.7"]
+questions:
+  - q: What general words refer to the difference between male and female?
+    words: sex, gender, male, female
+  - q: What pairs of words refer to male and female people?
+    words: >-
+      the sexes, male and female, men and women, boys and girls, ladies and gentlemen, guys
+      and gals
+  - q: What words refer to something (such as a plant) that is neither male nor female?
+    words: asexual, sexless
+  - q: What words refer to something (such as a plant) that is both male and female?
+    words: androgynous, bisexual, hermaphrodite, hermaphroditic
+  - q: What words describe something to do with the sex of a person?
+    words: sexual
+  - q: What words describe a school or organization that includes males and females?
+    words: mixed, coed
+  - q: What words describe a school or organization that includes only males or females?
+    words: single-sex
+  - q: What words refer to a person of the other sex?
+    words: the opposite sex
+  - q: What words refer to problems between men and women?
+    words: >-
+      sexual equality, sexual discrimination, sexism, sexist, male chauvinism, male
+      chauvinist, feminism, feminist

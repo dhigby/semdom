@@ -1,0 +1,10 @@
+code: "1.6"
+guid: 944CF5AF-469E-4B03-878F-A05D34B0D9F6
+name: Animal
+description: Use this domain for general words referring to animals.
+ocmCodes: 136 Fauna
+louwNidaCodes: 4 Animals
+related: ["5.2.3.2", "6.3", "8.3.3.3.5", "9.7.3.1"]
+questions:
+  - q: What general words refer to all animals?
+    words: animal, fauna, creature, critter, organism, wildlife

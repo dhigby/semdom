@@ -1,0 +1,23 @@
+code: "4.2.2.1"
+guid: 71CBEFC3-E0A5-4B97-9672-FA0CB34C59E4
+name: Ceremony
+description: Use this domain for words referring to a ceremony.
+louwNidaCodes: 51 Festivals
+related: ["8.4.1.8"]
+questions:
+  - q: What general words refer to a ceremony?
+    words: ceremony
+  - q: What types of ceremonies are there?
+    words: >-
+      anniversary, banquet, baptism, birthday party, carousal, celebration, christening,
+      closing ceremony, commemoration, confirmation, consecration, convention, dance,
+      dedication, feast, festivity, fete, funeral, funfest, gala, game night, graduation,
+      homecoming, inauguration, induction, initiation, launching, memorial, naming ceremony,
+      opening, grand opening, parade, party, reception, recognition, reenactment,
+      retirement, toast, trade fair, wake, wedding
+  - q: What words describe a ceremony?
+    words: solemn
+  - q: What words refer to specific holidays?
+    words: >-
+      Christmas, New Years, Thanksgiving, Easter, Good Friday, Independence Day, Memorial
+      Day, Labor Day, Washington's Birthday, Valentine's Day, Mothers Day

@@ -1,0 +1,18 @@
+code: "4.3"
+guid: 8E11DD10-459B-4FB3-B876-7D80EC5F8A4D
+name: Behavior
+description: Use this domain for general words referring to a person's behavior.
+ocmCodes: 577 Ethics
+louwNidaCodes: >-
+  41 Behavior and Related States; 41A Behavior, Conduct; 88 Moral and Ethical Qualities and
+  Related Behavior
+questions:
+  - q: What words refer to behaving in a particular way?
+    words: >-
+      behave, act, conduct yourself, be, acquit yourself, bear, comport, deal, deport,
+      devote, lead, live, occupy, order your steps, practice
+  - q: What words refer to the way a person behaves?
+    words: >-
+      behavior, antics, conduct, character, manner, demeanor, characteristic, air, bearing,
+      behavior, carriage, comportment, course, custom, dealing, deportment, doings,
+      etiquette, existence, life, manners, mien, trait, way of life, the way someone acts

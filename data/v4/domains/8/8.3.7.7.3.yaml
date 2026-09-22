@@ -1,0 +1,29 @@
+code: "8.3.7.7.3"
+guid: 2B2BEDD5-3F9C-4C18-A256-AA65EE19F15C
+name: Compatible
+description: >-
+  Use this domain for words related to being compatible--words that describe two things or
+  people that can be together or work together without problems or conflict.
+questions:
+  - q: What words describe things that are compatible?
+    words: >-
+      compatible, congruent, congruous, consistent, consonant, suitable, proper, fitting,
+      presentable
+  - q: What words refer to things being compatible?
+    words: >-
+      accord, agree, clash, cohere, complement, comport, dovetail, go together, go with,
+      harmonize, jibe, rhyme, square
+  - q: What words describe people that are compatible?
+    words: compatible
+  - q: What words refer to people being compatible?
+    words: >-
+      work well together, be well-suited, be well-matched, be made for each other, be a
+      perfect match, be a perfect pair, be ideally suited, be right for
+  - q: What words refer to the quality of being compatible?
+    words: compatibility, harmony
+  - q: What words describe things or people that are incompatible?
+    words: incompatible, ill-matched
+  - q: What words refer to people being incompatible?
+    words: not be suited, be wrong for, not be right for, not be someone's type
+  - q: What words refer to the quality of being incompatible?
+    words: incompatibility

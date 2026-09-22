@@ -1,0 +1,8 @@
+code: "7.2.3.3.1"
+guid: B08424B7-A2F1-4A0E-82D1-665249E12CFC
+name: Arrive
+description: Use this domain for words referring to arriving at a place.
+louwNidaCodes: 15F Come, Come To, Arrive
+questions:
+  - q: What words refer to arriving at a place?
+    words: arrive, arrival, reach, get to, come to, attain, land, landing, advent

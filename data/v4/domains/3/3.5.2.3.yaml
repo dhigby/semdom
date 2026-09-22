@@ -1,0 +1,12 @@
+code: "3.5.2.3"
+guid: 22E8F542-0AB1-4F25-AF50-FD0D02917FDA
+name: Figurative
+description: >-
+  Use this domain for words referring to figurative speech--saying something that is not
+  meant to be understood literally (according to the normal meaning of each word), or saying
+  something that compares one thing to another.
+questions:
+  - q: What words refer to figurative speech?
+    words: figurative, not literal, metaphorical, figure of speech, colorful language
+  - q: What words refer to particular types of figures of speech?
+    words: metaphor, simile, comparison

@@ -1,0 +1,9 @@
+code: "2.4"
+guid: F7706644-542F-4FCB-B8E1-E91D04C8032A
+name: Body condition
+description: Use this domain for general words related to the condition of the body.
+ocmCodes: 147 Physiological Data
+related: ["2.5", "8.2.2.2", "8.2.2.3", "8.2.3.2", "8.2.3.3"]
+questions:
+  - q: What general words refer to the condition of the body?
+    words: condition, state, shape (as in 'to be in shape')

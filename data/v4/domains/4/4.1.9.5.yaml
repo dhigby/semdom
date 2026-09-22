@@ -1,0 +1,14 @@
+code: "4.1.9.5"
+guid: 0656F6A7-9A88-4C03-A8AB-ACE8C0F52EBF
+name: Illegitimate child
+description: Use this domain for words referring to an illegitimate child.
+ocmCodes: 848 Illegitimacy
+questions:
+  - q: What words refer to a child who is born to an unmarried woman?
+    words: illegitimate child, bastard
+  - q: What words refer to a woman having a child when she is not married?
+    words: have a child out of wedlock
+  - q: What words refer to being a child without a father?
+    words: be illegitimate, fatherless
+  - q: What words refer to a married woman having a child by another man?
+    words: (no words in English)

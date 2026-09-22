@@ -1,0 +1,9 @@
+code: "4.8.4.2"
+guid: 9AFB64D6-FEAE-4490-9B7E-95768627F643
+name: Make an appeal
+description: Use this domain for words related to making an appeal.
+questions:
+  - q: What words refer to one person asking another to do what is good?
+    words: make an appeal, appeal to, entreat
+  - q: What words refer to someone urging another to do what is good?
+    words: exhort, encourage, encouragement

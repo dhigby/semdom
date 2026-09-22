@@ -1,0 +1,11 @@
+code: "2.6.3.2"
+guid: BD002DFA-E842-47D6-B11B-3C213CBF133A
+name: Fetus
+description: Use this domain for words related to a fetus--a baby that has not been born yet.
+questions:
+  - q: What words refer to an unborn baby?
+    words: unborn child, unborn baby, fetus, embryo
+  - q: >-
+      What words refer to the parts that surround a baby and connect it to its mother's
+      womb?
+    words: umbilical cord, placenta, placental, sack, fluid, afterbirth

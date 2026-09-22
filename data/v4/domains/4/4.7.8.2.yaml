@@ -1,0 +1,7 @@
+code: "4.7.8.2"
+guid: 6AA8133A-2578-4617-BD9C-6428E897A4F1
+name: Break a contract
+description: Use this domain for words related to breaking a contract.
+questions:
+  - q: What words refer to breaking a contract?
+    words: break a contract, nullify

@@ -1,0 +1,28 @@
+code: "7.3.1"
+guid: 6430B89C-7077-418A-A558-51F0E3F2C1A6
+name: Carry
+description: >-
+  Use this domain for words referring to carrying something--to pick something up and hold
+  it while moving oneself.
+ocmCodes: 482 Burden Carrying; 483 Weight Moving
+louwNidaCodes: 15X Carry, Bear
+related: ["6.7.3"]
+questions:
+  - q: What general words refer to carrying something?
+    words: carry, bear, tote
+  - q: What words refer to carrying something in a particular manner?
+    words: pack, carry in the arms, carry on the shoulders, shoulder (v), carry on a pole, cradle
+  - q: What words refer to carrying something very heavy?
+    words: lug, haul, cart
+  - q: What words refer to carrying many things?
+    words: >-
+      be loaded (down) with, overloaded, be laden with, be weighed down with, under the
+      weight of
+  - q: What words refer to someone who carries things?
+    words: porter, bearer, carrier, courier
+  - q: What words refer to something that is carried?
+    words: load, burden, armful
+  - q: What words describe something that can be carried?
+    words: portable
+  - q: What words refer to something used to carry things?
+    words: pack, backpack, stretcher, carrying pole

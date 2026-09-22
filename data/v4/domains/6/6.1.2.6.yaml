@@ -1,0 +1,13 @@
+code: "6.1.2.6"
+guid: 889DE305-82AD-4D1A-9A97-63733ED27BFC
+name: Prepare
+description: Use this domain for words related to preparing to do something.
+ocmCodes: 122 Practical Preparations in Conducting Fieldwork
+louwNidaCodes: 77 Ready, Prepared
+questions:
+  - q: What words refer to preparing for a task?
+    words: prepare, preparations, make preparations, get ready, ready something
+  - q: What words describe a person who has prepared?
+    words: prepared, ready
+  - q: What words describe a person who has not prepared?
+    words: unprepared, unready

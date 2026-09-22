@@ -1,0 +1,11 @@
+code: "3.5.2.2"
+guid: F2342D42-BDC4-449C-9891-58F90318B9F1
+name: News, message
+description: >-
+  Use this domain for words referring to something someone says, which relays information
+  from someone else, or about something someone has done.
+questions:
+  - q: What words refer to something someone says?
+    words: news, message, report, account
+  - q: What words refer to someone who takes a message to someone?
+    words: messenger

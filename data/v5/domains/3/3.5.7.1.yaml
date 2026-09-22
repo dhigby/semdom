@@ -1,0 +1,13 @@
+code: "3.5.7.1"
+guid: AF700054-258A-458A-9E38-E90397833E51
+name: Write
+description: Use this domain for words related to writing.
+ocmCodes: 212 Writing; 218 Writing and Printing Supplies
+louwNidaCodes: 33E Written Language; 6J Instruments Used in Marking and Writing
+questions:
+  - q: What words refer to writing?
+    words: write, write down, take dictation, spell
+  - q: What words refer to the letters and symbols we use to write?
+    words: orthography, alphabet, letter, punctuation, accent, tone mark, underline, underscore
+  - q: What words refer to the things used to write?
+    words: writing materials, paper, pen, ink, pencil

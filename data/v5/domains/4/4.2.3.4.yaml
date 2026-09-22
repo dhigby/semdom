@@ -1,0 +1,16 @@
+code: "4.2.3.4"
+guid: 0A1B26B2-2152-45E2-9B63-4A68FCA73A90
+name: Musician
+description: Use this domain for words related to a musician.
+questions:
+  - q: What words refer to a person who performs music?
+    words: musician, singer, player, performer, band member, choir member
+  - q: What is a group of musicians called?
+    words: >-
+      choir, ensemble, singing group, soloist, duo, trio, quartet, band, dance band, concert
+      band, marching band, brass band, orchestra, full orchestra, string quartet, chamber
+      orchestra
+  - q: What words refer to a person who leads a group of musicians?
+    words: director, concertmaster, bandleader
+  - q: What words describe a good or bad musician?
+    words: have an ear for music, have a good ear, maestro, tone deaf

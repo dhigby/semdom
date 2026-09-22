@@ -1,0 +1,44 @@
+code: "3.3.3.2"
+guid: 6BFB7813-3A7D-47E2-88E1-D54034C07E5D
+name: Advise
+description: >-
+  Use this domain for words referring to giving someone advice or counsel, for instance
+  recommending a wise course of action.
+louwNidaCodes: 33A' Advise
+questions:
+  - q: What words refer to giving someone advice?
+    words: >-
+      advise, say someone should do something, give advice, recommend, urge, offer advice,
+      advocate, commend, counsel, present, promote, propose, recommend a course of action,
+      guide, instruct, submit, make a motion, exhort
+  - q: What words do people use when giving advice?
+    words: >-
+      if I were you, you should do something, you ought to, you'd be better off, take my
+      advice, take it from me, you'd be well advised to do something, on no account, you'd
+      better, I would
+  - q: What words refer to asking for advice?
+    words: >-
+      ask someone's advice, seek advice, consult, ask for advice, request advice, turn to
+      for advice
+  - q: What words refer to doing what someone advises?
+    words: >-
+      take someone's advice, follow someone's advice, listen to advice, act on someone's
+      advice, accept advice, adopt
+  - q: What words refer to the advice that a person gives?
+    words: >-
+      advice, tip, recommendation, guidance, counseling, counsel, instructions, idea,
+      proposal, charge
+  - q: What words refer to someone who gives advice?
+    words: adviser, counselor, consultant, guru, mentor, coach
+  - q: What words refer to a group of people who give advice?
+    words: council, board, committee, advisory (board)
+  - q: What words refer to needing advice?
+    words: need advice, don't know what to do
+  - q: What words refer to not knowing what to advise?
+    words: don't know what to tell you
+  - q: What words refer to not accepting advice?
+    words: refuse advice, ignore advice
+  - q: What words refer to giving advice when the person doesn't want it?
+    words: meddle, kibitz, kibitzer
+  - q: What words describe good or bad advice?
+    words: good, wise, bad, bum steer, advisable, helpful, constructive, positive

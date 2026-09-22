@@ -1,0 +1,10 @@
+code: "6.6.3.3"
+guid: D8389A63-8B39-4E23-8528-CD756DAE2F5C
+name: Working with paper
+description: Use this domain for words related to paper.
+ocmCodes: 289 Paper Industry
+questions:
+  - q: What words refer to working with paper?
+    words: paper industry
+  - q: What words refer to paper?
+    words: paper, sheet, page, card, cardboard

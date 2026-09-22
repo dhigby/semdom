@@ -1,0 +1,11 @@
+code: "4.1.9.4"
+guid: 57237095-23CF-43BA-AA6C-89CECDD35FF8
+name: Orphan
+description: Use this domain for words referring to orphans.
+questions:
+  - q: What words refer to a child whose parents have died?
+    words: orphan, fatherless, motherless
+  - q: What words refer to being an orphan?
+    words: be orphaned, be an orphan
+  - q: What words refer to a place where orphans are taken care of?
+    words: orphanage

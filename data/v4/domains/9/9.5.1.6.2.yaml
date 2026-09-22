@@ -1,0 +1,8 @@
+code: "9.5.1.6.2"
+guid: A9470E53-EE43-4C87-9CCE-09CC4FA6B1C1
+name: Path (of movement)
+description: Use this domain for words indicating the Path of movement.
+questions:
+  - q: What words indicate the Path of movement?
+    words: via, course, route
+    sentence: We traveled <via> the highway most of the way.; What <route> will you follow?

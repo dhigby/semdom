@@ -1,0 +1,11 @@
+code: "3.5.1.5.2"
+guid: A30E0391-EA64-4938-9ECA-023C351D60AF
+name: Disclose
+description: Use this domain for words that refer to discovering and revealing unknown information.
+questions:
+  - q: What words refer to discovering information?
+    words: discover, uncover, detect, find out
+  - q: What words refer to disclosing information?
+    words: disclose, unmask, expose, reveal, unveil, bring to light
+  - q: What words describe something that is not hidden?
+    words: open, openly, in the open, for all to see

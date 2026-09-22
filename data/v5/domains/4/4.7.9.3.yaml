@@ -1,0 +1,17 @@
+code: "4.7.9.3"
+guid: 5737714D-49E4-4EB4-8E46-03203EE5340B
+name: Deserve
+description: >-
+  Use this domain for words related to deserving something--if you do something, either good
+  or bad, something can happen to you as a result of what you did. For instance you can
+  receive a reward for doing good, or a punishment for doing wrong. If what happened to you
+  is like what you did, people can think it is right that this thing happened to you.
+questions:
+  - q: What words refer to deserving what you receive?
+    words: deserve, merit, be owed, be yours by right, have earned
+  - q: What words indicate that someone deserves the problems they are having?
+    words: >-
+      deserve, had it coming, get what you deserve, serve someone right, get your just
+      deserts, get what was coming to you, your punishment fits the crime
+  - q: What words describe something that someone deserves?
+    words: well-deserved, well-earned, fitting, appropriate

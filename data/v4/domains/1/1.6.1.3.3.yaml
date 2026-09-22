@@ -1,0 +1,9 @@
+code: "1.6.1.3.3"
+guid: FAF0AE24-6584-4766-A93B-389C1CB06D8D
+name: Turtle
+description: Use this domain for words related to turtles.
+questions:
+  - q: What general words refer to turtles?
+    words: turtle (water), tortoise (land)
+  - q: What species of turtles are there?
+    words: box turtle, leatherback, snapping turtle, Galapagos tortoise, terrapin

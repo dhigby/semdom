@@ -1,0 +1,37 @@
+code: "2.5.1"
+guid: 7C6CAD26-79C3-403A-A3AA-59BABDFCD46F
+name: Sick
+description: Use this domain for words describing a person who is sick.
+ocmCodes: 750 Sickness
+louwNidaCodes: 23I Sickness, Disease, Weakness
+questions:
+  - q: What words refer to being sick?
+    words: be sick, be ill, not be well, be in a bad way, do poorly
+  - q: What words refer to being sick with a disease?
+    words: >-
+      have (a disease), suffer from, be sick with, infected with, stricken with, have an
+      attack of
+  - q: What words refer to being a little sick?
+    words: off color, under the weather, run down, not feel yourself, not be yourself
+  - q: What words refer to being very sick?
+    words: >-
+      bedridden, decline, failing, life is ebbing, sinking (fast), seriously ill, critically
+      ill, terminally ill, be fatal
+  - q: What words refer to feeling sick?
+    words: >-
+      feel ill, not feel well, feel rough, feel funny, feel sick, feel sick to your stomach,
+      groggy, feel faint
+  - q: What words describe a person who is sick?
+    words: >-
+      ill, sick, unwell, infirm, look like death warmed over, unhealthy, ailing, diseased,
+      incapacitated, indisposed, laid up
+  - q: What words describe someone who is often sick?
+    words: sickly, delicate, be in poor health, be prone to, hypochondriac
+  - q: What words refer to becoming sick?
+    words: >-
+      get sick, become ill, fall ill, be taken ill, sicken, become sick, catch (a disease),
+      come down with, contract
+  - q: What words refer to a person who is sick?
+    words: patient, sufferer, invalid, the sick
+  - q: What words refer to a time when many people are sick from the same disease?
+    words: epidemic, plague, outbreak, pestilence

@@ -1,0 +1,26 @@
+code: "3.3.5"
+guid: 7C9C6263-9F7D-472C-A4C9-1767015D41FE
+name: Offer
+description: Use this domain for words related to offering to do something for someone.
+louwNidaCodes: 33H' Recommend, Propose
+questions:
+  - q: What words refer to offering to do something for someone?
+    words: >-
+      offer to do something (for someone), volunteer, come forward, let me, proffer, tender,
+      make an overture
+  - q: What words refer to offering to give something to someone?
+    words: offer someone something, offer something to someone
+  - q: >-
+      What words refer to holding something out to someone so that they can take it if they
+      want it?
+    words: offer, hold something out
+  - q: What words refer to offering someone money for something you want?
+    words: offer someone (money) for something, make an offer, bid
+  - q: What words refer to the act of offering something to someone?
+    words: offer
+  - q: What words refer to what is offered?
+    words: bid
+  - q: What words refer to taking back an offer?
+    words: take back an offer, withdraw an offer
+  - q: What expressions do people use when they are offering something?
+    words: Would you like...? Can I...? Shall I...? Have a/some.... Help yourself to....

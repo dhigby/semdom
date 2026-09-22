@@ -1,0 +1,14 @@
+code: "5.4.6"
+guid: 6EA9BFC6-723C-466F-9EFC-0992879AE47D
+name: Ritual scar
+description: Use this domain for words related to ritual scarring.
+ocmCodes: 304 Body Alterations; Mutilation
+questions:
+  - q: What words refer to a scar or mark deliberately made to decorate the body?
+    words: tribal scar, tattoo (n), mutilation
+  - q: What words refer to making the scar?
+    words: tattoo (v), get a tattoo
+  - q: What instruments and materials are used?
+    words: pigment
+  - q: What words refer to filing the teeth?
+    words: file teeth

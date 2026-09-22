@@ -1,0 +1,16 @@
+code: "5.2.2.5"
+guid: 0A27D9D1-0F1F-475A-92A2-BBCCF5B15F41
+name: Hungry, thirsty
+description: Use this domain for words related to being hungry or thirsty.
+ocmCodes: 261 Gratification and Control of Hunger; 271 Water and Thirst
+questions:
+  - q: What words refer to being hungry?
+    words: hungry, hunger, famished, starved, ravenous
+  - q: What are the symptoms of hunger?
+    words: hunger pains, stomach is growling
+  - q: What words refer to being thirsty?
+    words: thirsty, thirst, dying of thirst, parched
+  - q: What words refer to how much you can eat or want to eat?
+    words: appetite, big appetite, small appetite
+  - q: What words refer to not wanting to eat?
+    words: lack of appetite, no appetite, not hungry

@@ -1,0 +1,10 @@
+code: "3.5.9.6"
+guid: 8D266C98-9DB3-4D3E-B204-956AA848FFA5
+name: Communication devices
+description: Use this domain for words related to communication devices.
+ocmCodes: >-
+  202 Transmission of Messages; 203 Dissemination of News and Information; 204 Press; 205
+  Mail; Postal System; 206 Telephone and Telegraph; 207 Radio and Television
+questions:
+  - q: What devices and machines are used to communicate?
+    words: telephone, radio, television, amplifier, megaphone, telegraph, telegram

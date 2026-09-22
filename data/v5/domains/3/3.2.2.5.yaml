@@ -1,0 +1,11 @@
+code: "3.2.2.5"
+guid: 909A3113-88BC-470B-8D48-7C0D37966982
+name: Solve
+description: >-
+  Use this domain for words related to solving something--finding the answer to something
+  that is difficult to understand.
+questions:
+  - q: What words refer to solving something?
+    words: >-
+      solve, figure out, work out, clear up, find an explanation, answer, calculate,
+      calculator

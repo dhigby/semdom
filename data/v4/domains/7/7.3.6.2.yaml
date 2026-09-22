@@ -1,0 +1,9 @@
+code: "7.3.6.2"
+guid: 7992958D-FD36-469E-A94B-F8A9EB26AF64
+name: Block, dam up
+description: Use this domain for words referring to preventing someone or something from moving.
+questions:
+  - q: What words refer to blocking the movement of something?
+    words: block, dam up, barricade, wall off
+  - q: What words refer to something that is used to block something?
+    words: blockade, dam, barricade, wall, barrier, fence

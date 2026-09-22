@@ -1,0 +1,11 @@
+code: "8.4.2.2"
+guid: 7EA946FB-6469-4F21-A5A4-7963878E6FE2
+name: A long time
+description: Use this domain for words referring to a long time.
+questions:
+  - q: What words indicate that something happens for a long time?
+    words: >-
+      take a long time, be for a long time, go long, go over the time allotted, take
+      forever, last a long time, went on forever, kept going and going, lengthy, enduring
+  - q: What do people say when they want someone to do something for a long time?
+    words: take your time, make it last, we want this to last a long time

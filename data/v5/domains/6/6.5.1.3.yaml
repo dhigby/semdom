@@ -1,0 +1,19 @@
+code: "6.5.1.3"
+guid: 7981A8E1-CF0B-44A0-9DE4-12160B2F201D
+name: Land, property
+description: >-
+  Use this domain for words related to land that a person owns or the land on which a house
+  is built.
+questions:
+  - q: What words refer to the land that a person owns?
+    words: land, property, piece of property, plot, section, estate, site, building site
+  - q: What words refer to the boundary of a piece of property?
+    words: property line, boundary marker
+  - q: What words refer to going onto someone's property without permission?
+    words: trespass, trespasser
+  - q: What words refer to the person who owns the land?
+    words: landowner, landlord, owner
+  - q: What words refer to a person who sells land?
+    words: real estate agent
+  - q: What words refer to the official document that shows who owns the land?
+    words: title, deed

@@ -1,0 +1,22 @@
+code: "2.1.1.3"
+guid: 68ED3E51-DDC4-4cec-89FF-605259AC9FCF
+name: Nose
+description: Use this domain for words related to the nose.
+related: ["2.3.4", "2.2.2"]
+questions:
+  - q: What words refer to the nose?
+    words: nose
+  - q: What are the parts of the nose?
+    words: nostril, bridge, septum, sinus, nasal passage, mucous membrane
+  - q: What words describe a person's nose?
+    words: pointed, flat, turned-up, snub-nosed, stubby, wide, long, upturned, hooked, aquiline
+  - q: What does the nose do?
+    words: smell, breathe
+  - q: What words describe the way air moves through the nose?
+    words: sneeze, sniff, sniffle, snort, snuffle, wheeze
+  - q: What words refer to the nose moving?
+    words: nostrils flare, wrinkle your nose
+  - q: What do people do to their nose?
+    words: hold your nose, pierce (the septum), put a ring in (the nose)
+  - q: What words describe something to do with the nose?
+    words: nasal

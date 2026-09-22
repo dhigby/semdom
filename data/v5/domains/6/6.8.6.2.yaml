@@ -1,0 +1,15 @@
+code: "6.8.6.2"
+guid: CC39ED92-320F-51EA-C337-ED8DBD25EE89
+name: Mobile money, digital money
+description: >-
+  Use this domain for words related to storing and sending money electronically, especially
+  by mobile phone, and to bank cards.
+questions:
+  - q: What words refer to money kept or sent electronically?
+    words: mobile money, digital money, e-money, electronic transfer
+  - q: What words refer to sending or receiving mobile money?
+    words: send money, transfer, receive, cash in, cash out, withdraw, deposit
+  - q: What words refer to a person or place that handles mobile money?
+    words: agent, kiosk, mobile money account, wallet
+  - q: What words refer to paying without cash?
+    words: bank card, debit card, credit card, tap, swipe, scan, QR code

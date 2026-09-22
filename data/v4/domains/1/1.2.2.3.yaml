@@ -1,0 +1,20 @@
+code: "1.2.2.3"
+guid: 3DF7D174-83D1-4E17-890E-1272E171CA41
+name: Metal
+description: Use this domain for words referring to metal.
+louwNidaCodes: 2G Metals
+related: ["6.6.2.3"]
+questions:
+  - q: What general words refer to metal?
+    words: metal, metallic
+  - q: What types of metal are there?
+    words: >-
+      aluminum, barium, brass, bronze, chrome, chromium, copper, gold, iron, lead, lithium,
+      magnesium, mercury, molybdenum, nickel, platinum, quicksilver, radium, silver, steel,
+      tin, titanium, tungsten, uranium, zinc
+  - q: What words describe metal?
+    words: >-
+      shiny, luster, malleable, rust, rusty, tarnish, corrode, golden, silvery, polished,
+      alloy, pure, karat, solid, plated
+  - q: What words refer to a piece of iron that attracts other pieces of iron?
+    words: magnet, magnetic, magnetism, lodestone

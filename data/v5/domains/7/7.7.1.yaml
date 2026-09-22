@@ -1,0 +1,35 @@
+code: "7.7.1"
+guid: D25F7907-091E-4CF7-BD8C-BDB97278B616
+name: Hit
+description: Use this domain for words related to hitting something.
+louwNidaCodes: 19A Hit, Strike
+related: ["8.5.1.5"]
+questions:
+  - q: What words refer to one thing hitting another?
+    words: hit, strike, bang into, smack, bump (into), crash into
+  - q: What words refer to a person hitting something?
+    words: hit, strike
+  - q: What words refer to hitting another person?
+    words: box, beat up, punch, hit out at, strike out at
+  - q: What words refer to hitting something with your fist or hand?
+    words: hit, slap, smack
+  - q: What words refer to hitting something with a tool?
+    words: hammer, pound, club, whip
+  - q: What words refer to hitting two things together?
+    words: (no words in English)
+  - q: What words refer to striking someone in order to cause injury?
+    words: (no words in English)
+  - q: What words refer to striking something repeatedly?
+    words: hit over and over, beat
+  - q: What words refer to each time something is hit?
+    words: stroke, blow, beat, punch
+  - q: What words refer to the speed or force with which something is hit?
+    words: force, impact
+  - q: What words describe hitting something with not much force?
+    words: light hit, tap, knock
+  - q: What words describe hitting something with a lot of force?
+    words: hit hard, whack, smash into, wallop, cream
+  - q: What words refer to two things moving so that they hit each other?
+    words: collide, hit each other, run into each other
+  - q: What words refer to something hitting and then bouncing?
+    words: bounce, rebound, glance off, ricochet, recoil

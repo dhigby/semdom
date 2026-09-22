@@ -1,0 +1,27 @@
+code: "9.6.2.5"
+guid: 23BC906D-C15A-4368-B0CA-7443D5E37B83
+name: Cause
+description: >-
+  Use this domain for words that indicate that someone or something is the cause for an
+  event or state, that one event is the cause for another event or state, or that an event
+  or state is reasonable (having sufficient cause). For instance in the sentence, "John
+  caused David to fall," "John caused" is an enabling proposition that brings about the
+  primary proposition "David fell."
+louwNidaCodes: 89G Cause and/or Reason
+related: ["3.3.3.5"]
+questions:
+  - q: What words indicate that someone caused something to happen?
+    words: made, cause
+    sentence: His father <made> John hoe the field.
+  - q: What words indicate that something is the cause or reason for an event or state?
+    words: >-
+      cause, reason, source, because, because of, for this reason, for the above reasons,
+      for the following reasons, first cause, origin, breed (v), gives birth to, due to,
+      owing to, thus
+    sentence: >-
+      I did it <because> I wanted to.; I did it <because of> him.; His statement is <the
+      origin of> all the confusion.; The <source> of the problem is a lack of motivation.;
+      Laziness <breeds> hunger.; The storm <caused> a lot of damage.
+  - q: What words indicate that something is reasonable?
+    words: reasonable
+    sentence: His request <is reasonable>.

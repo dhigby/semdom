@@ -1,0 +1,7 @@
+code: "8.3.7.2"
+guid: 434EC34F-E7CA-44F8-9252-DFF5B9B2B62F
+name: Better
+description: Use this domain for words describing something that is better than something else.
+questions:
+  - q: What words describe something that is better than something else?
+    words: better, best, surpass, superior

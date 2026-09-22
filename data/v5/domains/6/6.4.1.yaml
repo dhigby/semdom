@@ -1,0 +1,23 @@
+code: "6.4.1"
+guid: A1CE19C4-D12C-46DA-A718-6D03949B3DB1
+name: Hunt
+description: Use this domain for words related to hunting wild animals.
+ocmCodes: 224 Hunting and Trapping
+questions:
+  - q: What words refer to hunting animals?
+    words: >-
+      hunt (v), hunt (n), lay in wait, blind, decoy, animal call, bag an animal, strike to
+      cause injury, strike hard, kill, flush an animal out of hiding, to suddenly come out
+      of hiding, search, hide, capture, chase away, aim, miss target, shoot, hit target,
+      nick
+  - q: What weapons are used to hunt animals?
+    words: spear, hunting bow, arrow, poison for arrow, quiver, hunting net, club, gun
+  - q: How are the weapons cared for?
+    words: sharpen
+  - q: Where do people hunt?
+    words: hunting grounds
+  - q: What words refer to hunting with dogs?
+    words: >-
+      hunt with dog, hunting dog, hunting dog bell, take up the chase, catch the scent,
+      follow the scent, corner an animal, tree an animal, bay (sound of a dog when following
+      an animal)

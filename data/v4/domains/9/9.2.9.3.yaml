@@ -1,0 +1,11 @@
+code: "9.2.9.3"
+guid: 751F726B-B7CD-470E-A9FD-F2F1B460DD0D
+name: Derivational affixes
+description: >-
+  Use this domain to list all derivational affixes. A derivational affix is joined to a root
+  and changes it into a different word. Derivational affixes often change the root into a
+  different part of speech. Adding a derivational affix usually changes the meaning of the
+  root in a significant way.
+questions:
+  - q: What derivational affixes are there?
+    words: un-, a-, self-, super-, -ment, -hood, -ous, -ly, -fy

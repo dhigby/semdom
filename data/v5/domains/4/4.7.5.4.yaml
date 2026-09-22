@@ -1,0 +1,13 @@
+code: "4.7.5.4"
+guid: E83586C6-8D8E-4A23-BDDA-A1731A5ECE22
+name: Defend against accusation
+description: >-
+  Use this domain for words related to defending someone who has been accused of breaking a
+  law.
+louwNidaCodes: 33W' Defend, Excuse
+related: ["4.8.2.4"]
+questions:
+  - q: What words refer to defending someone?
+    words: >-
+      make defense, defend, uphold, protect, fortify, excuse, apologize, plead, make a case
+      for, represent, advocate, argue a case, prove, offer proof

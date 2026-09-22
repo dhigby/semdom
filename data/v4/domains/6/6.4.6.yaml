@@ -1,0 +1,34 @@
+code: "6.4.6"
+guid: 7C234CCC-0DBE-42B0-A377-DB99EBD2B51E
+name: Things done to animals
+description: Use this domain for words related to things done to animals.
+related: ["6.3", "6.4"]
+questions:
+  - q: What things are done to animals?
+    words: ride
+  - q: What words refer to someone moving animals?
+    words: herd, shoo away, scare off
+  - q: What words refer to catching (but not killing) animals?
+    words: catch, capture, trap
+  - q: What words refer to killing animals?
+    words: hunt, trap, snare, burn out
+  - q: What words are used for killing birds?
+    words: snare
+  - q: What words are used for killing insects?
+    words: swat, fumigate, spray, flyswatter, bug spray
+  - q: What words are used for killing fish?
+    words: fish, fish for, hook, net, spear, bait
+  - q: What words are used of killing all animals?
+    words: exterminate, become extinct, extinction, wipe out
+  - q: What words are used for processing dead animals?
+    words: butcher, skin, pluck feathers, render
+  - q: What words are used for taming animals?
+    words: tame, domesticate, train, pet
+  - q: What words refer to calling to an animal?
+    words: bird call
+  - q: What words are used for animals that perform a special task?
+    words: watchdog, performing (animal), seeing eye dog, police dog, hunting dog
+  - q: What special events feature animals?
+    words: circus, cockfight, bullfight
+  - q: What special places are reserved for animals?
+    words: cage, birdcage, zoo, park, reserve, preserve

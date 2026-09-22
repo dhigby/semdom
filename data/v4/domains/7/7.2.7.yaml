@@ -1,0 +1,11 @@
+code: "7.2.7"
+guid: 6330871B-6008-490E-BFFF-E28E17EBCE7E
+name: Not moving
+description: Use this domain for words referring to not moving.
+questions:
+  - q: What words describe something that is not moving?
+    words: stationary, still, motionless, still
+  - q: What words describe something that cannot be moved?
+    words: immovable, fixed, fast, set, permanent
+  - q: What words describe something that is difficult to move?
+    words: stable

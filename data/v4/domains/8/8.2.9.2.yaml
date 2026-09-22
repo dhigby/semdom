@@ -1,0 +1,22 @@
+code: "8.2.9.2"
+guid: 6E7D10F8-6DA5-4A8A-A06D-952511194105
+name: Light in weight
+description: Use this domain for words related to being light in weight.
+louwNidaCodes: 86A Heavy, Light
+questions:
+  - q: What words describe something that is light?
+    words: >-
+      light, light, lightness, airy, buoyant, ethereal, lightweight, porous, spongy,
+      underweight
+  - q: What words describe something that is very light?
+    words: light as a feather, weightless
+  - q: What words refer to something becoming light?
+    words: lose weight, work something off, work off some of this weight
+  - q: What words refer to making something light?
+    words: make something lighter, lighten
+  - q: What words describe something that has been made light?
+    words: lightened
+  - q: What words refer to being lighter than another thing?
+    words: lighter, lightest
+  - q: What words indicate how light something is?
+    words: how light, be (two pounds) (too) light

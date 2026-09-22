@@ -1,0 +1,8 @@
+code: "3.5.1.8.2"
+guid: 81B62078-984C-4E82-94C4-39FA44DD3E56
+name: Insult
+description: Use this domain for words related to insulting someone--to say that someone is bad.
+louwNidaCodes: 33P' Insult, Slander; 33R' Mock, Ridicule
+questions:
+  - q: What words refer to insulting someone?
+    words: insult (v), insult (n), offend, offense, rebuke, criticize, curse, speak evil of

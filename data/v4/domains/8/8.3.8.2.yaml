@@ -1,0 +1,14 @@
+code: "8.3.8.2"
+guid: 312CE7A7-8C7C-416D-BF93-73376F1F16D8
+name: Glory
+description: >-
+  Use this domain for words describing the appearance of something that has pleasing aspects
+  or inspires awe and wonder in the viewer. For instance, the palace of a king, the home of
+  a rich man, or a temple may be elaborately decorated and be described as glorious or
+  magnificent. Or something in nature such as a sunset or flower may inspire awe and wonder.
+louwNidaCodes: 79E Glorious
+questions:
+  - q: What words describe something that is pleasing and awe inspiring in appearance?
+    words: >-
+      glory, glorious, magnificent, splendor, resplendent, awe inspiring, wonderful, grand,
+      great

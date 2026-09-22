@@ -1,0 +1,11 @@
+code: "4.2.1.9"
+guid: F81B7632-3E5A-4a2d-8A93-648872A6616B
+name: Social group
+description: Use this domain for words referring to an organization.
+ocmCodes: 575 Sodalities
+related: ["7.5.5"]
+questions:
+  - q: What words refer to a social group?
+    words: hippies, yuppies, beatniks, greens
+  - q: What social groups exist in your culture?
+    words: hippies, yuppies, beatniks, greens, teenagers

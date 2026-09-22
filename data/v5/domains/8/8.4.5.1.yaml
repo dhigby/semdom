@@ -1,0 +1,43 @@
+code: "8.4.5.1"
+guid: 00269021-E1C4-474D-9DBA-341D296BDAC7
+name: Order, sequence
+description: >-
+  Use this domain for words referring to temporal order or sequence--the order in which a
+  group of events happen. Things and people may also be in order based on the order in which
+  something happened or should happen to them.
+louwNidaCodes: 61 Sequence
+related: ["7.5", "7.5.5", "8.4.5.1.1", "8.1.1.2"]
+questions:
+  - q: What words refer to the order or sequence of a group of events?
+    words: order, sequence, cycle, pattern, rota, order of events
+  - q: What words refer to a group of events that happen in order?
+    words: sequence, series, succession, chain, course, progression
+  - q: What words refer to a group of things in a series?
+    words: series, lineup, queue
+  - q: What words describe a group of things that have been put in order?
+    words: >-
+      be in order, ordered, in sequence, be the right way round, in chronological order,
+      chronological, consecutive, consecutively, successive, in succession, one after
+      another, one after the other, (three years) running, sequential
+  - q: What words refer to doing things in order?
+    words: in order, take turns
+  - q: What words refer to the particular order in which something comes?
+    words: place, position, where something comes
+  - q: What words describe a group of things that have not been put in order?
+    words: unordered, out of sequence
+  - q: What words describe a group of things in the wrong order?
+    words: be out of order, be in the wrong order, be the wrong way round, backwards
+  - q: What words refer to something missing from a group of things in order?
+    words: gap
+  - q: In English 'Order' can be expressed by a noun phrase with no overt marker.
+    sentence: >-
+      the first child; the second taxi; the next person (to speak); the last person (out the
+      door)
+  - q: >-
+      In English 'Order' can be expressed by a 'be' clause with the 'Item' in the subject
+      position.
+    words: be
+    sentence: This child <was> first.
+  - q: In English 'Order' can be expressed by a noun phrase with the 'Item' marked by 'of'.
+    words: of
+    sentence: the second <of> the winners

@@ -1,0 +1,29 @@
+code: "8.2.6.3"
+guid: 7D8898D6-6296-4D4D-B8DD-2F48C49F9E98
+name: High
+description: Use this domain for words that express the idea that something is high.
+louwNidaCodes: 81B High, Low, Deep
+related: ["8.2.2.2", "7.2.2.4"]
+questions:
+  - q: What words describe something that is high?
+    words: high, lofty, upper, alpine, topmost
+  - q: What words describe something that is very high?
+    words: soaring
+  - q: What words indicate that something is high in the air?
+    words: be high up, high above, far above, way up there, sky-high, up in the air, be aloft
+  - q: What words refer to becoming high?
+    words: rise, soar
+  - q: What words refer to making something high?
+    words: heighten, raise
+  - q: What words describe something that has been made high?
+    words: heightened, raised
+  - q: What words describe a surface that is higher than the area around it?
+    words: raised, elevated
+  - q: What words refer to being higher than another thing?
+    words: higher, highest
+  - q: What words refer to how high something is?
+    words: height, altitude, level, elevation
+  - q: What words indicate how high something is?
+    words: (100 meters) high, be (100 meters) in height
+  - q: What words refer to being afraid of being in a high place?
+    words: fear of heights, vertigo

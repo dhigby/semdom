@@ -1,0 +1,30 @@
+code: "2.4.1"
+guid: E949F393-2A5B-4792-AF8F-75138322CEEE
+name: Strong
+description: >-
+  Use this domain for words that related to being strong, such as being able to lift a heavy
+  object or being able to work hard.
+louwNidaCodes: 79M Strong, Weak
+questions:
+  - q: What words describe a person who is strong?
+    words: strong, powerful, muscular, well-built, strapping, steely
+  - q: What words describe someone who is strong and fat?
+    words: stocky, burly, brawny, beefy, hefty
+  - q: What words describe someone who is strong and thin?
+    words: wiry, sinewy
+  - q: What words describe someone who is strong and healthy?
+    words: sturdy, robust, hardy, tough, resilient
+  - q: What words refer to a person's strength?
+    words: strength, power, brawn, force, might, energy, vigor, toughness
+  - q: What words describe someone who can work or run for a long time?
+    words: fit, physically fit, athletic
+  - q: What words refer to being able to work or run for a long time?
+    words: be in shape, be in good condition, keep fit, stay in shape, keep in shape
+  - q: What words refer to the ability to work or run for a long time?
+    words: stamina, staying power, endurance, physical fitness
+  - q: What words refer to a person who is strong?
+    words: strong man, he-man, athlete
+  - q: What words refer to making someone stronger?
+    words: strengthen, bolster
+  - q: What words describe someone who does many things quickly?
+    words: energetic, full of energy, have lots of energy, active, vigorous

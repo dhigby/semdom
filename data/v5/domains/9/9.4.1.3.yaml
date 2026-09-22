@@ -1,0 +1,29 @@
+code: "9.4.1.3"
+guid: 321D0A74-705F-40BF-8D24-809F65BEE895
+name: Aspect--stative verbs
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  aspects of stative verbs. Aspects describe the temporal contours of a situation. They may
+  be combined with any of the tenses, either in the same morpheme or in combinations of
+  morphemes. The following definitions are taken from Bybee, Joan, Revere Perkins, and
+  William Pagliuca. 1994. The evolution of grammar. Chicago and London: University of
+  Chicago Press.
+questions:
+  - q: >-
+      state exists: the state is begun before reference time and continues after reference
+      time.
+    words: is
+  - q: >-
+      state commences: beginning of a state of "becoming." Often called Inceptive or
+      Inchoative. If there is a morpheme specifically for this meaning, it is usually
+      derivational and restricted to stative words. However, it is also possible for
+      "Perfects" or "Perfectives" to have this as their use with stative words.
+    words: becoming
+  - q: >-
+      state ends: state existed in the past, but no longer exists. Also a possible meaning
+      of "Perfects" or "Perfectives" in combination with stative words.
+    words: no longer
+  - q: 'state continues: state is continuing a reference time.'
+    words: still
+  - q: 'state changes: (self-explanatory).'
+    words: turn

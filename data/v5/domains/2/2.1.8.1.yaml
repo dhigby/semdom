@@ -1,0 +1,27 @@
+code: "2.1.8.1"
+guid: 2D0B3058-D8BB-4110-A54A-E507B0D3A0E4
+name: Heart
+description: Use this domain for functions of the heart and blood veins.
+questions:
+  - q: What are the parts of the heart?
+    words: heart, chamber, atrium, ventricle, valve, cardiac
+  - q: What are the parts of the blood vessels?
+    words: >-
+      circulatory system, blood vessel, aorta, vein, venous, artery, arterial, capillary,
+      jugular, pericardium, pericardial
+  - q: What words refer to the heart beating?
+    words: beat (v), thump, throb
+  - q: What words refer to the heart beating quickly?
+    words: pound, race, rapid heart beat
+  - q: What words refer to the heart beating in a bad way?
+    words: heart murmur, irregular heart beat, skip a beat
+  - q: What words refer to the heartbeat?
+    words: beat (n), heartbeat, pulse, rhythm
+  - q: What words refer to listening to the heart beating?
+    words: take someone's pulse, listen to someone's heartbeat, feel for a pulse
+  - q: What words refer to the heart moving blood?
+    words: pump
+  - q: What words refer to blood moving through the veins?
+    words: flow, circulate, blood pressure
+  - q: What words refer to the heart stopping?
+    words: stop beating, heart attack

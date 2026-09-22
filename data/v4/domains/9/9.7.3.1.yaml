@@ -1,0 +1,13 @@
+code: "9.7.3.1"
+guid: 5DF53B87-7F59-4F5C-991E-5AE007B68FA9
+name: Names of animals
+description: >-
+  Use this domain for words referring to the name of an animal. Some cultures give names to
+  domesticated animals or to animals in stories. Think through each kind of domesticated
+  animal.
+related: ["1.6"]
+questions:
+  - q: What words refer to the name of an animal?
+    words: Br'er rabbit
+  - q: What names are given to dogs?
+    words: Lassie, Fifi, Toto

@@ -1,0 +1,34 @@
+code: "4.5.4.6"
+guid: C60CF6A1-7868-4536-AC73-387BFA26E04B
+name: Rebel against authority
+description: Use this domain for words related to rebelling against authority.
+ocmCodes: 669 Revolution
+louwNidaCodes: 39G Rebellion
+questions:
+  - q: What words refer to rebelling against authority?
+    words: rebel, revolt, resist, rise up, rise against, mutiny, overthrow
+  - q: What words refer to the act of rebellion?
+    words: >-
+      rebellion, revolt, revolution, sedition, insurrection, insurgency, mutiny, civil
+      disobedience, coup, coup d'etat, counterrevolution, putsch, takeover, uprising
+  - q: What words refer to the process of rebellion?
+    words: rebel cause, rebel movement
+  - q: What words refer to an instance of rebelling?
+    words: >-
+      act of rebellion, rebellious act, revolutionary act, demonstration, riot, disorder,
+      sabotage
+  - q: What words refer to a person who rebels?
+    words: >-
+      rebel, activist, agitator, anarchist, belligerent, conspirator, extremist, guerrilla,
+      insurgent, liberationist, militant, mutineer, rabble-rouser, radical, rebel,
+      revolutionary, revolutionist, terrorist
+  - q: What words describe a rebel?
+    words: rebellious, revolutionary, defiant, mutinous, radical
+  - q: What words describe a revolution?
+    words: violent, peaceful
+  - q: What is the leader of a rebellion called?
+    words: leader of a rebellion, rebel leader, revolutionary leader
+  - q: What does the leader of a rebellion do?
+    words: lead a rebellion, organize a rebellion
+  - q: What do the authorities do to stop a rebellion?
+    words: put down, suppress

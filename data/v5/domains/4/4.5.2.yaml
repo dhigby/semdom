@@ -1,0 +1,7 @@
+code: "4.5.2"
+guid: B8F59DDD-48DE-4B3D-AF47-687C9237CCD9
+name: Have authority
+description: Use this domain for words related to having authority.
+questions:
+  - q: What words refer to having authority?
+    words: have authority, be in authority, be in charge

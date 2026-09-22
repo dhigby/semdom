@@ -1,0 +1,16 @@
+code: "3.4.1.4.4"
+guid: BB2A112F-AF6F-4A54-BBF0-BA7B8289E58B
+name: Attract
+description: >-
+  Use this domain for words related to attracting someone's attention to something. In a
+  typical situation, a person sees something with an interesting quality. The person moves
+  closer, pays close attention to the thing, and possibly does something to it.
+questions:
+  - q: What words refer to something attracting someone's interest?
+    words: attract, tempt, seduce, pull, draw, bring in, lure, appeal to
+  - q: What words describe something that has qualities that make people interested in it?
+    words: attractive, tempting, appealing, irresistible, enticing, alluring, seductive
+  - q: What words refer to something that is attractive?
+    words: attraction, lure (n), temptation
+  - q: What words refer to the quality of something that is attractive?
+    words: appeal (n), the lure of, charm, pull (n), draw (n)

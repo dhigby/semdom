@@ -1,0 +1,14 @@
+code: "3.3.5.2"
+guid: 612424B8-997E-4661-A452-772E14A3C4A0
+name: Reject
+description: >-
+  Use this domain for words referring to rejecting something such as an offer, invitation,
+  or request.
+questions:
+  - q: What words refer to rejecting an offer?
+    words: >-
+      reject, not accept, refuse, decline, turn down, take a rain check, have nothing to do
+      with, turn up your nose at, throw out, say no to, veto, vote against, give something
+      the thumbs down, dismiss, rebuff
+  - q: What words refer to the act of rejecting an offer?
+    words: refusal, rejection

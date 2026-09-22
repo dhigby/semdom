@@ -1,0 +1,9 @@
+code: "8.3.3.3.3"
+guid: 538A4C20-01D7-40B9-B462-AE279FF3DC27
+name: Gray
+description: Use this domain for words describing something that is gray.
+questions:
+  - q: What words describe something that is gray in color?
+    words: >-
+      gray, ashen, charcoal gray, grizzle, grizzled, grizzly, hoar, hoary, leaden,
+      mouse-colored, mousy, muddy, slate-gray, smoky, sooty, steel-gray

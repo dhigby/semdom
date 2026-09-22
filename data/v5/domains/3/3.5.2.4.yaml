@@ -1,0 +1,12 @@
+code: "3.5.2.4"
+guid: 7158C621-C46E-4173-80C1-188F514A920F
+name: Admit
+description: >-
+  Use this domain for words referring to admitting something--saying that you have done
+  wrong, or that your beliefs were wrong.
+louwNidaCodes: 33V Admit, Confess, Deny
+questions:
+  - q: What words refer to admitting something?
+    words: admit, confess, acknowledge
+  - q: What words refer to refusing to admit something?
+    words: deny, disavow, disclaim

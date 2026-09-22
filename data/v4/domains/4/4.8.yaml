@@ -1,0 +1,13 @@
+code: "4.8"
+guid: F7DA1907-E6C5-4D21-A8E8-81376F3467DF
+name: Conflict
+description: >-
+  Use this domain for general words referring to conflict between people, including
+  quarreling, fighting, and war. The words in this domain should be very general, rather
+  than referring to specific kinds of conflict.
+ocmCodes: 578 Ingroup Antagonisms
+louwNidaCodes: 39 Hostility, Strife
+related: ["4.1.6"]
+questions:
+  - q: What general words refer to conflict between people?
+    words: conflict, strife

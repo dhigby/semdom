@@ -1,0 +1,58 @@
+code: "2.3.4"
+guid: ED7930DF-E7B4-43C9-A11A-B09521276B57
+name: Smell
+description: Use this domain for words related to smelling something.
+louwNidaCodes: 24C Smell; 79I Fragrance, Odor
+questions:
+  - q: What words refer to smelling something?
+    words: smell, scent (v), get a whiff of, catch a whiff of
+  - q: What words refer to deliberately trying to smell something?
+    words: smell, sniff, snuff, savor
+  - q: What words refer to the ability to smell?
+    words: sense of smell, a good nose
+  - q: What words describe something that has to do with smelling?
+    words: olfactory
+  - q: What words refer to the smell of something?
+    words: smell, odor, scent, whiff, fume, essence, aroma, bouquet, fragrance
+  - q: >-
+      What words indicate that something smells like another thing or smells a particular
+      way?
+    words: >-
+      smell like, smell of, smell (good/bad), have a (good/bad) smell, (good/bad) smelling,
+      give off a smell
+  - q: What words refer to smelling good?
+    words: smell good, smell nice
+  - q: What words refer to smelling bad?
+    words: smell bad, smell, stink, reek, stink the place up
+  - q: What words describe something that smells good?
+    words: >-
+      fragrant, aromatic, sweet-smelling, fresh, perfumed, delectable, delicious, nice,
+      scented, wonderful
+  - q: What words describe something that smells bad?
+    words: >-
+      smelly, stinking, acrid, body odor, awful, fetid, foul, foul-smelling, fusty,
+      malodorous, moldy, musty, noisome, pungent, putrid, rancid, rank, reeking, rotten
+  - q: What words refer to a good smell?
+    words: scent, perfume, fragrance, aroma, bouquet
+  - q: What words refer to a bad smell?
+    words: smell (n), odor, stench, stink, reek, halitosis
+  - q: What words do people use to say that something smells bad?
+    words: phew, PU, yuck
+  - q: What words describe something that can be smelled easily?
+    words: strong, powerful, pungent, heady, redolent
+  - q: What words describe something that cannot be smelled easily?
+    words: faint
+  - q: What words describe something that has no smell?
+    words: odorless, inodorous, inodorousness, scentless
+  - q: What words refer to something beginning to smell?
+    words: start to smell
+  - q: What words refer to something not smelling any longer?
+    words: lose its smell
+  - q: What words refer to a smell spreading?
+    words: waft, dissipate
+  - q: What words refer to getting rid of a smell?
+    words: get rid of that smell, air out a room, deodorize, mask a scent
+  - q: What things do people use to get rid of or cover up a bad smell?
+    words: perfume, deodorant, deodorizer, incense, scent, air-freshener
+  - q: What words refer to holding your nose so you don't smell something?
+    words: hold your nose

@@ -1,0 +1,20 @@
+code: "3.5.1.9"
+guid: 3DBA39BC-48F2-4BCB-9357-C8FBED6922CA
+name: Promise
+description: >-
+  Use this domain for words related to promising to do something--to say that you will do
+  something in the future.
+louwNidaCodes: 33Y Promise
+questions:
+  - q: What words refer to promising to do something?
+    words: promise, agree, commit, guarantee, assure, swear
+  - q: What words refer to something someone promises to do?
+    words: promise (n), commitment, assurance, guarantee, pledge, plight, troth, word
+  - q: What words refer to doing what you promised?
+    words: keep, fulfill, make good
+  - q: What words refer to not doing what you promised?
+    words: break, renege on, go back on promise
+  - q: What words refer to asking someone to do what he promised?
+    words: hold you to your promise
+  - q: What words refer to allowing someone to not do what he promised?
+    words: release someone from a promise

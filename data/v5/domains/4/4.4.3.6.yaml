@@ -1,0 +1,7 @@
+code: "4.4.3.6"
+guid: 2AABD548-5EE2-4962-8F10-84D1B0427C41
+name: Endure
+description: Use this domain for words related to enduring a problem.
+questions:
+  - q: What words refer to enduring a problem?
+    words: endure, stand, bear, put up with

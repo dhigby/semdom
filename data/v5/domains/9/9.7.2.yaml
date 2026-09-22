@@ -1,0 +1,9 @@
+code: "9.7.2"
+guid: 69541573-F845-4E77-91F6-1E3551FC6C82
+name: Name of a place
+description: Use this domain for words referring to the name of a place.
+ocmCodes: 103 Place Names
+louwNidaCodes: 93B Places
+questions:
+  - q: What words refer to the name of a place?
+    words: place name

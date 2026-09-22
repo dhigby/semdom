@@ -1,0 +1,18 @@
+code: "6.6.7.1"
+guid: 515F9B40-0637-4CE3-B343-2D99DE3F723B
+name: Plumber
+description: Use this domain for words related to working with water pipes.
+related: ["6.6.7"]
+questions:
+  - q: What words refer to a person who works on water pipes?
+    words: plumber
+  - q: What words refer to a system of pipes?
+    words: plumbing, pipes
+  - q: What are the parts of a system of pipes?
+    words: >-
+      pipe, water pipe, valve, faucet, joint, elbow, sections of pipe, water main, water
+      meter, drain, sink
+  - q: What words refer to a leaky pipe?
+    words: leak, leaky pipe, dripping faucet
+  - q: What words refer to working on the plumbing?
+    words: put in plumbing, fix a pipe, fix a leak, to thread a pipe

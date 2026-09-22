@@ -1,0 +1,8 @@
+code: "6.1.2.3.1"
+guid: 5B3C7B4D-D5BB-488E-8F3F-FE8206FB0E55
+name: Careful
+description: Use this domain for words related to being careful.
+related: ["3.3.1.5"]
+questions:
+  - q: What words describe someone who is careful?
+    words: careful, conscientious, painstaking, deliberate, deliberately

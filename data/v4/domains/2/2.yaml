@@ -1,0 +1,20 @@
+code: "2"
+guid: BA06DE9E-63E1-43E6-AE94-77BEA498379A
+name: Person
+description: Use this domain for general words for a person or all mankind.
+louwNidaCodes: 9 People; 9A Human Beings
+questions:
+  - q: What words refer to a single member of the human race?
+    words: person, human being, man, individual, figure
+  - q: What words refer to a person when you aren't sure who the person is?
+    words: someone, somebody
+  - q: What words refer to more than one person?
+    words: people, folks, population, the public, populace
+  - q: What words refer to the entire human race?
+    words: man, men, mankind, the human race, humanity, humankind
+  - q: What words describe something characteristic of all people?
+    words: human (adj), human nature
+  - q: What words describe something characteristic of one person?
+    words: personal, personally
+  - q: What words refer to no person?
+    words: no one, nobody

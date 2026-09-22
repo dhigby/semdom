@@ -1,0 +1,18 @@
+code: "3.3.3"
+guid: 5EA9301A-9906-4E81-97CF-48EE95A54C63
+name: Influence
+description: >-
+  Use this domain for words related to influencing someone--to do something because you want
+  someone to change his thinking.
+related: ["4.5.3.2"]
+questions:
+  - q: What words refer to influencing someone to change his thinking or decision?
+    words: >-
+      influence, sway, bias, pull strings, work on, affect, impact, make an impression on,
+      prejudice, bribe, bring into line, lead by the nose
+  - q: What words refer to your ability to change another's mind or decision?
+    words: have influence, be influential, carry weight, have a hold on
+  - q: What words refer to the influence you have on another's mind or decision?
+    words: influence, impact, weight, pressure, power, sway, control, leverage, pull
+  - q: What words describe a person who has influence?
+    words: influential

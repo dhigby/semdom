@@ -1,0 +1,40 @@
+code: "8.3.4.1"
+guid: 82E4394A-2F58-4356-8D9C-1AD9DBE95293
+name: Cold
+description: Use this domain for words describing something that is cold.
+louwNidaCodes: 79N Hot, Lukewarm, Cold
+questions:
+  - q: What words describe something that is cold?
+    words: cold, frozen, icy, glacial, hibernal, hiemal, hyperborean, marmoreal, unthawed
+  - q: What words describe food that is cold?
+    words: cold, cool, chilled, ice-cold, stone-cold
+  - q: What words describe something that is cool?
+    words: cool, crisp, refresh, unfrozen
+  - q: What words describe a time or place that is cold?
+    words: cold, the cold, frosty, wintry, cold spell, cold snap, frigid, bleak
+  - q: What words describe a time or place that is cool?
+    words: cool, chilly, drafty, nippy, fresh, crisp, bracing, chill
+  - q: What words describe a time or place that is very cold?
+    words: freezing, bitterly cold, arctic, subzero temperatures
+  - q: What words describe a wind that is cold?
+    words: freezing, bitter, biting, cutting, raw
+  - q: What words refer to feeling cold?
+    words: be cold, feel cold, look cold, freezing, frozen, feel the cold
+  - q: What words refer to feeling cold because you are sick?
+    words: get the chills, ague
+  - q: What words refer to how cold something is?
+    words: temperature, coldness, coolness
+  - q: What words refer to something becoming cold?
+    words: get cold, turn cold, drop, fall, cool down, cool, cool off, freeze, lose heat
+  - q: What words refer to making something cold?
+    words: cool something, chill, refrigerate, freeze something
+  - q: What happens to things when they get cold?
+    words: freeze, harden, brittle, frost-bound
+  - q: What happens to people when they get cold?
+    words: >-
+      shiver, be blue with cold, goose pimples, goosebumps, goose flesh, someone's teeth are
+      chattering, frostbite, frostbitten, freeze to death, die of cold
+  - q: What words describe clothes that make you feel cool?
+    words: cool
+  - q: What things do people use to stay cool when it is hot?
+    words: fan, cooler, air-conditioning, air-conditioner, air-conditioned, refrigeration

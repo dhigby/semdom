@@ -1,0 +1,11 @@
+code: "4.2.1.8.2"
+guid: E173F481-EC57-4D1C-B517-BE38CCB038F5
+name: Leave an organization
+description: Use this domain for words related to leaving an organization.
+questions:
+  - q: What words refer to leaving a group?
+    words: leave, excuse oneself
+  - q: What words refer to everyone leaving?
+    words: disperse, break up, scatter
+  - q: What words refer to resigning from a group?
+    words: resign from a group, quit

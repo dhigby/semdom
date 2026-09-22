@@ -1,0 +1,7 @@
+code: "4.7.8.1"
+guid: 69455770-FCA7-4F41-9E7D-236E8F094CE6
+name: Covenant
+description: Use this domain for words related to a covenant between two people or groups of people.
+questions:
+  - q: What words refer to a covenant?
+    words: covenant, testament, deal, agreement, bond, commitment, to trust

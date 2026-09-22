@@ -1,0 +1,12 @@
+code: "1.6.1.4"
+guid: 8D8A7656-8F8E-467E-B72E-535DB6A17C6A
+name: Amphibian
+description: Use this domain for amphibians (phylum Chordata, class Amphibia).
+ocmCodes: 136g Amphibian, worm
+questions:
+  - q: What general words refer to amphibians?
+    words: frog (water), toad (land), amphibian
+  - q: What species of amphibians are there?
+    words: bullfrog, tree frog, horned toad, mud puppy, newt, salamander, eft
+  - q: What words refer to a baby amphibian?
+    words: tadpole

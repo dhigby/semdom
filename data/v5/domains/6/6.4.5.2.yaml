@@ -1,0 +1,7 @@
+code: "6.4.5.2"
+guid: D7E0ED88-6D5A-44CC-A0FE-070A5AAB3E60
+name: Fish with hooks
+description: Use this domain for words related to fishing with a hook and line.
+questions:
+  - q: What words refer to catching fish with a hook?
+    words: fish, trawl, fly-fishing, cast, bait the hook

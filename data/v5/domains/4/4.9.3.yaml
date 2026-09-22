@@ -1,0 +1,18 @@
+code: "4.9.3"
+guid: 25BF6690-6ED1-42E9-8A4A-3518F9CF382C
+name: Theology
+description: >-
+  Use this domain for words related to theology--the study of God and what people believe
+  about God.
+ocmCodes: >-
+  779 Theological Systems; 770 Religious Beliefs; 772 Cosmology; 773 Mythology; 774 Animism;
+  775 Eschatology
+questions:
+  - q: What words refer to the study of God and religion?
+    words: theology
+  - q: What words refer to something you believe about God?
+    words: doctrine, tenet, dogma, belief
+  - q: What words refer to disagreement over doctrine?
+    words: heterodoxy, sect, denomination, dissent
+  - q: What words refer to foolish or ignorant beliefs about religion?
+    words: superstition

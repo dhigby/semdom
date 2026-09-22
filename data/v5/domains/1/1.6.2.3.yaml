@@ -1,0 +1,7 @@
+code: "1.6.2.3"
+guid: 73F3BD83-C9A5-4613-AEB1-0C5076D4850E
+name: Parts of a fish
+description: Use this domain for the parts of a fish.
+questions:
+  - q: What are the parts of fish?
+    words: scale, scaly, fin, tail fin, dorsal fin, gill, guts, slime, slimy, fishy smell

@@ -1,0 +1,10 @@
+code: "9.7.2.6"
+guid: 09AC3709-0B0E-4046-B6B2-7869D574AA0D
+name: Names of continents
+description: >-
+  Use this domain for the proper names of the continents. Only include the names of
+  continents if your language has borrowed or adapted the name and you talk about them in
+  your language.
+questions:
+  - q: What are the names of the continents?
+    words: Africa, Antarctica, Asia, Australia, Europe, North America, South America

@@ -1,0 +1,34 @@
+code: "1.3.3"
+guid: F38F8344-838F-44BA-B103-22289C2D2793
+name: Wet
+description: >-
+  Use this domain for words referring to when something has water on it or water has soaked
+  into it.
+louwNidaCodes: 47C Application and Removal of Liquids or Masses; 79O Wet, Dry
+questions:
+  - q: What words describe something that is wet?
+    words: wet, dank, watery, aqueous, sludgy, slush, slushy, sloppy, sweaty
+  - q: What words describe something that is very wet?
+    words: >-
+      soaked, soaking wet, sopping wet, wringing wet, awash, dripping, sodden, soggy,
+      saturated, waterlogged, be swimming in, drenched, doused
+  - q: What words describe something that is slightly wet?
+    words: moist, damp, a little wet, clammy, dewy
+  - q: What words describe the ground when it is wet?
+    words: muddy, boggy, marshy, swampy
+  - q: What words describe the air when there is water in it?
+    words: humid, moist, muggy, steamy, tropical
+  - q: What words describe plants when there is water in them?
+    words: green, juicy, succulent
+  - q: What words refer to something becoming wet?
+    words: get wet, get soaked, bedew
+  - q: What words refer to making something wet?
+    words: wet, get something wet, splash, anoint, dabble, daub, douse, spatter, spray, sprinkle
+  - q: What words refer to making something very wet?
+    words: soak, drench, saturate, flood, swamp, deluge
+  - q: What words refer to making something slightly wet?
+    words: dampen, moisten, lick
+  - q: What words refer to something soaking up water?
+    words: absorb, blot, daub, soak up, sponge, sop, mop up, wipe up
+  - q: What words describe something that can soak up water?
+    words: absorbent, porous

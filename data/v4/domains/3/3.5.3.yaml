@@ -1,0 +1,24 @@
+code: "3.5.3"
+guid: BC96B3E3-6185-4925-B79E-8F0F9555BFB7
+name: Language
+description: Use this domain for words referring to a language.
+ocmCodes: >-
+  190 Language; 197 Linguistic Identification; 198 Special Languages; 193 Grammar; 194
+  Phonology; 192 Vocabulary
+louwNidaCodes: 33A Language
+questions:
+  - q: What words refer to a language?
+    words: language, tongue, speech, lingo
+  - q: What words refer to the type of language a person speaks?
+    words: dialect, foreign language, accent, pidgin, slang, colloquial
+  - q: What words refer to the first language you learned as a child?
+    words: first language, mother-tongue, native speaker
+  - q: What words refer to the language used to talk about a particular subject?
+    words: terminology, jargon, specialized vocabulary, technical terms
+  - q: What words refer to a special or secret language?
+    words: code, sign language, computer language
+  - q: What words are used to talk about language?
+    words: >-
+      linguistics, linguistic, metalanguage, vocabulary, dictionary, grammar, syntax,
+      morphology, phonology, phonetics, sounds, semantics, meaning, pragmatics, rhetoric,
+      pronunciation

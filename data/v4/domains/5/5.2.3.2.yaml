@@ -1,0 +1,28 @@
+code: "5.2.3.2"
+guid: 1F608E18-958E-4BB3-A977-04879FB5ACD5
+name: Food from animals
+description: >-
+  Use this domain for words referring to eating meat and to types of animals that are eaten.
+  Only include those animals that are commonly eaten, especially those that are
+  domesticated.
+ocmCodes: 266 Cannibalism
+related: ["1.6"]
+questions:
+  - q: What words refer to a person (or animal) who only eats meat?
+    words: carnivore, carnivorous, meat eating
+  - q: What types of animals are eaten?
+    words: beef (cow), mutton (sheep), venison (deer)
+  - q: What types of birds are eaten?
+    words: chicken, turkey
+  - q: What types of fish are eaten?
+    words: tuna, trout, sardines
+  - q: What types of reptiles are eaten?
+    words: frog legs
+  - q: What types of insects can be eaten?
+    words: edible insects, white ant, termite, grub, locust
+  - q: What words refer to honey and other insect products that can be eaten?
+    words: honey
+  - q: What types of small animals are eaten?
+    words: shrimp, lobster
+  - q: What words refer to eating human flesh?
+    words: cannibal

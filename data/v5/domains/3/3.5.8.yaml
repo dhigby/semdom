@@ -1,0 +1,11 @@
+code: "3.5.8"
+guid: C4330001-83CA-485D-8B9B-09F7E1BE60CC
+name: Interpreting messages
+description: >-
+  Use this domain for words referring to interpreting something someone says--to try to
+  understand the meaning of something someone says and express it in other words.
+louwNidaCodes: 33J Interpret, Mean, Explain
+related: ["3.2.4"]
+questions:
+  - q: What words refer to interpreting something?
+    words: interpret, understand, translate

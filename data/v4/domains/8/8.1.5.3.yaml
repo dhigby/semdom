@@ -1,0 +1,11 @@
+code: "8.1.5.3"
+guid: BBB21324-089D-4368-A2AC-37C6BBFCBFFC
+name: Both
+description: Use this domain for words referring to both of two things.
+questions:
+  - q: What words refer to both of two things?
+    words: both, the two of, the pair of, each, mutual, share, either, neither
+    sentence: >-
+      I couldn't decide which of the two I wanted more, so I bought them both.; The plan
+      would be to our <mutual> benefit.; We have a <mutual> friend.; They <share> the same
+      name.

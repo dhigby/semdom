@@ -1,0 +1,20 @@
+code: "6.5.3.1"
+guid: 4A44AC87-5AD5-44DE-8170-9FD88B056010
+name: Building equipment and maintenance
+description: Use this domain for words referring to the equipment and maintenance of a building.
+ocmCodes: 350 Equipment and Maintenance of Buildings; 358 Maintenance of Non-domestic Buildings
+questions:
+  - q: What words refer to taking care of a building?
+    words: maintain, maintenance
+  - q: What words refer to a person who takes care of a building?
+    words: janitor
+  - q: What words refer to the equipment used to take care of a building?
+    words: vacuum cleaner, broom, mop
+  - q: What words describe a building that is in good condition?
+    words: solid, solidly built, sound
+  - q: What words describe a building that is not in good condition?
+    words: disrepair, derelict
+  - q: What words refer to a building falling down?
+    words: fall down, collapse, in ruins
+  - q: What words refer to repairing a building?
+    words: repair, restore, restoration, fix up

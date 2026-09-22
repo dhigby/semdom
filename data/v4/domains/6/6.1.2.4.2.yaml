@@ -1,0 +1,10 @@
+code: "6.1.2.4.2"
+guid: 0C21AE3D-10B1-481F-8D8F-66E2590C4578
+name: Lazy
+description: Use this domain for words related to being lazy.
+louwNidaCodes: 88F' Laziness, Idleness
+questions:
+  - q: What words describe someone who is lazy?
+    words: be lazy, lazy person, idle, dally, idler, do-nothing, loafer
+  - q: What words refer to an inappropriate rest?
+    words: loaf, goof off

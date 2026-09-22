@@ -1,0 +1,13 @@
+code: "8.6.5"
+guid: 3005971D-DE4D-401F-8400-B25DE5E052AD
+name: Middle
+description: Use this domain for words related to the middle part or center of something.
+questions:
+  - q: What words refer to the middle part of something?
+    words: middle (n), center, the heart of, core
+  - q: What words describe something that is in the middle?
+    words: middle (adj), center (adj), central
+  - q: What words indicate that something is in the middle of a thing or area?
+    words: in the middle, at the center
+  - q: What words refer to the middle position between two places, times, or amounts?
+    words: in the middle, halfway, midway, midpoint

@@ -1,0 +1,7 @@
+code: "6.8.4.4"
+guid: 36123FFE-14D8-4198-B32C-EABD0B23E0DD
+name: Bargain
+description: Use this domain for words related to bargaining over the price of something.
+questions:
+  - q: What words refer to bargaining over a price?
+    words: bargain, negotiate a price, haggle, discount

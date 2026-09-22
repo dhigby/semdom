@@ -1,0 +1,28 @@
+code: "4.1"
+guid: 0E79435B-F5FF-4061-81FF-49557BA2AED4
+name: Relationships
+description: Use this domain for words related to relationships between people and groups of people.
+ocmCodes: 570 Interpersonal Relations
+louwNidaCodes: 34 Association; 34A Associate; 89T Association; 89A Relation; 89Z Mediation
+questions:
+  - q: What words refer to beginning a relationship?
+    words: >-
+      get acquainted, get to know, start a relationship, develop a relationship, form an
+      association, form a partnership
+  - q: What words refer to the process of relating to other people?
+    words: >-
+      relate to, associate with, affiliate with, participate with, partner with, fellowship
+      with, interact with, be acquainted with, work with, collaborate, have a relationship,
+      going together, going out, going steady
+  - q: What words refer to the relationship itself?
+    words: >-
+      affiliation, alliance, bonding, relationship, relation, association, comradeship,
+      participation, partnership, interaction, fellowship, interpersonal relationship
+  - q: What words refer to a person in a relationship?
+    words: >-
+      associate (n), comrade, participant, partner, friend, coworker, colleague,
+      acquaintance, ally, collaborator, fellow (student), age mate, affiliate
+  - q: What words refer to a group of people who have a relationship?
+    words: pair, partnership, association, fellowship
+  - q: What words describe a group of people who have a relationship?
+    words: allied, bonded, related, friendly, affiliated, associated

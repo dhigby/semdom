@@ -1,0 +1,10 @@
+code: "8.3.6.5"
+guid: 47F170EB-5F1D-49A5-85BB-240047F392C0
+name: Soft, flimsy
+description: Use this domain for words describing something that is soft or flimsy.
+louwNidaCodes: 79U Soft, Tender
+questions:
+  - q: What words describe something that is soft?
+    words: soft, flimsy, easily broken, tender
+  - q: What words refer to making something soft?
+    words: soften

@@ -1,0 +1,21 @@
+code: "4.4.2"
+guid: 01459DB0-BF2A-422B-8D55-0AB505AEA2B4
+name: Trouble
+description: Use this domain for words referring to bad things that happen in life.
+ocmCodes: >-
+  730 Social Problems; 732 Disabilities; Handicapped; 733 Alcoholism and Drug Addiction; 734
+  Invalidism; 735 Poverty; 736 Dependency; 737 Old Age Dependency; 738 Delinquency
+louwNidaCodes: >-
+  22A Trouble, Hardship, Distress; 22B Experience Trouble, Hardship; 22C Cause Trouble,
+  Hardship; 22D Difficult, Hard; 22F Easy, Light
+questions:
+  - q: What words refer to bad things that happen in life?
+    words: trouble, adversity, difficulty, hardship
+  - q: What types of trouble are there?
+    words: >-
+      be in need, be in pain, be injured, harm, be in distress, suffer persecution, be in
+      danger, social unrest, anarchy
+  - q: What causes trouble?
+    words: >-
+      war, famine, disaster, accident, sickness, injury, death, conflict, harm, destruction,
+      oppression

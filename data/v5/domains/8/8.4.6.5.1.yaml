@@ -1,0 +1,20 @@
+code: "8.4.6.5.1"
+guid: 0D38C343-9C51-47fe-A367-FFADFC92C507
+name: Young
+description: >-
+  Use this domain for words describing something young--a word describing a living thing
+  that has only existed for a short time.
+related: ["2.6.4.3"]
+questions:
+  - q: What words describe a person or animal that is young?
+    words: young, little, small
+  - q: What words describe someone who is younger than someone else?
+    words: younger, junior
+  - q: What words refer to a younger brother or sister?
+    words: >-
+      younger brother, younger sister, little brother, little sister, kid brother, kid
+      sister
+  - q: What words describe a plant that is young?
+    words: green, immature, young
+  - q: What words describe someone who looks or acts young?
+    words: youthful, well-preserved

@@ -1,0 +1,9 @@
+code: "6.2.4.3"
+guid: A2CE1453-9832-447C-9481-70C9E2DA4227
+name: Irrigate
+description: Use this domain for words related to irrigating a field.
+questions:
+  - q: What words refer to adding water to plants and fields?
+    words: to water, irrigate, irrigation
+  - q: What tools and machines are used to water plants?
+    words: irrigate, irrigation, irrigation canal, to water

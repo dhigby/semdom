@@ -1,0 +1,7 @@
+code: "7.3.2"
+guid: D9F336CF-0682-4702-AB94-5ADE755DDC64
+name: Move something in a direction
+description: Use this domain for general words related to moving something in a direction.
+questions:
+  - q: What general words refer to moving something in a direction?
+    words: move (something), transfer, shift

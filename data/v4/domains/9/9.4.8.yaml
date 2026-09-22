@@ -1,0 +1,25 @@
+code: "9.4.8"
+guid: FA8E72A0-1BFE-4B49-A287-293B44213960
+name: Adverbial clauses
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  adverbial clauses. The following definitions are taken from Bybee, Joan, Revere Perkins,
+  and William Pagliuca. 1994. The evolution of grammar. Chicago and London: University of
+  Chicago Press.
+questions:
+  - q: >-
+      There are a variety of adverbial clauses (other than conditional clauses) that
+      sometimes require a special verb form. The meaning labels for these uses are coded
+      according to the type of clause (purpose, concessive, etc.), whether any particular
+      temporal deixis is part of the meaning, and under "co-occurrence restrictions,"
+      whether a particular conjunction is present. The types of clauses we might run into
+      are:
+  - q: >-
+      purpose: the clause states the purpose for which the main clause action is taking
+      place. Often called a "final" clause: 'He was saving his money so that his son could
+      go to college'.
+    words: so that
+  - q: >-
+      concessive: translated in English as 'although, even though, despite the fact that':
+      'She was saving her money, even though she was a wealthy woman'.
+    words: although, even though, despite the fact that

@@ -1,0 +1,23 @@
+code: "5.5.5"
+guid: B93BDFA4-486C-44A0-8266-557CCDC78B31
+name: What fires produce
+description: Use this domain for words related to the things that fires produce.
+questions:
+  - q: What do fires produce?
+    words: flames, heat, light, smoke, fumes, exhaust, sparks, ash, soot
+  - q: What words refer to a fire giving off something?
+    words: to smoke, give off sparks, send up sparks, give off heat, glow
+  - q: What words refer to smoke?
+    words: smoke, smoky, blue with smoke, haze, smog
+  - q: What do sparks do?
+    words: shoot up, fly out, land on things
+  - q: What sounds do fires make?
+    words: crackle, pop, hiss, roar of the flames
+  - q: What words refer to wood after it has been burning?
+    words: embers, coals, live coals
+  - q: What is left behind by a fire?
+    words: ash, blackened wood, charred remains
+  - q: What words refer to the material that is left on things near a fire?
+    words: soot
+  - q: What words refer to an area of ground that has been burned?
+    words: burn (n), burned off area

@@ -1,0 +1,9 @@
+code: "8.3.5.2.5"
+guid: 2F98291A-47A7-4b7b-9256-2C0249105BE1
+name: Various
+description: >-
+  Use this domain for words describing a group of things that are all different from each
+  other.
+questions:
+  - q: What words describe a group of things that are different?
+    words: various

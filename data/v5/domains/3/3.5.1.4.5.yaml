@@ -1,0 +1,11 @@
+code: "3.5.1.4.5"
+guid: 45B9BF61-3138-4206-9478-B4D3F082358B
+name: Speak in unison
+description: >-
+  Use this domain for words related to speaking in unison--to say something at the same time
+  as someone else.
+questions:
+  - q: What words refer to someone talking at the same time as someone else?
+    words: interrupt, talk at the same time
+  - q: What words refer to many people speaking in unison?
+    words: speak in unison, speak at once, congregational reading

@@ -1,0 +1,11 @@
+code: "6.4.5.3"
+guid: EB07E333-38D2-4DDB-9BC9-5990403600B4
+name: Fishing equipment
+description: Use this domain for words related to fishing equipment.
+ocmCodes: 227 Fishing Gear
+louwNidaCodes: 6C Instruments used in Fishing
+questions:
+  - q: What equipment is used to catch fish?
+    words: >-
+      fishing equipment, fishing gear, net, hook, fishhook, line, sinker, float, rod, reel,
+      tackle, boat, dam, trap, bait

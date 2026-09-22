@@ -1,0 +1,17 @@
+code: "3.3.3.3"
+guid: 9D428E57-E125-4575-B165-9BC6FD4EC507
+name: Persuade
+description: >-
+  Use this domain for words related to persuading someone--to try to get someone to do
+  something or to change his thinking.
+louwNidaCodes: 33B' Urge, Persuade; 33H' Recommend, Propose
+related: ["3.3.3"]
+questions:
+  - q: What words refer to trying to persuade someone to change his thinking or decision?
+    words: advocate, promote, persuade, convince, encourage, encouragement, urge, sway
+  - q: What words describe a person who can persuade others?
+    words: convincing, persuasive
+  - q: What words refer to someone being persuaded to change his thinking or decision?
+    words: come around to (someone's) view, see it (someone's) way, be won over
+  - q: What words refer to persuading someone not to do something?
+    words: dissuade

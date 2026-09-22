@@ -1,0 +1,20 @@
+code: "3.5.7.4"
+guid: 50AC28AB-7385-408F-B5EB-3E27B191FCF4
+name: Publish
+description: Use this domain for words related to publishing books.
+ocmCodes: 214 Publishing; 213 Printing
+questions:
+  - q: What words refer to making books?
+    words: >-
+      publish, engrave, in print, out of print, copyright, censor, censorship, desktop
+      publishing
+  - q: What words refer to something that has been published?
+    words: publication, edition, issue
+  - q: What words refer to a person who publishes?
+    words: publisher
+  - q: What words refer to getting a book ready to publish?
+    words: edit, draft, proofread, proofreader
+  - q: What words refer to printing a book?
+    words: print
+  - q: What words refer to the time when a book is published?
+    words: publication date, appear, come out

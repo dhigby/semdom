@@ -1,0 +1,19 @@
+code: "3.5.1.4.3"
+guid: 52B04E15-7062-4FB2-9EAA-4FE8726F302A
+name: Greet
+description: Use this domain for words related to greeting someone.
+louwNidaCodes: 34I Kiss, Embrace
+questions:
+  - q: What words refer to greeting someone?
+    words: greet, say hello
+  - q: What words describe a greeting?
+    words: greet warmly, warm greeting, cool reception, enthusiastic greeting
+  - q: What gestures typically accompany a greeting?
+    words: shake hands, bow, salute, give a hug, give a kiss, wave hello
+  - q: What words refer to a refusal to greet someone?
+    words: refuse to greet, snub, ignore
+  - q: What words and expressions are used when greeting someone?
+    words: ''
+    sentence: >-
+      Hello. Howdy. How are you? How ya doin'? Good morning. Good afternoon. Good evening.
+      Good to see you. Pleased to meet you.

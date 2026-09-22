@@ -1,0 +1,18 @@
+code: "4.6.7.1"
+guid: A7DAE83A-DCE6-47EA-AB3F-AC8A3AF4CCE9
+name: Country
+description: Use this domain for words related to a country.
+louwNidaCodes: 1L Governmental Administrative Areas
+questions:
+  - q: What words refer to a country?
+    words: country, land, nation, territory, kingdom
+  - q: What words refer to the parts of a country?
+    words: state, province, region, territory
+  - q: What words refer to the border of a country?
+    words: border, boundary
+  - q: What words refer to the flag and other symbols of a country?
+    words: flag, standard, seal, coat of arms
+  - q: What words describe something that has to do with a country?
+    words: national
+  - q: What words describe something that has to do with more than one country?
+    words: international

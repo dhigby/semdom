@@ -1,0 +1,8 @@
+code: "7.7.4"
+guid: 0A85EE64-E466-4295-8E2C-5B06C8E3054F
+name: Press
+description: Use this domain for words referring to pressing something.
+louwNidaCodes: 19E Press
+questions:
+  - q: What words refer to pressing something?
+    words: press, push on, apply pressure

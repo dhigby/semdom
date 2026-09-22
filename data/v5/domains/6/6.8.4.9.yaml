@@ -1,0 +1,10 @@
+code: "6.8.4.9"
+guid: 7E0BC050-5298-4808-AF22-5E284526C652
+name: Exchange, trade
+description: Use this domain for words related to exchanging or trading things.
+ocmCodes: 437 Exchange Transactions
+louwNidaCodes: 57J Exchange
+related: ["7.5.6"]
+questions:
+  - q: What words refer to trading one thing for another?
+    words: trade (v), trade (n), exchange (v), exchange (n), swap, barter

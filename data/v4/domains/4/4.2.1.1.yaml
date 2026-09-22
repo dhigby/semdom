@@ -1,0 +1,17 @@
+code: "4.2.1.1"
+guid: 7459C0D8-4DA1-4944-A95E-BC64CDE860F5
+name: Invite
+description: >-
+  Use this domain for words referring to inviting people to meet together--to say something
+  to someone because you want to meet with them.
+louwNidaCodes: 33D' Invite
+questions:
+  - q: What words are used of causing people to meet together?
+    words: >-
+      invite, extend an invitation, invite over, ask someone to something, assemble, bring
+      together, call up, call together, call a meeting, collect, convene, gather, mobilize,
+      muster, rally, request someone's presence, round up, summon, bid someone come
+  - q: What words refer to what is said or written when inviting someone?
+    words: invitation
+  - q: What words refer to someone who has been invited?
+    words: invited guest

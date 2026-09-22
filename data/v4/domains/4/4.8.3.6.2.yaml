@@ -1,0 +1,14 @@
+code: "4.8.3.6.2"
+guid: 7D629C80-E5C2-409f-A592-39C56E9ACE6D
+name: Navy
+description: Use this domain for words related to the navy.
+ocmCodes: 706 Navy
+questions:
+  - q: What words refer to the navy?
+    words: the navy, naval forces
+  - q: What words refer to soldiers assigned to the navy?
+    words: sailor, marine, the marines, navy flyer
+  - q: What types of naval units are there?
+    words: detachment, squadron, task force, fleet, flotilla
+  - q: What words describe something belonging to the navy?
+    words: naval

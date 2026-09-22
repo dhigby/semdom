@@ -1,0 +1,15 @@
+code: "1.2.3.3"
+guid: 34C3EDAD-A158-44E7-989B-5B74401E6945
+name: Gas
+description: Use this domain for words referring to gas.
+questions:
+  - q: What general words refer to gas?
+    words: gas, gaseous, vapor, mist, air, fume, steam, steamy, cloud (of gas), plume (of steam)
+  - q: What types of gas are there?
+    words: natural gas, oxygen, carbon dioxide, ozone, hydrogen, nitrogen, helium, neon
+  - q: What words describe gas?
+    words: noxious (fumes), poisonous gas
+  - q: What words refer to the production of gas?
+    words: produce gas, give off fumes
+  - q: What words refer to the movement of gas?
+    words: spread, drift, creep along the ground, vapor trail, rise

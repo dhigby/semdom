@@ -1,0 +1,35 @@
+code: "4.4.2.6"
+guid: 9A7604B4-D42F-44B7-9AEF-47847DC93F0B
+name: Suffer
+description: >-
+  Use this domain for words related to suffering--to feel very bad because of something very
+  bad that has happened to you.
+related: ["2.5.6.1"]
+questions:
+  - q: What words refer to suffering?
+    words: >-
+      suffer, ache for someone, be afflicted with, agonize, endure, feel horrible, have a
+      hard time, be hurting, be in pain, feel pain, feel rotten, undergo, go through, put up
+      with, be subjected to, be in the grip of, be in the throes of
+  - q: What words refer to suffering because of something you have done?
+    words: >-
+      suffer, pay for, pay the penalty for, count the cost, cost someone dearly, stew in
+      your own juice, know to your cost, find out to your cost, at a cost to
+  - q: What words refer to the feeling of suffering?
+    words: suffering, ache, affliction, agony, distress, misery, pain, torment (n), torture (n)
+  - q: What words describe someone who suffers?
+    words: suffering, tormented
+  - q: What words refer to causing someone to suffer?
+    words: >-
+      distress (v), give someone a hard time, hurt, inflict, put someone through, subject
+      to, torment (v), torture (v)
+  - q: What words refer to something that causes someone to suffer?
+    words: adversity, hardship, hell, injury, tormentor, torturer
+  - q: What words describe something that causes someone to suffer?
+    words: agonizing, distressing, hard, hurtful, painful, tormenting, torturing
+  - q: What words describe something that is too painful to accept?
+    words: unbearable, unbearably, intolerable, intolerably, unendurable
+  - q: What words refer to someone who suffers?
+    words: sufferer, casualty, victim
+  - q: What words refer to someone who seems to enjoy suffering?
+    words: masochist, martyr, be a glutton for punishment

@@ -1,0 +1,14 @@
+code: "3.2.7.1"
+guid: AAF63ABD-C8A5-4546-8FC1-A51C6E607683
+name: Hope
+description: >-
+  Use this domain for words related to hoping that something will happen--to want something
+  good to happen in the future.
+louwNidaCodes: 25D Hope, Look Forward To
+questions:
+  - q: What words refer to hoping that something good will happen in the future?
+    words: >-
+      hope, look forward to, anticipate, eagerly await, bide, desire, dream, be optimistic,
+      wish for, fulfill hope
+  - q: What words refer to something good that may happen in the future?
+    words: hope (n), wish (n)

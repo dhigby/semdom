@@ -1,0 +1,21 @@
+code: "2.3.2"
+guid: 8503660C-03AF-49EE-86B6-525AAB4DA828
+name: Hear
+description: >-
+  Use this domain for words related to hearing something (in general or without conscious
+  choice).
+louwNidaCodes: 24B Hear
+related: ["2.5.4.3"]
+questions:
+  - q: What words refer to hearing something?
+    words: hear, overhear
+  - q: What words refer to the ability to hear?
+    words: hearing, sense of hearing
+  - q: What words refer to being able to hear something?
+    words: can hear, can make out, within someone's hearing, within earshot, catch, get
+  - q: What words refer to not being able to hear something?
+    words: can't hear, not catch, can't make out, out of earshot
+  - q: What words refer to things people use to help them hear better?
+    words: hearing aid, bug, stethoscope
+  - q: What words describe something that has to do with hearing?
+    words: aural, auditory, audio, acoustic, sound (adj)

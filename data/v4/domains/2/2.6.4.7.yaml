@@ -1,0 +1,18 @@
+code: "2.6.4.7"
+guid: ADF6AD2B-7AF9-4BD8-A7B4-F864B9DAD86D
+name: Initiation
+description: >-
+  Use this domain for words related to initiation rites--a ceremony when a child becomes an
+  adult.
+ocmCodes: 881 Puberty and Initiation
+questions:
+  - q: What words refer to initiation rites?
+    words: initiation, bar mitzvah
+  - q: What words refer to initiating a child into adulthood?
+    words: initiate (v)
+  - q: What words refer to the steps or parts of the initiation rites?
+    words: (no words in English)
+  - q: What words refer to a person who is being initiated?
+    words: initiate (n)
+  - q: What words refer to the time when a child is initiated?
+    words: coming of age

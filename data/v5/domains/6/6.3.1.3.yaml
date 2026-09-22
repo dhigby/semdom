@@ -1,0 +1,19 @@
+code: "6.3.1.3"
+guid: C36131C3-B5E1-4AAC-A7B5-7C9CFA1E8F74
+name: Goat
+description: Use this domain for words related to goats.
+questions:
+  - q: What words refer to goats?
+    words: goat
+  - q: What words refer to male or female goats?
+    words: billy, he-goat, nanny, she-goat
+  - q: What words refer to young goats?
+    words: kid
+  - q: What sounds do goats make?
+    words: bleat
+  - q: Where are goats kept?
+    words: pasture, range, enclosure
+  - q: What is a group of goats called?
+    words: flock, herd
+  - q: What is a person called who takes care of goats?
+    words: goatherd

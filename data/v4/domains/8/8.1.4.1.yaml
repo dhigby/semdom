@@ -1,0 +1,22 @@
+code: "8.1.4.1"
+guid: FCC204A3-EAE4-46D1-A9DC-08864FDE1772
+name: Less
+description: >-
+  Use this domain for words that indicate that the number or amount of something is less
+  than the number or amount of another thing.
+questions:
+  - q: What words describe something that is less than another thing in number or amount?
+    words: >-
+      less, fewer, not as much, not so much, not as many, not so many, lower, to a lesser
+      degree, to a lesser extent, be in the minority, fewer and fewer, less and less, not
+      more than, at the most
+    sentence: I own less land than you.
+  - q: What words indicate that something is less than a particular number or amount?
+    words: less than, under, below, lower, within, minus
+    sentence: My land is less than five acres.
+  - q: What words indicate that there is much less of something?
+    words: much less, far less, far fewer, way below
+  - q: What words indicate that something is less in some quality than another thing?
+    words: less, not as, not so
+  - q: What words indicate that something happens less or is done less?
+    words: not as much, not so much

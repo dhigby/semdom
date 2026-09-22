@@ -1,0 +1,16 @@
+code: "6.9.3"
+guid: B33DA469-FEFA-44F3-B35C-D70411BFE7E1
+name: Marketing
+description: Use this domain for words related to the promotion of trade and sales.
+ocmCodes: >-
+  440 Marketing; 441 Mercantile Business; 442 Wholesale Marketing; 443 Retail Marketing; 444
+  Retail Businesses; 445 Service Industries; 446 Sales Promotion; 447 Advertising
+questions:
+  - q: What words refer to a person who tries to get people to buy something?
+    words: salesman, merchant
+  - q: What words refer to trying to get someone to buy something?
+    words: >-
+      marketing, advertisement, sales promotion, slogan, wholesale, retail, service,
+      mercantile, commerce, salesmanship, merchandising
+  - q: What words refer to an organization of sellers?
+    words: guild, trade association, chamber of commerce

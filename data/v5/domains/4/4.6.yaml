@@ -1,0 +1,18 @@
+code: "4.6"
+guid: 7558D071-A885-447B-9AA2-604C29669492
+name: Government
+description: Use this domain for words related to government.
+ocmCodes: 640 State
+questions:
+  - q: What general words refer to government?
+    words: govern, government, governor, governance
+  - q: What words refer to the place where the government is?
+    words: capital, seat of government
+  - q: What words describe something having to do with the government?
+    words: governmental, official
+  - q: What words describe the kind of government in a country?
+    words: >-
+      monarchy, democracy, democratic, republic, republican, autocratic, dictatorship,
+      dictatorial, communist, communistic, socialist, socialistic, theocracy, theocratic
+  - q: What words refer to flags and other symbols of government?
+    words: flag, official seal, crown, scepter, throne, regalia

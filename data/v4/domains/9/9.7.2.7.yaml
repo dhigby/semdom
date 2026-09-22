@@ -1,0 +1,12 @@
+code: "9.7.2.7"
+guid: D90E71BF-2898-4501-9D09-C518999F83E2
+name: Names of mountains
+description: >-
+  Use this domain for the proper names of the mountains in the language area. Only include
+  the names of mountains outside the language area if your language has borrowed or adapted
+  the name and you talk about them in your language.
+questions:
+  - q: What are the names of the mountains in the language area?
+    words: Mount Rainier, Mount McKinley
+  - q: What are the names of the mountain ranges in the language area?
+    words: Rocky Mountains, Sierras, Appalachian Mountains

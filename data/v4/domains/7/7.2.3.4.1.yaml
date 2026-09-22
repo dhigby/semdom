@@ -1,0 +1,9 @@
+code: "7.2.3.4.1"
+guid: D95ED463-AC64-4004-9C3B-0FCE2F7639BE
+name: Move out
+description: Use this domain for words related to moving out of something, such as a house or area.
+questions:
+  - q: What words refer to moving out of an area or space?
+    words: move out, go out, come out, get out, emerge, exit, exodus, issue, leave
+  - q: What words refer to an opening where something can move out?
+    words: exit, outlet, vent, mouth, opening, way out

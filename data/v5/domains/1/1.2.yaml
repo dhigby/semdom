@@ -1,0 +1,22 @@
+code: "1.2"
+guid: B47D2604-8B23-41E9-9158-01526DD83894
+name: World
+description: Use this domain for words referring to the planet we live on.
+related: ["9.7.2.6", "7.2.4.8"]
+questions:
+  - q: What words refer to the planet we live on?
+    words: the world, earth, the Earth, the globe, the planet
+  - q: What words describe something that belongs to this world?
+    words: earthly, terrestrial
+  - q: What words describe something that affects the whole world?
+    words: world (adj), global, worldwide, universal
+  - q: >-
+      What words are used to talk about the whole world, all the countries, or all the
+      people?
+    words: the whole world, the entire earth, all over the world, round the world
+  - q: What words refer to a part of the world?
+    words: >-
+      hemisphere, North Pole, South Pole, pole, polar, polar cap, equator, tropics,
+      tropical, continent, time zone, the Third World, the West, the East, Orient
+  - q: What words refer to the study of the world?
+    words: geography, geographical, geographer, geology

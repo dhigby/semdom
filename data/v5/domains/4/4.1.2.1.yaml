@@ -1,0 +1,16 @@
+code: "4.1.2.1"
+guid: 513771EB-8467-468A-8BC8-E52567E66DF9
+name: Working relationship
+description: Use this domain for words related to a relationship between people who work together.
+related: ["4.3.4.3"]
+questions:
+  - q: What words refer to a relationship between people who work together?
+    words: working relationship, affiliation, association, partnership
+  - q: What words refer to beginning a working relationship?
+    words: form an association, form a partnership
+  - q: What words refer to the process of relating to other people at work?
+    words: affiliate with, partner with, work with, work together, collaborate
+  - q: What words refer to a person you work with?
+    words: associate (n), partner, coworker, colleague, collaborator, fellow worker, affiliate
+  - q: What words refer to a group of people who work together?
+    words: partnership, association, office, working group

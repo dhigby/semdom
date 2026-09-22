@@ -1,0 +1,12 @@
+code: "4.6.7.3"
+guid: 0F983449-1C43-4974-B388-7695B1AF4BFA
+name: Countryside
+description: Use this domain for words related to the countryside--the area away from a city.
+louwNidaCodes: 1M Areas Which Are Uninhabited or Only Sparsely Populated
+questions:
+  - q: What words refer to the countryside?
+    words: >-
+      boondocks, boonies, country, countryside, desert, field, outback, outland, outskirts,
+      rural, sticks, upcountry, wasteland, wilderness
+  - q: What words describe an area that doesn't have many people?
+    words: deserted, desolate, lonely, uninhabited, sparsely populated

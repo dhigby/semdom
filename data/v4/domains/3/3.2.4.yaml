@@ -1,0 +1,13 @@
+code: "3.2.4"
+guid: D10301F3-573C-4005-AD65-1C73FB80B3B6
+name: Understand
+description: Use this domain for words referring to understanding a topic or the meaning of something.
+louwNidaCodes: >-
+  32 Understand; 32A Understand; 32B Come To Understand; 32C Ease or Difficulty in
+  Understand
+related: ["3.5.8", "3.5.1.2.3"]
+questions:
+  - q: What words refer to understanding something?
+    words: understand, understanding, comprehend, have/gain insight
+  - q: What words refer to coming to understand something?
+    words: understand, perceive, realize, see, recognize, recognition, figure out

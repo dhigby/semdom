@@ -1,0 +1,18 @@
+code: "9.3.2"
+guid: E1DD83DD-955A-4BC7-A761-FC91555DA1F8
+name: Completely
+description: >-
+  Use this domain for words referring to a complete degree--when something is done, happens,
+  is thought, is felt, etc completely and in every way.
+louwNidaCodes: 78D Completely, Enough
+questions:
+  - q: What words indicate that something is done to a complete degree?
+    words: >-
+      completely, fully, totally, entirely, wholly, absolutely, utterly, positively, in
+      every way, in every respect, in every sense, through and through, wholeheartedly,
+      altogether, out-and-out, outright, perfect, perfectly, roundly, solid, solidly,
+      thoroughly, unmitigated, unqualified, utter
+  - q: What general words refer to all of something's attributes or manners?
+    words: completely, in every way
+  - q: What words describe something that is done completely?
+    words: complete, thorough, full, comprehensive, exhaustive, entire

@@ -1,0 +1,17 @@
+code: "5.2.1.2"
+guid: 726923D4-B25C-46EB-8AB0-427207177AE3
+name: Steps in food preparation
+description: >-
+  Use this domain for words related to the steps in food preparation. One way to find the
+  words in this domain is to describe how each type of food is prepared.
+questions:
+  - q: What are the steps in preparing food?
+    words: >-
+      gather ingredients, add ingredients, pour into dish, dilute, thicken, concentrated,
+      dissolve, sweeten
+  - q: What words refer to cutting up ingredients?
+    words: shred, grate, slice, cut up, chop, dice, cube, quarter, halve, mince, grind
+  - q: What words refer to mixing ingredients?
+    words: mix, stir, knead, toss, tossed, whisk, beat
+  - q: What words refer to allowing food to ripen?
+    words: ripen, age (cheese), allow cream to rise, allow bread to rise

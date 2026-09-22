@@ -1,0 +1,34 @@
+code: "3.5.6.3"
+guid: 339F54A5-125B-435F-BF37-CFC2A2BD26D3
+name: Facial expression
+description: >-
+  Use this domain for facial expressions--ways in which people move the parts of their faces
+  to show feeling or communicate something.
+louwNidaCodes: 23B Processes Involving the Mouth, Other Than Eating and Drinking
+questions:
+  - q: What words refer to a facial expression?
+    words: expression, look, face, countenance, facial expression, the look on someone's face
+  - q: What words refer to an expression using the eyes?
+    words: >-
+      stare, glare, roll your eyes, wink, blink, lift your eyes, raise your eyebrows, narrow
+      your eyebrows, wrinkle your brow
+  - q: What words refer to an expression using the mouth?
+    words: lick your lips, smack your lips, kiss, purse your lips
+  - q: What words refer to making an expression on your face?
+    words: >-
+      make a face, get an expression on your face, have an expression on your face, give
+      someone (an expression)
+  - q: What words refer to making a particular expression?
+    words: frown (in disapproval or worry), gape, grimace (in pain), pout, scowl, snarl, start
+  - q: What words refer to smiling?
+    words: >-
+      smile, grin, beam, be all smiles, force a smile, smirk, leer, sneer, wide grin, big
+      smile, half smile, slight smile
+  - q: What words refer to starting to smile?
+    words: break into a smile, someone's face lights up
+  - q: What words describe a face that shows a lot of feeling?
+    words: expressive, animated
+  - q: What words describe a face that shows no feeling?
+    words: expressionless, impassive, blank, deadpan, inscrutable, poker-faced
+  - q: What words describe an expression that shows a particular feeling?
+    words: cheerful, solemn, horrified, pained, wry

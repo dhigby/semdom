@@ -1,0 +1,15 @@
+code: "6.8.4.6"
+guid: 3B69F6B6-D64A-43AA-99DC-05E34F81E07F
+name: Hire, rent
+description: >-
+  Use this domain for words related to hiring or renting something--to pay money so that you
+  can use something that belongs to someone else.
+ocmCodes: 427 Renting and Leasing
+louwNidaCodes: 57M Hire, Rent Out
+questions:
+  - q: What words refer to hiring something?
+    words: hire, rent, hireling, rental, to contract out, subcontract, tenancy
+  - q: What words refer to something that has been hired?
+    words: hired hand, employee
+  - q: What words refer to someone who rents a house?
+    words: tenant

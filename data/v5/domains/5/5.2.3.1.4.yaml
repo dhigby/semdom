@@ -1,0 +1,9 @@
+code: "5.2.3.1.4"
+guid: E496A6D3-A00C-470E-81C3-314F3F97840E
+name: Food from leaves
+description: Use this domain for words referring to food from leaves and stems.
+questions:
+  - q: What types of leaves are eaten?
+    words: leafy vegetable, salad, lettuce, cabbage, spinach, pumpkin leaves, cowpea leaves
+  - q: What types of stems are eaten?
+    words: sugarcane, rhubarb, celery

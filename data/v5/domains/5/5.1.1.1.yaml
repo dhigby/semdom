@@ -1,0 +1,13 @@
+code: "5.1.1.1"
+guid: F732BDB5-9A04-468A-B50B-510F94D20FB4
+name: Table
+description: Use this domain for words related to a table.
+questions:
+  - q: What types of tables are there?
+    words: table, dining room table, bedside table, end table, coffee table, desk
+  - q: What are the parts of a table?
+    words: table leg, table top, top of the table, edge of the table, corner of the table
+  - q: >-
+      What do people commonly put on top of a table that is closely associated with the
+      table?
+    words: tablecloth, runner, centerpiece, table decoration

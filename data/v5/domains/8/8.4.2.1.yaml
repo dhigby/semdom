@@ -1,0 +1,13 @@
+code: "8.4.2.1"
+guid: 5BB495A5-AB5B-4409-8CD1-E48B56401FAD
+name: A short time
+description: Use this domain for words referring to a short time.
+questions:
+  - q: What words indicate that something happens for a short time?
+    words: take a short time, be for a short time, brief, briefly, briefness
+  - q: What words indicate that something happens for a very short time?
+    words: moment, instant, point in time, instantaneous, instantaneously
+  - q: What words refer to taking a short time to do something?
+    words: be brief, be quick
+  - q: What do people say when they want someone to do something in a short time?
+    words: be brief, don't take long, get it over with

@@ -1,0 +1,23 @@
+code: "6.5"
+guid: CDE96694-79E5-44AF-8D38-D988D1938E5F
+name: Working with buildings
+description: Use this domain for words related to working with buildings.
+ocmCodes: >-
+  330 Building and Construction; 331 Construction; 334 Structural Steel Work; 338
+  Miscellaneous Building Trades; 341 Architecture
+louwNidaCodes: 45 Building, Constructing; 7 Constructions; 7A Constructions
+questions:
+  - q: What general words refer to making a building?
+    words: build, construct
+  - q: What are the steps in building a building?
+    words: design, draft, draw up the plans, survey, excavate (the foundation)
+  - q: What are the people called who build buildings?
+    words: >-
+      construction worker, architect, draftsman, builder, roofer, carpenter, plumber,
+      electrician, bricklayer, mason, cabinetmaker, painter, landscaper, surveyor
+  - q: What special equipment is used to build a building?
+    words: scaffolding
+  - q: What words refer to constructing a wall?
+    words: frame, erect a wall, put up siding, plaster, mud and wattle
+  - q: What words refer to constructing a roof?
+    words: to roof, a roof, roofing material

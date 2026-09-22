@@ -1,0 +1,10 @@
+code: "9.1.2.1"
+guid: B158FE11-5AF2-4467-BBC0-CC1AEE766592
+name: Happen
+description: Use this domain for non-volitional pro-verbs.
+louwNidaCodes: 13D Happen
+questions:
+  - q: What words refer to something happening?
+    words: happen, occur, take place, chance, befall, betide, supervene
+  - q: What words refer to something that has happened?
+    words: event, experience, affair, occurrence, phenomenon, occasion

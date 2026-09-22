@@ -1,0 +1,9 @@
+code: "3.2.2.6"
+guid: EAC4B58E-1FD7-4CE1-9A68-C7516470E876
+name: Realize
+description: Use this domain for words related to realizing something.
+questions:
+  - q: What words refer to realizing something?
+    words: >-
+      realize, occur to, dawn on, become aware that, strike, hit, sink in, wake up to the
+      fact that, it clicked

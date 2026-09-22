@@ -1,0 +1,11 @@
+code: "8.3.1.8.1"
+guid: 45B7DCCE-21D5-4738-A64D-E8B0BE8A1824
+name: Symmetrical
+description: >-
+  Use this domain for words that describe something that is symmetrical--having the same
+  shape on both sides.
+questions:
+  - q: What words describe something that is symmetrical?
+    words: symmetrical, regular, even, balanced, even sided
+  - q: What words describe something that is not symmetrical?
+    words: asymmetrical, irregular, uneven, unbalanced, lopsided

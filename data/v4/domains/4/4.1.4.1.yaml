@@ -1,0 +1,24 @@
+code: "4.1.4.1"
+guid: AEC8C246-0EF7-414A-94A6-B9FDD6812A7C
+name: Social class
+description: Use this domain for words related to social class.
+ocmCodes: >-
+  560 Social Stratification; 561 Age Stratification; 562 Gender Status; Sex Status; 563
+  Ethnic Stratification; 564 Castes; 565 Classes; 566 Serfdom and Peonage; 567 Slavery
+questions:
+  - q: What words refer to social class?
+    words: class, caste, background, status, social standing, strata
+  - q: What words refer to a person belonging to a higher class?
+    words: upper class, aristocracy, privileged, elite, titled, posh, your betters, rich
+  - q: What words refer to a person belonging to the middle class?
+    words: middle-class, bourgeois, the bourgeoisie, white-collar
+  - q: What words refer to a person belonging to a lower class?
+    words: >-
+      working class, lower class, the masses, blue-collar, humble, popular, underclass, your
+      inferiors, poor
+  - q: What words refer to a person belonging to the same class as you?
+    words: peer
+  - q: What words refer to moving into a higher social class?
+    words: move up in the world, upwardly mobile, social climber
+  - q: What words describe a society that is not divided into classes?
+    words: classless

@@ -1,0 +1,15 @@
+code: "4.8.3.8"
+guid: 3615C3D1-FD5B-40C5-80AD-80BFD6451D56
+name: Plunder
+description: >-
+  Use this domain for words related to plundering--stealing something from an enemy during a
+  war.
+questions:
+  - q: What words refer to plundering?
+    words: >-
+      plunder, loot, despoil, pillage, sack, ransack, strip, rifle, forage, maraud, raid,
+      piracy
+  - q: What words refer to someone who plunders?
+    words: plunderer, looter, forager, marauder, raider, pirate
+  - q: What words refer to plunder?
+    words: plunder, booty, loot, spoils

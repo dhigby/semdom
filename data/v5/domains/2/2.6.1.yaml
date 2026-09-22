@@ -1,0 +1,40 @@
+code: "2.6.1"
+guid: FFCC57F8-6C6D-4BF4-85BE-9220CA7C739D
+name: Marriage
+description: Use this domain for words related to the state of being married.
+ocmCodes: >-
+  580 Marriage; 581 Basis of Marriage; 582 Regulation of Marriage; 583 Mode of Marriage; 587
+  Secondary Marriages; 588 Special Unions and Marriages; Irregular Unions; 595 Polygamy
+louwNidaCodes: 34J Marriage, Divorce
+related: ["4.1.9.3"]
+questions:
+  - q: What words refer to marrying someone?
+    words: >-
+      marry, marriage, get married, tie the knot, get hitched, join together, unite, wed,
+      marry into
+  - q: What words refer to the state of being married?
+    words: married, marriage, matrimony, wedlock, hitched, bonds of marriage, married life
+  - q: What words refer to being married to someone?
+    words: be married to
+  - q: What words refer to people who are married?
+    words: couple, husband, wife, spouse, partner, mate, matron, matronly, consort
+  - q: What words are used of the relationship between a husband and wife?
+    words: wedded bliss, care for spouse, love, marriage relationship
+  - q: What words refer to marrying again after being widowed or divorced?
+    words: remarry, remarriage
+  - q: What words refer to marrying more than one person?
+    words: >-
+      bigamy, bigamist, bigamous, concubinage, concubine, harem, polygamist, polygamous,
+      polygamy
+  - q: What words refer to marrying only one person?
+    words: monogamous, monogamy
+  - q: What words refer to marrying someone from another tribe or race?
+    words: inter-racial marriage, miscegenation
+  - q: What words refer to living with someone without being married?
+    words: live with, cohabit, cohabitation, common-law marriage
+  - q: What words refer to marrying a close relative?
+    words: incest, intermarry
+  - q: What words refer to marrying your brother's widow?
+    words: levirate marriage
+  - q: What words describe something having to do with marriage?
+    words: married, marital, matrimonial, conjugal, nuptial, connubial

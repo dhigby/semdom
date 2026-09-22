@@ -1,0 +1,7 @@
+code: "4.7.5.6"
+guid: 70963C34-DD34-40C2-BB21-E9CEA73C7923
+name: Drop charges
+description: Use this domain for words related to dropping legal charges against someone.
+questions:
+  - q: What words refer to dropping legal charges?
+    words: drop charges, decide not to press charges

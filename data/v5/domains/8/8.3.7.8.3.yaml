@@ -1,0 +1,27 @@
+code: "8.3.7.8.3"
+guid: 03352940-C220-4A32-A9A5-FC08D1D0DC71
+name: Garbage
+description: Use this domain for words related to garbage--something that is no longer wanted.
+questions:
+  - q: What words refer to garbage?
+    words: garbage, rubbish, trash, litter, refuse, junk, waste, wastepaper, scrap
+  - q: What do people do to garbage?
+    words: >-
+      take out, throw away, discard, burn, chuck, dispose of, disposal, haul away, bury,
+      dump, litter, pile up, collect
+  - q: What words refer to a container where people put garbage?
+    words: >-
+      garbage can, trashcan, waste-basket, wastepaper basket, bin, dustbin, wastebin,
+      garbage bag
+  - q: What words refer to a place where people put garbage?
+    words: garbage pit, rubbish heap, garbage dump, rubbish tip, compost pile, incinerator
+  - q: What words refer to a person who removes garbage?
+    words: garbage man, dustman
+  - q: What words refer to a vehicle used to remove garbage?
+    words: garbage truck, dustcart
+  - q: What words refer to a person who leaves garbage in a public place?
+    words: litterbug
+  - q: What words describe something made to be used once and then thrown away?
+    words: disposable
+  - q: What words refer to bad things that people allow to go into water or air?
+    words: pollution, pollute, pollutant, smog, acid rain

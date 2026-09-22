@@ -1,0 +1,16 @@
+code: "3.2"
+guid: DF9EE372-E92E-4F73-AAC5-D36908497698
+name: Think
+description: Use this domain for words related to thinking, thought processes, and kinds of thinking.
+louwNidaCodes: 30 Think; 30A To Think, Thought
+questions:
+  - q: What general words refer to thinking?
+    words: think
+  - q: What words refer to thinking something?
+    words: >-
+      think (that), have a thought, come to, come to mind, enter your mind, enter your head,
+      cross your mind, hit on, occur to, present itself, spring to mind, strike, wonder
+  - q: What words refer to a single thought?
+    words: >-
+      thought, concept, consideration, fact, idea, image, notion, opinion, sentiment,
+      syllogism

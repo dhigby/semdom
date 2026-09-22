@@ -1,0 +1,17 @@
+code: "6.8.8"
+guid: 9A8F2F6A-A039-45DD-80D3-D1E0911907B2
+name: Tax
+description: Use this domain for words related to tax.
+ocmCodes: 651 Taxation and Public Income; 652 Public Finance
+louwNidaCodes: 57N Tax, Tribute
+questions:
+  - q: What words refer to tax?
+    words: tax, taxes, taxation, tax collector, tribute
+  - q: What words refer to charging tax?
+    words: to tax, charge tax, levy taxes, taxation, impose
+  - q: What words refer to owing tax?
+    words: owe tax
+  - q: What words refer to paying tax?
+    words: pay taxes
+  - q: What words refer to the government agency that is responsible for taxes?
+    words: Internal Revenue Service

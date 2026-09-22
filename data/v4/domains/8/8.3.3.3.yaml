@@ -1,0 +1,44 @@
+code: "8.3.3.3"
+guid: D01F1C51-522E-4B35-81B3-00577DBFA3BD
+name: Color
+description: Use this domain for words related to color.
+louwNidaCodes: 79G Color
+questions:
+  - q: What words refer to color?
+    words: >-
+      color, shade, tint, hue, coloring, pigment, tincture, cast, palette, coloration,
+      complexion, chroma, chromatic, tone
+  - q: What words indicate that something is a particular color?
+    words: be red/green, be a red/reddish color, colored, tinted
+  - q: What words describe something that is a dark color?
+    words: dark, deep, rich
+  - q: What words describe something that is a light color?
+    words: >-
+      light (adj), pale, pastel, faint, livid, lurid, pallid, pallor, pale-faced, neutral
+      tint
+  - q: What words describe something that is a bright color?
+    words: >-
+      bright, brightly colored, brilliant, pure, gaudy, garish, vivid, flashy, fresh,
+      intense, strong, hot
+  - q: What words describe something that is a dull color?
+    words: dull, faded, washed out, drab, dingy, flushed, clouded, grayish, somber
+  - q: What words describe something, such as a photograph, that has been made with color?
+    words: color (photograph), in color
+  - q: What words describe something that has no color or is black and white?
+    words: >-
+      colorless, black and white, uncolored, monochrome, achromatic, ghostly, glassy,
+      lackluster, undyed
+  - q: What words refer to the intensity of a color?
+    words: value, intensity, saturation
+  - q: What words refer to pure or mixed colors?
+    words: pure, mixed, tinge, primary color, secondary color, tertiary color
+  - q: What words describe colors that look good together?
+    words: go together, go with, suit you, color scheme, complimentary
+  - q: What words describe colors that do not look good together?
+    words: clash
+  - q: What words describe someone who cannot see color?
+    words: color-blind
+  - q: >-
+      What words refer to a color or pattern of colors used by a group of people to identify
+      themselves?
+    words: livery, tartan, team colors

@@ -1,0 +1,19 @@
+code: "3.5.1.8.3"
+guid: E2D3294B-4463-48BB-95E4-8C9B5238ECEC
+name: Mock
+description: >-
+  Use this domain for words referring to mocking someone--doing or saying something to make
+  people laugh at someone because you don't like them.
+related: ["3.5.6.4", "4.2.8"]
+questions:
+  - q: What words refer to mocking someone?
+    words: >-
+      mock, mockery, make fun of, tease, taunt, ridicule, scorn, sneer, sarcasm, deride,
+      derision, jeer, laugh at, snicker, snigger, poke fun at, play a trick on, satirize,
+      satire, parody, caricature, lampoon, make a fool of, roast
+  - q: What words describe something that is said or done to mock someone?
+    words: derisive, mock (adj), sarcastic, cutting, satirical, burlesque
+  - q: What words refer to someone who is being mocked?
+    words: laughingstock, fool, target, butt, buffoon, fall guy
+  - q: What words refer to doing something that causes someone to mock you?
+    words: be ridiculous, make a fool of yourself

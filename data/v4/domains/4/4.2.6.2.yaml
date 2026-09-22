@@ -1,0 +1,68 @@
+code: "4.2.6.2"
+guid: 01441207-4935-49A5-A192-16D949F5606C
+name: Sports
+description: Use this domain for words related to sports.
+ocmCodes: 526 Athletic Sports; 542 Commercialized Sports
+questions:
+  - q: What words refer to sports?
+    words: sport, sports, organized sports, athletics, pro sports, amateur sports
+  - q: What words refer to specific sports?
+    words: >-
+      football, soccer, basketball, tennis, track, track and field, ping pong, badminton,
+      baseball, hockey, ice hockey, boxing, wrestling, running, cricket, golf, gymnastics,
+      race
+  - q: What words refer to a sports event?
+    words: sports event, sporting event, game, match, bout
+  - q: What words refer to a group of sports events?
+    words: series, Olympics, tournament, tourney, meet, double-header, triple-header, season
+  - q: What are the parts of a sports events?
+    words: >-
+      starting bell/buzzer, first quarter, second quarter, first half, half time, final
+      bell/buzzer
+  - q: What is a person called who participates in sports?
+    words: >-
+      athlete, player, starting line up, substitute, bench, coach, captain, referee,
+      trainer, professional, amateur
+  - q: What is a group of players called?
+    words: team, club
+  - q: What is a group of teams called?
+    words: league, conference, association
+  - q: What is the leader of a team called?
+    words: coach, to coach a team, call time out, captain, to captain a team
+  - q: What is the staff of a team called?
+    words: assistant coach, trainer, recruiter
+  - q: What words describe a player?
+    words: athletic, acrobatic, competitive, star
+  - q: What do athletes do?
+    words: >-
+      play, compete, competition, struggle, engage in a sport/contest, participate,
+      exercise, physical exercise, train, training, calisthenics, warm up, workout, break
+      the rules, pull ahead
+  - q: What words refer to the goal of a sport?
+    words: goal, score
+  - q: What words are used of the outcome of a game?
+    words: >-
+      win, lose, tie, defeat, become champion, win the prize, finish the race, finish well,
+      winner, loser
+  - q: What are the winners and losers called?
+    words: winner, champion, loser, first place winner, second place, runner up, second runner up
+  - q: What awards are given to the winner?
+    words: >-
+      prize, cup, trophy, wreath, flowers, medal, gold medal, silver medal, bronze medal,
+      blue ribbon, prize money, champion's belt, applause, cheers, plaudits, kudos, fame
+  - q: What equipment is used in sports?
+    words: uniform, ball, clock, scoreboard
+  - q: What is the place called where sports are played?
+    words: playing field, track, court, arena, stadium, gym, gymnasium
+  - q: What are the parts of the playing field?
+    words: court, line, lane, out of bounds, goal, finish line
+  - q: What is the person called who enforces the rules?
+    words: >-
+      referee, to referee, referee's whistle, umpire, to umpire, official, commissioner,
+      timekeeper, to keep time, call time, stop play, to rule
+  - q: What is a person called who watches sports?
+    words: fan, crowd, cheerleaders, pep club
+  - q: What do fans do?
+    words: root, yell, cheer, shout encouragement, support their team, boo the referee
+  - q: What is a person called who comments on sports?
+    words: commentator, announcer, sportscaster, reporter

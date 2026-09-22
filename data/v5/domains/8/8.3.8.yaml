@@ -1,0 +1,14 @@
+code: "8.3.8"
+guid: 130E2CBB-7E51-4F6F-A1CF-7A053A44C9B7
+name: Decorated
+description: Use this domain for words describing something that is decorated.
+ocmCodes: 353 Building Interiors and Arrangement; Interior Decoration and Arrangement
+questions:
+  - q: What words describe something that is decorated?
+    words: >-
+      decorated, adorned, bedecked, bejewelled, decked, embellished, festooned, hung,
+      ornamented, studded
+  - q: What words refer to decorating something?
+    words: decorate, adorn, bedeck, deck, embellish, festoon, ornament, gild
+  - q: What words refer to something used to decorate something?
+    words: decoration, adornment, embellishment, ornament

@@ -1,0 +1,19 @@
+code: "3.2.6.4"
+guid: 45E90D41-A462-4671-968F-92166378B3F0
+name: Remind
+description: >-
+  Use this domain for words referring to reminding someone about something--to make someone
+  remember something.
+questions:
+  - q: >-
+      What words refer to reminding someone of something they must do or something they
+      should know?
+    words: >-
+      remind, jog someone's memory, refresh someone's memory, prompt, be a reminder,
+      reminder
+  - q: >-
+      What words refer to reminding someone of a person or something that happened in the
+      past?
+    words: >-
+      remind, be a reminder, bring back memories, take someone back, drag up, rake up,
+      evoke, evocative, make someone think of

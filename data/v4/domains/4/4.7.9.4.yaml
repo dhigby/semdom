@@ -1,0 +1,12 @@
+code: "4.7.9.4"
+guid: F9516C66-AC2C-49DD-951A-0D3606450463
+name: Discriminate, be unfair
+description: Use this domain for words related to being unfair to someone.
+louwNidaCodes: 88D' Show Favoritism, Prejudice
+questions:
+  - q: What words refer to being unfair to someone?
+    words: discriminate, be unfair, biased, prejudiced
+  - q: What words refer to the act or practice of being unfair?
+    words: unfairness, discrimination, bias, prejudice
+  - q: What words refer to one person causing another to be unfair?
+    words: bias someone against, prejudice someone against

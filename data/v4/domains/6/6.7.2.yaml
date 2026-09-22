@@ -1,0 +1,9 @@
+code: "6.7.2"
+guid: 65C68427-2E20-42B2-8F49-623055EA9246
+name: Pounding tool
+description: Use this domain for words related to pounding tools.
+questions:
+  - q: What types of pounding tools are there?
+    words: hammer, mallet, club, pestle
+  - q: What words are used to describe the actions done with these tools?
+    words: pound, hit, smack, club

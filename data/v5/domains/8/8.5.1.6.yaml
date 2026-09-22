@@ -1,0 +1,14 @@
+code: "8.5.1.6"
+guid: D2001C9C-3C37-4910-8B8A-ADCFFC6FBF26
+name: Across
+description: >-
+  Use this domain for words that refer to a place on another side of something from the
+  reference point. 'Across' involves three things--the object, the reference point, and
+  something else in between the two.
+louwNidaCodes: 83G Opposite, Over Against, Across From, Offshore From; 83J Beyond, On the Other Side Of
+questions:
+  - q: What words indicate that something is across from something else?
+    words: >-
+      across, across from, on the other side of, on the opposite side of, beyond, offshore
+      from
+    sentence: The village was on the other side of the river from us.

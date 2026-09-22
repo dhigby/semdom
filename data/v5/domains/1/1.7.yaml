@@ -1,0 +1,20 @@
+code: "1.7"
+guid: AA57936D-F8A9-4603-8C3D-27ABCCD13531
+name: Nature, environment
+description: >-
+  Use this domain for words referring to nature and the environment--the world around us.
+  Include words that refer to how people damage or protect nature.
+ocmCodes: 318 Environmental Quality
+questions:
+  - q: What words refer to the world around us?
+    words: world, nature, environment, environmental
+  - q: What words refer to damaging the environment?
+    words: >-
+      pollute, pollution, pollutant, acid rain, smog, deforestation, global warming,
+      greenhouse effect
+  - q: What words refer to protecting the environment?
+    words: conserve, conservation, recycle, biodegradable
+  - q: What words refer to the study of the environment?
+    words: ecology
+  - q: What words refer to a person who studies or tries to protect the environment?
+    words: environmentalist, conservationist, ecologist, Green Party

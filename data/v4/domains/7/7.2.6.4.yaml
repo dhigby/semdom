@@ -1,0 +1,22 @@
+code: "7.2.6.4"
+guid: 28A68CEA-9128-4D5C-8542-8DF38C907310
+name: Set free
+description: Use this domain for words related to setting someone free.
+louwNidaCodes: 37J Release, Set Free
+related: ["3.3.4.5"]
+questions:
+  - q: What words refer to setting someone free?
+    words: >-
+      set someone free, let someone go, let someone out, release, free, deliver, discharge,
+      emancipate, excuse, liberate, loose, ransom, redeem, spring, unbind, unbridle,
+      unchain, unfetter, unhand, unharness, unleash, unshackle, untie, set at liberty
+  - q: What words refer to the act of setting someone free?
+    words: deliverance, liberation, redemption
+  - q: What words refer to the state of being free?
+    words: freedom, autonomy, independence, liberty
+  - q: What words refer to someone who sets someone free?
+    words: deliverer, liberator
+  - q: What words refer to someone who has been set free?
+    words: freedman
+  - q: What words describe someone who has been set free?
+    words: free, at liberty, be out

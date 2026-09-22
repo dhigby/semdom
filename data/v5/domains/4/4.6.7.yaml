@@ -1,0 +1,17 @@
+code: "4.6.7"
+guid: C8D94C8F-DB0B-4016-BDD2-E41A2EAE4288
+name: Region
+description: >-
+  Use this domain for words referring to a region--a part of a country, or a part of the
+  earth.
+ocmCodes: >-
+  630 Territorial Organization; 631 Territorial Hierarchy; 634 Districts; 635 Provinces; 636
+  Dependencies
+louwNidaCodes: 1K Sociopolitical Areas
+questions:
+  - q: What words refer to a region or a country?
+    words: region, land, territory, territorial
+  - q: What words refer to a particular region of the earth?
+    words: Antarctic, arctic, equatorial, tropics
+  - q: What words refer to a region of a country?
+    words: state, province, territory, prefecture, county, district

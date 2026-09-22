@@ -1,0 +1,18 @@
+code: "2.5.4.5"
+guid: 4A5C8FDB-C8A0-49D2-A0D6-342428682D65
+name: Birth defect
+description: Use this domain for words related to having a birth defect.
+ocmCodes: 143 Genetics
+questions:
+  - q: What words refer to something that is wrong with a baby?
+    words: birth defect, genetic defect, congenital abnormality, deformity
+  - q: What words describe a deformed baby?
+    words: deformed, abnormal, misshapen
+  - q: What words refer to a deformed baby?
+    words: freak
+  - q: What kinds of abnormalities are there?
+    words: >-
+      albino, bowlegged, flatfooted, humpbacked, withered arm, shrunken arm, harelip, cleft
+      palate, cerebral palsy, Downs syndrome, club-footed
+  - q: What words refer to giving birth to a deformed baby?
+    words: (no words in English)

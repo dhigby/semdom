@@ -1,0 +1,21 @@
+code: "2.6.6.4"
+guid: F2D0F288-5BBE-4FA0-9E8F-DDCC74891701
+name: Mourn
+description: >-
+  Use this domain for words related to mourning a death--to feel bad because someone died
+  and to show this feeling in various ways. Include whatever cultural practices are used.
+ocmCodes: 765 Mourning; 768 Social Readjustments to Death; 769 Cult of the Dead
+louwNidaCodes: 25L Laugh, Cry, Groan x
+questions:
+  - q: What words refer to mourning a death?
+    words: grieve, be in mourning, mourn, lament, bemoan, mourning, lamentation, grief, sorrow
+  - q: What noises do people make to show they are mourning?
+    words: bewail, crying, groan, moan, sigh, wail, weep
+  - q: What special music is played?
+    words: death chant, dirge, funeral march
+  - q: What words refer to someone who is mourning?
+    words: mourner
+  - q: What special clothes are worn?
+    words: dress in black, funeral clothes, black veil
+  - q: What do people do to show they are mourning?
+    words: beat their breast, tear their clothes, shave their head, put ashes on their head

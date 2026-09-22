@@ -1,0 +1,11 @@
+code: "5.2.3.5"
+guid: 2EBA12C6-7817-4DFD-9E7C-94C8B8B389EF
+name: Prohibited food
+description: >-
+  Use this domain for words that describe food that is prohibited by the culture or
+  religion. Do not list the foods that are prohibited.
+questions:
+  - q: What words describe food that is prohibited?
+    words: prohibited food, taboo food, unclean
+  - q: What words describe food that is not prohibited?
+    words: kosher

@@ -1,0 +1,21 @@
+code: "1.1.3.2"
+guid: 5B12EA7B-790F-4F3E-8D07-893FC267773E
+name: Cloud
+description: Use this domain for words related to the clouds.
+louwNidaCodes: 1E Atmospheric Objects
+questions:
+  - q: What words refer to a cloud?
+    words: cloud
+  - q: What do clouds do?
+    words: >-
+      rain, build, rise, gather, disperse, billow, blow, blown by the wind, move across the
+      sky, threatening, shadow, obscure, hide (the sun)
+  - q: What words describe different kinds of clouds?
+    words: >-
+      storm clouds, rain cloud, cumulus, thunderhead, anvil shaped, billowing, nimbus,
+      fluffy, cirrus, wispy, vapor trail, haze, hazy, fog, foggy, mist, misty, steam, vapor,
+      band, smog, fume, cloud of smoke
+  - q: What words describe how many clouds are in the sky?
+    words: >-
+      cloudy, cloud up, cloud cover, be clouded over, overcast, partly cloudy, scattered
+      clouds, gray, dull, foggy

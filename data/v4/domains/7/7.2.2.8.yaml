@@ -1,0 +1,12 @@
+code: "7.2.2.8"
+guid: 3C9FE647-2647-4F43-8BAC-7FACC054F7FF
+name: Move back and forth
+description: Use this domain for words related to moving back and forth.
+louwNidaCodes: 16 Non-Linear Movement
+questions:
+  - q: What words refer to moving back and forth?
+    words: move back and forth, rock, rock back and forth, wave, swing
+  - q: What words refer to something moving back and forth quickly?
+    words: flutter, shake, quiver, tremble
+  - q: What words refer to shaking oneself?
+    words: shake, shiver, wiggle, wriggle, squirm, writhe

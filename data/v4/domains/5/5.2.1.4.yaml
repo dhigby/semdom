@@ -1,0 +1,13 @@
+code: "5.2.1.4"
+guid: 1B399FA1-E4F7-4D7B-A33E-3972B8B556E2
+name: Food storage
+description: Use this domain for words referring to food preservation and storage.
+questions:
+  - q: What words refer to preserving food?
+    words: preserve
+  - q: What methods and materials are used to preserve food?
+    words: dry, salt, preservative
+  - q: What words refer to storing food?
+    words: store, save, leftovers
+  - q: What containers are used to store food?
+    words: container, jar, bottle, canister, spice rack, flour sack, bag, granary

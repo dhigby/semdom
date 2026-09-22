@@ -1,0 +1,20 @@
+code: "4.1.9.8"
+guid: A781D57D-174D-47A6-B6A1-AE635A13DF84
+name: Family, clan
+description: Use this domain for words that refer to social groups composed of related people.
+ocmCodes: >-
+  590 Family; 144 Racial Identification; Racial Affinities; 591 Residence; 592 Household;
+  593 Family Relationships; 594 Nuclear Family; 595 Polygamy; 596 Extended Families; 610 Kin
+  Groups; 611 Rule of Descent; 612 Kindreds and Ramages; 613 Lineages; 614 Clans; 615
+  Phratries; 616 Moieties; 617 Bilineal Kin Groups; 618 Localized Kin Groups; 619 Tribe and
+  Nation
+louwNidaCodes: 11D Ethnic-Cultural
+questions:
+  - q: What words refer to your father, mother, and siblings?
+    words: family, nuclear family
+  - q: What words refer to the people who live in your house?
+    words: household
+  - q: What words refer to groups of people who are related to you?
+    words: tribe, tribal, clan, race
+  - q: What words describe something about your family?
+    words: family, domestic, run in the family

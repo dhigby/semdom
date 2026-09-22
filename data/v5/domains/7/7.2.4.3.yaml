@@ -1,0 +1,15 @@
+code: "7.2.4.3"
+guid: 75EB23C7-28B5-4C98-937A-1D8F371B24CF
+name: Fly
+description: Use this domain for words related to traveling by air.
+ocmCodes: 507 Aviation; 506 Aircraft; 508 Airport Facilities; 509 Air Transport
+louwNidaCodes: 15G' Fly
+questions:
+  - q: What words refer to traveling by air?
+    words: travel by air, fly, aviation
+  - q: What types of airplanes are there?
+    words: airplane, plane, aircraft, balloon, glider, kite
+  - q: What words refer to a person who flies an airplane?
+    words: pilot
+  - q: Where do airplanes land?
+    words: airport, runway, airstrip, landing field

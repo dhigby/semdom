@@ -1,0 +1,11 @@
+code: "6.8.1.5"
+guid: 3022C764-BA88-41D0-94DB-393312214F4E
+name: Possession, property
+description: Use this domain for words related to property--the things you own.
+ocmCodes: 422 Property in Movables; 423 Real Property; 424 Incorporeal Property
+louwNidaCodes: 57D Treasure
+questions:
+  - q: What words refer to something that is owned?
+    words: possession
+  - q: What words refer to the things you own?
+    words: property, wealth, riches, belongings, real estate

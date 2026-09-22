@@ -1,0 +1,14 @@
+code: "3.3.2.4"
+guid: 6B19E828-F597-4D0D-B7A6-F52F3BBD041F
+name: Willing
+description: Use this domain for words related to being willing to do something.
+louwNidaCodes: 25E Be Willing
+related: ["3.4.1.4.2"]
+questions:
+  - q: What words refer to being willing to do something?
+    words: >-
+      willing, acquiescent, agreeable, compliant, disposed, fain, free, game, kindly,
+      morale, offer, readily, ready, ungrudging, volition, volitional, voluntary, volunteer,
+      will, willful
+  - q: What words refer to being unwilling to do something?
+    words: unwilling, unwillingness, forced, grudging, involuntary, loath, pressured, reluctant

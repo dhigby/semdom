@@ -1,0 +1,33 @@
+code: "7.5.4"
+guid: 9B267CC1-983C-407A-98D2-1E27ADD6292C
+name: Tie
+description: Use this domain for words related to tying things together.
+louwNidaCodes: 18 Attachment; 18B Fasten, Stick To
+related: ["6.6.4.1"]
+questions:
+  - q: What words refer to tying things together?
+    words: >-
+      tie, tie together, tie up, bind, cinch, gird, hitch, lash, moor, rope together,
+      tether, truss, wind
+  - q: What words refer to tying a knot?
+    words: tie a knot, knot a rope, braid
+  - q: What words refer to tying up a person?
+    words: tie up, bind hand and foot, shackle
+  - q: What words refer to a knot or a particular kind of knot?
+    words: knot, braid, lashing, hitch, square knot, slip knot, two half hitches
+  - q: What words refer to a group of things that have been tied up?
+    words: bundle, package, packet, parcel
+  - q: What words describe things that have been tied?
+    words: tied, bound, lashed, moored, tethered
+  - q: What words refer to tying something tightly?
+    words: bind tightly, cinch up, tighten, truss up
+  - q: What words describe something that has been tied tightly?
+    words: taut, tight, tightly, strain, stretched
+  - q: What words describe something that has been tied loosely?
+    words: loose, loosely, slack, give it some slack
+  - q: What words refer to untying something?
+    words: untie, be untied, take off the rope, undo
+  - q: What words refer to something becoming untied by accident?
+    words: come untied, come loose
+  - q: What words refer to tying something a second time after it has come untied?
+    words: retie

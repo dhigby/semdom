@@ -1,0 +1,13 @@
+code: "9.4.2.1"
+guid: 59D936F3-DFFB-4585-80E0-EAF6CD6A8026
+name: Can
+description: Use this domain for words indicating that someone can do something.
+louwNidaCodes: 74 Able, Capable
+questions:
+  - q: What words indicate that someone is able to do something?
+    words: can, know how to, be able to, have the ability to, capable
+    sentence: John <can> drive a car.; John <knows how> to drive a car.
+  - q: What words refer to the ability of someone to do something?
+    words: ability, capability, prowess
+  - q: What words indicate that someone is not able to do something?
+    words: inability, unable, incapable

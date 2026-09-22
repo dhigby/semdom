@@ -1,0 +1,7 @@
+code: "6.1.2.9"
+guid: A7568031-43E3-4CF9-B162-AC2FE74125F1
+name: Opportunity
+description: Use this domain for words related to an opportunity to do something.
+questions:
+  - q: What words refer to an opportunity to do something?
+    words: opportunity, chance, opening, occasion

@@ -1,0 +1,15 @@
+code: "4.5.3.1"
+guid: F70907C6-A064-425A-830F-E669319C38DA
+name: Lead
+description: >-
+  Use this domain for words referring to one person leading or controlling other people
+  because they have authority over them.
+louwNidaCodes: 36 Guide, Discipline, Follow; 36A Guide, Lead
+related: ["7.3.3", "7.2.5.3"]
+questions:
+  - q: What words refer to leading?
+    words: lead, direct, control, guide
+  - q: What words refer to the ability to lead?
+    words: leadership, charisma, stewardship, guidance, chieftainship
+  - q: What words refer to someone who leads?
+    words: leader

@@ -1,0 +1,34 @@
+code: "9.4.7"
+guid: 1DE2CEF5-3A2D-45C1-8CB6-06B2AC087907
+name: Subordinating particles
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate a
+  subordinate clause. The following definitions are taken from Bybee, Joan, Revere Perkins,
+  and William Pagliuca. 1994. The evolution of grammar. Chicago and London: University of
+  Chicago Press.
+questions:
+  - q: >-
+      subordinating: Often there are special verb forms or morphemes associated with the
+      verb that occur obligatorily in subordinate clauses of certain types. The extent to
+      which such morphemes can be said to have "meaning" varies, since they often co-occur
+      with other markers of subordination. Their function is primarily to signal the type of
+      subordinate clause.
+  - q: >-
+      Complement clauses: A main verb may take as its direct object a clause. These are
+      often referred to as "Noun clauses" or "Noun complements". The verb form of the
+      subordinate clause is usually determined by the semantics of the main verb, so in this
+      case, our meaning labels will just refer to the context. If a verb form occurs in the
+      complements to words of thinking and believing, the meaning label will be complement
+      to words of thinking and believing.
+  - q: complement to words of thinking
+  - q: complement to words of believing
+  - q: complement to words of saying
+  - q: complement to words of ordering (in English we use an infinitive with these words)
+  - q: complement to words of wanting (again in English these are done with infinitives)
+  - q: >-
+      complement to words of emotion (surprise, regret, happiness, sadness, etc.; the
+      complement proposition is presupposed to be true)
+  - q: complement to words of obligation
+  - q: complement to words of admonition
+  - q: 'subsequent: following a reference time in the past.'
+  - q: 'subordinator: marker indicates that the verb is in a subordinate clause. '

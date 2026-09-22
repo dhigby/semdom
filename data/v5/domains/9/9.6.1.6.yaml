@@ -1,0 +1,12 @@
+code: "9.6.1.6"
+guid: D8DFA6FC-84EA-4178-B4F5-95E0C113140A
+name: Dissociation
+description: >-
+  Use this domain for words indicating a dissociation relation between two things or
+  propositions.
+louwNidaCodes: 89U Dissociation
+questions:
+  - q: What words indicate dissociation?
+    words: >-
+      without, not with, no relationship to, apart from, independent of, from, free from,
+      separated from

@@ -1,0 +1,9 @@
+code: "8.3.1.1"
+guid: 6FFE33FE-B49C-45C8-A50B-CD0065C0C869
+name: Point, dot
+description: >-
+  Use this domain for words referring to a point--a small mark such as might be made by a
+  pointed object.
+questions:
+  - q: What words refer to a point?
+    words: point, dot, polka dot, spot, pinpoint, speck, mote, jot, iota, fleck, period

@@ -1,0 +1,9 @@
+code: "6.2.4.1"
+guid: 32F868E0-54A7-4D04-8689-AC10E13396E5
+name: Cut grass
+description: Use this domain for words related to cutting grass.
+questions:
+  - q: What words refer to cutting grass?
+    words: cut grass, mow, scythe, clip
+  - q: What tools are used to cut grass?
+    words: machete, sickle, scythe, lawnmower, grass clippers

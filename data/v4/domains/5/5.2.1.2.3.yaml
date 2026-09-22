@@ -1,0 +1,13 @@
+code: "5.2.1.2.3"
+guid: AC7DE73D-0059-4F35-9317-462A1813EDBA
+name: Grind flour
+description: Use this domain for words related to grinding flour.
+questions:
+  - q: What words refer to grinding flour?
+    words: grind, mill
+  - q: What words refer to the grain before it is ground?
+    words: grain
+  - q: What words refer to the flour after it is ground?
+    words: flour, wheat flour, corn flour, millet flour
+  - q: What tools are used to grind flour?
+    words: mill, flour mill, grind stone, millstone, grinder, grinding mill, flour sack

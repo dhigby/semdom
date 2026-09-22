@@ -1,0 +1,17 @@
+code: "4.3.5.3"
+guid: 99EE1558-34B2-4A1B-BFD2-EB4CCBFE7728
+name: Reliable
+description: >-
+  Use this domain for words related to being reliable--words describe a person who can be
+  relied on to do what he is supposed to.
+questions:
+  - q: What words describe someone who is reliable?
+    words: reliable, responsible, faithful, honest
+  - q: What words refer to a reliable person?
+    words: man of his word
+  - q: What words refer to being reliable?
+    words: keep your word, keep your promise
+  - q: What words refer to the quality of being reliable?
+    words: integrity
+  - q: What words refer to relying on someone to do something?
+    words: rely on, depend on

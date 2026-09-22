@@ -1,0 +1,20 @@
+code: "8.3.1.4.1"
+guid: B8DF8589-D03C-4E6D-BBEB-4F24FBF6A1DC
+name: Vertical
+description: >-
+  Use this domain for words describing a vertical orientation in relation to the ground. A
+  person is vertical when he is standing.
+related: ["7.1.1"]
+questions:
+  - q: What words describe something in a vertical position?
+    words: >-
+      vertical, upright, up-and-down, plumb, erect, upraised, perpendicular, at right
+      angles, square, standing, true, straight, straight up, bolt upright
+  - q: What words refer to making something vertical?
+    words: raise, stand something up, stand something on end, erect, set up, rear
+  - q: What words describe a surface that is vertical?
+    words: sheer, drop (n)
+  - q: What words describe when the top of something is on the bottom?
+    words: upside down, inverted, upended
+  - q: What tools are used to determine if something is vertical?
+    words: plumb line, level, square

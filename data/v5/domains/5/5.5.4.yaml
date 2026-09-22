@@ -1,0 +1,32 @@
+code: "5.5.4"
+guid: 2933A9C1-AA62-46FB-A03C-68AED7FAE9B7
+name: Burn
+description: >-
+  Use this domain for verbs that are used of fire: "The fire is ____." In some languages
+  there are verbs for what is happening to the thing that is burning: "The house is ____."
+louwNidaCodes: 14H Burning
+questions:
+  - q: What words refer to a fire burning?
+    words: burn
+  - q: What words describe a fire that is burning well?
+    words: blaze, ablaze, burn fiercely, burn brightly, burn hot
+  - q: What words describe a fire that is not burning well?
+    words: die down, smolder
+  - q: What words describe a fire that starts to burn again after having died down?
+    words: flare up, flame up
+  - q: What words describe the appearance of fire?
+    words: flicker, dance, glow
+  - q: What words refer to a fire burning something?
+    words: burn something
+  - q: What words refer to something burning partly?
+    words: blacken, scorch, singe
+  - q: What words refer to something burning completely?
+    words: >-
+      burn up, burn down, burn to the ground, consume, incinerate, destroy by fire, reduce
+      to ashes
+  - q: What words refer to a fire making something hot?
+    words: to heat something, to warm something
+  - q: What words refer to something burning?
+    words: be burning, go up in flames, go up in smoke, be in flames
+  - q: What words describe something that has been burned?
+    words: burnt

@@ -1,0 +1,19 @@
+code: "4.1.3"
+guid: 469B0A30-3C26-4CFD-B948-7BB952EEFF41
+name: Know someone
+description: Use this domain for words referring to knowing someone.
+questions:
+  - q: What words refer to knowing someone?
+    words: know someone
+  - q: What words refer to knowing someone, but not knowing him well?
+    words: >-
+      know someone by sight, be acquainted with, be acquaintances, don't know well, we've
+      met
+  - q: What words refer to starting to know someone after you have met them?
+    words: get to know, get acquainted
+  - q: What words refer to someone you know, who is not a friend?
+    words: acquaintance, casual acquaintance
+  - q: What words refer to knowing about someone, whom you have not met?
+    words: >-
+      know someone's name, know of someone, have heard the name, have heard of someone, have
+      heard about someone

@@ -1,0 +1,39 @@
+code: "6.1.2.1"
+guid: 3393B3B2-B324-408D-9C59-057A0DE9C3BD
+name: Try, attempt
+description: Use this domain for words indicating that someone is trying to do something.
+louwNidaCodes: 68E Try, Attempt
+questions:
+  - q: What words refer to trying to do something?
+    words: >-
+      try, attempt, make an attempt, experiment, test, make a stab at it, give it a go, try
+      it out, see if it works, make an effort, aim to do something, assay, endeavor, essay,
+      seek to do something, strain, struggle, undertake, venture, give it a whirl, have a
+      try, try and do something, see if you can do something
+    sentence: John <tried> to bake bread.
+  - q: What words refer to trying hard to do something?
+    words: >-
+      do your best, try your best, put your mind to it, make an effort, be at pains to do
+      something, strive, to the best of your ability, do the best you can, as best you can,
+      give something your best
+    sentence: John is <striving> to earn enough money to buy a bicycle.
+  - q: What words refer to doing all you can when you are trying to do something?
+    words: >-
+      try for all your worth, do your utmost, do everything you can, do all you can, give
+      your all, pull out all the stops, struggle to do something, go to great lengths to do
+      something
+  - q: What words refer to trying to do something, even though you are unlikely to succeed?
+    words: have a go, have a stab at, give it a go, put up a good show
+  - q: What words refer to trying hard to get something that you really want?
+    words: >-
+      try for, go for, try out for, shoot for, make a bid for, struggle for, go all out, go
+      after
+  - q: What words refer to trying hard to do something for someone?
+    words: >-
+      bend over backwards to do something, go out of your way to do something, take the
+      trouble to do something
+  - q: What words refer to doing something in order to try to do something else?
+    words: try and do something, in an effort to do something, in an attempt to do something
+  - q: What words refer to an attempt to do something?
+    words: attempt (n), endeavor (n), try (n), campaign, drive
+    sentence: The <attempt> was unsuccessful.

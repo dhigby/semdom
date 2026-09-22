@@ -1,0 +1,19 @@
+code: "6.6.2.6"
+guid: 3F6DC9AF-0C50-44D5-99F0-4AA67C668186
+name: Working with oil and gas
+description: Use this domain for words related to working with oil and gas.
+ocmCodes: 315 Oil and Gas Wells
+related: ["1.2.3.2", "1.2.3.3"]
+questions:
+  - q: What words refer to working with oil and gas?
+    words: petroleum industry, oil company
+  - q: What words refer to drilling for oil and gas?
+    words: drill for oil, extract, strike oil, gusher
+  - q: What words refer to an oil or gas well?
+    words: oil well, gas well, oil field
+  - q: What words refer to refining oil?
+    words: refine
+  - q: What tools and machines are used for working with oil and gas?
+    words: oil rig, oil platform, refinery
+  - q: What tools and machines are used for moving oil and gas?
+    words: pipeline, pump, oil tanker, tank, tanker truck

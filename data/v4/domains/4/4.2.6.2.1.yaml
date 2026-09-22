@@ -1,0 +1,33 @@
+code: "4.2.6.2.1"
+guid: 6187E620-89BD-4B9D-9896-0C0C788E7740
+name: Football, soccer
+description: >-
+  Use this domain for words related to a particular sport. The example words are from the
+  sport of football (also called soccer). If you do not play football in your culture, you
+  can rename this domain and use it for one of your sports. Add other domains for each of
+  your sports.
+questions:
+  - q: What is the sport called?
+    words: football, soccer
+  - q: What words refer to a game?
+    words: match
+  - q: What are the parts of a game?
+    words: half
+  - q: What is a person called who participates in the game?
+    words: forward, fullback, goalie, guard, halfback, striker, sweeper, wing
+  - q: What is a group of players called?
+    words: team
+  - q: What is a group of teams called?
+    words: league
+  - q: What is the leader of a team called?
+    words: coach, to coach a team, captain, to captain a team
+  - q: What is the staff of a team called?
+    words: coach, referee
+  - q: What do the players do?
+    words: pass, score
+  - q: What equipment is used in the game?
+    words: net, ball
+  - q: What is the place called where the game is played?
+    words: field
+  - q: What are the parts of a playing area?
+    words: line, out of bounds

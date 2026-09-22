@@ -1,0 +1,35 @@
+code: "3.4.1.2.2"
+guid: 9351D5B6-5A87-422A-9E82-CA6A0BACD3E9
+name: Calm
+description: Use this domain for words related to feeling calm.
+questions:
+  - q: What words refer to feeling calm?
+    words: feel calm, be at peace
+  - q: What words refer to the feeling of calm?
+    words: >-
+      calm (n), composure, presence of mind, equanimity, peace, placidity, poise, repose,
+      serenity, tranquility
+  - q: What words describe someone who feels calm?
+    words: >-
+      calm (adj), calmly, collected, composed, cool, dispassionate, peaceful, phlegmatic,
+      quiescent, sedate, serene, staid, steady, tranquil, unruffled, not fazed
+  - q: What words refer to causing someone to feel calm?
+    words: calm someone, calm someone down, soothe
+  - q: What words refer to something that causes someone to feel calm?
+    words: calming influence, tranquilizer
+  - q: What words describe something that causes someone to feel calm?
+    words: calming
+  - q: What words refer to remaining calm in a difficult situation?
+    words: >-
+      keep your cool, keep your head, keep a stiff upper lip, maintain your composure,
+      imperturbable, untroubled
+  - q: What words describe a person who is usually calm?
+    words: placid, even-tempered, laid-back
+  - q: What words describe a calm place?
+    words: calm, quiet, peaceful
+  - q: What words refer to becoming calm?
+    words: >-
+      calm down, cool down, cool off, compose yourself, steady your nerves, relax, quiet
+      down
+  - q: What do you say to someone when you want them to be calm?
+    words: Cool it. Take it easy. Calm down.

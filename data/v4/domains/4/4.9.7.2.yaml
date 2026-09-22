@@ -1,0 +1,15 @@
+code: "4.9.7.2"
+guid: 1229DD8F-5CFC-4644-93C3-D256FC34D054
+name: Christianity
+description: Use this domain for words used in Christianity.
+questions:
+  - q: What words are used to talk about Christianity?
+    words: >-
+      Christian, Christianity, Jesus Christ, the Virgin Mary, the Trinity, the Father, the
+      Son of God, the Holy Spirit, Lord, cross, crucify, crucifixion, resurrection, Bible,
+      Biblical, Scripture, Old Testament, New Testament, Gospel, apostle, church, chapel,
+      churchgoer, priest, vicar, minister, pastor, service, Communion, Mass, sacrament,
+      baptize, baptism, christen, christening, Christian name, confession, Christmas, Good
+      Friday, Easter, crucifix, make the sign of the cross, saint, patron saint, Roman
+      Catholic, Catholic, Pope, papal, Orthodox Church, Reformation, Protestant Church,
+      Protestant, Anglican, Baptist, Methodist, Lutheran, Presbyterian

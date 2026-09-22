@@ -1,0 +1,13 @@
+code: "5.4.3.5"
+guid: 9C21F9BD-A7E0-4989-99F1-7FA2853AB73C
+name: Cut hair
+description: Use this domain for words related to cutting hair.
+questions:
+  - q: What words refer to cutting hair?
+    words: cut, trim, haircut, barber, scissors, haircutter
+  - q: What words refer to a person who cuts hair?
+    words: barber, hairdresser
+  - q: What words refer to a place where hair is cut?
+    words: barbershop, hair salon
+  - q: What tools are used to cut hair?
+    words: scissors, haircutter, shears

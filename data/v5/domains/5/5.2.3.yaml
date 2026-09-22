@@ -1,0 +1,13 @@
+code: "5.2.3"
+guid: 5BCD08A6-CB46-41BB-A732-0D690B5EA596
+name: Types of food
+description: Use this domain for words related to types of food.
+questions:
+  - q: What words refer to major types of food?
+    words: >-
+      cereal, staple, meat, fruit, vegetable, salad, raw food, cooked food, condiment, main
+      dish, side dish
+  - q: What words describe whether something can be eaten or not?
+    words: edible, inedible
+  - q: What words describe food?
+    words: tender, tough, crisp, crispy, raw, stale, fresh

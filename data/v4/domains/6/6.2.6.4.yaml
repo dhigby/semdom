@@ -1,0 +1,15 @@
+code: "6.2.6.4"
+guid: CEEDCE41-CDEF-4766-9C5E-8FF5608C5464
+name: Store the harvest
+description: Use this domain for words related to storing the harvest.
+ocmCodes: >-
+  253 Meat Packing Industry; 254 Refrigeration Industry; 255 Canning Industry; 256 Cereal
+  Industry; 257 Confectionery Industries; 258 Miscellaneous Food Processing and Packing
+  Industries
+questions:
+  - q: What words refer to storing the harvest?
+    words: >-
+      store the harvest, store food, put in sacks, tie together, heap of grain, haystack,
+      sheaf of grain
+  - q: What buildings and containers are used to store the harvest?
+    words: barn, granary, silo, grain sack

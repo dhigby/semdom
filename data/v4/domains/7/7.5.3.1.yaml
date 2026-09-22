@@ -1,0 +1,23 @@
+code: "7.5.3.1"
+guid: 9B158C9E-9BA5-4BE2-A9A1-77EF888A3B06
+name: Pure, unmixed
+description: >-
+  Use this domain for words related to being pure--words describing something (like water,
+  food, or air) that does not have anything bad in it; or unmixed--words describing
+  something that is only one thing and has not been mixed with something else.
+louwNidaCodes: 79T Pure, Unadulterated, Undiluted
+questions:
+  - q: What words describe something that is pure?
+    words: >-
+      pure, pristine, sheer, solid, unadulterated, unblended, uncombined, uncompounded,
+      undiluted, unmixed, unpolluted, untainted, 100%
+  - q: What words refer to something that is pure?
+    words: element
+  - q: What words describe something that is not pure?
+    words: impure, adulterated, mixed, polluted, tainted, diluted
+  - q: What words refer to making something pure by removing other things from it?
+    words: purify, distill, refine
+  - q: What words refer to making something impure by adding something bad to it?
+    words: adulterate, contaminate, pollute
+  - q: What words refer to something bad that has been adding to something?
+    words: impurity, contaminant, pollutant, pollution

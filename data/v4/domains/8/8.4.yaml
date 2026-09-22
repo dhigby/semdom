@@ -1,0 +1,16 @@
+code: "8.4"
+guid: 21167445-F1B1-49B4-B147-BC792616C432
+name: Time
+description: >-
+  Use this domain for general words related to time, and for words indicating the temporal
+  location of an event.
+ocmCodes: 805 Ordering of Time
+louwNidaCodes: 67 Time
+questions:
+  - q: What general words refer to time?
+    words: time, temporal
+  - q: What words indicate that something is happening at some time?
+    words: when, upon, thereupon, then, at, be at, be on, -'s, time
+    sentence: >-
+      The meeting <is at> four o'clock.; John stopped for lunch <at> noon.; The game <is on>
+      Saturday.; Saturday<'s> game; <The time of> the meeting <will be> four o'clock.

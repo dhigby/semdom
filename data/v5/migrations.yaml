@@ -1,0 +1,22 @@
+# Advisory v4 -> v5 re-tagging guide.
+#
+# Re-tagging is ALWAYS advisory: a v4 tag never becomes invalid, because a domain
+# number's meaning can never change (docs/PRINCIPLES.md). This file only tells a
+# dictionary maintainer where a sense would sit more precisely in v5.
+#
+# This was previously generated into a gitignored directory and never published at
+# all, even though it is the one artifact downstream FieldWorks users actually need
+# in order to act on a new version. It is now source data and is published with the
+# site.
+
+- from: "2.6.2.3"
+  to: "2.6.2.4"
+  condition: >-
+    Senses about same-sex attraction or relations previously tagged 2.6.2.3 Q18
+    should be re-tagged 2.6.2.4.
+
+- from: "2.6.2.3"
+  to: "2.6.2.5"
+  condition: >-
+    Rape (Q17), child sexual abuse (Q19), and marital sexual abuse (Q5) previously
+    tagged 2.6.2.3 should be re-tagged 2.6.2.5.

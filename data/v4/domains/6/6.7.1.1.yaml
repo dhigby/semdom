@@ -1,0 +1,9 @@
+code: "6.7.1.1"
+guid: A3BC1FBD-9F2F-4A9D-AE6E-7B02DA8A05B4
+name: Poking tool
+description: Use this domain for words related to poking tools--tools used to make holes in things.
+questions:
+  - q: What words refer to tools used for poking holes in things?
+    words: awl, drill, punch, pin
+  - q: What words are used to describe the actions done with these tools?
+    words: poke, dig, jab, pierce, prick, stick

@@ -1,0 +1,9 @@
+code: "4.4.3.3"
+guid: 20FADD54-6CEC-4BB3-A47C-66C29AAFF227
+name: Avoid
+description: >-
+  Use this domain for words related to avoiding something bad, such as trouble or someone
+  you don't want to meet.
+questions:
+  - q: What words refer to avoiding trouble?
+    words: avoid trouble, avoid adversity, retreat, appease, to run away

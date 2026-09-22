@@ -1,0 +1,11 @@
+code: "1.6.1.1.8"
+guid: 2C322D8B-D762-43CE-B905-AAB41F9C7BBB
+name: Bat
+description: >-
+  Use this domain for bats--flying mammals (phylum Chordata, class Mammalia, order
+  Chiroptera).
+questions:
+  - q: What general words refer to bats?
+    words: bat
+  - q: What types of bats are there?
+    words: fruit bat, vampire bat

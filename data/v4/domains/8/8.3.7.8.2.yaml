@@ -1,0 +1,13 @@
+code: "8.3.7.8.2"
+guid: DE7B8DF5-83A7-4456-A63A-1075FF17DBAF
+name: Blemish
+description: >-
+  Use this domain for words related to a blemish--something small and bad on the skin of a
+  person or the surface of something, but not something serious, especially something wrong
+  that does not affect how something works.
+louwNidaCodes: 79L Blemished, Unblemished
+questions:
+  - q: What words refer to a blemish in something?
+    words: blemish, blot, dapple, excrescence, freckle, mole, pimple, speck, speckle, small fault
+  - q: What words describe something that has a blemish on it?
+    words: blemished, defaced, marred

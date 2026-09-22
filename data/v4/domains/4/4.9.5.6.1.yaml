@@ -1,0 +1,14 @@
+code: "4.9.5.6.1"
+guid: 24361BE2-49BE-4860-BB56-4E46DD1E8B0C
+name: Taboo
+description: >-
+  Use this domain for words referring to things that are taboo--something to be avoided; a
+  religious, social, or cultural restriction on behavior, as opposed to a government law.
+ocmCodes: 784 Avoidance and Taboo
+questions:
+  - q: What words refer to a cultural restriction on behavior?
+    words: taboo, prohibition
+  - q: What words refer to making something taboo?
+    words: make taboo, forbid, prohibit, ban
+  - q: What words describe something that is taboo?
+    words: taboo, forbidden, prohibited, untouchable, inviolable, banned, off-limits, avoided

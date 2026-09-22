@@ -1,0 +1,16 @@
+code: "7.1.8"
+guid: 85DFC6A3-6C70-41F2-A869-32E2FB3C40EE
+name: Bend down
+description: >-
+  Use this domain for words referring to bending down--to bend your body so that it is
+  closer to the ground (in order to see something, pick up something, or hide).
+louwNidaCodes: 17H Bend Over, Straighten Up x
+questions:
+  - q: What words refer to bending down?
+    words: >-
+      bend, bend down, bend over, bob, bow, cower, crouch, double up, duck, get down, hunch,
+      hunker down, lean over, scrunch, stoop
+  - q: What words describe someone who is bent over?
+    words: bent, stooped, hunched over, humpback, crooked
+  - q: What words refer to straightening up?
+    words: straighten up, rear up

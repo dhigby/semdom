@@ -1,0 +1,14 @@
+code: "4.7.5.5"
+guid: CA511A0C-5628-4726-8A6E-AA9FA3B73BFC
+name: Witness, testify
+description: Use this domain for words related to testifying in a court of law.
+louwNidaCodes: 33T Witness, Testify
+questions:
+  - q: What words refer to testifying in a court?
+    words: >-
+      witness, testify, give evidence, tell about, recount, provide information, facts,
+      truth, false witness, perjure, perjury, report, cross-examine, hearsay
+  - q: What is a person called who gives testimony?
+    words: witness
+  - q: What words refer to a witness lying?
+    words: false testimony, perjury

@@ -1,0 +1,21 @@
+code: "9.4.4.6.2"
+guid: E0B00A13-8648-4635-AFE5-0BE3C0B6A05C
+name: Maybe
+description: >-
+  Use this domain for words that a speaker uses to indicate that he thinks it is possible
+  that something may happen or be true, but he isn't certain.
+related: ["6.1.3.1", "6.1.3"]
+questions:
+  - q: What words indicate that maybe something may happen or is true?
+    words: >-
+      maybe, perhaps, may, might, it is possible, possibly, could, who knows?, there's a
+      chance, you never know, conceivably
+    sentence: >-
+      <It is possible that> he will come.; He <could> come.; He <might> come.; He <may>
+      come.; <Maybe> he will come.
+  - q: >-
+      What words indicate that the speaker is guessing about a number or amount, but is not
+      certain?
+    words: maybe, perhaps, possibly
+  - q: What words indicate that the speaker is not certain about a suggestion, plan, or idea?
+    words: maybe, perhaps

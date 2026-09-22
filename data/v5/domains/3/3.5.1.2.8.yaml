@@ -1,0 +1,14 @@
+code: "3.5.1.2.8"
+guid: 49CD2C20-098A-46D9-9E47-6BF109308793
+name: Emphasize
+description: >-
+  Use this domain for words related to emphasizing something--to say something in a way that
+  other people know that you think this thing is important.
+questions:
+  - q: What words refer to the placing of importance on something?
+    words: emphasize, stress
+  - q: What words refer to the importance placed on something?
+    words: emphasis, stress, importance
+    sentence: The <emphasis> is on efficiency.
+  - q: What words describe something that is emphasized?
+    words: important, stand out, be conspicuous, be prominent

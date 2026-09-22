@@ -1,0 +1,14 @@
+code: "4.8.4.8.1"
+guid: 9E2B0C61-304E-4CAD-9708-792BFDE880B4
+name: Stop fighting
+description: Use this domain for words related to stopping fighting.
+questions:
+  - q: What words refer to stopping fighting?
+    words: >-
+      stop fighting, cease hostilities, end adversity, make peace, make amends, apologize,
+      apology, reconcile, reconciliation, make up, disengage, settle, peace offering,
+      pacify, appease, quell, tranquilize, neutralize, harmonize, harmonious
+  - q: What words refer to talking about stopping fighting?
+    words: negotiate, negotiations, entreat
+  - q: What words refer to an agreement to stop fighting?
+    words: ceasefire, truce, armistice, peace treaty

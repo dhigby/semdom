@@ -1,0 +1,17 @@
+code: "9.1.1"
+guid: A72CA6F7-E389-408A-8276-FEC4D60A3A56
+name: Be
+description: >-
+  Many languages have general words that indicate some kind of state. These general words
+  may be used with a wide variety of specific meanings. For instance in English the word
+  'be' may be used to identify something, describe something, and many other ideas.
+louwNidaCodes: 13A State
+questions:
+  - q: What words refer to something being something?
+    words: be, represent, amount to, form, make, constitute
+    sentence: Your idea <is> good.
+  - q: What words indicate that something is being identified?
+    words: is
+    sentence: John <is> our new leader.; This <is> a pine tree.
+  - q: What words indicate that a group of things is something?
+    words: make up, form, constitute, add up to

@@ -1,0 +1,13 @@
+code: "5.2.3.3.3"
+guid: BF0B24D2-4BD6-4E9C-8775-A623ACE8DB56
+name: Spice
+description: Use this domain for spices--things that are added to food to make them taste better.
+questions:
+  - q: What general words refer to spice?
+    words: spice, flavoring, seasoning
+  - q: What types of spices are there?
+    words: pepper, curry, oregano, thyme, cinnamon, bay leaf, parsley, nutmeg, mint, cumin
+  - q: What words refer to adding spice to food?
+    words: spice, flavor, season
+  - q: What words describe food to which spice has been added?
+    words: spicy, flavorful, seasoned

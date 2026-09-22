@@ -1,0 +1,23 @@
+code: "9.6.2.7"
+guid: 18BF6C79-6399-4977-BE3D-93135302D8C4
+name: Purpose
+description: >-
+  Use this domain for words indicating that something was done for the purpose of another
+  thing happening.
+louwNidaCodes: 89I Purpose
+related: ["9.5.1.6.3", "3.3.1.1"]
+questions:
+  - q: What words indicate the intended purpose of something?
+    words: >-
+      for, for the purpose of, for the sake of, with the purpose of, to, in order to, so
+      that, to show that
+    sentence: >-
+      Do something <with the purpose of> something happening.; Do something <for the sake
+      of> something happening.; Do something <for the purpose of> causing something to
+      happen.; Do something <in order to> cause something to happen.; Do something <to>
+      cause something to happen.; Do something <in order that> something might happen.; Do
+      something <so that> something might happen.; Do something <to show that> something
+      would happen.; Do something <for> some reason.; This medicine is good <for> malaria.
+  - q: What words indicate that the purpose is so that something will not happen?
+    words: in order that...not, so that...not, lest
+    sentence: Do something <lest> something happen.

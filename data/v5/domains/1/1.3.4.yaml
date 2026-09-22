@@ -1,0 +1,20 @@
+code: "1.3.4"
+guid: BF25931D-4760-4C66-ABE8-C05A6DC5ADBE
+name: Be in water
+description: Use this domain for words referring to being in water or putting something in water.
+related: ["7.2.4.2.3"]
+questions:
+  - q: What words refer to being in water?
+    words: be in water
+  - q: What words refer to something floating on the surface of the water?
+    words: float, float down river, afloat
+  - q: What words refer to being under the water?
+    words: immersed, submerged, undersea, underwater, submarine, sunken
+  - q: What words refer to putting something in water?
+    words: dip, immerse, dunk, baptize, plunge, submerge
+  - q: What words refer to putting something like food in water for a long time?
+    words: soak, marinate
+  - q: What words refer to something falling or sinking into water?
+    words: fall, sink, settle
+  - q: What sound does something make when it falls into water?
+    words: splash, plop

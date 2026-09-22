@@ -1,0 +1,12 @@
+code: "4.6.3.1"
+guid: F9935962-9A14-485D-9BEF-BD4A52DD92C1
+name: Governing body
+description: >-
+  Use this domain for words related to a governing body--an organization within the
+  government.
+ocmCodes: 623 Councils; 646 Parliament; 647 Administrative Agencies
+questions:
+  - q: What words refer to a governing body?
+    words: >-
+      governing body, congress, parliament, legislature, court, cabinet, council, ministry,
+      department

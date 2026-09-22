@@ -1,0 +1,25 @@
+code: "4.3.3.3"
+guid: 611AA361-4DDD-450B-A152-94984A274575
+name: Abandon
+description: >-
+  Use this domain for words related to abandoning someone or something--to leave and not
+  return to them.
+louwNidaCodes: 35H Desert, Forsake
+related: ["4.1.6.3"]
+questions:
+  - q: What words refer to abandoning something?
+    words: abandon, dump, jettison, leave, leave behind
+  - q: What words refer to the act of abandoning something?
+    words: abandonment, dereliction, desertion
+  - q: What words refer to something that has been abandoned?
+    words: derelict
+  - q: What words refer to abandoning a place?
+    words: leave, leave (somewhere) never to return
+  - q: What words refer to a place that has been abandoned?
+    words: ghost town, abandoned field, abandoned homestead
+  - q: What words refer to abandoning someone?
+    words: desert, disown, divorce, dump, forsake, leave alone, maroon
+  - q: What words refer to someone who has been abandoned?
+    words: abandoned child, waif, street kid
+  - q: What words describe something that has been abandoned?
+    words: abandoned, forsaken, derelict, uncared-for

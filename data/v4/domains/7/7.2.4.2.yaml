@@ -1,0 +1,25 @@
+code: "7.2.4.2"
+guid: F4580C19-BA9E-4F71-A46A-6F3C4B19C36C
+name: Travel by water
+description: Use this domain for words related to traveling by water.
+ocmCodes: >-
+  500 Water and Air Transport; 501 Boats; 502 Navigation; 503 Waterways Improvements; 504
+  Port Facilities; 505 Water Transport
+louwNidaCodes: 54 Maritime Activities
+questions:
+  - q: What words refer to traveling on water?
+    words: sail, ship (v), cross (the river, lake)
+  - q: What words refer to getting into a boat?
+    words: embark
+  - q: What words refer to leaving in a boat?
+    words: set sail, sail off
+  - q: What words refer to arriving in a boat?
+    words: land, make land, landfall
+  - q: What words refer to getting out of a boat?
+    words: disembark
+  - q: What words refer to a ship hitting the land?
+    words: run aground, shipwreck, maroon
+  - q: What words refer to the places a ship can go?
+    words: waterway, sea-lane
+  - q: What words refer to a place where a ship comes to land?
+    words: harbor, port, landing, dock, wharf, water break

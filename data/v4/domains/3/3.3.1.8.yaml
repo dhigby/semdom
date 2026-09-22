@@ -1,0 +1,10 @@
+code: "3.3.1.8"
+guid: 41B80F5D-0298-4D3C-B1A3-6D5E6C3985B1
+name: Lust
+description: >-
+  Use this domain for words related to lusting for something--to want something bad or
+  forbidden.
+louwNidaCodes: 25B Desire Strongly
+questions:
+  - q: What words refer to lusting for something?
+    words: desire, lust, avarice, burn, covet, crave, grasping, greed, inflamed

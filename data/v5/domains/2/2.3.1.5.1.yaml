@@ -1,0 +1,21 @@
+code: "2.3.1.5.1"
+guid: 79A33505-0C33-4E92-89B9-6A42E6FF2228
+name: Appear
+description: >-
+  Use this domain for words referring to something appearing (becoming visible) and
+  disappearing (becoming invisible).
+related: ["7.6"]
+questions:
+  - q: What words refer to something appearing?
+    words: >-
+      appear, become visible, come into view, come into sight, come out, loom, loom up,
+      reappear, surface, materialize, assume visible form, put in an appearance
+  - q: What words refer to something disappearing?
+    words: >-
+      disappear, vanish, disappear without a trace, vanish into thin air, go missing, go out
+      of sight, fade away, blend into, disappear from sight, dissolve into nothing, be just
+      gone, fade from view, retire from sight, lose sight of
+  - q: What words refer to the event of something appearing?
+    words: appearance
+  - q: What words refer to the event of something disappearing?
+    words: disappearance

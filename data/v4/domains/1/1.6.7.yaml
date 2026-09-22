@@ -1,0 +1,17 @@
+code: "1.6.7"
+guid: 7C64F65B-2889-4F90-BA61-6B5F7634D4BC
+name: Male and female animals
+description: >-
+  Use this domain for words referring to male and female animals. Most languages have
+  special words for the male and female of a species only for domesticated animals.
+  Sometimes there will be a word for the male and not the female, and vice versa (male dog,
+  bitch). Sometimes the word for one is also used generically (cow for both female and
+  generic).
+louwNidaCodes: 9B Males; 9C Females
+related: ["2.6.5"]
+questions:
+  - q: What words refer to a male or female animal?
+    words: >-
+      male, female, bitch, tom, tomcat, bull, bullock, cow, heifer, ram, ewe, billy goat,
+      nanny goat, boar, sow, stallion, mare, filly, stag, buck, hart, doe, vixen, lioness,
+      tigress, bull elephant, rooster, cock, hen, drake, peacock, peahen

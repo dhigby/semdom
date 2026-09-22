@@ -1,0 +1,10 @@
+code: "4.3.5.6"
+guid: 9BF21458-0ACC-4D8D-BA9A-7B9FB6B8EE0B
+name: Hypocrite
+description: Use this domain for words related to being a hypocrite.
+louwNidaCodes: 88C' Hypocrisy, Pretense
+questions:
+  - q: What words refer to saying one thing but doing something else?
+    words: be a hypocrite, act hypocritically, hypocrisy, pretend, pretense
+  - q: What words refer to a person who says one thing but does something else?
+    words: hypocrite, pretender, actor

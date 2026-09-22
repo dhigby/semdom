@@ -1,0 +1,9 @@
+code: "9.6.3.7"
+guid: 41837400-BDC5-4CBC-A1DC-D793F713F883
+name: Hesitation fillers
+description: >-
+  Use this domain for words that a speaker uses when he hesitates or pauses while he is
+  speaking in order to think about what he is saying.
+questions:
+  - q: What words are used when a speaker hesitates or pauses to think?
+    words: um, uh, er, hmm, yeah, let's see, hold on a minute, let me see, let me think

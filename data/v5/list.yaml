@@ -1,0 +1,9 @@
+name: Semantic Domains
+abbreviation: Sem
+isSorted: 'true'
+itemClsid: '66'
+depth: '127'
+wsSelector: '-3'
+writingSystem: en
+encoding: UTF-8
+lineEnding: lf

@@ -1,0 +1,24 @@
+code: "4.8.3.6.4"
+guid: F5E2AD18-5AD4-4186-9572-B1542096759E
+name: Soldier
+description: Use this domain for words related to a soldier.
+louwNidaCodes: 55D Soldiers, Officers
+questions:
+  - q: What words refer to a soldier?
+    words: soldier, combatant, warrior, volunteer, conscript
+  - q: What are the military ranks?
+    words: >-
+      rank, enlisted man, non-commissioned officer, commissioned officer, officer,
+      commanding officer, commander, commandant, rank and file
+  - q: What are the military ranks in the army?
+    words: >-
+      infantryman, private, buck private, corporal, sergeant, warrant officer, lieutenant,
+      captain, major, colonel, general, field marshal
+  - q: What are the military ranks in the navy?
+    words: sailor, marine, seaman, ensign, petty officer, mate, captain, admiral
+  - q: What are the military ranks in the air force?
+    words: airman
+  - q: What kinds of special soldiers are there?
+    words: military police, cavalryman, horseman, spearman, legionnaire, centurion
+  - q: What words refer to a person who is not a soldier?
+    words: civilian, non-combatant

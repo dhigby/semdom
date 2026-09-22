@@ -1,0 +1,17 @@
+code: "4.7.6.1"
+guid: 0C1BCC98-9BC3-4DA0-8EAC-FF8A6EECBF84
+name: Acquit
+description: Use this domain for words related to acquitting a person.
+questions:
+  - q: What words are used of the action of acquitting a person?
+    words: >-
+      acquit, declare not guilty, declare innocent, find not guilty, clear, clear name,
+      clear of charges, clear someone's record, prove innocence, set free, release
+  - q: What words refer to the acquittal?
+    words: acquittal
+  - q: What words refer to the person who is acquitted?
+    words: innocent man, innocent party, free man
+  - q: What words refer to his innocence?
+    words: innocence
+  - q: What words describe someone who is not guilty?
+    words: blameless, inculpable, irreproachable

@@ -1,0 +1,17 @@
+code: "6.4.2"
+guid: 196F81D0-6A1A-4CC0-936A-367423FF485C
+name: Trap
+description: Use this domain for words related to trapping an animal.
+ocmCodes: 224 Hunting and Trapping
+louwNidaCodes: 6E Traps, Snares
+questions:
+  - q: What kinds of traps are there?
+    words: trap, snare, pit
+  - q: What words refer to setting a trap?
+    words: lay a trap, set a snare, dig a pit
+  - q: What words refer to catching something in a trap?
+    words: catch, trap, snare
+  - q: What words refer to being caught in a trap?
+    words: fall into (a pit)
+  - q: What words refer to escaping from a trap?
+    words: escape

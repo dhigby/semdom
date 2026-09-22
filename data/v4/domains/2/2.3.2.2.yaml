@@ -1,0 +1,26 @@
+code: "2.3.2.2"
+guid: ACF5E294-D169-45C1-A9D3-960536E018CC
+name: Sound
+description: Use this domain for words referring to sounds.
+related: ["3.5.1.1"]
+questions:
+  - q: What words refer to something that is heard?
+    words: sound, noise, voice
+  - q: >-
+      What words indicate that something sounds like another thing or sounds a particular
+      way?
+    words: sound like, sound of, sound (good/bad), have a (good/bad) sound, (good/bad) sounding
+  - q: What words refer to something or someone making a sound?
+    words: >-
+      make a sound, make noise, emit, go (bang/boom), go off, sound (v), let out,
+      articulate, articulation
+  - q: What words refer to a sound that is repeated faintly?
+    words: echo
+  - q: What words refer to making a sound that continues for a long time?
+    words: reverberate, resonate, resound, ring, roll
+  - q: What words describe something that can be heard?
+    words: audible, clear, loud and clear
+  - q: What words describe something that cannot be heard?
+    words: inaudible, unheard, subsonic
+  - q: What words refer to a sound becoming loud enough so that it can be heard?
+    words: become audible, reach the ear, be heard, fall on the ear

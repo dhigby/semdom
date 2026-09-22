@@ -1,0 +1,17 @@
+code: "8.5.1.5"
+guid: 8596F086-EE46-4245-8D45-2171A60E19E4
+name: Touching, contact
+description: >-
+  Use this domain for words indicating that two things are touching or in contact with each
+  other.
+louwNidaCodes: 83E At, Beside, Near, Far x
+related: ["7.3.4.1"]
+questions:
+  - q: What words refer to two things touching each other?
+    words: contact, be in contact, touch, rest against, up against, together, end to end
+  - q: What words refer to two things moving until they touch each other?
+    words: >-
+      come into contact, make contact, touch, bump into, come together, brush, skim, graze,
+      meet, connect, butt up against, come to rest against
+  - q: What words describe something that is touching another?
+    words: abutting, adjoining, contiguous

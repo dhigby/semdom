@@ -1,0 +1,14 @@
+code: "3.3.3.4"
+guid: AD56DC48-9C39-43F6-9386-F7DF80D93CD4
+name: Insist
+description: >-
+  Use this domain for words related to insisting--to say strongly or repeatedly that someone
+  must do something, because the other person does not want to do it.
+louwNidaCodes: 33E' Insist
+questions:
+  - q: What words refer to insisting that someone do something?
+    words: >-
+      insist, be insistent, at someone's insistence, put your foot down, demand, be adamant,
+      won't take no for an answer, won't hear of, maintain, be resolute
+  - q: What words describe a person who insists?
+    words: insistent, importunate, resolute

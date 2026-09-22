@@ -1,0 +1,9 @@
+code: "8.6.1"
+guid: BDDC70EA-D46F-4e4b-83A1-A47BEA858DD6
+name: Front
+description: Use this domain for words related to the front part of something.
+questions:
+  - q: What words refer to the front of something?
+    words: front (n), face, facade
+  - q: What words describe something that is on the front?
+    words: front (adj), frontal, anterior

@@ -1,0 +1,16 @@
+code: "7.4.5.1"
+guid: 1B3DCCFE-29E4-478E-8443-17BE9454A05A
+name: Leave something
+description: >-
+  Use this domain for words referring to leaving something or someone in a place and going
+  away.
+louwNidaCodes: 85D Leave in a Place
+questions:
+  - q: What words refer to leaving something somewhere?
+    words: leave, leave behind, abandon, forget, forsake, maroon
+  - q: What words describe something that has been left behind?
+    words: abandoned, forgotten, forsaken, marooned
+  - q: What commands are used to ask someone to leave something where it is?
+    words: >-
+      Leave it. Leave it where it is. Leave it behind. Leave it here. Don't move it. Forget
+      it.

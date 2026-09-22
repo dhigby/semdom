@@ -1,0 +1,12 @@
+code: "4.5.4.2"
+guid: 28BA8F5C-5BAA-4500-A6F5-BE292CAA673F
+name: Disobey
+description: Use this domain for words related to disobeying someone.
+louwNidaCodes: 36C Obey, Disobey
+questions:
+  - q: What words refer to being disobedient?
+    words: disobey, break the law, refuse to submit, rebel
+  - q: What words refer to a person who disobeys?
+    words: law breaker, criminal, rebel
+  - q: What words describe a person who disobeys?
+    words: disobedient, law breaking, unsubmissive, rebellious

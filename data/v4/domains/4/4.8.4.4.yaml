@@ -1,0 +1,9 @@
+code: "4.8.4.4"
+guid: 675ECCBB-9858-4CD4-8405-5F0D0FAA792C
+name: Negotiate
+description: Use this domain for words related to negotiating with someone.
+questions:
+  - q: What words refer to two people trying to reach an agreement?
+    words: negotiate, try to reach an agreement, discuss terms
+  - q: What words refer to the process two people trying to reach an agreement?
+    words: negotiation, discussion

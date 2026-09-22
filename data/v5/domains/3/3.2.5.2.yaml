@@ -1,0 +1,13 @@
+code: "3.2.5.2"
+guid: 0F46CB61-7BB5-410D-ABC5-4A75DC80A24F
+name: Disbelief
+description: Use this domain for words referring to not believing something or someone.
+questions:
+  - q: What words refer to not believing something or someone.
+    words: not believe, disbelief, unbelief, lack faith in, fail to believe, refuse to believe
+  - q: What words refer to being unsure whether to believe or not?
+    words: doubt, waver, undecided
+  - q: What words describe something or someone that is hard to believe?
+    words: >-
+      hard to believe, unbelievable, doubtful, incredible, unconvincing, disputable,
+      untrustworthy, unfaithful, undependable, improbable, unpersuasive

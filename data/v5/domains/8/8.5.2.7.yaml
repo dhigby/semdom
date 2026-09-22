@@ -1,0 +1,9 @@
+code: "8.5.2.7"
+guid: 21A284AB-B9A3-42C8-8FB9-96AFF1E1FE8F
+name: Towards
+description: Use this domain for words indicating a direction toward something.
+questions:
+  - q: What words indicate that something is moving toward something else?
+    words: toward, towards, away from, inward, inwards, outward, outwards
+  - q: What words indicate that something moves (from one place) to another place?
+    words: to

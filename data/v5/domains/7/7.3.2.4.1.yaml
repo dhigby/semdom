@@ -1,0 +1,12 @@
+code: "7.3.2.4.1"
+guid: F472B2D2-B4D3-4852-914D-71B66BDB6F26
+name: Hang
+description: >-
+  Use this domain for words referring to hanging something, and for words describing
+  something that has been hung.
+louwNidaCodes: 18B Fasten, Stick To
+questions:
+  - q: What words refer to hanging something?
+    words: hang, hang up, suspend
+  - q: What words describe something that has been hung?
+    words: dangle, hanging

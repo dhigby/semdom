@@ -1,0 +1,26 @@
+code: "1.2.1.5"
+guid: B3BE00A9-41A4-42AE-BA51-320B5000A563
+name: Underground
+description: >-
+  Use this domain for words referring to the area under the ground, and to holes in the
+  ground.
+louwNidaCodes: 1H Depressions and Holes; 1C Regions Below the Surface of the Earth
+related: ["7.8.6", "6.6.2.1"]
+questions:
+  - q: What words refer to the area under the surface of the earth?
+    words: >-
+      underground, below ground, subterranean, abyss, bedrock, core, mantle, stratum,
+      subsoil
+  - q: What words refer to natural holes in the ground?
+    words: >-
+      hole, cave, cavern, grotto, opening, crack, depression, hollow, cavity, channel,
+      chasm, cleft, cranny, crater, crevasse, crevice, depression, dip, mud hole, pit,
+      sinkhole, mouth of a cave
+  - q: What words refer to man-made holes in the ground?
+    words: >-
+      conduit, culvert, ditch, foxhole, mine, pit, pothole, rut, subway, shaft, trench,
+      trough, tunnel, well
+  - q: What words refer to a hole made by an animal?
+    words: burrow, den, foxhole, lair
+  - q: What words refer to water under the ground?
+    words: aquifer, underground river

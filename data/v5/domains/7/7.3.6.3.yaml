@@ -1,0 +1,14 @@
+code: "7.3.6.3"
+guid: 440608DF-3C98-4DC8-9FD3-FAD08AFE7AEF
+name: Limit
+description: >-
+  Use this domain for words referring to a limit beyond which something may or should not
+  go, and for words referring to imposing a limit.
+louwNidaCodes: 80B Limits, Boundaries of Space
+questions:
+  - q: What words refer to limiting the movement of something?
+    words: limit, impose a limit, restrict
+  - q: What words refer to a limit beyond which something may not move?
+    words: limit, boundary, extent, (furthest) reach, barrier, restriction
+  - q: What words refer to going beyond the limit?
+    words: exceed, cross, trespass, overstep

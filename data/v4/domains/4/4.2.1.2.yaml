@@ -1,0 +1,7 @@
+code: "4.2.1.2"
+guid: 6709CC78-CB0B-493E-B3E6-8590A2F20C95
+name: Encounter
+description: Use this domain for words referring to encountering someone.
+questions:
+  - q: What words refer to meeting someone when you did not intend to?
+    words: encounter, meet, run into, run across, cross paths, happen to see

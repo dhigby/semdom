@@ -1,0 +1,20 @@
+code: "4.9.1"
+guid: B60BF544-7774-4623-8C67-19B32B53DEA2
+name: God
+description: >-
+  Use this domain for words related to God--the supreme being in the universe. Each
+  theological system will have different beliefs concerning the existence and nature of God.
+  Our purpose here is to collect and define the terms used to refer to the supreme deity. If
+  there is no such person in the theological system, then use this domain for other terms
+  for the pantheon of gods, ultimate reality, nirvana, and similar concepts. However most
+  theological systems, even atheism, have the concept of a supreme God and use words to
+  refer to him.
+questions:
+  - q: What words refer to the supreme being in the universe?
+    words: >-
+      God, the Lord, Yahweh, Elohim, Allah, Theos, Deus, Sky God, supreme being, supreme
+      deity
+  - q: What words refer to what people believe about God?
+    words: theology, monotheism, polytheism, pantheism, atheism
+  - q: What words describe something to do with God?
+    words: divine

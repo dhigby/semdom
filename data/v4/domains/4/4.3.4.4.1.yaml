@@ -1,0 +1,13 @@
+code: "4.3.4.4.1"
+guid: 5DCF3CE8-AA00-4478-B00E-691549FA29E8
+name: Selfish
+description: Use this domain for words related to being selfish.
+questions:
+  - q: What words describe someone who is selfish?
+    words: self-centered, selfish
+  - q: What words refer to being selfish?
+    words: >-
+      be selfish, think of nobody but yourself, self-centered, egocentric, look out for
+      yourself, look out for number one
+  - q: What words refer to the quality of being selfish?
+    words: selfishness

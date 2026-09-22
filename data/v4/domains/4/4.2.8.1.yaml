@@ -1,0 +1,8 @@
+code: "4.2.8.1"
+guid: 37A08F65-5A79-4E17-8E19-0975D6531D64
+name: Serious
+description: Use this domain for words related to being serious--not laughing or joking.
+louwNidaCodes: 25L Laugh, Cry, Groan x
+questions:
+  - q: What words refer to being serious?
+    words: serious, earnest, sober, solemn, somber, stodgy

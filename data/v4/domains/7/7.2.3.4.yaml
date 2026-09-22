@@ -1,0 +1,10 @@
+code: "7.2.3.4"
+guid: 88269184-D033-454E-B750-559D5F53287C
+name: Move in
+description: Use this domain for words related to moving into something, such as a house or an area.
+louwNidaCodes: 15H Come/Go Into
+questions:
+  - q: What words refer to moving into an area or space?
+    words: move in, go in, go into, enter
+  - q: What words refer to moving toward the center of something?
+    words: move inwards

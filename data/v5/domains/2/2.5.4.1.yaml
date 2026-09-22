@@ -1,0 +1,19 @@
+code: "2.5.4.1"
+guid: B602C0E1-5398-4CC9-850B-7CFB5C592D13
+name: Blind
+description: Use this domain for words related to being blind.
+louwNidaCodes: 24A See
+related: ["2.3.1"]
+questions:
+  - q: What words describe someone who is blind?
+    words: blind, sightless, can't see, totally blind, visually handicapped, visually-impaired
+  - q: What words refer to becoming blind?
+    words: lose your sight, go blind, struck blind
+  - q: What words refer to making someone blind?
+    words: blind (v)
+  - q: What words refer to a blind person?
+    words: blind person, blind man, the blind
+  - q: What words refer to the condition of being blind?
+    words: blindness
+  - q: What things are used by a blind person?
+    words: cane, dark glasses, seeing-eye dog, Braille

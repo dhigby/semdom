@@ -1,0 +1,7 @@
+code: "7.2.1"
+guid: 5CC64831-C14A-4DBE-BEBA-214E725AD041
+name: Manner of movement
+description: Use this domain for general words referring to the way in which a person moves.
+questions:
+  - q: What general words refer to the way in which a person moves?
+    words: gait

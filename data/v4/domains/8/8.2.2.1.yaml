@@ -1,0 +1,23 @@
+code: "8.2.2.1"
+guid: 3CCC3A21-07C8-4983-A044-E3C74B538135
+name: Short, not long
+description: Use this domain for words related to being short in length.
+louwNidaCodes: 81C Long, Short, Far
+related: ["8.2.6.2"]
+questions:
+  - q: What words describe something that is short?
+    words: short, compact, dumpy, dwarfed, pug, runty, shrimpy, skimpy, stubby, stumpy
+  - q: What words refer to something becoming short?
+    words: get shorter, shrink, contract
+  - q: What words refer to making something short?
+    words: shorten, make something shorter, cut down, condense
+  - q: What words describe something that has been made short?
+    words: >-
+      shortened, abbreviated, abridged, compressed, condensed, contracted, shriveled,
+      shrunk, shrunken
+  - q: What words refer to being shorter than another thing?
+    words: shorter, shortest
+  - q: What words refer to how short something is?
+    words: shortness
+  - q: What words indicate how short something is?
+    words: how short, be (two inches) (too) short

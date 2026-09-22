@@ -1,0 +1,9 @@
+code: "9.7.1.7"
+guid: EBB5F3E5-BFE5-4A40-986A-938C1BDB9C76
+name: Terms of endearment
+description: >-
+  Use this domain for terms of endearment--a name used by lovers or spouses to express love
+  or intimacy. Some languages may have special names used by close friends.
+questions:
+  - q: What are the terms of endearment?
+    words: sweetheart, honey, dear

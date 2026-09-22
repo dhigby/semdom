@@ -1,0 +1,7 @@
+code: "7.3.4"
+guid: 3B4B947A-F223-4C87-8839-9F6237CDA9F6
+name: Handle something
+description: Use this domain for general words for using the hands to move something.
+questions:
+  - q: What general words refer to using the hands to do something to an object?
+    words: handle, manipulate

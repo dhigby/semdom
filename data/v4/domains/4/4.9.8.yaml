@@ -1,0 +1,14 @@
+code: "4.9.8"
+guid: E311CC3A-A387-449E-A05A-07ED9678411D
+name: Religious things
+description: Use this domain for words related to a religious object.
+ocmCodes: 778 Sacred Objects and Places
+questions:
+  - q: What types of religious objects are there?
+    words: altar, altar of sacrifice, altar of incense, censer, candle, church bells, totem pole
+  - q: What words refer to objects with supernatural power?
+    words: amulet, charm, fetish
+  - q: What words refer to clothes worn by priests and other religious people?
+    words: >-
+      (priest's) robes, habit, cloth, vestments, frock, cassock, cowl, hood, clerical
+      collar, skullcap, surplice, miter

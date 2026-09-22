@@ -1,0 +1,24 @@
+code: "5.2.1"
+guid: 1FDA68D4-5941-4695-B656-090D603A3344
+name: Food preparation
+description: Use this domain for words related to food preparation.
+ocmCodes: 252 Food Preparation; 265 Food Service Industries
+questions:
+  - q: What words refer to preparing food?
+    words: food preparation, cook, prepare food, fix (a meal, dish), make a dish
+  - q: What words refer to the person who prepares food and cooks?
+    words: the cook, chef, short order cook, cookie
+  - q: What words refer to a person who prepares special types of food?
+    words: baker (bread), butcher (meat), confectioner (candy), brewer (alcohol)
+  - q: What words refer to the thing that is cooked?
+    words: food, meal, dish
+  - q: What words refer to the place where food is prepared and cooked?
+    words: kitchen, cookhouse, bakery, butchery, food processing plant, restaurant
+  - q: What words describe how well a person cooks?
+    words: good cook, bad cook, tremendous cook, fantastic cook
+  - q: What words describe how thoroughly something has been cooked?
+    words: >-
+      raw, rare, medium, well done, under done, under cooked, over cooked, burnt, burned to
+      a crisp, crispy, charred, just right
+  - q: What words refer to a set of instructions for cooking something?
+    words: recipe, ingredients, instructions, measurements

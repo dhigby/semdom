@@ -1,0 +1,12 @@
+code: "3.5.1.6"
+guid: EAFDEA8E-521E-4614-8FD5-E8446ADF9203
+name: Debate
+description: >-
+  Use this domain for words referring to debating--for two or more people to discuss some
+  issue and try to persuade the other person to accept one's view.
+louwNidaCodes: 33X' Dispute, Debate
+questions:
+  - q: What words refer to debating with someone?
+    words: debate, argue, dispute, discuss, contend, negotiate
+  - q: What words refer to saying something in reply to something someone said?
+    words: reply, contradict, say in rebuttal, rebuttal, refute, rejoinder

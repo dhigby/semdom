@@ -1,0 +1,10 @@
+code: "4.7.8"
+guid: EF6D136E-AC1D-48B9-819D-252485534557
+name: Legal contract
+description: Use this domain for words related to a legal contract.
+ocmCodes: 675 Contracts
+questions:
+  - q: What words refer to a legal contract?
+    words: >-
+      contract, memorandum of agreement, treaty, peace accord, charter, constitution,
+      compact, pact, will, testament, covenant, notarize

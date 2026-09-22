@@ -1,0 +1,22 @@
+code: "3.5.1.2.3"
+guid: E080687B-0900-4dd0-9677-E3AAA3EAE641
+name: Explain
+description: >-
+  Use this domain for words related to explaining something--to help someone to understand
+  something.
+related: ["3.6"]
+questions:
+  - q: What words refer to explaining something?
+    words: explain, throw light on, shed light on, enlighten, elucidate, by way of explanation
+  - q: What words do people use when they start to explain something?
+    words: >-
+      in other words, let me explain, that is, to put it another way, put it like this, put
+      it this way, let me rephrase that
+  - q: What words refer to explaining how something works or how to do something?
+    words: tell, explain, demonstrate, give instructions
+  - q: What words refer to explaining something difficult using simple language?
+    words: simplify, demystify
+  - q: What words refer to explaining something completely?
+    words: set out
+  - q: What words refer to what you say when you explain something?
+    words: explanation, account, instructions, directions

@@ -1,0 +1,25 @@
+code: "4.2.3.2"
+guid: 7FED6281-326A-4A15-8CBF-DC574594DA19
+name: Play music
+description: Use this domain for words related to playing music.
+questions:
+  - q: What words are used of playing music?
+    words: >-
+      play music/a piece, perform, hold a concert, make music, read music, play by ear,
+      improvise
+  - q: What is a musical event called?
+    words: concert, performance, rendition, recital, revue
+  - q: What equipment is used in playing music?
+    words: musical instrument, music stand, riser, baton
+  - q: Where is music played?
+    words: >-
+      concert hall, opera house, music hall, auditorium, band stand, choir loft, orchestra
+      pit
+  - q: What words refer to adjusting an instrument so that it plays correctly?
+    words: tune, in tune, out of tune, sharp, flat, warm up
+  - q: What words refer to a machine used to record and play back music?
+    words: phonograph, record player, tape deck, boom box
+  - q: What words describe someone who likes to listen to music?
+    words: music lover, critic
+  - q: What words describe how a person plays music?
+    words: performance, execution, touch, expression, fingering, keep time

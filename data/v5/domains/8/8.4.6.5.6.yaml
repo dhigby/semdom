@@ -1,0 +1,27 @@
+code: "8.4.6.5.6"
+guid: B015F460-FAEB-4AA5-B453-9E5E9AE061FE
+name: Old fashioned
+description: >-
+  Use this domain for words describing something old fashioned--something that was done or
+  used in the past, but not done or used now.
+questions:
+  - q: What words describe something that is old fashioned?
+    words: >-
+      old-fashioned, unfashionable, antiquated, archaic, outdated, out of date, outmoded,
+      outworn
+  - q: What words describe something that is old fashioned and no longer used?
+    words: antiquated, dated, fusty, early type/form of, obsolete, primitive
+  - q: What words describe an old fashioned idea or way of doing something?
+    words: old, customary, inveterate, passé, traditional, tried and true, well-trodden
+  - q: What words describe something that is so old fashioned that people think it is stupid?
+    words: medieval, out of the ark, dinosaur, anachronism, archaic
+  - q: What words describe something that is old fashioned but people still like it?
+    words: quaint, old-time, of the old school, olde worlde
+  - q: What words refer to something becoming old fashioned?
+    words: be on the way out, fall into disuse
+  - q: What words refer to making something old fashioned by doing the same thing a new way?
+    words: antiquate, render obsolete
+  - q: What words describe someone who is old fashioned in the way they think or act?
+    words: old fashioned, be behind the times, be living in the past, reactionary, straitlaced
+  - q: What words refer to someone who is old fashioned?
+    words: fuddy-duddy, old fogy, old guard, traditionalist

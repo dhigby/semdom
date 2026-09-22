@@ -1,0 +1,16 @@
+code: "3.6"
+guid: 6137239A-B469-46BE-B7CB-B9AC22FCC195
+name: Teach
+description: Use this domain for words related to teaching.
+louwNidaCodes: 33Q Teach
+questions:
+  - q: What words refer to teaching?
+    words: >-
+      teach, educate, instruct, lecture, edify, tutor, coach, inform, indoctrinate, infuse,
+      instill
+  - q: What words refer to a person who teaches?
+    words: teacher, tutor, lecturer, professor, coach, trainer, faculty, educator
+  - q: What words refer to a person who is taught?
+    words: pupil, student
+  - q: What words refer to what is taught?
+    words: teaching, subject, education

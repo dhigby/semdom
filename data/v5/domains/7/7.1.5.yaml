@@ -1,0 +1,26 @@
+code: "7.1.5"
+guid: C3F20CE7-D30E-40FD-AF8A-713A65C46CD0
+name: Bow
+description: >-
+  Use this domain for words referring to bowing to someone--to face someone and lower your
+  head or bend at the waist so that your upper body is lowered. The words in this domain
+  should all be symbolic acts, that is, the culture assigns a meaning and significance to
+  the physical action. Some cultures define it as a greeting, as an act of respect, or as an
+  act of submission. For instance in ancient middle eastern culture bowing was an act of
+  submission done in the presence of the king. Failure to bow was an act of rebellion
+  punishable by death. In far eastern culture it is a greeting. In African culture it is an
+  act of respect or done to welcome a visitor. Cultures define how a person is to bow, for
+  instance how they are to hold their hands. A person may bow while standing, or may kneel,
+  or even prostrate himself flat on his face. Whether both people bow is also significant.
+  The depth of the bow can have significance. In Japan the person of lower social rank must
+  bow deeper. In European culture a performer bows to acknowledge applause.
+louwNidaCodes: 17E Prostrate as an Act of Reverence or Supplication x
+questions:
+  - q: What words refer to bowing?
+    words: bow, bow down, bow to/before someone
+  - q: What words describe how a person bows?
+    words: >-
+      sweeping bow, bow low, deep bow, slight bow, bow your head, his head fell, incline
+      your head, nod, curtsy, genuflect, kowtow, prostrate, grovel
+  - q: What words indicate the significance of the bow?
+    words: obeisance, worship, bow in submission/reverence/greeting

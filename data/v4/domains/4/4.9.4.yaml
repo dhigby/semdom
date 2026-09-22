@@ -1,0 +1,20 @@
+code: "4.9.4"
+guid: 61F52196-A8B2-496D-96EA-8C15DC7D377A
+name: Miracle, supernatural power
+description: >-
+  Use this domain for words related to miracles--the use of supernatural power to do
+  something good.
+louwNidaCodes: 12B Supernatural Powers
+questions:
+  - q: What words refer to supernatural power?
+    words: >-
+      supernatural power, miraculous power, might, force, omnipotence, almighty,
+      all-powerful
+  - q: What words refer to performing a miracle?
+    words: perform a miracle, produce a miracle, do a miracle
+  - q: What words refer to the event of a miracle?
+    words: miracle, miraculous event, sign, wonder, magic
+  - q: What words describe a miracle?
+    words: miraculous
+  - q: What words refer to a person who can perform miracles?
+    words: miracle worker, prophet

@@ -1,0 +1,18 @@
+code: "4.1.9.2.2"
+guid: 89AD4E41-BF08-4D93-A4F3-F72E8CC62BED
+name: In-law
+description: Use this domain for words referring to being related by marriage.
+ocmCodes: 606 Parents-in-Law and Children-in-Law; 607 Siblings-in-Law
+questions:
+  - q: What words refer to being related by marriage?
+    words: be related by marriage
+  - q: What words refer to people who are related to you by marriage?
+    words: >-
+      in-law, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law,
+      daughter-in-law
+  - q: >-
+      What words describe the relationship between a husband's parents and his wife's
+      parents?
+  - q: >-
+      What words describe the relationship between a husband's siblings and his wife's
+      siblings?

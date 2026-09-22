@@ -1,0 +1,25 @@
+code: "3.1.2.2"
+guid: 267B98AA-E17C-4EBB-A752-ED4210701867
+name: Notice
+description: Use this domain for words related to noticing something.
+questions:
+  - q: What words refer to noticing something?
+    words: >-
+      notice, spot, become aware, detect, note, perceive, observe, conscious of, catch
+      someone's eye, take note
+  - q: What words describe someone who is good at noticing things?
+    words: >-
+      observant, perceptive, eagle-eyed, have eyes like a hawk, have eyes in the back of
+      your head, powers of observation
+  - q: What words refer to not noticing something?
+    words: >-
+      not notice, miss, overlook, fail to notice, escape someone's notice, unnoticed, go
+      unnoticed
+  - q: What words describe someone who is not good at noticing things?
+    words: >-
+      unobservant, unperceptive, oblivious, can't see the forest for the trees, got your
+      head in the clouds
+  - q: What words refer to trying to get someone to notice something?
+    words: call attention to, bring something to someone's attention, point out
+  - q: What words refer to trying to get someone to not notice something?
+    words: distract

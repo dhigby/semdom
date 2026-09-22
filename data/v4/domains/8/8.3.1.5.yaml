@@ -1,0 +1,36 @@
+code: "8.3.1.5"
+guid: 5C35C2F8-D17C-42A3-AA12-A4C29B6603E8
+name: Bend
+description: >-
+  Use this domain for words referring to bending something and for words that describe
+  something that is bent or curved.
+louwNidaCodes: 79Q Straight, Crooked
+questions:
+  - q: What words refer to bending something?
+    words: bend, bow, flex, curve, put a kink in
+  - q: What words refer to something bending?
+    words: bend, buckle, curl, sag, warp
+  - q: What words describe something that is bent?
+    words: >-
+      bent, arched, bowed, crinkled, curved, curving, curled, devious, gnarled, gnarly,
+      hooked, indirect, jagged, kinked, knotted, knotty, knurled, knurly, turning, twirled,
+      twisted
+  - q: What words describe something that should be straight but is bent?
+    words: >-
+      akimbo, askew, awry, bandy, catawampus, contorted, crooked, deviating, distorted,
+      skewed, tortuous, warped
+  - q: What words refer to a bend in something?
+    words: bend, bow, curve, kink, loop, angle, joint
+  - q: What words refer to making many bends in something?
+    words: corrugate
+  - q: What words describe something that has many bends?
+    words: >-
+      circuitous, coiled, convoluted, corrugated, curly, curvy, kinky, meandering, pretzel,
+      serpentine, serrated, sinuous, snaky, spiral, tortuous, twisting, undulating, waved,
+      waving, wavy, wind, winding, zigzag
+  - q: What words refer to a line or road that is bent?
+    words: bend, curve, twist
+  - q: What words describe something that can be bent?
+    words: bendable, flexible, flexibility, jointed, pliable, plastic, supple
+  - q: What words describe something that cannot be bent?
+    words: unbending, inflexible, inflexibility, rigid, rigidity

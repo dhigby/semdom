@@ -1,0 +1,10 @@
+code: "4.1.9.1.5"
+guid: F47D681B-4F0D-43CA-A465-2E1724825752
+name: Grandson, granddaughter
+description: Use this domain for words referring to your grandchildren.
+ocmCodes: 603 Grandparents and Grandchildren
+questions:
+  - q: What words refer to the children of your children?
+    words: grandchild, grandson, granddaughter
+  - q: What words refer to your descendants?
+    words: descendant, offshoot, offspring, posterity, progeny, line

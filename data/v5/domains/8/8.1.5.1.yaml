@@ -1,0 +1,11 @@
+code: "8.1.5.1"
+guid: CBCFF912-E1C2-4D9B-9938-85D73E7E7265
+name: Some
+description: >-
+  Use this domain for words related to some--a number or amount of things or people when the
+  number is not stated; an indefinite number or amount.
+questions:
+  - q: What words indicate some of a group of things or people?
+    words: some, any, several, a number of
+  - q: What words indicate some of an amount of something?
+    words: some, any, a certain amount of, a measure of

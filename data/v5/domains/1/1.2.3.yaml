@@ -1,0 +1,26 @@
+code: "1.2.3"
+guid: 756728A8-9EB8-4329-AEE2-D6A3D64585F2
+name: Solid, liquid, gas
+description: >-
+  Use this domain for words describing the different states of matter (solid, liquid, and
+  gas), and words for changing from one to another.
+louwNidaCodes: 79C Solid, Liquid
+related: ["8.3.4", "8.3.4.1"]
+questions:
+  - q: What words describe the states of matter?
+    words: solid, liquid, gas
+  - q: What words describe the states of water?
+    words: ice, water, steam
+  - q: What words refer to solids changing into liquids?
+    words: melt, melted, melt down, molten, thaw, liquefy, soften, dissolve, soluble
+  - q: What words refer to liquids changing into solids?
+    words: >-
+      solidify, harden, dry, bake, freeze, thicken, stiffen, set, jell, gel, clot,
+      coagulate, coagulation, congeal, crystallize, crystallization, precipitate,
+      precipitation, curdle
+  - q: What words refer to gases changing into liquids?
+    words: condense, condensation, dew, distill
+  - q: What words refer to liquids changing into gases?
+    words: boil, evaporate, evaporation, vaporize, steam
+  - q: What words refer to the temperature at which things change?
+    words: melting point, freezing point, dew point, boiling point

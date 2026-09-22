@@ -1,0 +1,10 @@
+code: "7.4.1"
+guid: 56D1A950-8798-45FB-BCCD-D8B1EB37C071
+name: Give, hand to
+description: >-
+  Use this domain for words referring to giving something to someone, in which there is no
+  transaction of ownership, merely the movement of the thing from one person to another.
+louwNidaCodes: 57H Give
+questions:
+  - q: What words refer to giving something to someone?
+    words: give, hand to, pass to, deliver

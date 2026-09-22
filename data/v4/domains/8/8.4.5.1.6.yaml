@@ -1,0 +1,15 @@
+code: "8.4.5.1.6"
+guid: 95A8D932-9554-439F-AFB5-AB158F2EED96
+name: Alternate
+description: >-
+  Use this domain for words related to alternating--when several things happen one after
+  another in a repeated pattern.
+questions:
+  - q: What words refer to things alternating?
+    words: alternate, repeat, cycle, rotate
+  - q: What words describe things that alternate?
+    words: alternating, repeated, cyclical, rotating
+  - q: What words indicate that two things alternate?
+    words: alternate (actions, events)
+  - q: What words refer to two or more people doing something in alternate turns?
+    words: alternate, take turns, take it in turns, share, spell each other, go back and forth

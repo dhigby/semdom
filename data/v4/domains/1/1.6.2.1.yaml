@@ -1,0 +1,10 @@
+code: "1.6.2.1"
+guid: E6221C7A-4608-4114-BA9F-532A3B943113
+name: Parts of a bird
+description: Use this domain for the parts of a bird, but not general parts that belong to all animals.
+questions:
+  - q: What are the parts of a bird?
+    words: >-
+      feather, feathered, plumage, plume, quill, down, wing, winged, wing tip, beak, bill,
+      cockscomb (rooster's red crest), wattles (rooster's red flap of skin under beak),
+      crop, gizzard, claw, talon, egg, eggshell, egg tooth, craw, gullet, spur

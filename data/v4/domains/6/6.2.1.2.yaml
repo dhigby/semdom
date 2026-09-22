@@ -1,0 +1,12 @@
+code: "6.2.1.2"
+guid: 7524887A-5CF0-4459-96D1-FD8262BEF7D4
+name: Growing roots
+description: >-
+  Use this domain for words related to growing root crops such as beets, carrots, cassava,
+  garlic, ginger, leeks, manioc, onions, peanuts, potatoes, radishes, rutabagas, taro,
+  turnips, and yams. If one crop is cultivated extensively and there are many words related
+  to it, set up a separate domain for it. This has already been done for potatoes and
+  cassava, since they are so common around the world.
+questions:
+  - q: What words refer to growing roots?
+    words: root, uproot

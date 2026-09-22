@@ -1,0 +1,32 @@
+code: "2.3.1.8.1"
+guid: E4517880-AA2D-4977-B55A-DCB0B6D1F533
+name: Beautiful
+description: >-
+  Use this domain for words describing someone or something that is beautiful--pleasing in
+  appearance,.
+louwNidaCodes: 79D Beautiful, Ugly
+questions:
+  - q: What words describe a woman who is beautiful?
+    words: >-
+      beautiful, good-looking, pretty, attractive, striking, handsome, lovely, gorgeous,
+      stunning, ravishing, of great beauty, elegant
+  - q: What words describe a man who is beautiful?
+    words: >-
+      good-looking, handsome, attractive, cute, hunky, rugged, striking, gorgeous, be a fine
+      figure of a man, dashing
+  - q: What words describe a child who is beautiful?
+    words: beautiful, lovely, cute
+  - q: What words describe something that is beautiful?
+    words: >-
+      beautiful, attractive, pretty, lovely, gorgeous, splendid, magnificent, stunning,
+      superb, exquisite, elegant, artistic
+  - q: What words describe a place that is beautiful?
+    words: beautiful, lovely, pretty, scenic, picturesque, magnificent, beauty spot, spectacular
+  - q: What words indicate that something is done in a beautiful way?
+    words: beautifully, prettily, attractively, exquisitely
+  - q: What words refer to the quality of being beautiful?
+    words: beauty, looks, good looks
+  - q: What words refer to making something beautiful?
+    words: beautify, spruce up
+  - q: What words describe something or someone that is neither beautiful nor ugly?
+    words: plain, average, ordinary

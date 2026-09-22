@@ -1,0 +1,9 @@
+code: "4.3.7.1"
+guid: F4EC8F2E-F89E-40C1-AE50-900927D20AF6
+name: Impolite
+description: Use this domain for words related to being impolite.
+questions:
+  - q: What words describe someone who is impolite?
+    words: >-
+      rude, impolite, ill-mannered, discourteous, unpleasant, offensive, loutish, churlish,
+      impudent, cheeky, impertinent, insolent, disrespectful, sassy

@@ -1,0 +1,11 @@
+code: "9.5.1"
+guid: BB8DDF5F-707D-46C0-AFF4-45683D26FD68
+name: Primary cases
+description: Use this section for primary cases.
+questions:
+  - q: What words indicate the subject of a sentence?
+    words: (no words in English)
+  - q: What words indicate the object of a sentence?
+    words: (no words in English)
+  - q: What words indicate the indirect object of a sentence?
+    words: to

@@ -1,0 +1,22 @@
+code: "7.3.5"
+guid: 40590157-9412-4558-B0F7-311867B649CC
+name: Turn something
+description: >-
+  Use this domain for turning something--to cause something to change direction, or to cause
+  something to revolve or move in a circle.
+louwNidaCodes: 16 Non-Linear Movement
+questions:
+  - q: What words refer to causing something to change direction?
+    words: turn, turn around, bend (something's) course
+  - q: What words refer to causing something to move in a circle or curve?
+    words: swing
+  - q: What words refer to causing something to revolve?
+    words: spin, revolve
+  - q: What words refer to turning something so the bottom side is up?
+    words: turn up side down, turn over, upturn, flip over
+  - q: What words refer to turning something so the inside is out?
+    words: turn inside-out
+  - q: What words refer to stirring something?
+    words: stir
+  - q: What words refer to winding something around another thing?
+    words: wind, coil, curl, loop, roll, spin, twirl, twist, whirl

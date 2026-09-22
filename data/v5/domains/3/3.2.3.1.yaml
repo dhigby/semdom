@@ -1,0 +1,25 @@
+code: "3.2.3.1"
+guid: 14954A0F-5C8A-4680-90B0-53398BD3A2A7
+name: Known, unknown
+description: Use this domain for words that describe whether or not something is known.
+louwNidaCodes: >-
+  28C Well Known, Clearly Shown, Revealed; 28D Able To Be Known; 28E Not Able To Be Known,
+  Secret
+questions:
+  - q: What words describe something or someone that is known to someone?
+    words: known, noted, familiar, obvious
+  - q: What words describe something or someone that is known to many people?
+    words: well-known, famous, infamous, fame, notorious, public knowledge
+  - q: What words describe something or someone that is not known by many people?
+    words: little-known, secret, secrecy, obscure, private, mystery, mysterious
+  - q: What words describe something or someone that is not known by anyone?
+    words: not known, unknown, undetected, undiscovered, unexposed, unmarked, unseen
+  - q: What words refer to making something known?
+    words: >-
+      acquaint, bare, demonstrate, disclose, discover, divulge, exhibit, explain, expose,
+      indicate, present, make public, publicize, reveal, show, uncover, unfold, unmask,
+      unveil
+  - q: What words describe something that is easily known?
+    words: apparent, evident, obvious
+  - q: What words describe something that is not easily known?
+    words: unapparent

@@ -1,0 +1,12 @@
+code: "9.7.1.4"
+guid: 5771F3A1-FDA3-4111-9ABC-7A0D76C60A79
+name: Tribal names
+description: >-
+  Use this domain for the proper names of the tribes that exist around the language
+  community, including the name of your own tribe. These tribal names may or may not
+  correspond with the names of countries.
+questions:
+  - q: What are the proper names of the neighboring tribes?
+    words: >-
+      Saxons, Scots, Welsh, Picts, Irish, Normans, Vikings, Brits, Americans, Aussies,
+      Kiwis, Sioux, Cherokee

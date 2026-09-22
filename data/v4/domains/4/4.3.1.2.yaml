@@ -1,0 +1,12 @@
+code: "4.3.1.2"
+guid: A6797FD1-E368-422B-9710-96E0AF39552D
+name: Meet a standard
+description: Use this domain for words related to meeting a standard.
+louwNidaCodes: 88D Perfect, Perfection; 88F Modesty, Propriety
+questions:
+  - q: What words refer to being acceptable?
+    words: meet a standard, be acceptable, be perfect, be normal
+  - q: What words refer to acceptable behavior?
+    words: act acceptably, satisfactorily, normal, pleasingly, be polite, dignity
+  - q: What words describe the behavior of someone who acts acceptably?
+    words: acceptable, satisfactory, normal, pleasing, polite, well mannered

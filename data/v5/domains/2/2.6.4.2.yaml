@@ -1,0 +1,17 @@
+code: "2.6.4.2"
+guid: 7D472DD5-636D-4499-BF66-83CF23C0DBE1
+name: Child
+description: Use this domain for words related to a child.
+ocmCodes: 857 Childhood Activities; 858 Status of Children
+louwNidaCodes: 9D Children
+questions:
+  - q: What words refer to a child (from birth to puberty)?
+    words: >-
+      child, children, kid, youngster, boy, girl, brat, small fry, imp, infant, juvenile,
+      minor, offspring, progeny, schoolchild, squirt, tad, urchin, weanling
+  - q: What words refer to the time period when a person is a child?
+    words: childhood
+  - q: What words describe a child?
+    words: young, little, small, underage
+  - q: What words describe something to do with children?
+    words: child (adj), childish, juvenile

@@ -1,0 +1,10 @@
+code: "4.7.6.3"
+guid: 8570F05C-A152-4117-9F54-4EDFA9C06A32
+name: Fault
+description: Use this domain for words related to something being someone's fault.
+related: ["3.5.1.8.1"]
+questions:
+  - q: What words refer to who is responsible for something bad?
+    words: >-
+      fault, blame, responsible, be to blame for, be guilty of, be responsible for, guilt,
+      responsibility, guilty, blameless, innocent

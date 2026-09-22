@@ -1,0 +1,41 @@
+code: "4.2.6.2.2"
+guid: 21EBC64A-A1B8-45bd-B7F6-143A053F1D31
+name: Basketball
+description: >-
+  Use this domain for words related to a particular sport. The example words are from the
+  sport of basketball. If you do not play basketball in your culture, you can rename this
+  domain and use it for one of your sports. Add other domains for each of your sports.
+questions:
+  - q: What is the sport called?
+    words: basketball, b-ball
+  - q: What words refer to a game?
+    words: basketball game, game
+  - q: What are the types of games?
+    words: half-court, full-court, pick up game
+  - q: What are the parts of a game?
+    words: tip off, first quarter, second quarter, first half, half time, buzzer
+  - q: What is a person called who participates in the game?
+    words: basketball player, star, center, forward, guard, substitute, bench
+  - q: What is a group of players called?
+    words: basketball team
+  - q: What is a group of teams called?
+    words: league, conference, association, National Basketball Association
+  - q: What is the leader of a team called?
+    words: coach, to coach a team, captain, to captain a team
+  - q: What is the staff of a team called?
+    words: assistant coach, trainer, recruiter, referee, timekeeper
+  - q: What do the players do?
+    words: >-
+      play basketball, shoot, shoot a free throw, score a basket, three point play, assist,
+      block a shot, dribble, pass the ball, catch, screen, set up a play, run a play, jump,
+      rebound, hit the boards, tip in, stuff, double dribble, walk, step out of bounds,
+      throw out of bounds, foul, technical foul, charge, steal the ball, fast break, guard,
+      play defense, play offense, substitute, huddle up, throw the ball in
+  - q: What equipment is used in the game?
+    words: >-
+      basketball, hoop, net, backboard, uniform, basketball shoes, referee's whistle, clock,
+      scoreboard, bench
+  - q: What is the place called where the game is played?
+    words: basketball court, arena, gym, gymnasium
+  - q: What are the parts of a playing area?
+    words: court, line, out of bounds, key, free throw line, jump circle

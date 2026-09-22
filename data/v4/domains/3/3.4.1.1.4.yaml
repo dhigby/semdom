@@ -1,0 +1,15 @@
+code: "3.4.1.1.4"
+guid: AC550D1F-EC74-46A8-BF81-7832ACE533EE
+name: Popular
+description: Use this domain for words describing something that many people like.
+questions:
+  - q: What words describe someone that many people like?
+    words: popular, well-liked, be in favor
+  - q: What words describe something that many people like?
+    words: popular, be in demand, sought-after, be big, best-seller, blockbuster, hit
+  - q: What words refer to how popular something is?
+    words: popularity
+  - q: What words refer to making something popular?
+    words: popularize
+  - q: What words describe someone or something that is not popular?
+    words: unpopular, be out of favor, go out of favor with, there's no demand for

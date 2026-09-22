@@ -1,0 +1,21 @@
+code: "7.2.1.6.1"
+guid: C6132280-D2AA-46F8-9E94-B087DBDA09CB
+name: Balance
+description: >-
+  Use this domain for words that refer to balancing yourself or something--when someone or
+  something is able stand or move without falling.
+questions:
+  - q: What words refer to balancing yourself?
+    words: balance, keep your balance
+  - q: What words refer to balancing something?
+    words: balance something, steady something
+  - q: What words refer to the ability to balance yourself?
+    words: balance (n)
+  - q: What words refer to losing your balance?
+    words: lose your balance, totter
+  - q: What words describe something that is balanced?
+    words: steady, poised
+  - q: What words describe something that is not balanced?
+    words: unsteady, unstable, precarious
+  - q: What words refer to feeling like you are going to fall?
+    words: dizzy, giddy, vertigo, dizziness, someone's head is swimming

@@ -1,0 +1,18 @@
+code: "3.5.1.4.2"
+guid: E033CA92-EE8C-4ab9-9368-5F6F4E942987
+name: Contact
+description: >-
+  Use this domain for words related to contacting someone--to communicate with someone who
+  is far away from you using some communication device such as a telephone.
+louwNidaCodes: 33C' Call
+questions:
+  - q: What words refer to contacting someone?
+    words: get in touch with, contact, make contact with, approach, get onto
+  - q: What words refer to regularly contacting someone?
+    words: be in contact, keep in touch, stay in touch, keep in contact, communicate
+  - q: What words refer to succeeding in contacting someone?
+    words: get hold of, get through, reach
+  - q: What words refer to the process by which people contact each other?
+    words: communication, contact
+  - q: What words refer to no longer communicating with someone?
+    words: lose touch, lose contact

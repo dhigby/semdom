@@ -1,0 +1,18 @@
+code: "9.3"
+guid: 5422D4BA-8AF4-4767-912E-43B60EF28EAB
+name: Very
+description: Use this domain for words that intensify an attribute.
+related: ["9.3.1"]
+questions:
+  - q: What words intensify an attribute?
+    words: >-
+      very, really, highly, deeply, real, so, mighty, one, quite, ever so, bloody,
+      decidedly, too, proper, true, extremely, such
+    sentence: <very> green; <too> dark; <really> fast; <real> good; <pretty> heavy
+  - q: What words intensify an attribute to an extreme degree?
+    words: >-
+      extremely, terribly, dreadfully, incredibly, unbelievably, ridiculously, absurdly,
+      remarkably, exceptionally, extraordinarily, terrifically, enormously, hugely,
+      exceedingly
+  - q: What words indicate that an attribute is not intense?
+    words: not very, hardly, barely, a little, fairly

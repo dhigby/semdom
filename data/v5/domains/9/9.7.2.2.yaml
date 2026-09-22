@@ -1,0 +1,12 @@
+code: "9.7.2.2"
+guid: 85CB1E3C-62BA-4A77-A838-0237707FB0CB
+name: Names of regions
+description: >-
+  Use this domain for the proper names of the regions within your country or language area.
+  Some of these may be political regions. Others may be informal terms. Give the local
+  pronunciation, rather than some foreign spelling. You may want to limit this domain to
+  just those areas within your language area. However if you have special names for areas
+  outside of your language area, for example 'the Mideast', you should include them.
+questions:
+  - q: What are the names of the regions in the area?
+    words: Yorkshire, California, Midlands, Midwest, the South, outback

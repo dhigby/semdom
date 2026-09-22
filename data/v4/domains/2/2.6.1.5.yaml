@@ -1,0 +1,27 @@
+code: "2.6.1.5"
+guid: EDBFC928-049C-4CB7-8C88-8E8AF38287C7
+name: Romantic love
+description: Use this domain for words related to romantic love.
+questions:
+  - q: What words refer to loving someone?
+    words: love, be in love
+  - q: What words refer to starting to love someone?
+    words: fall in love, love at first sight, be swept off your feet, be interested in, fancy
+  - q: What words refer loving someone very much?
+    words: >-
+      be madly in love, be head over heels in love, infatuated, have a crush on, be mad
+      about, be crazy about, be besotted
+  - q: What words refer to the feeling of love?
+    words: love, passion, romance
+  - q: What words describe something someone says or does when they love someone?
+    words: passionate, romantic
+  - q: What words refer to someone you love?
+    words: lovers, the one you love, the love of your life
+  - q: What words refer to doing something with someone you love?
+    words: date, go out with, see someone, ask out, ask someone for a date
+  - q: What do people call someone that they love?
+    words: love, dear, honey, darling, dearest, sweetheart
+  - q: What words refer to problems between people who love each other?
+    words: hurt someone, break someone's heart, grow apart, break up
+  - q: What words refer to loving each other again after having problems?
+    words: make up, get back together

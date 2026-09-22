@@ -1,0 +1,12 @@
+code: "3.5.1.3.5"
+guid: 51D9D243-35CC-4A1E-BCDD-F2749975F5FD
+name: Real
+description: Use this domain for words that indicate if something is real.
+louwNidaCodes: 70 Real, Unreal; 73 Genuine, Phony
+questions:
+  - q: What words describe something that is real?
+    words: real, actual, genuine
+  - q: What words describe something that is real and not imagined?
+    words: actual, concrete, fact, factual, nonfiction, real, reality, true
+  - q: What words describe something that is not real?
+    words: unreal, artificial, imaginary, phony, pretend

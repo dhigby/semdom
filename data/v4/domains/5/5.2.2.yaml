@@ -1,0 +1,18 @@
+code: "5.2.2"
+guid: 0F568473-880D-43BD-B5CE-590100FDCAF6
+name: Eat
+description: Use this domain for words related to eating.
+ocmCodes: 260 Food Consumption; 262 Diet; 264 Eating
+louwNidaCodes: 23A Eat, Drink
+related: ["5.2.2.1"]
+questions:
+  - q: What general words refer to eating food?
+    words: eat, consume, ingest, partake
+  - q: What words refer to licking with the tongue?
+    words: lick
+  - q: What words refer to swallowing?
+    words: swallow, gulp
+  - q: What words refer to difficulty in swallowing?
+    words: choke, gag
+  - q: What words refer to feeding someone?
+    words: feed (someone), force-feed

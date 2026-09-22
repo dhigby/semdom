@@ -1,0 +1,11 @@
+code: "4.3.5"
+guid: 7D54D3DD-5FB2-4640-9BCF-C234696AF894
+name: Honest
+description: >-
+  Use this domain for words related to being honest--words describing someone who does not
+  cheat, steal, or break the law.
+questions:
+  - q: What words describe someone who is honest?
+    words: honest, reputable, incorruptible, above suspicion
+  - q: What words refer to the quality of being honest?
+    words: honesty, integrity

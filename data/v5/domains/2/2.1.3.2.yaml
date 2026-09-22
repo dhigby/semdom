@@ -1,0 +1,15 @@
+code: "2.1.3.2"
+guid: 71F89512-17F0-484C-ACA8-DDD226E3C794
+name: Leg
+description: Use this domain for the parts of the leg and foot.
+questions:
+  - q: What general words refer to the entire leg?
+    words: leg
+  - q: What are the parts of the leg?
+    words: >-
+      upper leg, groin, thigh, knee, kneecap, lower leg, calf, shin, ankle, 'wing', foot,
+      heel, sole, ball of foot, the outside part of foot, instep, arch, shank
+  - q: What words refer to a part of a leg when it is in a particular position?
+    words: lap
+  - q: What words describe a person's legs?
+    words: pigeon toed, knock-kneed, bow-legged, flat-footed

@@ -1,0 +1,42 @@
+code: "3.3.4.1"
+guid: A3E905B8-107B-4311-BB50-0ABE151131B3
+name: Give permission
+description: >-
+  Use this domain for words related to giving someone permission to do something. This
+  domain is about a scenario: You have authority over me. I want to do something. I ask you
+  for permission to do it. You give permission or refuse permission.
+louwNidaCodes: 37C Exercise Authority
+questions:
+  - q: What words refer to giving someone permission to do something?
+    words: >-
+      give permission, agree to, allow, authorize, consent to, give your consent, grant
+      permission, let, permit, say someone can do something, not stand in someone's way,
+      sanction, suffer, give someone the go-ahead, okay something, give someone the green
+      light, give leave
+    sentence: John <allowed> us to use his shovel.
+  - q: What words do people use when they give someone permission?
+    words: go ahead, be my guest, feel free, help yourself
+  - q: What words refer to being allowed to do something?
+    words: get permission, can, be allowed, be free to do something, may
+  - q: >-
+      What words refer to allowing something to happen by not making any effort to prevent
+      it?
+    words: let, allow, not stand in someone's way, unchecked
+  - q: What words refer to allowing someone to do whatever they want?
+    words: >-
+      give someone complete freedom, give someone a free hand, give someone carte blanche,
+      give someone the run of
+  - q: What words refer to permission to do something?
+    words: >-
+      permission, authorization, consent, clearance, someone's say-so, license, green light,
+      the okay, the go-ahead
+  - q: >-
+      What words refer to an official document that gives someone permission to do
+      something?
+    words: permit, license, warrant
+  - q: >-
+      What words refer to giving someone permission to do something that is not usually
+      allowed?
+    words: bend the rules, make an exception, concession, excuse, exempt, waive
+  - q: What words describe something that people are allowed to do?
+    words: be allowed, allowable, permissible, acceptable

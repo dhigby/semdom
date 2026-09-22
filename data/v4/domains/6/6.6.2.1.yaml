@@ -1,0 +1,23 @@
+code: "6.6.2.1"
+guid: C5996B7D-0ACC-4AC7-BFA0-09B93A0ECCBC
+name: Mining
+description: Use this domain for words related to mining.
+ocmCodes: 316 Mining and Quarrying; 317 Special Deposits
+related: ["7.8.6", "1.2.1.5"]
+questions:
+  - q: What words refer to digging minerals out of the ground?
+    words: mine (v), quarry (v)
+  - q: What words refer to a place where minerals are mined?
+    words: >-
+      mine (n), gold mine, coal mine, strip mine, quarry (n), mother lode, deposit, vein,
+      coalfield
+  - q: What are the parts of a mine?
+    words: mine shaft, tailings, entrance, head
+  - q: What words refer to looking for minerals?
+    words: prospecting, pan for gold
+  - q: What words refer to finding minerals?
+    words: eureka, strike it rich
+  - q: What words refer to a person who mines?
+    words: miner, prospector
+  - q: What tools and machines are used in mining?
+    words: pan, sluice, Geiger counter, metal detector, pick, rock hammer

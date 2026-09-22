@@ -1,0 +1,50 @@
+code: "6.6"
+guid: 9BAB95C4-9773-4894-9CB9-D7AD39378B45
+name: Occupation
+description: Use this domain for words related to occupations.
+louwNidaCodes: 42E Craft, Trade
+questions:
+  - q: What words refer to a person's occupation?
+    words: occupation, job, living, work, employment, profession, trade
+  - q: What are the occupations in agriculture?
+    words: farmer, palm tree climber
+  - q: What are the occupations in animal husbandry?
+    words: shepherd, herdsman
+  - q: What are the occupations in hunting and fishing?
+    words: hunter, fisherman, honey gatherer
+  - q: What are the occupations in medicine?
+    words: >-
+      doctor, nurse, medicine man, midwife, medical technician, pharmacist, herbalist,
+      witchdoctor
+  - q: What are the occupations in hotel management?
+    words: hotel owner, concierge, porter, desk clerk
+  - q: What are the occupations in administration?
+    words: business man, secretary, treasurer, accountant
+  - q: What are the occupations in manufacturing?
+    words: mechanic, potter, tailor, weaver, blacksmith
+  - q: What are the occupations in building?
+    words: carpenter, bricklayer
+  - q: What are the occupations in trading?
+    words: storekeeper, shopkeeper, trader, merchant
+  - q: What are the occupations in food preparation?
+    words: cook, butcher, baker, restaurant owner, waiter
+  - q: What are the occupations in politics?
+    words: >-
+      president, MP, congressman, senator, legislator, cabinet member, minister, ambassador,
+      civil servant, lawyer, lobbyist, tax collector, customs officer
+  - q: What are the occupations in childcare?
+    words: homemaker, children's caretaker, nursery worker, nurse (for children), nanny
+  - q: What are the occupations in religion?
+    words: pastor, priest, clergyman, diviner
+  - q: What are the occupations in transportation?
+    words: >-
+      chauffeur, driver, truck driver, cab driver, porter, loader, mover, dispatcher,
+      captain of ship, sailor, pilot, copilot, navigator, steward, stewardess
+  - q: What are the occupations in the police and military?
+    words: policeman, guard, watchman, soldier, officer
+  - q: What is a person called who is very good at his job?
+    words: expert, skilled worker, master craftsman, leader in his field, specialist
+  - q: What words are used of finding a job?
+    words: look for a job, find a job, find employment, job hunting
+  - q: What words are used of doing a job?
+    words: do a job, make a living, perform a task

@@ -1,0 +1,25 @@
+code: "9.6.3.5"
+guid: FBF40F2E-E743-479D-80B2-63325407D5D1
+name: Markers of identificational and explanatory clauses
+description: >-
+  Use this domain for words that begin a clause that identifies a specific case or example
+  of what has just been said, or that explains what has just been said. Specific case: I
+  have just mentioned a general class of things or a general idea and want to give a
+  specific example of what I am talking about. Explanation: I have just said something and I
+  think people might misunderstand, so I want to explain what I mean. Digression: I am
+  talking about a particular topic, but want to say something that does not fit into my
+  topic, so I say something that is about a different topic.
+louwNidaCodes: 91E Markers of Identificational and Explanatory Clauses
+questions:
+  - q: What words are used to identify a specific case?
+    words: that, namely, namely that, that is, i.e.
+  - q: What words are used to introduce an example?
+    words: >-
+      for example, e.g., as follows, as below, such as, let me give you an example, to
+      illustrate
+  - q: What words are used to introduce an explanation?
+    words: what I mean is, that is to say, let me add, allow me to explain, it's like
+  - q: What words are used to introduce a conclusion?
+    words: which shows that, so we find, so we see
+  - q: What words mark a digression?
+    words: let me just insert, as an aside, this is off the subject, oh by the way

@@ -1,0 +1,11 @@
+code: "9.2.3.5"
+guid: AD4D28F0-5CBB-4B82-B736-9B41860A248C
+name: Demonstrative pronouns
+description: Use this domain for demonstrative pronouns.
+louwNidaCodes: 92G Demonstrative or Deictic Reference
+questions:
+  - q: What pronouns are used to indicate a particular referent?
+    words: a, an, the, this, these, that, those, specific
+    sentence: >-
+      <the> leader; <a> really old man; <this> new shirt; <these> tomatoes; <that> book;
+      <those> flowers; I want <this>.; <That> is what I want.

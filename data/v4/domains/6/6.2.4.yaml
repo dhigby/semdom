@@ -1,0 +1,11 @@
+code: "6.2.4"
+guid: 811E8C93-D97A-4AAB-BD67-268B7783FF11
+name: Tend a field
+description: Use this domain for words related to tending a field.
+questions:
+  - q: What words refer to tending a field?
+    words: >-
+      tend a field, cultivate, weed, hoe, pull weeds, support a banana stalk, spray,
+      insecticide
+  - q: What words refer to protecting a field from birds?
+    words: scarecrow

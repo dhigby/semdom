@@ -1,0 +1,22 @@
+code: "7.9.3"
+guid: CA98BD7B-8711-41F6-86D0-5CD07B7BFE0D
+name: Destroy
+description: >-
+  Use this domain for words referring to destroying something--to damage something so that
+  it is beyond repair and cannot be used.
+louwNidaCodes: 20 Violence, Harm, Destroy, Kill; 20C Destroy
+questions:
+  - q: What words refer to destroying something?
+    words: destroy, blow up, hose (v), ruin, total (v), wreck, blow up, burn down
+  - q: What words refer to something being destroyed?
+    words: fall down, collapse, be blown down
+  - q: What words refer to the act or process of destroying something?
+    words: destruction, ruin
+  - q: What words refer to someone or something that destroys things?
+    words: destroyer
+  - q: What words describe someone of something that destroys things?
+    words: destructive
+  - q: What words refer to something that has been destroyed?
+    words: ruin, wreck, wreckage, shipwreck
+  - q: What words describe something that has been destroyed?
+    words: destroyed, ruined, wrecked, be in ruins

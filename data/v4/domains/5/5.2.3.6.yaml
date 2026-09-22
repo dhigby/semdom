@@ -1,0 +1,10 @@
+code: "5.2.3.6"
+guid: 31DC3D15-C6F8-4405-A33B-8F3A52F8671A
+name: Beverage
+description: Use this domain for words referring to things people drink.
+ocmCodes: 272 Nonalcoholic Beverages
+questions:
+  - q: What general words refer to things people drink?
+    words: beverage, drink
+  - q: What types of drinks are there?
+    words: water, milk, juice, tea, coffee, soda, soda pop, coke, milkshake, malt, chocolate

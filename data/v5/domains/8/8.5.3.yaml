@@ -1,0 +1,12 @@
+code: "8.5.3"
+guid: 80BCBC99-3C85-46D6-B15C-895367231747
+name: Be at a place
+description: Use this domain for words related to being at a place.
+louwNidaCodes: 85A Be in a Place; 83E At, Beside, Near, Far; 85 Existence in Space
+questions:
+  - q: What words indicate that something or someone is in a particular place?
+    words: >-
+      be at a place/location, be in a place/location, be located, be situated, be localized,
+      attendance, be present, presence, sit, lie, laid, occupy, be resting
+  - q: What words indicate that something or someone is in the correct or expected place?
+    words: in place, in the proper place, in your place, out of place

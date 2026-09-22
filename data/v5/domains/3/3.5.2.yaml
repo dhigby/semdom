@@ -1,0 +1,24 @@
+code: "3.5.2"
+guid: 05472990-3F51-40B3-BCA8-DF3CF383328B
+name: Make speech
+description: >-
+  Use this domain for words related to making a speech--to talk for a long time to many
+  people.
+ocmCodes: 537 Oratory; 544 Public Lectures
+questions:
+  - q: What words refer to making a speech?
+    words: >-
+      make a speech, give a speech, preach, sermonize, teach, lecture (v), give a talk on,
+      address (v), orate, public speaking
+  - q: What words refer to the person making the speech?
+    words: speaker, preacher, teacher, lecturer
+  - q: What words refer to the people listening to the speech?
+    words: audience
+  - q: What words refer to what is said?
+    words: speech, sermon, lecture (n), talk (n), address (n), oration, homily
+  - q: What words refer to the parts of a speech?
+    words: introduction, body of a speech, point, make a point, conclusion, concluding remarks
+  - q: What words refer to knowing or learning how to give a good speech?
+    words: oratory, homiletics
+  - q: What words describe a speaker who talks for a long time?
+    words: long winded

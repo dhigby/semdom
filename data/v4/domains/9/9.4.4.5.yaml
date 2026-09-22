@@ -1,0 +1,22 @@
+code: "9.4.4.5"
+guid: E0C32642-7C51-4E23-A776-F63F2F2F936D
+name: Uncertain
+description: >-
+  Use this domain for words that indicate that no one is certain that something is true, or
+  when it is impossible to be certain that something is true.
+louwNidaCodes: 71C Certain, Uncertain
+questions:
+  - q: What words indicate that something is uncertain?
+    words: uncertain, not be certain, not be clear, it's up in the air, there is uncertainty
+  - q: >-
+      What words indicate that something is uncertain, but it is likely that something bad
+      will happen?
+    words: >-
+      uncertain, doubtful, be in doubt, there is doubt about, it's touch and go, hang in the
+      balance, iffy
+  - q: What words indicate that two things are equally possible?
+    words: could go either way, borderline, there's a fifty-fifty chance, it's a toss-up
+  - q: >-
+      What words indicate that something is uncertain because people have many different
+      opinions about it?
+    words: debatable, questionable, open to question, open to debate, moot point

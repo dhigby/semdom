@@ -1,0 +1,19 @@
+code: "4.3.4"
+guid: 771E3882-F672-4E67-8580-EDD82D7E5090
+name: Do good to
+description: Use this domain for words referring to doing good to someone.
+louwNidaCodes: 88I Kindness, Harshness; 35 Help, Care For
+questions:
+  - q: What words refer to doing good to someone?
+    words: >-
+      do good to, be good to, be kind to, benefit (v), treat well, be merciful to, bless,
+      care for
+  - q: What words describe a person who does good to other people?
+    words: >-
+      accommodating, benevolent, benign, caring, charitable, chivalrous, considerate,
+      courteous, gentle, gracious, humane, kind, kindhearted, kindly, nice, obliging,
+      thoughtful
+  - q: What words refer to something good that someone does for another person?
+    words: kindness, benefit (n), blessing, courtesy, charity
+  - q: What words refer to the character quality of doing good?
+    words: consideration, courtesy, graciousness, kindness, kindliness, thoughtfulness

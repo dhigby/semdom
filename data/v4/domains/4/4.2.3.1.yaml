@@ -1,0 +1,15 @@
+code: "4.2.3.1"
+guid: AA0F165D-3013-4A0C-B68C-14EA317013F9
+name: Compose music
+description: Use this domain for words related to composing music.
+questions:
+  - q: What words refer to composing music?
+    words: compose, write, arrange
+  - q: What words refer to a person who composes music?
+    words: composer, writer, arranger
+  - q: What words refer to a piece of music that a person has composed?
+    words: composition, arrangement, score
+  - q: What words refer to the symbols used to write music?
+    words: >-
+      music, notation, key, staff, bar, note, quarter note, half note, whole note, sharp,
+      flat, scale

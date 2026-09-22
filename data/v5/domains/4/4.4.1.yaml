@@ -1,0 +1,19 @@
+code: "4.4.1"
+guid: C1144A6E-3FCE-4084-93D6-6F305EDA8B1F
+name: Prosperity
+description: Use this domain for words related to prosperity--when good things are happening.
+louwNidaCodes: 22G Favorable Circumstances or State
+questions:
+  - q: What words refer to life going well?
+    words: >-
+      be fortunate, be blessed, have it easy, have a good life, prosper, be prosperous,
+      everything is going well, have a good time, have plenty
+  - q: What words refer to a good life?
+    words: >-
+      the good life, good times, prosperity, blessing, good fortune, ease, welfare, quality
+      of life, utopia
+  - q: What words describe a good life?
+    words: >-
+      good, blessed, fortunate, easy, prosperous, carefree, trouble free, quality,
+      plentiful, fun-filled, fantastic, great, full, fruitful, productive, enjoyable, happy,
+      wonderful

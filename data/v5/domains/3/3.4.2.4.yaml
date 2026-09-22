@@ -1,0 +1,47 @@
+code: "3.4.2.4"
+guid: 2B6F9AF7-04EE-4030-A2CD-87D55959CAA8
+name: Afraid
+description: >-
+  Use this domain for words related to fear--to feel bad because you think something bad
+  might happen to you.
+louwNidaCodes: 25V Fear, Terror, Alarm
+related: ["4.4.3.1", "4.4.3.2"]
+questions:
+  - q: What words refer to feeling afraid?
+    words: feel afraid, be afraid, fear (v), for fear of, have a horror of
+  - q: What words refer to the feeling of fear?
+    words: fear (n), fright, alarm, foreboding, horror, panic (n), terror, trepidation
+  - q: What words describe someone who feels afraid?
+    words: afraid, fearful, frightened, alarmed, panicky, quaking, scared, skittish, weak-kneed
+  - q: What words refer to feeling very afraid?
+    words: >-
+      terrified, terror, panic, panic-stricken, petrified, scared stiff, scared out of your
+      wits, scared to death
+  - q: What words refer to feeling suddenly afraid because of something that happens?
+    words: get a fright, panic (v), go white as a sheet, nearly jump out of your skin
+  - q: What words refer to feeling afraid for a long time?
+    words: phobia, have a phobia about, live in fear, dread (n), dread (v)
+  - q: What words refer to causing someone to feel afraid?
+    words: >-
+      frighten, give someone a fright, frighten the life out of someone, alarm (v), cow (v),
+      give someone the creeps, daunt, intimidate, petrify, rattle (v), scare, spook,
+      startle, terrify, terrorize, unnerve, make your hair stand on end, make your blood run
+      cold
+  - q: What words refer to something that causes someone to feel afraid?
+    words: scare (n), terror, horror, alarmist
+  - q: What words describe something that causes someone to feel afraid?
+    words: >-
+      frightening, frightful, alarming, blood-curdling, chilling, creepy, dreadful, eerie,
+      fearsome, forbidding, hair-raising, scary, spine-chilling, spooky, terrifying
+  - q: What words describe someone who is easily frightened?
+    words: scare easily, timid, be of a nervous disposition
+  - q: What words describe someone who is not afraid?
+    words: >-
+      brave, bravely, bravery, courage, courageous, courageously, fearless, fearlessly,
+      unafraid
+  - q: What are the signs that someone is afraid?
+    words: >-
+      tremble, quail, quake, shake, shiver, shudder, heart pounds, teeth chatter, be
+      paralyzed with fear, freeze, cower, crouch, cringe, jump, flinch, wince, shrink,
+      slink, stampede, turn tail, turn white, blanch, cry out, goose-flesh, goose-pimples,
+      goose-bumps

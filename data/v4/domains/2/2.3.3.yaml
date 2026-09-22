@@ -1,0 +1,48 @@
+code: "2.3.3"
+guid: 8497FB66-8B91-46B9-A0D5-FB9385319561
+name: Taste
+description: Use this domain for words related to tasting something.
+louwNidaCodes: 24D Taste; 79H Sweet, Bitter, Tasteless
+questions:
+  - q: What words refer to tasting something?
+    words: taste, relish, savor
+  - q: What words refer to deliberately trying to taste something?
+    words: taste, have a taste, try, sample, lick, sip
+  - q: What words refer to the ability to taste?
+    words: sense of taste, palate, taste buds
+  - q: What words describe something that has to do with tasting?
+    words: gustatory
+  - q: What words refer to the taste of something?
+    words: taste, flavor, tang, aftertaste, hint, savor
+  - q: >-
+      What words indicate that something tastes like another thing or tastes a particular
+      way?
+    words: >-
+      taste like, taste of, taste (good/bad), have a (good/bad) taste, (good/bad) tasting,
+      flavored
+  - q: What words describe something that tastes good?
+    words: >-
+      delicious, tasty, good, nice, palatable, flavorful, yummy, juicy, succulent,
+      delectable, luscious, rich, scrumptious, fresh, ambrosial, toothsome
+  - q: What words describe something that looks like it tastes good?
+    words: appetizing, tempting, mouth-watering, make your mouth water
+  - q: What words describe something that tastes bad?
+    words: >-
+      disgusting, revolting, horrible, bad, off, awful, distasteful, terrible, unpalatable,
+      unsavory, yucky
+  - q: What words describe something that has a strong or spicy taste?
+    words: strong, hot, spicy, piquant, fiery, pungent, peppery
+  - q: What words describe something that does not have a strong taste?
+    words: mild, bland, insipid, weak
+  - q: What words describe something that has no taste?
+    words: tasteless, have no taste, not taste of anything, flavorless
+  - q: What words describe something that has a sweet taste?
+    words: sweet, sugary, sickly sweet, sweeten
+  - q: What words describe something that is not sweet?
+    words: unsweetened, savory, dry
+  - q: What words describe something that has a sour taste?
+    words: sour, sharp, tart, tangy
+  - q: What words describe something that has a bitter taste?
+    words: bitter, acrid, astringent, bitter-tasting, caustic
+  - q: What words describe something that has a salty taste?
+    words: salty

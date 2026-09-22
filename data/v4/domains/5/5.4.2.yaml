@@ -1,0 +1,19 @@
+code: "5.4.2"
+guid: 5BDB3C06-FBEE-4F5F-991A-E2128F65BB86
+name: Cosmetics
+description: >-
+  Use this domain for words related to cosmetics--things you put on your skin to make
+  yourself beautiful in appearance.
+questions:
+  - q: What words refer to cosmetics?
+    words: cosmetics, make-up
+  - q: What words refer to types of cosmetics?
+    words: >-
+      lipstick, cream, powder, blusher, eyeliner, eyeshadow, foundation, mascara, rouge,
+      nail polish, moisturizer, eye pencil, lotion, ointment
+  - q: What words refer to putting on cosmetics?
+    words: put on makeup, apply cosmetics, make up, powder your nose
+  - q: What words refer to having cosmetics on?
+    words: have on, wear
+  - q: What words describe someone who is wearing cosmetics?
+    words: made-up

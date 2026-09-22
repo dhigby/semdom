@@ -1,0 +1,21 @@
+code: "8.4.1.2.1"
+guid: 1088CC2F-83AE-4911-8018-401A745DCFD5
+name: Night
+description: Use this domain for words referring to night.
+questions:
+  - q: What words refer to night?
+    words: night, nighttime
+  - q: What words refer to this night?
+    words: tonight, this night
+  - q: What words refer to the night before this one?
+    words: last night
+  - q: What words refer to two nights ago?
+    words: two nights ago, the night before last
+  - q: What words refer to the night after this one?
+    words: tomorrow night
+  - q: What words indicate that something happens during the night?
+    words: at night, during the night, in the night, by night
+  - q: What words are used to indicate that something happens every night?
+    words: nightly, every night, each night
+  - q: What words indicate that something happens during the whole night?
+    words: all night long, the whole night long

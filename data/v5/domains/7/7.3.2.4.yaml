@@ -1,0 +1,18 @@
+code: "7.3.2.4"
+guid: 7C7FC1B6-3775-4881-BBE0-9D0CE50E42A9
+name: Lift
+description: >-
+  Use this domain for words referring to putting something above you or above something
+  else, putting something on top of something else, or moving something higher than it was.
+related: ["8.2.6.3"]
+questions:
+  - q: What words refer to moving something up?
+    words: >-
+      lift, lift up, raise, put up, hoist, pull up, elevate, erect, uplift, heighten, jack
+      up, pick up, levitate
+  - q: What words refer to putting something above something else?
+    words: put above, place over
+  - q: What words refer to putting something on top of something?
+    words: put on top, superimpose
+  - q: What words refer to something used to lift things?
+    words: lever, fulcrum, elevator, lift, jack, hoist, crane

@@ -1,0 +1,10 @@
+code: "9.2.3.4"
+guid: 76795FDD-55DC-4FB7-A9AD-D1423C31DF50
+name: Question words
+description: Use this domain for pronouns used in questions.
+questions:
+  - q: What pronouns are used in questions?
+    words: who, what, when, where, how, why
+    sentence: >-
+      <Who> is that?; <Where> did you go?; <How many> did you get?; <How often> will you
+      go?; <Why> did you do that?

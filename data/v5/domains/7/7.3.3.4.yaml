@@ -1,0 +1,9 @@
+code: "7.3.3.4"
+guid: B79F8775-D8D0-4AA5-B4AB-917F6F3D6C13
+name: Chase away
+description: >-
+  Use this domain for words related to chasing or driving people and animals--to cause
+  someone (or an animal) to move.
+questions:
+  - q: What words refer to causing someone to go away?
+    words: chase away, send away, exile, expel, send out, dismiss

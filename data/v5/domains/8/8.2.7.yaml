@@ -1,0 +1,15 @@
+code: "8.2.7"
+guid: D0DEE676-F3AE-43CC-96F1-7E3BB65870F5
+name: Fit, size
+description: >-
+  Use this domain for words referring to something fitting--when something is not too big or
+  too small, but just right.
+questions:
+  - q: What words refer to something fitting?
+    words: fit, dovetail, go in, go on
+  - q: What words describe something that fits?
+    words: be the right size, dovetailed, a good fit
+  - q: What words refer to the size of something?
+    words: size, fit (n)
+  - q: What words refer to changing the size of something so that it will fit?
+    words: fit something to something, resize

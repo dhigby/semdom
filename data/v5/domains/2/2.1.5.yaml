@@ -1,0 +1,32 @@
+code: "2.1.5"
+guid: 2E5ACFD2-3009-4496-9CC2-58D2A0088994
+name: Hair
+description: Use this domain for words related to hair.
+related: ["5.4.3"]
+questions:
+  - q: What words refer to hair?
+    words: hair
+  - q: What word refer to one hair?
+    words: strand
+  - q: What are the parts of a hair?
+    words: follicle, root, end, split end
+  - q: What words refer to hair on different parts of the body?
+    words: head hair, forelock, body hair, pubic hair
+  - q: What words refer to hair on the face?
+    words: beard, mustache, whiskers, sideburns, goatee, facial hair, peach fuzz
+  - q: What words describe types of hair?
+    words: kinky, curl, curly, wavy, straight, coarse, fine, thick, thin
+  - q: What words describe the color of hair?
+    words: blond, red, auburn, chestnut, fair, dark, grizzled, mousy, ginger, sandy
+  - q: What words describe someone who has hair of a particular color?
+    words: >-
+      blonde, brunette, redhead, towhead, redheaded, fair-haired, dark-haired, black-haired,
+      grey-haired
+  - q: What words describe the direction hair grows on the head?
+    words: cowlick, crown
+  - q: What words describe someone who has lots of hair?
+    words: hairy, bearded, bushy
+  - q: What words describe a man who has lost his hair?
+    words: bald, bald spot, thinning hair, receding hairline
+  - q: What words refer to dirt in the hair?
+    words: dandruff, dander

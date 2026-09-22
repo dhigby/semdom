@@ -1,0 +1,20 @@
+code: "4.4.4.1"
+guid: 51C2E2E4-438C-414B-BD15-773B664DD289
+name: Mercy
+description: Use this domain for words related to having mercy on someone who has done something bad.
+louwNidaCodes: 88J Mercy, Merciless
+questions:
+  - q: What words refer to having mercy on someone?
+    words: >-
+      have mercy, be merciful, be compassionate, feel sorry for, have a heart, be kind,
+      empathize, empathy, pity (v), spare
+  - q: What words describe someone who has mercy on another person?
+    words: merciful, compassionate, humane, lenient, long-suffering, sparing
+  - q: What words refer to the act of having mercy?
+    words: >-
+      mercy, mercies, clemency, compassion, empathetic, forbearance, kindness, leniency,
+      pity (n)
+  - q: What words describe someone who does not have mercy on other people?
+    words: merciless, unmerciful, heartless, pitiless, ruthless, ruthlessness
+  - q: What words describe someone who needs mercy?
+    words: pitiable

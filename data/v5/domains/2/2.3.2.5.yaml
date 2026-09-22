@@ -1,0 +1,28 @@
+code: "2.3.2.5"
+guid: D853597B-F3ED-470b-B6DD-8FE93B8E43EB
+name: Quiet
+description: Use this domain for words that describe quiet sounds.
+related: ["3.5.1.1.5"]
+questions:
+  - q: What words describe a quiet sound?
+    words: quiet, low, soft, muffled, faint, muted, weak
+  - q: What words describe something or someone that is quiet?
+    words: quiet, silent
+  - q: What words describe a quiet voice?
+    words: hushed, subdued
+  - q: What words describe a place or situation that is quiet?
+    words: quiet, peace and quiet, hush
+  - q: What words refer to a quiet sound?
+    words: whisper (n), murmur, rustle
+  - q: What words refer to making a quiet sound?
+    words: whisper (v), murmur, mutter
+  - q: What words refer to becoming quieter?
+    words: get quieter, go quiet, die down, die away, fade away, fall silent, lower your voice
+  - q: What words refer to making something or someone quieter?
+    words: quiet someone down, silence (v), hush, muffle, turn down, shut someone up
+  - q: What do you say when you want someone to be quiet?
+    words: shh, shush, shut up, be quiet, keep it down, pipe down
+  - q: What words refer to there not being any sound?
+    words: silent, silence, you could hear a pin drop
+  - q: What words indicate that you do something without making any noise?
+    words: without a sound, not make a sound, in silence, noiseless, soundless, quietly, silently

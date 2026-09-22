@@ -1,0 +1,19 @@
+code: "9.2.3.6"
+guid: A139558A-8DF9-4FC9-BD3E-816A1408BA7F
+name: Personally
+description: >-
+  Use this domain for words that indicate that someone does something himself, rather than
+  through someone else.
+questions:
+  - q: >-
+      What words are used to indicate that you do something yourself, rather than through
+      someone else?
+    words: personally, in person, direct
+    sentence: >-
+      You don't need to do anything. I will take care of it <personally>.; Instead of
+      sending a representative, he is coming <in person>.; You can talk to him <direct>.
+  - q: >-
+      What words are used to indicate that you make something yourself rather than using a
+      machine?
+    words: by hand
+    sentence: We made this book entirely <by hand>, using locally available materials.

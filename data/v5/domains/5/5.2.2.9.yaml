@@ -1,0 +1,11 @@
+code: "5.2.2.9"
+guid: B3D3DD7D-0CB1-4C25-BCAE-CC402FCFA3EA
+name: Fast, not eat
+description: Use this domain for words related to fasting--to not eat for a period of time.
+questions:
+  - q: What words refer fasting?
+    words: to fast, fast (n), not eat, go without food
+  - q: What words refer to different kinds of fasts?
+    words: neither eat nor drink, liquid diet, daytime fast, total fast
+  - q: What words refer to stopping a fast?
+    words: break a fast

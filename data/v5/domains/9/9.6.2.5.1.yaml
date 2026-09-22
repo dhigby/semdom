@@ -1,0 +1,10 @@
+code: "9.6.2.5.1"
+guid: E173EA34-C216-4702-AA24-CA9AB40D48DD
+name: Reason
+description: Use this domain for words that reason why someone does something.
+louwNidaCodes: 89G Cause and/or Reason
+questions:
+  - q: What words reason why someone does something?
+    words: reason, motive, motivation
+  - q: What words refer to a reason that explains why something happened?
+    words: reason, explanation

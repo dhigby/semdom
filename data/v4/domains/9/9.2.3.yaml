@@ -1,0 +1,47 @@
+code: "9.2.3"
+guid: 0296465A-25DE-4AF6-A122-376956B4B452
+name: Pronouns
+description: >-
+  Use this domain for the personal pronouns, including independent, subject, object, and
+  possessive pronouns. It is best to collect all the pronouns in a chart. This way you are
+  more certain of collecting them all and seeing how they are related to each other. A
+  language may have more sets and more distinctions than English does, or it may have less.
+  For instance some languages have a pronoun 'we' which includes the hearer, and another
+  pronoun 'we' which excludes the hearer. Other languages have an indefinite pronoun that
+  means something like the English word 'someone'. Many languages do not have the masculine
+  (he), feminine (she), and neuter (it) distinctions that English has. It is necessary to
+  determine the sets and functions of the pronouns for each language.
+louwNidaCodes: >-
+  92 Discourse Referentials; 92A Speaker; 92B Speaker and Those Associated with the Speaker;
+  92C Receptor, Receptors; 92D Whom or What Spoken or Written About; 92H Emphatic Adjunct
+questions:
+  - q: What general words refer to the class of pronouns?
+    words: pronoun
+  - q: What pronouns refer to the speaker?
+    words: I, me, my, mine
+  - q: What pronouns refer to the speaker and those associated with the speaker?
+    words: we, us, our, ours
+  - q: What pronouns refer to the audience?
+    words: you, your, yours
+  - q: What pronouns refer to the people or things being spoken about?
+    words: he, him, his, she, her, hers, it, its, they, them, their, theirs
+  - q: What pronouns are used for the subject of a sentence?
+    words: I, you, he, she, it, we, you, they
+    sentence: <I> went to town.
+  - q: What pronouns are used for the object of a sentence?
+    words: me, you, him, her, it, us, you, them
+    sentence: John hit <me>.
+  - q: What pronouns are used in a possessive phrase?
+    words: my, your, his, her, its, our, your, their
+    sentence: This is <my> house.
+  - q: What pronouns are used in a possessive clause?
+    words: mine, yours, his, hers, its, ours, yours, theirs
+    sentence: That house is <mine>.
+  - q: >-
+      What pronouns are used to emphasize the people or things being spoken about,
+      especially when you are emphasizing that one person does something and not someone
+      else?
+    words: as for me (I), as for you (you), as for him (he), as for us (we), as for them (they)
+    sentence: >-
+      He <himself> admits he is guilty.; I did it <myself> without any help.; You can do
+      what you want. <As for me>, I'm not going.

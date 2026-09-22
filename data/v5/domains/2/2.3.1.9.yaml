@@ -1,0 +1,22 @@
+code: "2.3.1.9"
+guid: E4E05724-01EC-4C61-90F0-B8658CC8CA51
+name: Something used to see
+description: >-
+  Use this domain for words referring to glasses and other things people use to help them
+  see.
+related: ["2.5.4.2"]
+questions:
+  - q: What words refer to things people use to help them see better?
+    words: lens, eyepiece, optical instrument, prism, sight, gun sight, bomb sight, scope, viewer
+  - q: What words refer to glasses?
+    words: >-
+      glasses, eyeglasses, corrective lenses, contact lens, bifocals, spectacles, specs,
+      monocle
+  - q: What things do people use to see small things?
+    words: microscope, magnifying glass, magnifier
+  - q: What things do people use to see things far away?
+    words: telescope, binoculars, field glass
+  - q: What things do people use to protect their eyes?
+    words: sunglasses, dark glasses, goggles
+  - q: What do these things do?
+    words: enlarge, reflect, focus

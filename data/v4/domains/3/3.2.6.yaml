@@ -1,0 +1,28 @@
+code: "3.2.6"
+guid: 9F868391-F1DF-4682-BDCB-2C2C799006CF
+name: Remember
+description: Use this domain for words referring to remembering something you know.
+louwNidaCodes: >-
+  29 Memory and Recall; 29B Recalling from Memory; 29D Recalling and Responding with
+  Appropriate Action
+questions:
+  - q: What words refer to remembering something?
+    words: >-
+      remember, recall, remind oneself, call to mind, bring to mind, think of, recognize,
+      recognition, recollect, review, come (back) to, mindful, heed, think, in retrospect
+  - q: What words refer to memorizing something?
+    words: memorize, commit to memory
+  - q: What words refer to causing someone to think of or remember something?
+    words: remind, bring up, prompt, jog someone's memory, jog your mind
+  - q: What words refer to something that reminds a person of something?
+    words: reminder, note, memo, memorandum, cue, souvenir, memorial, remembrance
+  - q: What words refer to remembering things that happened in the past?
+    words: reminisce, recall, think back on
+  - q: What words refer to the things a person remembers?
+    words: memory, recollection
+  - q: What words refer to remembering to do something?
+    words: heed, mind, mindful, respond
+  - q: What words refer to remembering something good?
+    words: cherish (a memory/thought), treasure
+  - q: What words refer to remembering something bad?
+    words: regret, rue the day

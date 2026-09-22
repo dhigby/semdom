@@ -1,0 +1,52 @@
+code: "8.2"
+guid: 8A0C5ED9-0041-4AF5-A193-329E6C9F2717
+name: Big
+description: Use this domain for words describing something that is big.
+louwNidaCodes: 79B' Large, Small
+related: ["8.3.1.9"]
+questions:
+  - q: What words describe something that is big?
+    words: >-
+      big, large, biggish, bulky, fair-sized, be a fair size, good-sized, be a good size,
+      bulky, grand, imposing, sizable, substantial
+  - q: What words describe something that is very big?
+    words: >-
+      huge, enormous, massive, colossal, great, giant, gigantic, great big, be a whopper, be
+      quite a size, astronomical, elephantine, mammoth, monstrous, monumental, prodigious,
+      stupendous, tremendous, vast
+  - q: What words refer to something that is big?
+    words: mass, giant
+  - q: What words refer to something becoming big?
+    words: >-
+      get bigger, expand, grow, swell up, stretch, inflate, increase in size, swell,
+      mushroom
+  - q: What words refer to part of something becoming big?
+    words: branch, excrescence
+  - q: What words refer to making something big?
+    words: extend, stretch, enlarge, blow up, magnify, expand, inflate, augment
+  - q: What words refer to the process of becoming big?
+    words: enlargement, expansion, extension, growth, inflation, increase (n), magnification
+  - q: What words describe something that has been made big?
+    words: enlarged, swollen, inflated
+  - q: What words refer to being bigger than another thing?
+    words: bigger, biggest, larger, largest, greater, greatest
+  - q: What words describe something that is much bigger than other things of the same type?
+    words: outsized, giant, extra large
+  - q: What words refer to how big something is?
+    words: size, dimensions, magnitude
+  - q: What words indicate how big something is?
+    words: how big, measure (10 meters), be 10 meters long/wide/high
+  - q: What words refer to measuring how big something is?
+    words: measure
+  - q: What words refer to a unit of size?
+    words: cubic (inch, foot, yard)
+  - q: What instruments are used to measure the size of something?
+    words: ruler, tape measure
+  - q: What words describe a system of measures?
+    words: metric
+  - q: What words describe something that is not big or small?
+    words: medium, average, medium-sized, average-sized, in between
+  - q: What words refer to something being big on one side or end?
+    words: flare, spread, lopsided, fan out
+  - q: What words describe something that is too big?
+    words: gross, outsized, overgrown, oversized, unwieldy

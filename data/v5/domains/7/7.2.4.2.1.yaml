@@ -1,0 +1,18 @@
+code: "7.2.4.2.1"
+guid: 4BFE53D2-FB85-4397-98A8-97D59B907064
+name: Boat
+description: Use this domain for words related to a boat.
+louwNidaCodes: 6H Boats and Parts of Boats
+questions:
+  - q: What types of boats are there?
+    words: ship, boat, canoe, raft, life raft, lifeboat, ship's boat, surfboard, submarine
+  - q: What are the parts of a boat?
+    words: >-
+      bow, stern, starboard, port, deck, gunwale, below decks, mast, spar, crow's nest,
+      figurehead, rudder, helm, superstructure
+  - q: What equipment is used in a boat?
+    words: oar, paddle, sail, rigging, plank, compass, signal flag
+  - q: What words are used of operating a boat?
+    words: row, paddle, sail, push a boat with a pole, pole a boat, bale out water
+  - q: What words refer to a person who uses a boat?
+    words: sailor, captain

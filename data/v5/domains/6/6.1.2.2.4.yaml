@@ -1,0 +1,9 @@
+code: "6.1.2.2.4"
+guid: B4DC89DC-3811-4D45-B0EE-0B71E28305CC
+name: Use up
+description: Use this domain for words related to using something up.
+questions:
+  - q: What words refer to using up all of something?
+    words: >-
+      finish, use up, exhaust, run out of, consume, deplete, drink up, exhaust, sap,
+      swallow, tap, use up

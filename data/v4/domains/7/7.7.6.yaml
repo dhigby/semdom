@@ -1,0 +1,9 @@
+code: "7.7.6"
+guid: A3BA23D2-618E-4618-AF18-9BEFAE2F888B
+name: Grind
+description: >-
+  Use this domain for words referring to grinding--to rub something rough against something
+  else, while applying force, in order to break it or remove its surface.
+questions:
+  - q: What words refer to grinding something?
+    words: grind, grate, scrape, scratch

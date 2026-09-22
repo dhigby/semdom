@@ -1,0 +1,22 @@
+code: "9.7.2.1"
+guid: EE0585B1-627A-4A71-888D-B5D82619431E
+name: Names of countries
+description: >-
+  Use this domain for the proper names of the countries that exist around the language
+  community, especially those countries where your language is spoken. Include the name of
+  your own country. Do not list every country in the world, unless your language has
+  developed special names or pronunciations for those countries. Include any country that
+  you refer to in your language, especially those names whose pronunciation you have adapted
+  to fit your language. Give the form of the name that you use, rather than the official
+  spelling. For instance the Japanese refer to their country as 'Nihon', but in English will
+  call it 'Japan'. So 'Japan' is an English word and should go into an English dictionary.
+  But 'Nihon' is not an English word and should not go in the dictionary.
+questions:
+  - q: What are the proper names of the countries where your language is spoken?
+    words: >-
+      Great Britain, United States of America, Canada, Australia, New Zealand, South Africa,
+      Ireland
+  - q: What are the proper names of the neighboring countries?
+    words: Netherlands, Germany, France, Spain, Mexico
+  - q: What words are used to refer to a citizen of these countries?
+    words: Brit, the English, American, Canadian, Aussie, Kiwi

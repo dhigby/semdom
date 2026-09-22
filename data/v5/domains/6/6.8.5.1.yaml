@@ -1,0 +1,7 @@
+code: "6.8.5.1"
+guid: 48380D5D-BD54-48A9-92BC-7C8A93DE0567
+name: Lend
+description: Use this domain for words related to lending something.
+questions:
+  - q: What words refer to lending something?
+    words: lend, loan, invest

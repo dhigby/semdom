@@ -1,0 +1,28 @@
+code: "8.1.1.1"
+guid: B6686C7C-39DE-40B5-ADEE-67FC7DC54374
+name: Cardinal numbers
+description: >-
+  Use this domain for words related to the cardinal numbers (one, two, three)--the numbers
+  used to count.
+louwNidaCodes: 60B One, Two, Three, Etc.
+questions:
+  - q: What are the cardinal numbers? (the numbers you use when you count)
+    words: >-
+      zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve,
+      thirteen...
+  - q: multiples of ten
+    words: ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety
+  - q: multiples of one hundred
+    words: one hundred, two hundred
+  - q: multiples of one thousand
+    words: one thousand, two thousand
+  - q: numbers larger than one thousand
+    words: million, billion, trillion, quadrillion
+  - q: What words are used to refer to the numbers of a certain decimal place?
+    words: the digits, the tens, hundreds, thousands, millions, billions, trillions
+  - q: What words are used to refer to groups of a certain decimal place?
+    words: tens, hundreds, thousands, tens of thousands, millions, billions, trillions
+  - q: What words refer to a very large number?
+    words: huge number, myriad, zillion, jillion, umpteen, googolplex
+  - q: What words refer to an unlimited number?
+    words: infinity, infinite, boundless, endless, limitless

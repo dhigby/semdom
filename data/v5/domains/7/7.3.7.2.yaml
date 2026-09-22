@@ -1,0 +1,12 @@
+code: "7.3.7.2"
+guid: 2608BCF8-ED20-4501-8510-4ECACF922DD4
+name: Wrap
+description: >-
+  Use this domain for words related to wrapping something--to cover something on all sides
+  with something like leaves, cloth, or paper.
+louwNidaCodes: 79Z Wrapped
+questions:
+  - q: What words refer to wrapping something?
+    words: wrap, cover, shroud, enclose, put around, wind
+  - q: What words refer to something that is used to wrap something?
+    words: wrapper, wrapping, covering, shroud

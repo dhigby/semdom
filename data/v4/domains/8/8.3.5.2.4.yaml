@@ -1,0 +1,13 @@
+code: "8.3.5.2.4"
+guid: 99988F94-3AA4-4984-88DF-AE228F01D3B7
+name: Other
+description: >-
+  Use this domain for words related to other, as in 'the other person', 'another thing'--a
+  thing that is not the same as something that has been mentioned.
+questions:
+  - q: What words refer to another thing?
+    words: other, another, different, else, other than
+    sentence: >-
+      This isn't the same man, it's <another> man.; I'm not talking about John, I'm talking
+      about the <other> man.; I'm talking about someone <else>.; It must have been someone
+      <other than> you.

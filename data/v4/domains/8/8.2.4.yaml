@@ -1,0 +1,28 @@
+code: "8.2.4"
+guid: F8863B67-B911-4334-A1B6-6EB913BD14AF
+name: Wide
+description: >-
+  Use this domain for words related to being wide--a word describing something like a road
+  or river that is far from one side to the other side.
+louwNidaCodes: 81D Narrow, Wide
+questions:
+  - q: What words describe something that is wide?
+    words: wide, broad, widespread
+  - q: What words refer to a place where something is wide?
+    words: widening, wide spot
+  - q: What words refer to something becoming wide?
+    words: widen, get wider, broaden out
+  - q: What words refer to making something wide?
+    words: make something wider, widen, broaden
+  - q: What words refer to the process of becoming wide?
+    words: widening, broadening
+  - q: What words describe something that has been made wide?
+    words: widened, broadened
+  - q: What words refer to being wider than another thing?
+    words: wider, widest, broader, broadest
+  - q: What words refer to how wide something is?
+    words: width, breadth
+  - q: What words refer to how wide a circle or hole is?
+    words: bore, caliber, diameter
+  - q: What words indicate how wide something is?
+    words: how wide, be (ten feet) wide, be (ten feet) across

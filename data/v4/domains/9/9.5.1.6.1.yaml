@@ -1,0 +1,10 @@
+code: "9.5.1.6.1"
+guid: 400D318E-A9EF-40B4-92BE-0D7E96E51D8A
+name: Source (of movement)
+description: Use this domain for words that mark the Source (original location) of something.
+questions:
+  - q: What words indicate the Source of movement?
+    words: source, from
+    sentence: >-
+      The <source> of our water is a deep well.; Our drinking water is <from> a deep well.;
+      John brought the wood <from> the forest.

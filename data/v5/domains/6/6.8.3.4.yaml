@@ -1,0 +1,15 @@
+code: "6.8.3.4"
+guid: 6681F03B-06C4-4509-9253-E4739C9C1614
+name: Beg
+description: >-
+  Use this domain for words related to begging--for a poor person to ask other people to
+  give them money, food, or other things.
+questions:
+  - q: What words refer to begging?
+    words: beg, beg for, panhandle, bum, mooch off, ask alms
+  - q: What words refer to someone who begs?
+    words: beggar, mendicant, scrounger, parasite, panhandler, bum
+  - q: What words refer to giving to a beggar?
+    words: give alms
+  - q: What words refer to something someone gives to a beggar?
+    words: alms, contribution, charity

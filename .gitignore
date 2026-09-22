@@ -1,4 +1,15 @@
 node_modules/
 dist/
 .astro/
-v5/derived/
+.verify/
+
+# The XML is now a GENERATED artifact, not a source. It is produced from data/ by
+# `npm run build:xml` (wired into prebuild) and published from dist/. Committing it
+# would recreate the two-sources-of-truth problem this repository exists to remove.
+# The historic export is preserved at tests/fixtures/SemDom-v4-original.xml, and
+# immutable release copies live under releases/.
+public/SemDom.xml
+public/SemDom5-draft.xml
+
+# Advisory audit output from scripts/audit/* — regenerate on demand, never a gate.
+reports/

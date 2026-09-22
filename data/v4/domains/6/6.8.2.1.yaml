@@ -1,0 +1,7 @@
+code: "6.8.2.1"
+guid: D1AECDBA-3938-4B0C-A2E6-7DC3B7CC5CDE
+name: Produce wealth
+description: Use this domain for words related to producing wealth.
+questions:
+  - q: What words refer to producing wealth?
+    words: produce, make, manufacture, supply

@@ -1,0 +1,14 @@
+code: "3.2.6.2"
+guid: A86B2E14-1299-4F59-842C-C4C5A401AACE
+name: Recognize
+description: Use this domain for words referring to recognizing something.
+louwNidaCodes: 27G Recognize
+questions:
+  - q: What words refer to recognizing something?
+    words: >-
+      distinguish, identify, know, place, realize, recognize, recognition, pick out, tell,
+      not mistake
+  - q: What words describe something that you can recognize?
+    words: recognizable, familiar, unmistakable
+  - q: What words describe something that you can't recognize?
+    words: unrecognizable, unfamiliar, strange, changed beyond all recognition

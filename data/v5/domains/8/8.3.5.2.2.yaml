@@ -1,0 +1,38 @@
+code: "8.3.5.2.2"
+guid: FBA27833-D6F1-4C36-AC39-28902B29261B
+name: Like, similar
+description: >-
+  Use this domain for words describing two things or people that are similar, but not the
+  same.
+questions:
+  - q: What words describe two things that are similar?
+    words: like, similar, alike, much the same, comparable, parallel
+  - q: What words refer to something being like another thing?
+    words: resemble, bear a resemblance to, akin to, have an affinity with, the same sort of
+  - q: What words describe two things that are very similar?
+    words: be two of a kind, have a lot in common, tantamount
+  - q: What words describe two things that are a little similar?
+    words: kind of like, vaguely resemble
+  - q: What words indicate that something happens or is done in a similar way?
+    words: similarly, like, such as, as
+  - q: What words refer to something being like another thing in some way?
+    words: have something in common, share something, correspond
+  - q: What words refer to something looking like another thing?
+    words: look like, resemble, the image of
+  - q: What words refer to something looking very much like another thing?
+    words: >-
+      be just like, look just like, be the image of, be the spitting image of, be the living
+      image of, could pass for, could be mistaken for, be a dead ringer for, be the picture
+      of
+  - q: What words refer to someone who looks like another person?
+    words: look-alike, double
+  - q: What words refer to being like your mother or father?
+    words: be like, take after, be a chip off the old block
+  - q: >-
+      What words indicate that someone or something makes you think of another person or
+      thing because they are similar?
+    words: remind someone of, be reminiscent of, echo
+  - q: What words refer to the quality of being similar?
+    words: similarity, likeness, resemblance
+  - q: What words refer to the way in which two things are similar?
+    words: similarity, parallel

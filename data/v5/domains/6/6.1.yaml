@@ -1,0 +1,8 @@
+code: "6.1"
+guid: D68911F6-6507-483A-B015-44726FDF868A
+name: Work
+description: Use this domain for words related to working.
+louwNidaCodes: 42D Work, Toil
+questions:
+  - q: What general words refer to working?
+    words: work, labor, operate

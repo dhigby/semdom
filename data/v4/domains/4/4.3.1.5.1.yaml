@@ -1,0 +1,15 @@
+code: "4.3.1.5.1"
+guid: 8D490E91-6383-45EA-A3D7-B9C950822F98
+name: Impatient
+description: >-
+  Use this domain for words related to being impatient--if you are impatient, you get angry
+  or do something bad when something bad happens to you for a long time.
+questions:
+  - q: What words describe someone who is impatient?
+    words: impatient, intolerant
+  - q: What words refer to being impatient?
+    words: wait impatiently, lose your patience, can't wait
+  - q: What words refer to the quality of being impatient?
+    words: impatience, intolerance
+  - q: What words describe a situation that makes a person feel impatient?
+    words: intolerable

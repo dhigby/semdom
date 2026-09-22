@@ -1,0 +1,8 @@
+code: "8.3.5.2"
+guid: FE9253F4-D063-4D63-91AF-85273D61337F
+name: Compare
+description: Use this domain for words related to comparing something or someone with another thing.
+louwNidaCodes: 64 Comparison
+questions:
+  - q: What words refer to comparing one thing with another?
+    words: compare, comparison, contrast, than, comparable

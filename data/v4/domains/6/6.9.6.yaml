@@ -1,0 +1,8 @@
+code: "6.9.6"
+guid: A197DBFB-20E4-40C2-9C76-6ABBEB1A9B12
+name: Insurance
+description: Use this domain for words related to insurance.
+ocmCodes: 456 Insurance
+questions:
+  - q: What words refer to insurance?
+    words: insure, insurance, premium

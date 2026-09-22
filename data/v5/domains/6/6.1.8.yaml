@@ -1,0 +1,7 @@
+code: "6.1.8"
+guid: 5D92B4A7-BAF7-495E-BB43-4F733CC55935
+name: Experienced
+description: Use this domain for words related to being experienced at doing something.
+questions:
+  - q: What words refer to being experienced?
+    words: experienced, seasoned, practiced, veteran, pro

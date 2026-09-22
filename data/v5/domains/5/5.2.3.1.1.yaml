@@ -1,0 +1,15 @@
+code: "5.2.3.1.1"
+guid: 1447278F-EFFF-4807-B9EA-C487DEA1BA5E
+name: Food from seeds
+description: Use this domain for words related to food from seeds.
+questions:
+  - q: What general words refer to seeds that are eaten?
+    words: seed, grain, cereal, bean, legume, nut
+  - q: What types of grain are eaten?
+    words: rice, wheat, corn, maize, barley, sesame, millet, sorghum, oat
+  - q: What types of nuts are eaten?
+    words: peanut, groundnut, cashew, walnut, almond, cola nut, palm nut, coconut, cocoa nut
+  - q: What types of beans are eaten?
+    words: green bean, lima bean, kidney bean, pea, cowpea, soybean
+  - q: What other types of seeds are eaten?
+    words: cottonseed, flaxseed, hayseed, linseed, pumpkin seeds, sunflower seeds

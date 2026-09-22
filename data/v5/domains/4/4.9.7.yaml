@@ -1,0 +1,26 @@
+code: "4.9.7"
+guid: 2470AD05-636E-4C85-96AB-CD880DA58741
+name: Religious organization
+description: >-
+  Use this domain for words referring to official religions, groups within a religion, and
+  religious meetings. Each religion will have different names for its groups. Answer each
+  question for each religion.
+ocmCodes: >-
+  779 Theological Systems; 790 Ecclesiastical Organization; 794 Congregations; 795 Religious
+  Denominations; Sects; 797 Missions
+louwNidaCodes: 11B Socio-Religious
+questions:
+  - q: What general words refer to an official religion?
+    words: religion, faith
+  - q: What are the names of the official religions?
+    words: Christianity, Islam, Hinduism, Judaism, animism, paganism
+  - q: What words refer to a group within a religion?
+    words: sect, denomination, party
+  - q: What are the names of the sects?
+    words: Catholic, Protestant, Baptist, Presbyterian, Methodist
+  - q: What words refer to a group of believers in a particular place?
+    words: church, congregation, diocese, parish
+  - q: >-
+      What words refer to beginning to believe in a religion or changing from one religion
+      to another?
+    words: convert, conversion

@@ -1,0 +1,13 @@
+code: "8.4.1.1"
+guid: F8C6A6A9-49F0-408A-9237-A66E852DA7D3
+name: Calendar
+description: Use this domain for words related to the calendar.
+questions:
+  - q: What words are used for printed displays of the year?
+    words: calendar, pocket calendar, wall calendar, daily planner, schedule
+  - q: What words are used to refer to a particular day?
+    words: date, January 1, 2000, 1-1-00, the first of January 2000
+  - q: What words are used of the system of numbering the years?
+    words: >-
+      calendar, Gregorian calendar, Julian calendar, BC (before Christ), AD (ad Domino),
+      Christian era

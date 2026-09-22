@@ -1,0 +1,27 @@
+code: "4.3.2.2"
+guid: 5D21B3F1-85D5-4999-AF64-C4D0101050C0
+name: Humble
+description: >-
+  Use this domain for words related to being humble--to not think that you are better than
+  other people, or to not think that you are better than you really are, and to not talk or
+  act as if you were better than other people.
+louwNidaCodes: 88F Modesty, Propriety; 88G Humility
+questions:
+  - q: What words describe someone who is humble?
+    words: >-
+      humble, lowly, meek, mild, modest, self-deprecating, self-effacing, simple, timid,
+      timorous, unassuming, unpretentious
+  - q: What words refer to doing something humble?
+    words: be humble, humbly, condescend
+  - q: What words refer to the quality of being humble?
+    words: >-
+      humility, humbleness, condescension, debasement, lowliness, modesty, self-abasement,
+      self-deprecation, timidity
+  - q: What words describe something someone does that is humble?
+    words: humble
+  - q: What words refer to becoming humble?
+    words: humble yourself
+  - q: What words refer to one person causing another to be humble?
+    words: to humble someone, humiliate, debase
+  - q: What words refer to being too humble?
+    words: put yourself down, run yourself down, sell yourself short, underestimate yourself

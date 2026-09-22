@@ -1,0 +1,9 @@
+code: "7"
+guid: D60FAF11-CC6E-48DB-8A13-82F86D78AB00
+name: Physical actions
+description: >-
+  Use this domain for general words for physical actions--moving yourself, moving things,
+  and changing things.
+questions:
+  - q: What general words refer to physical actions?
+    words: act, action, active, activity, do, event, process

@@ -1,0 +1,11 @@
+code: "5.2.2.6"
+guid: 40FF5CEE-31D8-4C89-A212-877347212A0E
+name: Satiated, full
+description: Use this domain for words related to being full of food.
+questions:
+  - q: What words refer to being full of food?
+    words: >-
+      be full, have had enough, couldn't eat another thing, bloated, stuffed, on a full
+      stomach, satisfied, satiated, no more room
+  - q: What words describe food that makes you feel full?
+    words: filling, heavy, stodgy

@@ -1,0 +1,10 @@
+code: "6.8.9"
+guid: 63B18261-FAF3-4AB2-BCB4-7C3AC4D6D6BA
+name: Dishonest financial practices
+description: Use this domain for words related to dishonest financial practices.
+related: ["4.3.5.1"]
+questions:
+  - q: What words refer to dishonest financial practices?
+    words: dishonest, unscrupulous, fraud, corruption, graft, malfeasance, vice
+  - q: What words refer to making fake money?
+    words: counterfeit, counterfeiter, counterfeit bill, bogus

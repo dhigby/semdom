@@ -1,0 +1,22 @@
+code: "2.5.2.3"
+guid: 39DCB6B9-94DF-45BE-A128-C14C7A9DCDBD
+name: Stomach illness
+description: Use this domain for words related to stomach illness.
+related: ["2.1.8.2"]
+questions:
+  - q: What words refer to being sick in your stomach?
+    words: have an upset stomach, have a stomach-ache, tummy-ache, be sick to your stomach
+  - q: What types of stomach illness are there?
+    words: >-
+      vomiting, morning sickness, indigestion, diarrhea, dysentery, constipation,
+      constipated, ulcer, ulcerate, ulcerated, intestinal obstruction, worms
+  - q: What words refer to vomiting?
+    words: be sick, throw up, vomit, puke, barf, bring up, regurgitate, spew
+  - q: What words refer to vomiting without bringing anything up?
+    words: retch, heave, gag
+  - q: What are the symptoms of stomach illness?
+    words: gas, belching, cramps
+  - q: What words describe how you feel when your stomach is sick?
+    words: feel sick, queasy, nausea, be going to be sick, nauseated, nauseous
+  - q: What words refer to something making your stomach feel sick?
+    words: nauseate, give you an upset stomach, make you sick to your stomach

@@ -1,0 +1,36 @@
+code: "8.4.5.2.1"
+guid: BDAECF2F-D0FA-49F7-891E-BCB0A31AE630
+name: After
+description: Use this domain for words referring to one event happening after another.
+louwNidaCodes: 89O Sequential Addition
+questions:
+  - q: What words indicate that something happens after a particular time or event?
+    words: >-
+      after, afterward, afterwards, later, later on, subsequently, after that, beyond that,
+      hence
+  - q: What words indicate that something happens after a certain period of time?
+    words: after, within, in, from now
+  - q: What words describe something that comes after something else?
+    words: >-
+      next, following, later, subsequent, succeeding, ensuing, after, future, consequent,
+      latter
+  - q: What words refer to something happening after something else?
+    words: follow, come after, ensue, follow-up, be after
+  - q: What words refer to the events that happen after an event?
+    words: sequel, aftermath, what follows
+  - q: What words refer to a person who takes a job or position after someone else?
+    words: successor, next in line, succeed
+  - q: What words refer to a book or film that comes after another one?
+    words: sequel
+  - q: What words indicate that something comes after another in a series?
+    words: after, next, later, further on
+  - q: What words indicate that something will not be done now, but later?
+    words: later, it can wait, it will wait
+  - q: What words are used to link events when telling a story?
+    words: >-
+      and, and then, then, having...-en, after, thereafter, thereon, thereupon, whereupon,
+      upon
+    sentence: >-
+      John took a bath, <and> ate a big dinner.; John took a bath, <and then> ate a big
+      dinner.; <Having> tak<en> a bath, John ate a big dinner.; <After> taking a bath, John
+      ate a big dinner.

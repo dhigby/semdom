@@ -1,0 +1,15 @@
+code: "4.8.3.5"
+guid: 21461D78-02F9-4BE6-80E3-6A4498CE8F4C
+name: Prisoner of war
+description: Use this domain for words related to a prisoner of war.
+louwNidaCodes: 55E Prisoner of War
+related: ["4.7.7.3"]
+questions:
+  - q: What words refer to a prisoner of war?
+    words: prisoner of war, captive
+  - q: What words refer to captivity?
+    words: captivity
+  - q: What words refer to a person captured in war?
+    words: captive, prisoner of war
+  - q: What words refer to being captured?
+    words: capture, take captive, captured

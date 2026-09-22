@@ -1,0 +1,19 @@
+code: "8.3.6"
+guid: C05BF8C3-78F2-4EC5-B0D7-32D4963A5794
+name: Made of, material
+description: Use this domain for words that mark the material out of which something has been made.
+louwNidaCodes: 89Y Substance
+questions:
+  - q: What words refer to something being made of some material?
+    words: >-
+      be made of, consist of, be made up of, be composed of, made out of, made with, made
+      from
+    sentence: John's house is made of bricks.
+  - q: What words refer to something having some material in it?
+    words: have something in it, contain
+    sentence: The coffee has milk in it.; The coffee contains milk.
+  - q: What words refer to the material something is made of?
+    words: material, composition, stuff, substance
+  - q: What words indicate the material that something is made of?
+    words: out of, with, from, of
+    sentence: John built his house <out of> cement blocks.; This picture was done <with> oil paints.

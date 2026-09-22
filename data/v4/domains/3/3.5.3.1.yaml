@@ -1,0 +1,43 @@
+code: "3.5.3.1"
+guid: 29A8EBBE-EBC4-4295-B6AF-84331D019361
+name: Word
+description: Use this domain for words that refer to words and groups of words.
+ocmCodes: 104 Glossary
+louwNidaCodes: 33B Word, Passage
+questions:
+  - q: What words refer to a word?
+    words: word, term, verbal
+  - q: What words refer to words that are similar in meaning?
+    words: synonym, synonymous, derivative, antonym, opposite of
+  - q: What words refer to words that are similar in sound?
+    words: homograph, homonym, homophone, homophonous, rhyme
+  - q: What words refer to the way a word should be said?
+    words: pronunciation, pronounce, stress, tone, vocalization
+  - q: What words refer to the way a word should be written?
+    words: spelling, spell, misspell
+  - q: What words refer to a new word?
+    words: coin a term, coinage, neologism
+  - q: What words refer to an old word?
+    words: archaic, archaism
+  - q: What words refer to the history of a word?
+    words: etymology, derivation, etymon
+  - q: What words refer to special words?
+    words: acronym, anagram
+  - q: >-
+      What words refer to special words that are used to talk about a particular area of
+      life?
+    words: terminology, jargon, technical term, specialized vocabulary
+  - q: What words refer to all the words of a language?
+    words: vocabulary, lexicon, dictionary, glossary
+  - q: What words refer to a short form of a word?
+    words: abbreviation, abbreviate, be short for, for short, stand for, contraction
+  - q: What words refer to a section of speech?
+    words: phrase, clause, sentence, utterance, discourse, formation, locution
+  - q: What words refer to a section of writing?
+    words: paragraph, text, section, chapter, point, construction, document, passage, portion
+  - q: What words refer to a group of words that express a particular meaning?
+    words: >-
+      adage, aphorism, byword, cliché, dictum, epigram, expression, idiom, motto, phrase,
+      proverb, saying, slogan, watchword
+  - q: What words refer to two words that are often used together?
+    words: collocate, collocate (v)

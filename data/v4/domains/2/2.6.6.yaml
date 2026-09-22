@@ -1,0 +1,47 @@
+code: "2.6.6"
+guid: 1C3C8AF0-56B9-4617-862E-21F39B388606
+name: Die
+description: Use this domain for words related to dying.
+ocmCodes: 165 Mortality; 760 Death; 763 Dying
+louwNidaCodes: 23G Live, Die
+related: ["1.4.1"]
+questions:
+  - q: What general words refer to dying?
+    words: die, expire
+  - q: What words refer to dying as a result of illness or old age?
+    words: pass away, pass on, go, kick the bucket, snuff it
+  - q: What words refer to dying as a result of an accident or violence?
+    words: >-
+      be killed, accidental death, death by misadventure, violent death, lose your life,
+      perish, suffer heavy losses
+  - q: What euphemisms and idioms are used to refer to death?
+    words: >-
+      go to your reward, be wasted, fall asleep, croak, depart, breathe your last, defunct,
+      grim reaper
+  - q: What words are used to describe the manner in which someone dies?
+    words: >-
+      drop dead, keel over, slow death, sudden death, painful death, excruciating death,
+      gruesome death, horrible death, die quietly, die peacefully, die with boots on, die
+      fighting, fade away, succumb (to illness), drown, drowning, asphyxiate, suffocate,
+      choke to death, sacrifice, succumb (to a disease), suffocate, suffocation, starvation,
+      starve, starve to death, burn to death, freeze to death
+  - q: What words refer to dying when you are still young?
+    words: die young, be cut off in your prime, untimely death
+  - q: What words refer to dying to save someone?
+    words: die for, give your life, lay down your life, martyr
+  - q: What words describe someone who is almost dead?
+    words: >-
+      dying, be close to death, about to die, on death's doorstep, be at death's door, have
+      one foot in the grave
+  - q: What words refer to the event of dying?
+    words: death, demise, mortality
+  - q: What words refer to someone who has died?
+    words: deceased, dead person, goner, dearly departed, casualty, fatality, the dead
+  - q: What words describe someone who is dead?
+    words: dead, deceased, stone-dead, dead as a doornail, late, lifeless
+  - q: What words refer to the number of people who die from the same cause?
+    words: death toll, fatalities, loss of life
+  - q: What words refer to losing someone in death?
+    words: lose (someone), loss, bereaved, be widowed, be orphaned
+  - q: What words describe an illness or wound that will cause the person to die?
+    words: fatal, terminal

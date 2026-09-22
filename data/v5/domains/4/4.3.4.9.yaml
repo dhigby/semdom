@@ -1,0 +1,9 @@
+code: "4.3.4.9"
+guid: 80B48F92-0A83-4EEB-BFE0-6980285FEB65
+name: Cruel
+description: Use this domain for words related to being cruel.
+questions:
+  - q: What words describe someone who is cruel?
+    words: cruel, ruthless, heartless, sadistic, bloodthirsty
+  - q: What words refer to the quality of being cruel?
+    words: cruelty

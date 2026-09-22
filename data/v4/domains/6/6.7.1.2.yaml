@@ -1,0 +1,8 @@
+code: "6.7.1.2"
+guid: 818E33FF-590E-4D0E-B84E-67771324A545
+name: Digging tool
+description: Use this domain for words related to digging tools.
+questions:
+  - q: What types of digging tools are there?
+    words: hoe, pick, shovel, spade
+  - q: What words are used to describe the actions done with these tools?

@@ -1,0 +1,7 @@
+code: "6"
+guid: C82FA28F-7E26-489E-A244-4D69CEA87B94
+name: Work and occupation
+description: Use this domain for general words related to working.
+questions:
+  - q: What general words refer to work?
+    words: work, labor, toil

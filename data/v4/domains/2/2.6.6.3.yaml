@@ -1,0 +1,23 @@
+code: "2.6.6.3"
+guid: 08D5E632-0AED-4924-B3BB-D43DE3420385
+name: Funeral
+description: >-
+  Use this domain for words related to a funeral and other things that are done after a
+  person dies.
+ocmCodes: 764 Burial Practices and Funerals
+louwNidaCodes: 52 Funerals and Burial
+questions:
+  - q: What words refer to a funeral?
+    words: funeral, wake, graveside service, burial service, last rites
+  - q: What words refer to holding a funeral?
+    words: perform a funeral, hold a memorial service
+  - q: What words refer to notifying people that someone has died?
+    words: death notice, send death notice
+  - q: What words refer to something someone says about a dead person?
+    words: obituary, eulogy, epitaph
+  - q: What are the parts or stages of a funeral?
+    words: eulogy, dirge, fire a salute, lower the flag, half mast, play taps, toll the bell
+  - q: >-
+      What words refer to something that is made or done to remind people of the person who
+      died?
+    words: memorial, monument, in memory of

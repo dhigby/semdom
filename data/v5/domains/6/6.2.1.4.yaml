@@ -1,0 +1,11 @@
+code: "6.2.1.4"
+guid: AF5BCF27-56E2-4072-B321-30A31B58AF78
+name: Growing fruit
+description: >-
+  Use this domain for words related to growing fruit, such as berries, cranberries, grapes,
+  raspberries, and strawberries. If one type of fruit is cultivated extensively and there
+  are many words related to it, set up a separate domain for it. This has already been done
+  for grapes and bananas, since they are so common around the world.
+questions:
+  - q: What words refer to growing fruit?
+    words: pick, press, juice, fruit juice

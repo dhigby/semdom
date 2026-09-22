@@ -1,0 +1,26 @@
+code: "4.8.2.8"
+guid: 8A7FDD75-01DC-4D40-84FF-FA0484DA3ABB
+name: Violent
+description: >-
+  Use this domain for words related to being violent--a word describing someone who is
+  likely to attack and injure or kill people.
+louwNidaCodes: 20A Violence
+questions:
+  - q: What words describe someone who is violent?
+    words: violent, brutal, aggressive, vicious, savage, barbarous, bloodthirsty, barbaric
+  - q: What words describe an animal that is violent?
+    words: fierce, vicious, savage, ferocious
+  - q: What words describe something someone does that is violent?
+    words: >-
+      violent, violently, vicious, brutal, savage, ferocious, rough, bloody, forcible,
+      stormy, barbarous
+  - q: What words describe a story that is about people doing violent things?
+    words: violent, gory
+  - q: What words refer to a person who is violent?
+    words: thug, brute, hooligan, hoodlum, animal, psychopath, lout
+  - q: What words refer to violent behavior?
+    words: >-
+      violence, aggression, brutality, savagery, ferocity, fierceness, force, fury,
+      barbarity
+  - q: What words describe someone who is not violent?
+    words: peaceful, non-violent

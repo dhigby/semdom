@@ -1,0 +1,11 @@
+code: "6.4.5.1"
+guid: 573BF23A-3FDE-4552-9263-62B7C71CAD02
+name: Fish with net
+description: Use this domain for words related to fishing with a net.
+questions:
+  - q: What words refer to fishing with a net?
+    words: cast, throw, pull in, bring in, mend net, dry net
+  - q: What equipment is used to fish with a net?
+    words: fishnet, net
+  - q: What words refer to the fish that are caught?
+    words: a catch of fish

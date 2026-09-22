@@ -1,0 +1,17 @@
+code: "4.3.7"
+guid: 721E2EE8-7EA5-4D17-94CC-D77D8E92BD27
+name: Polite
+description: Use this domain for words related to social refinement.
+questions:
+  - q: What words describe someone who is polite?
+    words: >-
+      polite, civil, courteous, diplomatic, discreet, elegant, graceful, refined,
+      respectful, smooth, suave, tactful, well-mannered
+  - q: What words refer to being polite?
+    words: have good manners
+  - q: What words refer to being very polite?
+    words: correct, formal, stiff
+  - q: What words refer to the quality of being polite?
+    words: politeness, etiquette, formality, manners, courtesy, tact
+  - q: What words describe a child who is polite?
+    words: good, well-behaved, well-brought up

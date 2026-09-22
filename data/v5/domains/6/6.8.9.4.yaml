@@ -1,0 +1,7 @@
+code: "6.8.9.4"
+guid: B4FC91FE-68F7-45A6-8863-75BBA1029BEF
+name: Take by force
+description: Use this domain for words related to taking something by force.
+questions:
+  - q: What words refer to taking something by force?
+    words: take by force, snatch, ransack, plunder, pillage

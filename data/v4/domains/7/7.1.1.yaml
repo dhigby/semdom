@@ -1,0 +1,24 @@
+code: "7.1.1"
+guid: 8841AF5E-74E6-4C5D-A313-BA9AA7FDB78B
+name: Stand
+description: >-
+  Use this domain for words related to standing. The words in this domain may include
+  whether the person is standing on one foot or two, whether the person's feet are together
+  or placed apart, whether something is between the person's feet, how fast the person
+  stands up.
+louwNidaCodes: 17A Stand x
+questions:
+  - q: What words refer to being in a standing position?
+    words: stand, be standing, be on your feet
+  - q: What words refer to standing up from a sitting or lying position?
+    words: >-
+      stand, stand up, rise (to your feet), get up, get to your feet, jump to your feet,
+      leap up, leap out of the chair, pick yourself up
+  - q: How do people stand?
+    words: stand on one leg, straddle, stand on tiptoes
+  - q: What words refer to causing someone to stand?
+    words: stand someone up, raise someone to their feet, help someone up
+  - q: What words refer to standing near something?
+    words: stand around, stand together
+  - q: How do you order someone to stand?
+    words: on your feet

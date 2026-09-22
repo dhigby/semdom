@@ -1,0 +1,12 @@
+code: "9.4.6.2"
+guid: B4C1E05F-F741-45CC-8D13-A1F60F474325
+name: Markers expecting an affirmative answer
+description: Use this domain for words indicating that an affirmative answer is expected to a question.
+louwNidaCodes: 69D Markers for an Affirmative Response to Questions
+questions:
+  - q: What words are used to indicate that an affirmative answer is expected to a question?
+    words: n't
+    sentence: >-
+      You are going, <aren't you>? (The expected answer in English is, 'Yes, I am going'.);
+      He's going, <isn't he>? (Yes, he is.); Are<n't> you going? (Yes, I am.); Did<n't> he
+      go? (Yes, he did).

@@ -1,0 +1,7 @@
+code: "6.1.2.3.6"
+guid: 5F63805F-1C8E-440A-A13C-222C5D81EB9C
+name: Ambitious
+description: Use this domain for words related to being ambitious.
+questions:
+  - q: What words describe a person who is determined to be successful?
+    words: ambitious, ambition, competitive, power-hungry, pushy

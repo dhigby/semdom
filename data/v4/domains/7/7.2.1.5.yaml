@@ -1,0 +1,23 @@
+code: "7.2.1.5"
+guid: 879E66BC-AF29-4FE4-86E0-0047973A57D6
+name: Walk with difficulty
+description: >-
+  Use this domain for words referring to walking with some difficulty such as stumbling--to
+  miss your step because of hitting an object such as a stone, hole, or mud; staggering--to
+  walk unsteadily because of weakness, illness, or drunkenness; or limping--to walk unevenly
+  or with difficulty because of injury to a foot.
+questions:
+  - q: What words refer to stumbling?
+    words: stumble, trip, trip and fall, slip
+  - q: What words refer to causing someone to stumble?
+    words: trip someone
+  - q: What words refer to staggering?
+    words: stagger, weave back and forth, reel, lurch
+  - q: What words refer to limping?
+    words: >-
+      limp, hobble, shamble, shuffle, walk haltingly, walk with a cane, use crutches, get
+      around
+  - q: What words describe someone who cannot walk well?
+    words: lame, disabled
+  - q: What things do people use to help them walk?
+    words: walker, cane, crutch, walking stick, wheelchair

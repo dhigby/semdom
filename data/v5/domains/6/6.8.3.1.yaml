@@ -1,0 +1,24 @@
+code: "6.8.3.1"
+guid: 85F211AE-CC16-4042-8C27-E99FF8F01F61
+name: Give, donate
+description: >-
+  Use this domain for words referring to giving something to someone, in which there is a
+  transference of ownership.
+ocmCodes: 431 Gift Giving
+louwNidaCodes: 57H Give
+related: ["7.4.1"]
+questions:
+  - q: What words refer to giving something to someone?
+    words: give, give away, donate, let someone have, offer, spare
+  - q: What words refer to officially giving something to someone?
+    words: allocate, allot, award, confer, grant, present
+  - q: What words refer to giving something to poor people?
+    words: give, give away, donate, go to, make a donation, subscribe to
+  - q: What words refer to giving many things to someone?
+    words: be generous, lavish something on, shower
+  - q: What words refer to someone who gives?
+    words: giver, benefactor, donor, philanthropist
+  - q: What words refer to something that is given?
+    words: gift, present, prize, reward
+  - q: What words refer to something that is given to poor people?
+    words: charity, donation, handout

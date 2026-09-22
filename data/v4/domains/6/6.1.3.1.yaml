@@ -1,0 +1,10 @@
+code: "6.1.3.1"
+guid: 77BCDCAB-E9FD-48BA-8DCD-63F425367735
+name: Easy, possible
+description: Use this domain for words describing something that is easy or possible to do.
+related: ["9.4.4.4"]
+questions:
+  - q: What words describe something that is easy to do?
+    words: easy, a cinch, no problem, piece of cake
+  - q: What words indicate that something can be done?
+    words: be possible, not too hard, can do it, no problem, doable

@@ -1,0 +1,8 @@
+code: "4.4.4.8"
+guid: 0EDA983B-633E-4B11-B5C8-28BE60067782
+name: Risk
+description: Use this domain for words referring to risk--exposing oneself or something to danger.
+louwNidaCodes: 21B Expose Oneself to Danger
+questions:
+  - q: What words refer to risking something?
+    words: risk, run a risk, expose (oneself to danger), hazard, wager, dare

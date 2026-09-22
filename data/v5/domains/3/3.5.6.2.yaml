@@ -1,0 +1,9 @@
+code: "3.5.6.2"
+guid: EF876104-EB3E-420D-9C7B-124538A7B2A6
+name: Point at
+description: >-
+  Use this domain for words related to pointing at something--to move a part of your body
+  toward something so that people will look at it.
+questions:
+  - q: What words refer to indicating something?
+    words: indicate, point to, point at, point out, signal that, gesture towards

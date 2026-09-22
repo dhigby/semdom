@@ -1,0 +1,11 @@
+code: "8.3.1.5.2"
+guid: 19FEA936-30D1-482F-A103-1C5549B19745
+name: Twist, wring
+description: >-
+  Use this domain for words referring to twisting something--to take something long and turn
+  one end one way and the other end the other way.
+questions:
+  - q: What words refer to twisting something?
+    words: twist, wind, twine, coil, wring, wring out, torque
+  - q: What words describe something that has been twisted?
+    words: twisted, winding, entwined, coiled, wrung out

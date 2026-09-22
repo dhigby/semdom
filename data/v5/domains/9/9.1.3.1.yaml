@@ -1,0 +1,27 @@
+code: "9.1.3.1"
+guid: C9741B97-AD50-465C-A4CA-B21D488F45FE
+name: Physical, non-physical
+description: >-
+  Use this domain for words describing something that is physical--that you can touch and
+  see, and for words describing something that is non-physical--that you cannot touch or
+  see.
+louwNidaCodes: 79A Physical, Spiritual; 79B Natural, Spiritual
+questions:
+  - q: What words describe something that is physical?
+    words: >-
+      animal nature, biological, bodily, concrete, corporal, corporeal, earthly, earthy,
+      fleshly, incarnate, inferior, matter, material, materialistic, mundane, natural,
+      objective, physical, seen, sensible, sensual, tangible, temporal, unspiritual, worldly
+    sentence: A ghost cannot take <physical> form.
+  - q: What words refer to something that is physical?
+    words: substance, stuff, matter, material
+  - q: What words describe something that is non-physical?
+    words: >-
+      disembodied, extramundane, extrasensory, immaterial, impalpable, incorporeal,
+      instinctive, intangible, intellectual, libidinal, life, mental, metaphysical,
+      nonphysical, nonmaterial, numinous, otherworldly, preternatural, psychic,
+      psychological, rational, reasoning, spiritual, spiritualist, subjective, supernatural,
+      transcendent, transcendental, unbodied, unearthly, unseen, unworldly
+    sentence: Thoughts and ideas belong to the <spiritual> realm.
+  - q: What words refer to something that is non-physical?
+    words: spirit

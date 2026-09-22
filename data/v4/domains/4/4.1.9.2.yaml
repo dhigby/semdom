@@ -1,0 +1,12 @@
+code: "4.1.9.2"
+guid: 49BC0D75-4F07-44B4-A50F-BC9A557DC15E
+name: Related by marriage
+description: Use this domain for words referring to being related by marriage.
+louwNidaCodes: 10D Kinship Relations Based upon Marriage
+questions:
+  - q: What words refer to being related by marriage?
+    words: related by marriage
+  - q: What words are used of having more than one wife?
+    words: polygamy, multiple wives
+  - q: What words refer to people of different tribes marrying each other?
+    words: intermarry

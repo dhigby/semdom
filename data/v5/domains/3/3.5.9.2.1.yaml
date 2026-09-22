@@ -1,0 +1,17 @@
+code: "3.5.9.2.1"
+guid: 1B25F4BF-EBD8-D79A-ECFB-46B625A44210
+name: Mobile phone
+description: >-
+  Use this domain for words related to mobile (cell) phones and smartphones, including the
+  device, its parts, and the services used with it.
+questions:
+  - q: What words refer to a mobile phone?
+    words: mobile phone, cell phone, cellphone, smartphone, handset
+  - q: What words refer to the parts of a mobile phone?
+    words: screen, touchscreen, SIM card, battery, charger, camera, button
+  - q: What words refer to the services or costs of using a mobile phone?
+    words: airtime, credit, data, top up, recharge, network, coverage, signal
+  - q: What words refer to sending a short written message on a phone?
+    words: text message, text (v), SMS, message
+  - q: What words refer to a program on a smartphone?
+    words: app, application, install, download

@@ -1,0 +1,19 @@
+code: "8.4.6.1.5"
+guid: 3EDB307F-BE46-40B6-A6A4-AE075B40258C
+name: Since, from
+description: >-
+  Use this domain for words that indicate that something will start to happen at some time
+  and continue for some time.
+questions:
+  - q: >-
+      What words indicate that something starts to happen after a particular time and then
+      continues?
+    words: starting, from, as from, after that
+  - q: What words indicate that something started in the past and continued until now?
+    words: since, ever since, for, from, starting from, from that time on, thereafter
+  - q: What words indicate that something starts to happen now and will continue?
+    words: >-
+      from now on, from this time forward, starting now, starting from now, effective
+      immediately, henceforth
+  - q: What words indicate that something will start in the future and continue?
+    words: from then on, starting then

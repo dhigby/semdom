@@ -1,0 +1,10 @@
+code: "6.6.3.2"
+guid: 0FEF044A-C822-450D-B54A-EAC8621E50C2
+name: Wood
+description: Use this domain for words related to wood.
+ocmCodes: 314 Forest Products
+questions:
+  - q: What words refer to wood?
+    words: lumber, wood, grain, beam, board, plank, plywood, shavings, splinter, pole, post, rod
+  - q: What words describe something made of wood?
+    words: wooden

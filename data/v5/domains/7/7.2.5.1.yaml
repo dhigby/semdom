@@ -1,0 +1,12 @@
+code: "7.2.5.1"
+guid: ECF9EBD7-F991-41DF-98CD-BCF1254D5D0B
+name: Go first
+description: Use this domain for words related to going first or going ahead of someone.
+louwNidaCodes: 15O Come/Go Prior To; 15P Come/Go In Front Of
+questions:
+  - q: What words refer to going ahead of someone?
+    words: >-
+      go first, come first, precede, lead, lead the way, blaze a trail, be in the van,
+      forerun
+  - q: What words refer to the person who goes ahead?
+    words: leader, van, vanguard

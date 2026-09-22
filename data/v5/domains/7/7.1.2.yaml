@@ -1,0 +1,32 @@
+code: "7.1.2"
+guid: 975D0109-1BBA-4B0E-85B8-2C6B51C8E074
+name: Sit
+description: Use this domain for words referring to sitting and squatting.
+louwNidaCodes: 17B Sit x
+related: ["5.1.1.2"]
+questions:
+  - q: What words refer to being in a sitting position?
+    words: be sitting, be seated
+  - q: What words describe how a person is sitting?
+    words: >-
+      sit with your legs crossed, sit cross-legged, sit back, settle back, sit up, sit up
+      straight, sit forward, be on the edge of your seat, sit astride, straddle, sit still,
+      sit around, curl up, perch
+  - q: What words refer to sitting down from a standing position?
+    words: sit, sit down, be seated, take your seat
+  - q: What words refer to sitting up from a lying position?
+    words: sit up
+  - q: What words describe how a person sits down?
+    words: >-
+      sit slowly, sink (down) into, ease into your chair, lower oneself, sit abruptly, flop
+      down, plunk down, plop down
+  - q: What words refer to causing someone to sit?
+    words: seat someone, show someone to their seat
+  - q: What words refer to squatting?
+    words: squat (down), sit on your haunches, sit back on your heels
+  - q: What words refer to sitting on something?
+    words: sit on, mount
+  - q: What words refer to the place where you sit?
+    words: seat, perch, place
+  - q: What do you say to someone when you want them to sit down?
+    words: sit down, take a seat, have a seat, please be seated

@@ -1,0 +1,7 @@
+code: "4.7.9"
+guid: 596AB399-E442-4AFE-8796-633A49DE65A7
+name: Justice
+description: Use this domain for words related to justice.
+questions:
+  - q: What words refer to justice?
+    words: justice, fairness

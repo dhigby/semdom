@@ -1,0 +1,24 @@
+code: "7.5.2.1"
+guid: 6AB060CA-ECFC-4A46-ACCB-42B0473998CD
+name: Link, connect
+description: >-
+  Use this domain for words related to a linking or connecting things together--to put
+  something like a road, pipe, or wire between things so that people or things can move
+  between them.
+questions:
+  - q: What words refer to linking things together?
+    words: link, link up, connect, join, network
+  - q: What words refer to something linking two things?
+    words: link, connect
+  - q: What words refer to two things being linked?
+    words: be joined (together), be connected
+  - q: What words refer to the thing that links two things?
+    words: link, connection, coupling, hookup, network, passageway
+  - q: What words refer to two things (such as wires, roads, rivers) joining together?
+    words: join, meet, converge, merge
+  - q: >-
+      What words refer to the place where two things (such as wires, roads, rivers) join
+      together?
+    words: joint, connection, junction, intersection
+  - q: What words describe something that links two things?
+    words: connecting

@@ -1,0 +1,11 @@
+code: "4.7.7.5"
+guid: 55A7B809-4196-4C5A-A6D6-09B586CE71E7
+name: Ostracize
+description: >-
+  Use this domain for words referring to ostracizing someone--excluding someone from society
+  as punishment for some wrong.
+questions:
+  - q: What words refer to ostracizing someone?
+    words: ostracize, exile, marginalize, shun, cast out, exclude
+  - q: What words refer to a person who has been ostracized?
+    words: outcast, pariah

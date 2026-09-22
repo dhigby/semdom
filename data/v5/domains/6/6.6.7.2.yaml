@@ -1,0 +1,24 @@
+code: "6.6.7.2"
+guid: 0205145D-23B6-4C3C-BF2D-BF866BB010E7
+name: Conveying water
+description: >-
+  Use this domain for words related to conveying water--moving water from one place to
+  another place.
+related: ["1.3.2", "5.2.1.5"]
+questions:
+  - q: What words refer to the things used to transport water?
+    words: waterworks, canal, ditch, dam, cistern, pipe, pump, siphon
+  - q: What words are used for transporting clean water?
+    words: aqueduct, canal, culvert
+  - q: What words are used for transporting dirty water?
+    words: ditch, drainage ditch, sewer
+  - q: What words refer to drawing water from a well?
+    words: draw water, draft
+  - q: What words refer to canals used to convey water?
+    words: canal, aqueduct, ditch
+  - q: What means are used to raise water?
+    words: windmill, pump, pump house, pumping station, lock
+  - q: What containers are used to hold water?
+    words: cistern, bucket, pitcher
+  - q: What words refer to making water flow through a pipe?
+    words: pump, siphon, suck, suction

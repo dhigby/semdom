@@ -1,0 +1,22 @@
+code: "8.1.7.4"
+guid: 60B8DCFD-49A0-4AB4-82A7-2C5058B325AE
+name: Remain, remainder
+description: >-
+  Use this domain for words related to the remainder of something--the part or amount of
+  something that remains behind after the other parts have been taken away. Something can be
+  left because everything else has been used or eaten, or everything else has been destroyed
+  or burned.
+louwNidaCodes: 63E Remnant
+questions:
+  - q: What words refer to something remaining?
+    words: left, remain, be left over, survive, be still standing, to spare, to go, in hand
+  - q: What words refer to the remainder?
+    words: >-
+      the remains, remnants, leftovers, ruins, what is left of, what remains of, the rest,
+      the remainder, the last of, residue
+  - q: What words refer to the bad part that remains after the good part has been taken?
+    words: butt, dregs, leavings, offscouring, rags, scrap, sweepings
+  - q: What words refer to a very small part that remains?
+    words: fragment, shadow, trace, vestige
+  - q: What words describe something that remains?
+    words: remaining, last, outstanding, spare, leftover, residual, surplus, surviving

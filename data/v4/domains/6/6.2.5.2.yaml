@@ -1,0 +1,11 @@
+code: "6.2.5.2"
+guid: 35FAEFB3-7498-4735-9B05-E7035DD368FC
+name: Crop failure
+description: Use this domain for words related to crop failure.
+questions:
+  - q: What words refer to crop failure?
+    words: crop failure, poor harvest
+  - q: What causes crop failure?
+    words: drought, blight, disease, locusts, insect plague, storm, exhausted soil, bad seed
+  - q: What results from crop failure?
+    words: famine, lean times

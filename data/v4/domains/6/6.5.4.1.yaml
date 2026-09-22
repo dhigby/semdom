@@ -1,0 +1,35 @@
+code: "6.5.4.1"
+guid: 31DEBFE3-91DA-4588-B433-21B0E14A101B
+name: Road
+description: Use this domain for words related to a road.
+ocmCodes: 363 Streets and Traffic
+louwNidaCodes: '1P Thoroughfares: Roads, Streets, Paths, etc.'
+questions:
+  - q: What types of roads are there?
+    words: >-
+      road, street, lane, path, footpath, way, avenue, boulevard, highway, freeway,
+      thoroughfare, divided highway, paved road, dirt road, improved road, unimproved road
+  - q: What words are used to describe when two roads come together?
+    words: >-
+      corner, cross street, fork, intersection, juncture, pedestrian crossing, interchange,
+      overpass, underpass, exit
+  - q: What words refer to a bridge?
+    words: bridge
+  - q: What words refer to a tunnel?
+    words: tunnel
+  - q: What are the parts of a road?
+    words: >-
+      center line, shoulder, edge, median, lane, passing lane, bed, roadbed, surface,
+      pavement, sidewalk, curb
+  - q: What words are used for the signs and markers on a road?
+    words: sign, signpost, marker, line, speed bump, reflector
+  - q: What words are used for making a road?
+    words: build a road, lay a new road, build up the bed, pave
+  - q: What words are used to describe a bad road?
+    words: >-
+      pothole, road gone to pot, rutted, washboard, dusty, rough, broken pavement, cracked
+      pavement, worn pavement, full of holes, in need of repair
+  - q: What words are used of fixing a road?
+    words: road repairs, repaving, repairing, fixing, detour, fill holes, patching holes
+  - q: What words refer to people and vehicles traveling on a road?
+    words: traffic

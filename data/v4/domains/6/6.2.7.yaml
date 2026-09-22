@@ -1,0 +1,7 @@
+code: "6.2.7"
+guid: FF9DFC70-526D-405E-B613-5A2A21C1B2D8
+name: Farm worker
+description: Use this domain for words related to farm workers.
+questions:
+  - q: What words refer to a person who works on a farm?
+    words: farmer, farm worker, field hand, sharecropper, itinerant farm laborer, hired hand

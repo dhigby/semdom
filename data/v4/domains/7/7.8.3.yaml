@@ -1,0 +1,20 @@
+code: "7.8.3"
+guid: 42BE1634-72CA-4A20-80A1-BA726E5CD1D2
+name: Cut
+description: Use this domain for words related to cutting something.
+louwNidaCodes: 19B Pierce, Cut
+questions:
+  - q: What general words refer to cutting something?
+    words: cut
+  - q: What words refer to cutting something with one slice?
+    words: slice, cut once, cut in one movement
+  - q: What words refer to cutting something with many slices?
+    words: hack, cut repeatedly
+  - q: What words refer to cutting something into many pieces?
+    words: cut up, cut into pieces, dice, grate, shred, cube, quarter, halve, mince, grind
+  - q: What words refer to cutting something with a swinging motion?
+    words: chop
+  - q: What words refer to cutting something with a particular tool?
+    words: knife, ax
+  - q: What words refer to a cut?
+    words: cut, incision

@@ -1,0 +1,7 @@
+code: "3.1.2"
+guid: A2508183-7EA5-434E-A773-00D53087D27B
+name: Mental state
+description: Use this domain for words referring to a person's mental state.
+questions:
+  - q: What general words refer to a person's mental state?
+    words: mental state, mental condition, conscious state

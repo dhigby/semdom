@@ -1,0 +1,11 @@
+code: "6.1.2.3"
+guid: D6C29733-BEEB-4FC9-975F-5E78A8ACC273
+name: Work well
+description: Use this domain for words related to working well.
+ocmCodes: 555 Talent Mobility
+louwNidaCodes: 75 Adequate, Qualified; 68F Do Intensely or Extensively
+questions:
+  - q: What words refer to working well?
+    words: work well, give it your best, do your best, skill, skillful, skillfully
+  - q: What words describe someone who works well?
+    words: proficient, businesslike, practical, thorough

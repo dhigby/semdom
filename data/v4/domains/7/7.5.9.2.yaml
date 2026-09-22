@@ -1,0 +1,11 @@
+code: "7.5.9.2"
+guid: DFE59469-D1BF-4ed2-9FAA-6D5AF52EEFDD
+name: Fill, cover
+description: >-
+  Use this domain for words related to filling a container or covering an area with
+  something.
+questions:
+  - q: What words refer to filling something?
+    words: fill, choke, clog, deluge, drench, flood, inundate, plug, saturate, soak
+  - q: What words refer to covering something?
+    words: cover, coat, blanket, coat, encrust, mask, pave, plate, robe, shroud, smother, swathe

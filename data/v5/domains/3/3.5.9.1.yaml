@@ -1,0 +1,16 @@
+code: "3.5.9.1"
+guid: EEF8C50E-C391-482C-9F60-1BBA2D8892B3
+name: Radio, television
+description: Use this domain for words related to radio and television.
+ocmCodes: 207 Radio and Television
+questions:
+  - q: What words refer to different kinds of mass communication?
+    words: radio, television
+  - q: What words refer to programs?
+    words: program, ad
+  - q: What words refer to making programs?
+    words: broadcast
+  - q: What words refer to a person who talks on the radio or television?
+    words: reporter, anchorman, disk jockey
+  - q: What words refer to radio and television stations?
+    words: station, band, frequency, reception

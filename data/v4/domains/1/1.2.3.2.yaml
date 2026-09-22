@@ -1,0 +1,19 @@
+code: "1.2.3.2"
+guid: 962CB994-0183-4AC5-94B2-82A33F1D64E4
+name: Oil
+description: Use this domain for words referring to oil.
+questions:
+  - q: What general words refer to oil?
+    words: oil, grease, lubricant
+  - q: What types of oil are there?
+    words: >-
+      petroleum, petrol, gasoline, gas, diesel, kerosene, paraffin, crude oil, mineral oil,
+      ointment, liniment, lotion, Vaseline, glycerin
+  - q: What types of oil are made from plants and animals?
+    words: vegetable oil, cream, lard, fat, wax, tallow, beeswax, soap
+  - q: What words describe oil?
+    words: oily, greasy, slippery, slick, slimy, smooth, lubricating, fatty, gummy, mucous, soapy
+  - q: What words refer to some oil on something?
+    words: drop of oil, oil slick, blob, glob, soap (v)
+  - q: What words refer to putting oil on something?
+    words: lubricate, lubrication, lube, oil (v), anoint, rub, salve, slick, smear, grease (v)

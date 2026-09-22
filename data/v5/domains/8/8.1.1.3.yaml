@@ -1,0 +1,25 @@
+code: "8.1.1.3"
+guid: D85D0838-A9E4-4787-8FCE-7D0466BC24B9
+name: Number of times
+description: >-
+  Use this domain for numbers that refer to the number of times something happens or is
+  done. These numbers may be adverbs as in English (twice) or in some languages they may be
+  verbs (to do something two times).
+louwNidaCodes: 60E Once, Twice, Three Times, Etc. x
+related: ["8.4.6.6", "8.4.6.6.3"]
+questions:
+  - q: >-
+      What words indicate the number of times something has happened? ("He fell down three
+      times.")
+    words: >-
+      once, one time, single time, twice, two times, three times, thrice, four times, many
+      times
+    sentence: >-
+      Mary washed the dress <three times>.; I have lent John money <many times>.; I have
+      lent John money <twice>.
+  - q: What words describe something that has happened a particular number of times?
+    words: two-time, three-time
+  - q: >-
+      What words refer to doing something a particular number of times (to do something
+      once/twice/etc.)?
+    words: (none in English)

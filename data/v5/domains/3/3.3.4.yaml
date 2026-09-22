@@ -1,0 +1,12 @@
+code: "3.3.4"
+guid: 8383B4CB-E14A-4D04-A8C3-9C5276384953
+name: Ask permission
+description: >-
+  Use this domain for words related to asking permission to do something. This domain is
+  part of a scenario: You have authority over me. I want to do something. I ask you for
+  permission to do it. You give permission or refuse permission. I obey you or disobey you.
+questions:
+  - q: What words refer to asking permission to do something?
+    words: ask, ask someone's permission
+  - q: What words do people use when they are asking permission to do something?
+    words: can I, may I, do you mind if, would you mind if, is it all right if
