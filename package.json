@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "build:xml": "node scripts/build-xml.mjs",
     "verify": "node scripts/build-xml.mjs --out .verify --verify",
+    "check:emit": "node scripts/check-emit.mjs",
     "materialize": "node scripts/materialize.mjs"
   },
   "dependencies": {

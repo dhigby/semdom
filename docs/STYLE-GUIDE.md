@@ -56,9 +56,11 @@ refer to X?" first, then finer distinctions.
 ## Numbering
 
 Questions are numbered `(1)`, `(2)`, … within a domain. Numbers are **not
-referential** (words are tagged to the domain code, not the question number), so
-`apply-changes.mjs` renumbers a domain's questions sequentially whenever that
-domain is edited. Untouched domains keep their original numbering verbatim.
+referential** — words are tagged to the domain code, not the question number — so
+the numbering is **not stored**. `scripts/build-xml.mjs` applies it when the XML is
+generated, which means inserting a question renumbers the rest for free and no edit
+ever has to rewrite the list. Never type the numbers into a question: `validate.mjs`
+rejects a stored `(n)` prefix outright.
 
 ## Worked before/after
 

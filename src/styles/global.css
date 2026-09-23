@@ -30,6 +30,13 @@ html {
   scroll-behavior: smooth;
 }
 
+/* The [hidden] attribute must actually hide. The browser's own `[hidden] {display:none}`
+   is an attribute selector, so any class rule that sets `display` out-specifies it — and
+   `.contact-field {display:flex}` did exactly that, leaving a hidden field on screen. */
+[hidden] {
+  display: none !important;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
@@ -1237,3 +1244,212 @@ button.code-pill[aria-expanded='true'] {
   color: var(--sil-cyan);
 }
 
+
+/* ------------------------------------------------------------- propose form */
+/* Reuses .contact-form / .contact-field / .contact-status so the two forms on the
+   site look like one thing. Only what the proposal form adds lives here. */
+
+.propose-cards {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  margin: 1.5rem 0 1rem;
+}
+
+.propose-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-alt);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
+}
+
+.propose-card:hover {
+  border-color: var(--sil-cyan);
+  box-shadow: var(--shadow-sm);
+}
+
+.propose-card strong { color: var(--sil-navy); }
+.propose-card span { font-size: 0.92rem; color: var(--muted); }
+
+.propose-note,
+.propose-hint {
+  font-size: 0.88rem;
+  color: var(--muted);
+  margin: 0.15rem 0 0;
+}
+
+.propose-optional {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.propose-locked {
+  background: var(--bg-tint);
+  border-left: 3px solid var(--sil-cyan);
+  padding: 0.7rem 0.9rem;
+  border-radius: 4px;
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.propose-locked span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.propose-provisional { font-size: 0.88rem; color: var(--muted); margin: 0.3rem 0 0; }
+.propose-warn { color: #8a5200; display: inline-block; margin-top: 0.3rem; }
+
+.propose-questions { list-style: none; padding: 0; margin: 0.75rem 0; }
+
+.propose-question {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.75rem;
+  background: var(--bg-alt);
+}
+
+.propose-question-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.propose-qnum { font-weight: 600; color: var(--muted); }
+.propose-question-controls { display: flex; gap: 0.3rem; }
+
+.propose-question-controls button,
+.propose-add,
+.propose-chip-remove,
+.propose-fix {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.propose-question-controls button:hover:not(:disabled),
+.propose-add:hover,
+.propose-chip-remove:hover,
+.propose-fix:hover { border-color: var(--sil-cyan); }
+
+.propose-question-controls button:disabled { opacity: 0.4; cursor: default; }
+
+.propose-question label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--sil-navy);
+  margin-bottom: 0.6rem;
+}
+
+.propose-question label span { font-weight: 400; color: var(--muted); font-size: 0.82rem; }
+
+.propose-question input[type='text'] {
+  font: inherit;
+  font-weight: 400;
+  color: var(--text);
+  background: var(--bg);
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.propose-question input:focus {
+  outline: none;
+  border-color: var(--sil-cyan);
+  box-shadow: 0 0 0 3px rgba(0, 167, 225, 0.18);
+}
+
+.propose-keep-empty { flex-direction: row !important; align-items: flex-start; gap: 0.5rem !important; font-weight: 400 !important; font-size: 0.85rem !important; }
+
+.propose-qhint {
+  background: #fff6e5;
+  border: 1px solid #e6b566;
+  color: #6b4a12;
+  padding: 0.5rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  margin: 0 0 0.6rem;
+}
+
+.propose-inline { display: flex; gap: 0.5rem; }
+.propose-inline input { flex: 1; }
+
+.propose-chips { list-style: none; padding: 0; margin: 0.5rem 0 0; font-size: 0.9rem; }
+.propose-chips li { padding: 0.15rem 0; }
+.propose-empty { color: var(--muted); }
+
+.propose-advanced {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.9rem;
+}
+
+.propose-advanced summary { cursor: pointer; font-weight: 600; color: var(--sil-navy); font-size: 0.92rem; }
+.propose-advanced > *:not(summary) { margin-top: 0.75rem; }
+
+.propose-preview {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.8rem;
+  font-size: 0.82rem;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.propose-errors {
+  background: #fdf1f1;
+  border: 1px solid #e6a5a5;
+  color: #7a2020;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+}
+
+.propose-errors ul { margin: 0.4rem 0 0; padding-left: 1.2rem; }
+
+.propose-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
+
+@media (prefers-color-scheme: dark) {
+  .propose-qhint { background: #33280f; border-color: #7a5a1f; color: #f0dcb8; }
+  .propose-warn { color: #f2c67a; }
+  .propose-errors { background: #3a1c1c; border-color: #7a3a3a; color: #f3c9c9; }
+}
+
+.propose-card-go { color: var(--accent); font-size: 0.9rem; font-weight: 600; }
+.propose-card .propose-inline { margin-top: 0.6rem; }
+.propose-card input[type='text'] {
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  min-width: 0;
+}
+.propose-card input:focus {
+  outline: none;
+  border-color: var(--sil-cyan);
+  box-shadow: 0 0 0 3px rgba(0, 167, 225, 0.18);
+}
+.propose-pick-error { color: #7a2020; font-size: 0.85rem; margin: 0.4rem 0 0; }
+@media (prefers-color-scheme: dark) { .propose-pick-error { color: #f3c9c9; } }

@@ -42,11 +42,14 @@ cannot migrate. Therefore:
 **Forbidden:** deleting a domain, reusing a number, changing a GUID, or
 narrowing a domain so that already-tagged words become mis-tagged.
 
-Every change carries a `rationale` and feeds the published **v4→v5 migration
-map** (`derived/migration-map.csv`): old code → new code, with the condition
-under which a sense should be re-tagged (e.g. "senses about same-sex relations
-tagged `2.6.2.3` → `2.6.2.4`"). Re-tagging is always *advisory*; the old tag
-never becomes invalid.
+Every added domain carries a `rationale`, recorded in `data/v5/changes.yaml` (or,
+for the original migration pass, in the frozen `data/v5/history/*.yaml`).
+`scripts/validate.mjs` rejects a v5 domain that has none.
+
+The **v4→v5 migration map** is `data/v5/migrations.yaml`: old code → new code,
+with the condition under which a sense should be re-tagged (e.g. "senses about
+same-sex relations tagged `2.6.2.3` → `2.6.2.4`"). Re-tagging is always
+*advisory*; the old tag never becomes invalid.
 
 ## Neutrality policy (descriptive reframe)
 
@@ -74,10 +77,15 @@ never becomes invalid.
 ## GUID policy
 
 New domains receive a fresh uppercase-hex GUID in v4 style
-(`XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`). GUIDs are generated deterministically
-by `apply-changes.mjs` from the domain code so that re-running the pipeline
-yields stable GUIDs (no random churn in the draft). Existing GUIDs are never
-altered.
+(`XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`), generated at random by
+`newGuid()` in `scripts/lib/domain-rules.mjs` and checked for collision against
+both versions. Existing GUIDs are never altered.
+
+A GUID must **not** be derived from the domain code, tempting as that is. Codes
+change during review — a proposal gets re-parented and renumbered before it is
+merged — and a code-derived GUID would change with it, breaking the one rule
+that has no exceptions. The GUID is assigned once, at merge, and is permanent
+from that moment.
 
 ## Scope of this pass
 

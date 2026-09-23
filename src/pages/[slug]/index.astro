@@ -7,9 +7,11 @@ import SectionLink from '../../components/SectionLink.astro';
 export async function getStaticPaths() {
   // Every page with a dedicated route under src/pages must be excluded here or the
   // build fails on a duplicate route: 'home' lives at /, 'bibliography' also renders the
-  // data downloads, 'contact' appends the form, 'about' appends its section cards, and
-  // 'louw-nida' / 'ocm' each append a generated cross-reference table.
-  const excluded = new Set(['home', 'bibliography', 'contact', 'about', 'louw-nida', 'ocm']);
+  // data downloads, 'contact' and 'propose' each append a form, 'about' appends its
+  // section cards, and 'louw-nida' / 'ocm' each append a generated cross-reference table.
+  const excluded = new Set([
+    'home', 'bibliography', 'contact', 'propose', 'about', 'louw-nida', 'ocm',
+  ]);
   const pages = await getCollection('pages');
   return pages
     .filter((p) => !excluded.has(p.id))

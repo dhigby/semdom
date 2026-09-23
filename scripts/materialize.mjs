@@ -18,6 +18,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { compareCodes } from './lib/serialize-xml.mjs';
+import { domainToYaml } from './lib/emit-yaml.mjs';
 
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const CHECK_ONLY = process.argv.includes('--check');
@@ -144,30 +145,16 @@ function assertConvertible(version, roots) {
 }
 
 // --- emit -----------------------------------------------------------------
-function domainToYaml(d, byGuid) {
-  const q = (s) => JSON.stringify(String(s));
-  const lines = [`code: ${q(d.code)}`, `guid: ${d.guid}`];
-
-  const doc = { name: d.name, description: d.description };
-  if (d.ocmCodes !== undefined) doc.ocmCodes = d.ocmCodes;
-  if (d.louwNidaCodes !== undefined) doc.louwNidaCodes = d.louwNidaCodes;
-  lines.push(yaml.dump(doc, { lineWidth: 92, noRefs: true }).trimEnd());
-
-  if (d.relatedGuids.length)
-    lines.push(
-      'related: [' + d.relatedGuids.map((g) => q(byGuid.get(g.toUpperCase()).code)).join(', ') + ']'
-    );
-
-  if (d.questions.length) {
-    const qs = d.questions.map((x) => {
-      const o = { q: x.question.replace(/^\(\d+\) /, '') };
-      if (x.exampleWords !== undefined) o.words = x.exampleWords;
-      if (x.exampleSentences !== undefined) o.sentence = x.exampleSentences;
-      return o;
-    });
-    lines.push(yaml.dump({ questions: qs }, { lineWidth: 92, noRefs: true }).trimEnd());
-  }
-  return lines.join('\n') + '\n';
+/**
+ * Adapt an XML-shaped record (related as GUIDs) to the loader shape the shared
+ * emitter takes. The serializer itself now lives in lib/emit-yaml.mjs so the site's
+ * proposal form and check-emit.mjs write bytes through the same code path.
+ */
+function emitDomain(d, byGuid) {
+  return domainToYaml({
+    ...d,
+    related: d.relatedGuids.map((g) => byGuid.get(g.toUpperCase()).code),
+  });
 }
 
 console.log(CHECK_ONLY ? 'Checking (no files written)...\n' : 'Materializing data/ from XML...\n');
@@ -197,7 +184,7 @@ for (const { version, xml } of SOURCES) {
   for (const d of all) {
     const root = d.code.split('.')[0];
     mkdirSync(`${base}/domains/${root}`, { recursive: true });
-    writeFileSync(`${base}/domains/${root}/${d.code}.yaml`, domainToYaml(d, byGuid), 'utf-8');
+    writeFileSync(`${base}/domains/${root}/${d.code}.yaml`, emitDomain(d, byGuid), 'utf-8');
   }
 
   // Structure lock: identity and shape only, never text — so an approved typo fix

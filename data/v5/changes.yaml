@@ -1,0 +1,27 @@
+# Accepted changes to v5, newest last. Append-only: never edit or remove an entry.
+#
+# A domain number is permanent from the moment it merges, so the reason it exists has to
+# outlive the conversation that created it. A GitHub issue is mutable, deletable and not
+# part of this repository; this file is the record. scripts/validate.mjs rejects a v5
+# domain that has no `op: add` entry with a non-empty rationale, here or in history/.
+#
+# data/v5/history/*.yaml holds the change-sets from the original migration pass and is
+# frozen. Everything from here on goes in this file.
+#
+# An entry deliberately carries `name` but not `description` or `questions`: the domain's
+# own YAML file is the source of truth for its text, and duplicating it here would only
+# create a second place to be wrong.
+#
+#   - op: add
+#     code: "4.6.9"
+#     parent: "4.6"
+#     name: "Refugees, displacement"
+#     rationale: >-
+#       Why the standard needs this domain, and which words currently have no home.
+#     evidence: "Which language, project or workshop surfaced the gap."
+#     proposedBy: "Name, affiliation"
+#     date: "2026-09-22"
+#
+# `scripts/apply-proposal.mjs` appends entries here; you should rarely write one by hand.
+
+[]

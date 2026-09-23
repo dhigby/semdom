@@ -6,9 +6,17 @@ install anything.
 
 ## The quickest route
 
-Every domain page on [semdom.org](https://semdom.org) has a **"Suggest an edit"** link
-at the bottom. It opens that domain's file in GitHub's editor. Change what you need to,
-and GitHub will walk you through opening a pull request.
+Use the form at **[semdom.org/propose/](https://semdom.org/propose/)**, or the
+**"Suggest a change"** link at the bottom of any domain page. It shows the domain as
+ordinary labelled fields, checks everything this document describes as you type, and
+emails a complete proposal to the maintainers. No account, no YAML, no Git.
+
+If you would rather edit the file yourself, every domain page also has an **"Edit the
+file on GitHub"** link, which opens its YAML in GitHub's editor and walks you through
+opening a pull request. That route cannot create a *new* domain — see below.
+
+[docs/EDITING.md](docs/EDITING.md) covers both routes click by click, and the site's text
+pages too.
 
 A domain lives in exactly one file, named after its code:
 
@@ -55,7 +63,7 @@ The full charter is `docs/PRINCIPLES.md`. The short version:
 
 | | Allowed |
 |---|---|
-| **Add** a new domain at an unused number | Yes, in v5 |
+| **Add** a new domain at an unused number | Yes, in v5 — via the form only |
 | **Revise** a name, description, question, or example words | Yes |
 | **Broaden** a domain's scope | Yes |
 | **Narrow** a domain so already-tagged words become mis-tagged | No |
@@ -83,12 +91,16 @@ references domain numbers in data we do not control and cannot migrate.
 
 ## What happens to your pull request
 
-CI runs automatically and posts a summary showing:
+CI runs automatically. Click **Details** next to the "Validate" check and open the run's
+summary page, which shows:
 
 - every domain that changed, field by field, in plain language
 - the compatibility invariants (nothing deleted, renumbered, or re-GUIDed)
 - confirmation that the generated v4 XML still matches the historic export
 - the generated XML files, downloadable, if you want to load them into FieldWorks
+
+(The summary lives on the run rather than in a PR comment, because a pull request from a
+fork gets a read-only token and cannot comment.)
 
 A maintainer then reviews and merges. Merging regenerates the XML and republishes the
 site.
