@@ -1,0 +1,87 @@
+name: Guard direct pushes
+
+# Maintainers may commit text fixes straight to main — that is the point of the
+# "Suggest an edit" link, and CI still validates the result. Structural changes are
+# different: an added or removed domain, a changed code or GUID, a regenerated lock
+# file, or any edit to the released v4 standard must go through a pull request so a
+# second person sees it.
+#
+# GitHub cannot express that split natively. Its file-path push rule blocks matching
+# pushes outright rather than routing them to review, so the rule lives here: a direct
+# push that touches structure fails loudly and visibly. Nothing is auto-reverted — the
+# deploy workflow revalidates before publishing, so a bad commit cannot reach the site.
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Was this commit reviewed in a pull request?
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          count=$(gh api "repos/${{ github.repository }}/commits/${{ github.sha }}/pulls" \
+            --jq 'length' 2>/dev/null || echo 0)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" -gt 0 ]; then
+            echo "Commit arrived through a pull request — structural changes are allowed."
+          else
+            echo "Direct push to main. Structural changes are not allowed this way."
+          fi
+
+      - name: Reject structural changes made without review
+        if: steps.pr.outputs.count == '0'
+        run: |
+          before='${{ github.event.before }}'
+          # A new branch or a force push reports an all-zero "before"; fall back to the
+          # first parent so the guard still has something to diff against.
+          if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
+            before=$(git rev-parse '${{ github.sha }}^' 2>/dev/null || echo '')
+          fi
+          [ -z "$before" ] && { echo "No diff base; skipping."; exit 0; }
+
+          status=$(git diff --name-status "$before" '${{ github.sha }}')
+          echo "$status"
+
+          fail=0
+          note() { echo "::error::$1"; fail=1; }
+
+          # A domain file added or deleted is an add or a delete, whatever else it is.
+          echo "$status" | grep -E '^A.*data/v[0-9]+/domains/.*\.yaml$' >/dev/null \
+            && note 'A domain was added without a pull request. New numbers are permanent; see data/v5/POLICY.md.'
+          echo "$status" | grep -E '^D.*data/v[0-9]+/domains/.*\.yaml$' >/dev/null \
+            && note 'A domain file was deleted. Deletion is forbidden outright; see docs/PRINCIPLES.md.'
+
+          # The lock files are the enforcement mechanism for structure.
+          echo "$status" | grep -E 'data/v[0-9]+/structure\.lock$' >/dev/null \
+            && note 'A structure lock was regenerated without a pull request. That is the one act that changes a version'"'"'s shape.'
+
+          # v4 is a released standard; even its text edits need the POLICY.md conditions.
+          echo "$status" | grep -E '[[:space:]]data/v4/' >/dev/null \
+            && note 'v4 was edited without a pull request. See data/v4/POLICY.md — v4 text fixes must be signalled, changelogged and mirrored.'
+
+          # Identity, inside an otherwise ordinary text edit.
+          if git diff -U0 "$before" '${{ github.sha }}' -- 'data/*/domains/**' \
+               | grep -E '^[+-](code|guid):' >/dev/null; then
+            note 'A code: or guid: line changed. Both are permanent identifiers and can never be edited.'
+          fi
+
+          if [ "$fail" = 1 ]; then
+            echo ""
+            echo "Open a pull request with this change instead. Text fixes — names," \
+                 "descriptions, questions, example words — may still be committed directly."
+            exit 1
+          fi
+          echo "Text-only change. Allowed."

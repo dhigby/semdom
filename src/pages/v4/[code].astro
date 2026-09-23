@@ -4,7 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import DomainCodes from '../../components/DomainCodes.astro';
 import SidebarTree from '../../components/SidebarTree.astro';
 import DomainNav from '../../components/DomainNav.astro';
-import { getAllDomains, getChildren, resolveRelated, getEditUrl } from '../../lib/semdom';
+import { getAllDomains, getChildren, resolveRelated, REPO_URL } from '../../lib/semdom';
 import { withBase } from '../../lib/url';
 
 export async function getStaticPaths() {
@@ -67,7 +67,12 @@ const related = resolveRelated(domain);
 
     <p class="domain-meta">
       Permanent link: <code>https://semdom.org/v4/{domain.code}/</code> · GUID: {domain.guid}
-      · <a href={getEditUrl(domain, 'v4')}>Suggest an edit</a>
+      · <a href={withBase(`/propose/?mode=edit&v=v5&code=${domain.code}`)}>Suggest a change</a>
+    </p>
+    <p class="domain-meta">
+      v4 is a released version and its wording is only corrected under
+      <a href={`${REPO_URL}/blob/main/data/v4/POLICY.md`}>a stricter policy</a>, so
+      suggestions are made against the v5 draft, which supersedes it.
     </p>
   </article>
 

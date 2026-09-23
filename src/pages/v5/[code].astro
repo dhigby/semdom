@@ -94,7 +94,8 @@ else if (
 
     <p class="domain-meta">
       Draft link: <code>https://semdom.org/v5/{domain.code}/</code> · GUID: {domain.guid}
-      · <a href={getEditUrl(domain, 'v5')}>Suggest an edit</a>
+      · <a href={withBase(`/propose/?mode=edit&v=v5&code=${domain.code}`)}>Suggest a change</a>
+      · <a href={getEditUrl(domain, 'v5')}>Edit the file on GitHub</a>
       {v4 && <> · <a href={withBase(`/v4/${domain.code}/`)}>Compare with v4</a></>}
     </p>
   </article>

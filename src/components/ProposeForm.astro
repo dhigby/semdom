@@ -1,0 +1,165 @@
+---
+/**
+ * The proposal form's markup. All behaviour is in src/scripts/propose.ts.
+ *
+ * Posts to Web3Forms, like ContactForm.astro, because the site is a static GitHub Pages
+ * build with no backend and domain coordinators are not assumed to have GitHub accounts.
+ * What arrives in the maintainer's inbox is not prose to retype: it is a complete
+ * proposal document that `node scripts/apply-proposal.mjs --file …` turns into a commit.
+ *
+ * The access key is public by design — it only authorises sending to the pre-configured
+ * address, which never appears in the page.
+ */
+import { REPO_URL } from '../lib/semdom';
+import { withBase } from '../lib/url';
+
+const ACCESS_KEY = '434076d1-63e6-4036-9b1a-02086259eef7';
+const RAW_BASE = REPO_URL.replace('github.com', 'raw.githubusercontent.com') + '/main';
+---
+
+<div id="propose" data-raw-base={RAW_BASE} data-index-url={withBase('/data/v5-index.json')}>
+  <div id="propose-choose" hidden>
+    <div class="propose-cards">
+      <div class="propose-card">
+        <strong>Change an existing domain</strong>
+        <span>Revise a domain's name, description, questions or example words. Search by
+        number or by name.</span>
+        <div class="propose-inline">
+          <input
+            type="text"
+            id="propose-pick"
+            list="propose-pick-list"
+            placeholder="1.1.3, or Weather"
+            autocomplete="off"
+          />
+          <datalist id="propose-pick-list"></datalist>
+          <button type="button" id="propose-pick-go" class="propose-add">Open</button>
+        </div>
+        <p class="propose-pick-error" id="propose-pick-error" role="alert" hidden></p>
+      </div>
+      <a class="propose-card" href={withBase('/propose/?mode=new')}>
+        <strong>Propose a new domain</strong>
+        <span>Ask for a new domain to be added to the v5 draft, because words your community
+        uses have nowhere to go.</span>
+        <span class="propose-card-go">Start →</span>
+      </a>
+    </div>
+    <p class="propose-note">
+      Neither needs a GitHub account, and nothing you send here is published directly. A
+      maintainer reviews every change to the standard. See
+      <a href={`${REPO_URL}/blob/main/data/v5/POLICY.md`}>what may and may not change</a>.
+    </p>
+  </div>
+
+  <p id="propose-loading" hidden>Loading the domain list…</p>
+
+  <div id="propose-form-pane" hidden>
+    <h2 id="propose-mode-title"></h2>
+
+    <form id="propose-form" class="contact-form" novalidate>
+      <input type="hidden" id="pf-access-key" value={ACCESS_KEY} />
+      <!-- Honeypot: bots fill this; Web3Forms silently drops those submissions. -->
+      <input type="checkbox" id="pf-botcheck" class="contact-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+      <div id="propose-identity"></div>
+
+      <div class="contact-field">
+        <label for="pf-parent">Parent domain</label>
+        <select id="pf-parent"></select>
+        <p class="propose-provisional" id="propose-provisional"></p>
+      </div>
+
+      <div class="contact-field">
+        <label for="pf-name">Name</label>
+        <input type="text" id="pf-name" placeholder="Elections, voting" />
+      </div>
+
+      <div class="contact-field">
+        <label for="pf-description">Description</label>
+        <textarea id="pf-description" rows="3" placeholder="Use this domain for words related to…"></textarea>
+        <p class="propose-hint">Say what belongs here <em>and</em> what does not.</p>
+      </div>
+
+      <fieldset class="contact-field">
+        <legend>Elicitation questions</legend>
+        <p class="propose-hint">
+          Questions have to prompt a native speaker and translate cleanly into dozens of
+          languages — see the <a href={`${REPO_URL}/blob/main/docs/STYLE-GUIDE.md`}>style guide</a>.
+          Do not number them; the numbering is added automatically.
+        </p>
+        <ol id="pf-questions" class="propose-questions"></ol>
+        <button type="button" id="pf-question-add" class="propose-add">Add a question</button>
+      </fieldset>
+
+      <div class="contact-field">
+        <label for="pf-related-input">Related domains <span class="propose-optional">optional</span></label>
+        <div class="propose-inline">
+          <input type="text" id="pf-related-input" placeholder="8.3.4" />
+          <button type="button" id="pf-related-add" class="propose-add">Add</button>
+        </div>
+        <ul id="pf-related" class="propose-chips"></ul>
+      </div>
+
+      <details class="propose-advanced">
+        <summary>Classification codes (optional)</summary>
+        <p class="propose-hint">
+          Leave these blank unless you know the equivalent code. A guess is worse than a
+          blank — a maintainer adds them where they apply.
+        </p>
+        <div class="contact-field">
+          <label for="pf-ocm">OCM codes</label>
+          <input type="text" id="pf-ocm" placeholder="821 Weather" />
+        </div>
+        <div class="contact-field">
+          <label for="pf-louwnida">Louw-Nida codes</label>
+          <input type="text" id="pf-louwnida" placeholder="1D Heavenly Bodies" />
+        </div>
+      </details>
+
+      <div class="contact-field">
+        <label for="pf-rationale">Why is this change needed?</label>
+        <textarea id="pf-rationale" rows="3"></textarea>
+        <p class="propose-hint">
+          Which words have no home today, and why no existing domain covers them. For a new
+          domain this becomes the permanent public record of why the number exists.
+        </p>
+      </div>
+
+      <div class="contact-field">
+        <label for="pf-evidence">Where did this come from? <span class="propose-optional">optional</span></label>
+        <input type="text" id="pf-evidence" placeholder="A Rapid Word Collection workshop in…" />
+      </div>
+
+      <div class="contact-field">
+        <label for="pf-proposer">Your name and affiliation <span class="propose-optional">optional</span></label>
+        <input type="text" id="pf-proposer" placeholder="Jane Doe, SIL Cameroon" />
+      </div>
+
+      <div class="contact-field">
+        <label for="pf-email">Your email</label>
+        <input type="email" id="pf-email" required autocomplete="email" />
+        <p class="propose-hint">So a maintainer can ask you about the proposal.</p>
+      </div>
+
+      <details class="propose-advanced">
+        <summary>What will be sent</summary>
+        <p class="propose-hint">This is the domain file your proposal would produce.</p>
+        <pre id="propose-preview" class="propose-preview"></pre>
+      </details>
+
+      <div id="propose-errors" class="propose-errors" role="alert" hidden></div>
+
+      <div class="propose-actions">
+        <button type="submit" id="propose-submit" class="contact-submit">Send for review</button>
+        <button type="button" id="propose-copy" class="propose-add">Copy the proposal</button>
+        <button type="button" id="propose-download" class="propose-add">Download the proposal</button>
+      </div>
+
+      <p id="propose-status" class="contact-status" role="status" aria-live="polite" hidden></p>
+    </form>
+  </div>
+</div>
+
+<script>
+  import '../scripts/propose';
+</script>

@@ -22,6 +22,12 @@ jobs:
       - name: Validate domain data
         run: node scripts/validate.mjs
 
+      # The proposal form on /propose/ emits whole files through the same serializer.
+      # If that serializer stopped reproducing the committed files byte for byte, every
+      # form-authored edit would rewrite unrelated lines and become unreviewable.
+      - name: Check every domain file round-trips through the shared emitter
+        run: node scripts/check-emit.mjs
+
       - name: Generate XML and verify fidelity against the historic v4 export
         run: node scripts/build-xml.mjs --out .verify --verify
 

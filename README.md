@@ -82,3 +82,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: edit a domain's YAML file, ope
 pull request, and CI will validate the compatibility invariants and show a reviewer
 exactly what changed. Every domain page on semdom.org has a "Suggest an edit" link that
 opens the right file.
+
+[docs/EDITING.md](docs/EDITING.md) walks through the same route click by click, in a
+browser, for contributors who do not use Git — and covers editing the site's text pages
+as well as the domains.

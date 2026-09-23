@@ -1,0 +1,22 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../../components/Layout.astro';
+import ProposeForm from '../../components/ProposeForm.astro';
+
+// Dedicated route (mirrors src/pages/contact/index.astro): renders the CMS-editable
+// propose.md intro, then appends the form. Because this route exists, 'propose' is
+// excluded from the generic src/pages/[slug] route to avoid a duplicate-route collision.
+const entry = await getEntry('pages', 'propose');
+const { Content } = await render(entry!);
+---
+
+<Layout
+  title={entry!.data.title}
+  description="Suggest a change to a semantic domain, or propose a new one, without a GitHub account."
+>
+  <div class="content-page" data-pagefind-body>
+    <h1>{entry!.data.title}</h1>
+    <Content />
+    <ProposeForm />
+  </div>
+</Layout>

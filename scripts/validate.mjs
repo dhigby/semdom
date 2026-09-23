@@ -11,9 +11,11 @@
  * before being given a severity: three things that look like obvious hard failures are
  * warnings, because they are true of the shipped v4 corpus and always have been.
  */
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import yaml from 'js-yaml';
 import { loadVersion, parentOf, compareCodes } from './lib/domains.mjs';
+import { checkText, checkQuestion, checkCode, checkGuid, domainPath } from './lib/domain-rules.mjs';
 
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const WRITE_LOCK = process.argv.includes('--write-lock');
@@ -38,9 +40,6 @@ const GRANDFATHERED = {
   ]),
 };
 
-const GUID_RE = /^[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}$/;
-const CODE_RE = /^\d+(\.\d+)*$/;
-
 function validateVersion(version) {
   const { ordered, byCode, files } = loadVersion(version);
   const seenGuid = new Map();
@@ -54,15 +53,14 @@ function validateVersion(version) {
     for (const f of ['code', 'guid', 'name', 'description']) {
       if (typeof d[f] !== 'string') err(where, `${f} must be a string, got ${typeof d[f]}`);
     }
-    if (!CODE_RE.test(d.code)) err(where, `code "${d.code}" is not a dotted numeric code`);
-    if (/(^|\.)0\d/.test(d.code)) err(where, `code "${d.code}" has a leading-zero segment`);
-    const expectedPath = `data/${version}/domains/${d.code.split('.')[0]}/${d.code}.yaml`;
+    for (const m of checkCode(d.code)) err(where, m);
+    const expectedPath = domainPath(version, d.code);
     if (files.get(d.code) !== expectedPath)
       err(where, `file should be at ${expectedPath}`);
 
     // GUIDs are a permanent API and are mixed-case in the source data (70 of them),
     // so match case-insensitively and never rewrite.
-    if (!GUID_RE.test(d.guid)) err(where, `guid "${d.guid}" is not a valid GUID`);
+    for (const m of checkGuid(d.guid)) err(where, m);
     const gk = d.guid.toUpperCase();
     if (seenGuid.has(gk)) err(where, `guid duplicates ${seenGuid.get(gk)}`);
     else seenGuid.set(gk, d.code);
@@ -79,22 +77,17 @@ function validateVersion(version) {
         fields.push([`questions[${i}].sentence`, q.exampleSentences]);
     });
     for (const [label, value] of fields) {
-      if (/[\r\n]/.test(value)) err(where, `${label} contains a line break`);
-      if (/[\t\x00-\x08\x0b\x0c\x0e-\x1f]/.test(value)) err(where, `${label} contains a control character`);
       const m = label.match(/^questions\[(\d+)\]\.q$/);
       const key = m ? `${version}:${d.code}:${Number(m[1]) + 1}` : null;
-      if (value !== value.trim() && !(key && GRANDFATHERED.trailingSpaceQuestions.has(key)))
-        err(where, `${label} has leading or trailing whitespace`);
+      const allowTrailingSpace = Boolean(key && GRANDFATHERED.trailingSpaceQuestions.has(key));
+      for (const msg of checkText(label, value, { allowTrailingSpace })) err(where, msg);
     }
 
     // --- questions ------------------------------------------------------
+    // The generator owns the numbering; storing it would make every insertion
+    // rewrite the whole list.
     d.questions.forEach((q, i) => {
-      if (typeof q.question !== 'string' || !q.question.trim())
-        err(where, `questions[${i}] has no text`);
-      // The generator owns the numbering; storing it would make every insertion
-      // rewrite the whole list.
-      if (/^\(\d+\)/.test(q.question ?? ''))
-        err(where, `questions[${i}] starts with an "(n)" prefix — the generator adds it`);
+      for (const msg of checkQuestion(q.question, `questions[${i}]`)) err(where, msg);
     });
 
     // --- tree -----------------------------------------------------------
@@ -156,8 +149,11 @@ function validateVersion(version) {
       } else {
         if (removed.length) err(where, `domains removed (forbidden): ${removed.join(', ')}`);
         if (changed.length) err(where, `identity/parentage changed (forbidden): ${changed.join(', ')}`);
+        // An error, not a warning: a stale lock means the append-only ledger silently
+        // stopped recording additions. Nobody hits this by accident any more — new
+        // domains are applied by scripts/apply-proposal.mjs, which regenerates it.
         if (added.length)
-          warn(where, `${added.length} domain(s) added: ${added.slice(0, 8).join(', ')}${added.length > 8 ? ' …' : ''} — regenerate with --write-lock`);
+          err(where, `${added.length} domain(s) added but not recorded: ${added.slice(0, 8).join(', ')}${added.length > 8 ? ' …' : ''} — regenerate with --write-lock (see data/v5/POLICY.md)`);
       }
     }
   }
@@ -197,10 +193,50 @@ function validateCompatibility(v4, v5) {
       err(where, `new v5 domain ${d.code} reuses a v4 GUID`);
 }
 
+// --- every added domain must say why it exists ----------------------------
+/**
+ * A domain number is permanent, so the reason it was created has to live in the
+ * repository rather than in a mutable GitHub issue. Reads both the frozen migration
+ * change-sets and the forward-going ledger; all 10 current v5-only domains satisfy
+ * this, so it holds at zero exceptions.
+ */
+function validateRationales(v4, v5) {
+  const where = 'data/v5/changes.yaml';
+  const documented = new Map();
+
+  const ingest = (rel) => {
+    // FAILSAFE_SCHEMA for the same reason the domain loader uses it: an unquoted
+    // `code: 4.10` in a hand-written ledger entry is otherwise the number 4.1, and the
+    // rationale would silently attach to the wrong domain.
+    const entries =
+      yaml.load(readFileSync(ROOT + rel, 'utf-8'), { schema: yaml.FAILSAFE_SCHEMA }) ?? [];
+    if (!Array.isArray(entries)) {
+      err(rel, 'should be a list of change entries');
+      return;
+    }
+    for (const e of entries)
+      if (e?.op === 'add' && e.code) documented.set(String(e.code), { rel, entry: e });
+  };
+
+  ingest('data/v5/changes.yaml');
+  for (const f of readdirSync(`${ROOT}data/v5/history`).sort())
+    if (f.endsWith('.yaml')) ingest(`data/v5/history/${f}`);
+
+  for (const d of v5.ordered) {
+    if (v4.byCode.has(d.code)) continue;
+    const rec = documented.get(d.code);
+    if (!rec)
+      err(where, `${d.code} was added to v5 with no "op: add" entry — every new domain must record why it exists`);
+    else if (!String(rec.entry.rationale ?? '').trim())
+      err(rec.rel, `${d.code} has an add entry with no rationale`);
+  }
+}
+
 // --- run ------------------------------------------------------------------
 const v4 = validateVersion('v4');
 const v5 = validateVersion('v5');
 validateCompatibility(v4, v5);
+validateRationales(v4, v5);
 
 const show = (label, list, cap = 25) => {
   if (!list.length) return;
