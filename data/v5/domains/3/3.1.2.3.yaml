@@ -1,0 +1,44 @@
+code: "3.1.2.3"
+guid: 5B5BCD42-09BB-4c2f-A2DA-569CFA69B6AC
+name: Attention
+description: Use this domain for words referring to a mental state when the mind is working hard.
+louwNidaCodes: 27F Be Ready To Learn, Pay Attention
+related: ["3.4.1.4"]
+questions:
+  - q: What words refer to paying attention?
+    words: pay attention, keep your mind on, take note, attentive, devote attention to
+  - q: What words refer to paying a lot of attention to something?
+    words: >-
+      pay close attention, concentrate, concentration, give something your undivided
+      attention
+  - q: What words refer to paying attention to something?
+    words: >-
+      pay attention to, devote attention to, turn your attention to, focus on, concentrate
+      on, give something/someone your undivided attention, attend to
+  - q: What words refer to paying too much attention to something?
+    words: >-
+      be engrossed in, be wrapped up in, be absorbed in, be immersed in, immerse yourself
+      in, preoccupied
+  - q: What words refer to stop paying attention?
+    words: turn off, switch off
+  - q: What words refer to not paying attention?
+    words: >-
+      not pay attention, daydream, be miles away, your mind wanders, inattentive, pay very
+      little attention, mind is elsewhere, ignore, take no notice, goes in one ear and out
+      the other
+  - q: What words refer to making someone pay attention to you?
+    words: get attention, attract attention, draw attention to yourself
+  - q: What words refer to making someone pay attention to something?
+    words: >-
+      draw attention to, call attention to, bring something to someone's attention, point
+      out, focus attention on, highlight
+  - q: What words refer to receiving a lot of attention from people?
+    words: >-
+      get attention, attract attention, attention, be the center of attention, be the focus
+      of attention
+  - q: What words refer to trying to stop someone from paying attention to something?
+    words: distract someone's attention, divert attention, distracted, distraction, diversion
+  - q: What words refer to trying to prevent people from paying attention to you?
+    words: not want to draw attention to yourself, keep a low profile, low key
+  - q: What words refer to paying attention to more than one thing?
+    words: attention is divided

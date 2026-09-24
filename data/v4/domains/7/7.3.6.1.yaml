@@ -1,0 +1,11 @@
+code: "7.3.6.1"
+guid: D7E4BF3E-E539-43BC-BB43-3AE0980FFB86
+name: Shut, close
+description: Use this domain for words related to shutting something.
+questions:
+  - q: What words refer to shutting something?
+    words: shut, close
+  - q: What words describe something that is shut?
+    words: shut, closed
+  - q: What things are used to keep something shut?
+    words: lock

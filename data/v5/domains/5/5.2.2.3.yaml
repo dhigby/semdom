@@ -1,0 +1,15 @@
+code: "5.2.2.3"
+guid: 08788E9A-93B8-4A2E-AB01-DEA177F061E8
+name: Feast
+description: Use this domain for words related to a feast.
+questions:
+  - q: What words refer to a large or important meal?
+    words: dinner, banquet, feast
+  - q: What are the parts of a feast?
+    words: first course, main course
+  - q: Who is the leader of a feast?
+    words: host, master of ceremonies
+  - q: Who is invited to a feast?
+    words: guest, dinner guest, guest of honor
+  - q: What happens at a feast?
+    words: propose a toast

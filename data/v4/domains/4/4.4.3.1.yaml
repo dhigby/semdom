@@ -1,0 +1,26 @@
+code: "4.4.3.1"
+guid: 76A4A286-1C8A-4C4A-9EAF-DCA040BE574A
+name: Brave
+description: >-
+  Use this domain for words describing someone who is brave--not afraid to do something
+  dangerous.
+louwNidaCodes: 25N Courage, Boldness
+questions:
+  - q: What words refer to the action of showing courage?
+    words: show courage, be brave, dare, brace yourself, embolden, face (v), buck up
+  - q: What words describe someone who is brave?
+    words: >-
+      courageous, brave, bold, adventurous, assured, audacious, confident, cool under fire,
+      daring, dauntless, doughty, fearless, gallant, gutsy, heroic, intrepid, never-say-die,
+      plucky, spunky, stout, stouthearted, undaunted, valiant, valorous
+  - q: What words refer to the ability to do something brave?
+    words: >-
+      courage, bravery, assurance, audacity, boldness, confidence, firmness, fortitude,
+      gallantry, grit, guts, heroism, manliness, nerve, pluck, spunk, valor, fighting spirit
+  - q: What words refer to a person who has courage?
+    words: hero, heroine, daredevil
+  - q: What words refer to being brave enough to do something?
+    words: >-
+      be brave enough to do something, dare, have the guts to do something, have the nerve
+      to do something, pluck up the courage to do something, have the courage of your
+      convictions

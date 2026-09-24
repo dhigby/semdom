@@ -1,0 +1,33 @@
+code: "4.9.9"
+guid: 725D78EB-8CAC-4B2F-B5A4-F0A9ADB80F5D
+name: Irreligion
+description: Use this domain for words related to thinking and acting against God or religion.
+ocmCodes: 798 Religious Intolerance
+louwNidaCodes: 53L Sacrilege
+questions:
+  - q: What is a person called who does not believe in a religion?
+    words: unbeliever, pagan, gentile, heathen, atheist, agnostic, irreligious, godless
+  - q: >-
+      What words refer to a religious group, which the official religion considers to be
+      false?
+    words: false religion, sect
+  - q: What words refer to a belief, which the official religion considers to be false?
+    words: heresy, heretical, heretic, false doctrine/teaching
+  - q: What words refer to thinking against God?
+    words: disbelieve, unbelief, lack of faith, doubt, skepticism, agnosticism, atheism, paganism
+  - q: What words refer to speaking against God?
+    words: blaspheme, scoff, profane, irreverent
+  - q: What words refer to acting against God?
+    words: sin, impiety, ungodly, godlessness, desecrate, sacrilege
+  - q: What words describe someone who is against God?
+    words: impious, irreligious, profane
+  - q: What words refer to turning away from God?
+    words: apostasy, backsliding, reprobate
+  - q: What words refer to pretending to be religious?
+    words: hypocrisy, hypocrite
+  - q: What words refer to extreme beliefs that are evil?
+    words: fanatic, fanaticism, bigot, bigotry
+  - q: What words refer to religious practices that are done in ignorance?
+    words: superstition
+  - q: What words refer to allowing other people to practice their religion?
+    words: tolerance, intolerance

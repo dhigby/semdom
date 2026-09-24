@@ -1,0 +1,18 @@
+code: "8.5.1.5.1"
+guid: BCB1252C-7CB4-4FBC-B83F-E5F9C65B4AFB
+name: Next to
+description: Use this domain for words indicating that something is next to something else.
+louwNidaCodes: 83E At, Beside, Near, Far x
+questions:
+  - q: What words indicate that something is next to another?
+    words: next to, right next to, right up next to, by, beside, neighbor, juxtaposed, nearest
+  - q: What words indicate that something is next to something long such as a road?
+    words: along, alongside, by the side of, at the side of
+  - q: What words indicate that something such as a building or country is next to another?
+    words: next door, adjoin, border (v)
+  - q: >-
+      What words indicate that two things are next to each other and facing in the same
+      direction?
+    words: side by side, abreast
+  - q: What words describe something that is next to another?
+    words: the next, adjacent, adjoining, bordering, neighboring

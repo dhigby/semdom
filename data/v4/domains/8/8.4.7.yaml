@@ -1,0 +1,19 @@
+code: "8.4.7"
+guid: 780FBF89-F2BA-404C-B288-F6CA637BBC90
+name: Continue, persevere
+description: Use this domain for words referring to continuing to do something.
+louwNidaCodes: 68B Continue
+related: ["8.4.7"]
+questions:
+  - q: What words refer to continuing to do something?
+    words: >-
+      continue (doing something), remain at (something), keep on (doing something), stay at
+      (it), stick to (it), hold on, keep (going), keep at (it), sticktoitiveness, sustain
+  - q: What words indicate that something is continuing?
+    words: >-
+      continuity, continual, continuous, to last (for a long time), endure, enduring,
+      lasting, continuing, remain, perpetual, durable, rest, retain, stand, endless
+  - q: What words refer to continuing to do something without waiting?
+    words: go ahead, proceed
+  - q: What words refer to something that continues?
+    words: continuum

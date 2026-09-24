@@ -1,0 +1,12 @@
+code: "9.6.3.4"
+guid: 577A9F51-263A-4C80-A439-84CE45B9C7CC
+name: Markers of direct address
+description: >-
+  Use this domain for words that the speaker uses to refer to the person he is addressing.
+  These words are usually used when you start talking to someone, but can be used during a
+  speech or conversation to refer to the person you are talking to.
+louwNidaCodes: 91D Markers of Direct Address
+questions:
+  - q: What words are used when you start talking to someone?
+    words: O, sir, ma'am, ladies and gentlemen, men and brothers, (look) you, (listen) all of you
+    sentence: <O> king, live forever.; Excuse me, <sir>.; Pardon me, <ma'am>.

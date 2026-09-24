@@ -1,0 +1,22 @@
+code: "2.6.4.4"
+guid: FC82FCEC-D03C-4FB0-BF62-714C71754402
+name: Adult
+description: Use this domain for words referring to an adult.
+ocmCodes: 885 Adulthood
+questions:
+  - q: What words refer to an adult?
+    words: adult, man, woman, grown-up, grown man, grown woman
+  - q: What words refer to time periods of adulthood?
+    words: >-
+      adulthood, maturity, prime, adult life, midlife crisis, over the hill, middle age,
+      middle-aged
+  - q: What words refer to becoming an adult?
+    words: come of age, grow up, mature (v), reach majority, settle down
+  - q: What words refer to the time period during which a woman can become pregnant?
+    words: childbearing years
+  - q: What words refer to the time when a woman can no longer become pregnant?
+    words: menopause
+  - q: What words describe a person who has become an adult?
+    words: full-grown, fully grown, grown, grown-up (adj), mature
+  - q: What words describe something that has to do with adults rather than children?
+    words: adult (adj), grown-up (adj), mature (adj)

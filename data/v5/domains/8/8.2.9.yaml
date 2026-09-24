@@ -1,0 +1,27 @@
+code: "8.2.9"
+guid: ABA3F7F1-9E13-4B48-ACBB-3BF6D6BFA0E8
+name: Weigh
+description: Use this domain for words related to weighing something.
+louwNidaCodes: 86 Weight; 86B Pound, Talent
+questions:
+  - q: What words refer to weighing something?
+    words: weigh
+    sentence: The shopkeeper <weighed> the rice.
+  - q: What words refer to the weight of something?
+    words: weight, mass
+    sentence: What is the <weight> of a litre of water?
+  - q: What words refer to a unit of weight?
+    words: >-
+      ounce, pound, ton, milligram, centigram, decigram, gram, decagram, kilo, kilogram,
+      metric ton, kiloton, megaton, atomic weight, carat, dram, grain, hundredweight,
+      pennyweight, stone, talent, gross weight, net weight
+  - q: What words indicate that something is a particular weight?
+    words: is, weigh, how heavy, weigh in at
+    sentence: The rice <weighs> one kilo.
+  - q: What instruments are used to weigh something?
+    words: scale, balance, weight
+    sentence: I have a <scale> we can use to weigh the rice.
+  - q: What words describe a system of weights?
+    words: apothecary, avoirdupois, metric, troy
+  - q: What words refer to how much weight something can support without breaking or falling?
+    words: support, carry, hold, load, weight, pressure

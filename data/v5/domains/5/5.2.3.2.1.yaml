@@ -1,0 +1,15 @@
+code: "5.2.3.2.1"
+guid: 5C348090-12F4-4C83-8331-E10971BBC8D3
+name: Meat
+description: >-
+  Use this domain for words referring to meat and types of animals that are eaten. Only
+  include those animals that are commonly eaten.
+questions:
+  - q: What general words refer to meat?
+    words: meat
+  - q: What words refer to different types of meat?
+    words: ground beef, steak
+  - q: What words refer to fat?
+    words: fat, grease
+  - q: What words refer to cartilage and other hard parts that are not eaten?
+    words: gristle

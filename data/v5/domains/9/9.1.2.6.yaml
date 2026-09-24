@@ -1,0 +1,23 @@
+code: "9.1.2.6"
+guid: 10B6C417-D020-4318-A44A-AE69EA3EEC5A
+name: Change something
+description: Use this domain for words referring to someone changing something.
+related: ["8.3.7.6"]
+questions:
+  - q: What words are used to refer to changing something?
+    words: >-
+      change (v), change (n), revise, revision, revolutionize, revolution, reform,
+      reformation, modify, modification, develop, development, make different, impact,
+      process, transform
+  - q: What words refer to a person who changes something?
+    words: revolutionary, reformer, radical
+  - q: What words describe something that can be changed?
+    words: changeable
+  - q: What words describe a big change?
+    words: big, major, sweeping, radical, fundamental, revolutionary, monumental
+  - q: What words describe a small change?
+    words: small, slight, tiny, minute
+  - q: What words describe a quick change?
+    words: quick, fast, rapid
+  - q: What words describe a slow change?
+    words: slow, gradual

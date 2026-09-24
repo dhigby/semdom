@@ -1,0 +1,27 @@
+code: "2.5.3.2"
+guid: 962941B2-66BD-437F-AADC-B1921BCAE5B4
+name: Poison
+description: >-
+  Use this domain for words referring to poison--something that is bad for your body if you
+  eat it, it gets on you, or an animal injects it into you.
+questions:
+  - q: What general words refer to poison?
+    words: poison, toxin
+  - q: What types of animal poisons are there?
+    words: snakebite, bee sting, venom
+  - q: What types of plant poisons are there?
+    words: poison ivy, hemlock
+  - q: What types of poison are eaten or drunk?
+    words: food poisoning, arsenic, cyanide
+  - q: What types of poison affect the skin?
+    words: toxic substance, insecticide
+  - q: What words describe something that is poisonous?
+    words: harmful, poisonous, toxic, noxious
+  - q: What words refer to giving someone poison?
+    words: poison (v)
+  - q: What words refer to an animal putting poison into a person?
+    words: bite, sting, inject
+  - q: What words refer to treating snakebite?
+    words: treat for (snakebite), snakebite treatment, cut vein, suck poison out, snakebite kit
+  - q: What words refer to treating poison that is eaten or drunk?
+    words: antidote, administer (the antidote)

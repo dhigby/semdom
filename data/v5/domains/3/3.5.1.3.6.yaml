@@ -1,0 +1,17 @@
+code: "3.5.1.3.6"
+guid: AB8CA07C-B23C-43DC-B705-7FE34DDF6D4D
+name: Exaggerate
+description: >-
+  Use this domain for words referring to exaggerating--reporting information but saying
+  something untrue that makes the information seem bigger or more important than it really
+  is.
+questions:
+  - q: What words refer to exaggerating?
+    words: >-
+      exaggerate, stretch the truth, inflate your story, distort, overemphasize, overstate,
+      overemphasize, overrate, overdo, make too much of, blow something out of proportion,
+      lay it on thick, dramatize, be melodramatic, be overly dramatic
+  - q: What words refer to what is said when you exaggerate?
+    words: exaggeration, overstatement
+  - q: What words describe an exaggerated statement?
+    words: exaggerated, extravagant, melodramatic

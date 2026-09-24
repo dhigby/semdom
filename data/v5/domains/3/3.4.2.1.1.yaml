@@ -1,0 +1,39 @@
+code: "3.4.2.1.1"
+guid: 82ECB5B3-9128-4B38-B9C5-612857417CEB
+name: Dislike
+description: Use this domain for words related to not liking someone or something.
+louwNidaCodes: 25Q Abhor
+related: ["3.2.5.4.2"]
+questions:
+  - q: What words refer to disliking something?
+    words: >-
+      don't like, dislike (v), take a disliking to, take an instant dislike to, have a
+      healthy dislike for, not be fond of, not keen on, not be crazy about, not think much
+      of, not be someone's cup of tea, not be to your taste, not be to your liking, not be
+      your thing, not be your type, have no time for, not take kindly to, don't care for,
+      look down on, turn up your nose at, be unhappy with, hold in disfavor, feel
+      unfavorable toward, be displeased with
+  - q: What words refer to the feeling of dislike?
+    words: dislike (n), disliking, antipathy, aversion, displeasure, distaste, prejudice
+  - q: What words describe someone who dislikes something?
+    words: displeased, offended, prejudiced
+  - q: What words refer to causing someone to dislike something?
+    words: displease, offend, repel, trouble, upset, put someone off, turn someone against
+  - q: What words refer to something that causes someone to dislike something?
+    words: offense
+  - q: What words describe something that people dislike?
+    words: >-
+      contemptible, deplorable, despicable, displeasing, distasteful, obnoxious, odious,
+      offensive, unpleasant, not very nice, leave a bad taste in the mouth, morbid
+  - q: What words describe someone that people dislike?
+    words: >-
+      disliked, bastard, disagreeable, horrible, mean, nasty, nasty piece of work, not very
+      nice, objectionable, obnoxious, odious, off-putting, unpleasant
+  - q: What words describe a taste or smell that people dislike?
+    words: unpleasant, not very nice, nasty, unappetizing, unpalatable
+  - q: What words describe a sound that people dislike?
+    words: harsh, grating, rasping
+  - q: What words refer to stopping liking something?
+    words: go off
+  - q: What do people do to show they dislike something?
+    words: sneer, boo

@@ -1,0 +1,35 @@
+code: "8.2.5"
+guid: 67E57493-D286-4271-B877-F63F962DDDF1
+name: Big area
+description: Use this domain for words describing a big area.
+questions:
+  - q: What words describe a big area?
+    words: big, large, extensive, fair-sized, be a fair size, broad, expansive, wide, wide open
+  - q: What words describe a very big area?
+    words: huge, immense, vast, enormous
+  - q: What words describe a big room?
+    words: spacious, roomy, cavernous, be big inside
+  - q: What words refer to an area that is big?
+    words: expanse
+  - q: What words refer to an area becoming big?
+    words: expand, spread
+  - q: What words refer to making an area big?
+    words: expand
+  - q: What words describe an area that has been made big?
+    words: expanded
+  - q: What words refer to being bigger in area than another thing?
+    words: bigger, biggest, roomier
+  - q: What words refer to how big an area is?
+    words: area, acreage, size, square footage, extent
+  - q: What words indicate how big an area is?
+    words: how big, be (ten acres) in size, cover, extend over
+  - q: What words refer to measuring an area?
+    words: survey
+  - q: What words refer to a unit of measure of area?
+    words: acre, hectare, square (inch, foot, yard, mile, meter, kilometer)
+  - q: What instruments are used to measure an area?
+    words: rod
+  - q: What words describe a small area?
+    words: small, narrow (plot of ground), cramped, poky
+  - q: What words refer to how big around an area is?
+    words: circumference, around

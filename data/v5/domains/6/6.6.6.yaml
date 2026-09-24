@@ -1,0 +1,18 @@
+code: "6.6.6"
+guid: 0644F4DA-C9FE-4239-BBE5-6EFC85F98968
+name: Working with land
+description: Use this domain for words related to working with land.
+ocmCodes: 311 Land Use; 332 Earth Moving
+questions:
+  - q: What words refer to working with land?
+    words: land use
+  - q: What words refer to finding the boundaries of land?
+    words: survey, surveyor
+  - q: What words refer to moving dirt?
+    words: dig, plow, grade, level
+  - q: What tools and machines are used to move dirt?
+    words: >-
+      shovel, hoe, wheelbarrow, spade, pickax, plow, grader, bulldozer, steam shovel,
+      backhoe, steam roller, earth moving equipment
+  - q: What words refer to land that has a special use?
+    words: park

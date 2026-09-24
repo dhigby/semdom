@@ -1,0 +1,23 @@
+code: "3.4.2.2.2"
+guid: E08E252A-9227-42E4-BCB8-B803D25071B6
+name: Embarrassed
+description: >-
+  Use this domain for words related to feeling embarrassed--to feel bad in front of other
+  people because you did or said something that makes you seem stupid.
+questions:
+  - q: What words refer to feeling embarrassed?
+    words: be embarrassed, feel embarrassed, squirm, I could have died, I almost died
+  - q: What words refer to the feeling of embarrassment?
+    words: embarrassment
+  - q: What words describe someone who feels embarrassed?
+    words: embarrassed, self-conscious, uncomfortable, awkward, sheepish
+  - q: What words refer to feeling very embarrassed?
+    words: mortified, never felt so embarrassed in my whole life
+  - q: What words refer to causing someone to feel embarrassed?
+    words: embarrass (someone), cause embarrassment, be an embarrassment, mortify
+  - q: What words refer to something that causes someone to feel embarrassed?
+    words: embarrassment
+  - q: What words describe something that causes someone to feel embarrassed?
+    words: embarrassing
+  - q: What words refer to becoming red in the face because you are embarrassed?
+    words: blush, turn red

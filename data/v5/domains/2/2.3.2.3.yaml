@@ -1,0 +1,62 @@
+code: "2.3.2.3"
+guid: FD33670E-EF16-4566-A62E-AA077E58407B
+name: Types of sounds
+description: Use this domain for words referring to types of sounds.
+louwNidaCodes: 14I Sound
+related: ["1.6.4.3"]
+questions:
+  - q: What words refer to the quality of a sound?
+    words: tone
+  - q: What words describe a good sound?
+    words: melodious, melodic, good, beautiful
+  - q: What words describe a bad sound?
+    words: discordant, bad, disharmony, racket, raucous, shrill, strident, grating
+  - q: What words refer to a repeated sound?
+    words: knocking, rap, clatter, patter, rattle, tap, beat, cadence, drum, rhythmic
+  - q: What words refer to a continuous sound?
+    words: hum, monotone, steady noise
+  - q: What words refer to a sudden sound?
+    words: blare, blast, outburst, outcry, report
+  - q: What words refer to the pitch of a sound?
+    words: >-
+      pitch, tone, note, frequency, inflection, intonation, modulation, overtone, tune,
+      tonality
+  - q: What words refer to a high pitched sound?
+    words: high, squeak, squeal, whine, peep
+  - q: What words refer to a low pitched sound?
+    words: low, rumble
+  - q: What words refer to the sound of one thing hitting another?
+    words: >-
+      bang, thud, crack, crash, bump, thump, boom, clack, clap, clash, clunk, jangle, knock,
+      peal, pound, rap, tap, scrunch, slam, slap, smack
+  - q: What words refer to the sound of something breaking?
+    words: crack, pop, snap, crunch
+  - q: What words refer to the sound of two things rubbing against each other?
+    words: scrape, creak, squeak, screech, grinding, squeal, rasp
+  - q: What words refer to the sound of metal or glass hitting something?
+    words: clink, clank, clang, jingle, ring, tinkle, ding, toll, chime, chink, click
+  - q: What words refer to the sound of water?
+    words: splash, squelch, gurgle, plop, bubble, plunk, ripple, babble, burble, plash
+  - q: What words refer to the sound of the wind or air?
+    words: >-
+      hiss, swish, fizz, fizzle, groan, moan, rustle, shriek, sough, wail, wheeze, whine,
+      whisper, whistle, whiz, whoosh
+  - q: What words refer to the sound of fire?
+    words: crackle, sizzle, roar
+  - q: What words refer to sounds a person makes with the mouth, other than speech or song?
+    words: >-
+      cry, laugh, scream, shriek, whistle, click, pop, wheeze, hiss, cluck, cough, hawk,
+      gasp, gulp, snore, snort, sniff, sob, tsk-tsk, gurgle, gargle, yodel, moan, groan,
+      scream, ululate, yikes, yahoo
+  - q: What sounds do babies make?
+    words: bawl, gurgle, coo, cry, squall
+  - q: What words refer to the sound of thunder?
+    words: boom, crack, rumble, thunder (v)
+  - q: What words refer to the sound of a gun or bomb?
+    words: bang, boom, roar, rumble
+  - q: What words refer to the sound of a machine?
+    words: buzz, hum, whirr, whine, bleep, roar, tick
+  - q: What words refer to the sound of a car horn?
+    words: honk, toot, blare, beep
+  - q: What words refer to the sound of a bell?
+    words: ring, toll, chime, buzz, peal, tinkle

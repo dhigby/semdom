@@ -1,0 +1,37 @@
+code: "7.5.5"
+guid: E6C9FE4C-199E-4934-B622-739A85B0830D
+name: Organize
+description: >-
+  Use this domain for words referring to organizing things, people, events, and ideas--to
+  think about and decide on the pattern a group of things should be arranged in, and then
+  doing whatever is necessary to arrange them so that they can be used for some purpose.
+  This domain is like the domain 'Arrange' except that 'Arrange' emphasizes physically
+  moving the things, and the domain 'Organize' emphasizes the logical system. 'Organize'
+  does not require that the things be moved, only that the logical pattern is specified.
+louwNidaCodes: 62B Organize
+questions:
+  - q: What words refer to organizing things?
+    words: >-
+      organize, dispose, structure, get together, get it together, get your act together,
+      chart, marshal, put in a chart, put in a table, put in a matrix, sort, sort out,
+      systematize, tabulate
+  - q: What words refer to the pattern in which things are organized?
+    words: >-
+      organization, ad hoc, alignment, apparatus, cycle, framework, hierarchy, mechanism,
+      network, order, ordering, pattern, row, sequence, set-up, structure, system
+  - q: What tools and methods are used for organizing things?
+    words: >-
+      table, matrix, chart, organizational chart, flow chart, grid, cubbyhole, pigeonhole,
+      in basket, out basket
+  - q: >-
+      What words refer to organizing things a second time, or organizing things after they
+      have been disorganized?
+    words: reorganize, reorganization, adjust, reform, reorder, reordering
+  - q: What words describe things that have been organized?
+    words: >-
+      organized, ordered, well-ordered, orderly, in order, harmonious, shipshape,
+      structured, systematic, tidy, everything in its place
+  - q: What words describe a person who organizes things well?
+    words: organized, methodical, neat, together
+  - q: What words refer to when everything is organized?
+    words: order

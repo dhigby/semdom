@@ -1,0 +1,10 @@
+code: "4.5.5"
+guid: 4A8C6C2E-7A8F-4DD6-97D3-20A35D7D10E9
+name: Honor
+description: Use this domain for words related to honoring someone.
+louwNidaCodes: 87B Honor or Respect in Relation to Status
+questions:
+  - q: What words refer to honoring someone?
+    words: show respect, respectful, honor, glorify, praise, magnify, lift up, worship
+  - q: What words refer to a posture of giving honor?
+    words: bow, prostrate

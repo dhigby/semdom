@@ -1,0 +1,35 @@
+code: "3.3.1.6"
+guid: 15FB022E-1B45-41E9-BD8A-09DDC9DC6ACD
+name: Determined
+description: >-
+  Use this domain for words related to being determined to do something--deciding to do
+  something and not letting anything stop you.
+louwNidaCodes: 25O Patience, Endurance, Perseverance; 25F Be Eager, Be Earnest, In a Devoted Manner
+related: ["3.4.1.4.2", "4.3.1.5"]
+questions:
+  - q: What words refer to being determined to do something?
+    words: >-
+      determined, aspire, be intent on, be set on, set your mind on, be resolved, mean
+      business, purposefully, tenacious, put yourself into
+  - q: What words describe a person who is determined?
+    words: >-
+      determined, adamant, committed, driven, hard headed, inexorable, inflexible, obdurate,
+      persevering, pertinacious, single-minded, steadfast, strong-willed, stubborn,
+      tenacious, uncompromising
+  - q: What words describe a person's behavior that is determined?
+    words: stubborn, steadfast, resolute, dogged, wholehearted
+  - q: What words refer to being so determined that you are even willing to do something bad?
+    words: go to any lengths, be hell-bent on, whatever the cost, ruthless, stop at nothing
+  - q: What words refer to the quality of being determined?
+    words: >-
+      determination, ambition, commitment, drive, endurance, perseverance, pertinacity,
+      resolve, spirit, fighting spirit, steadfastness, sticktoitiveness, tenacity, will,
+      willpower
+  - q: What words refer to becoming more determined?
+    words: stiffen your resolve, set your mind on, commit
+  - q: What words refer to persevering in a task?
+    words: persevere, give it your best, keep on, hang in there, endure, persist, plod, plug
+  - q: What words refer to not being determined?
+    words: >-
+      apathetic, indifference, indifferent, listless, lethargic, neutral, nonchalant,
+      uncaring

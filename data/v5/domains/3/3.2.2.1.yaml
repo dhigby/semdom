@@ -1,0 +1,30 @@
+code: "3.2.2.1"
+guid: F0E68D2F-F7B3-4722-80A4-8E9C5638B0D4
+name: Study
+description: Use this domain for words referring to studying--to try to learn something.
+ocmCodes: >-
+  120 Research Methods; Methodology; 121 Theoretical Orientation in Research and Its
+  Results; 122 Practical Preparations in Conducting Fieldwork; 123 Observational Role in
+  Research; 124 Interviewing in Research; 125 Tests and Schedules Administered In the Field;
+  126 Recording and Collecting In the Field; 127 Historical and Archival Research; 128
+  Organization and Analysis of Results of Research
+louwNidaCodes: 27D Try To Learn
+questions:
+  - q: What words refer to studying something?
+    words: >-
+      study, analyze, check, concern yourself with, consider, determine, examine, experiment
+      (v), follow, inquire into, investigate, learn, look into/for, look something up,
+      probe, prowl, seek, search, research, study, test, trace, track, trail, try to find
+      out about
+  - q: What words refer to the process of trying to learn something?
+    words: evaluation, examination, experiment (n), investigation, inquiry, quest, study, search
+  - q: What words refer to the subject that is being studied?
+    words: subject, topic, question
+  - q: What words refer to studying something a second time?
+    words: review, revise (British)
+  - q: What words refer to a person who studies something?
+    words: >-
+      astronomer, biologist, botanist, detective, investigator, linguist, mathematician,
+      operative, reconnoitrer, scientist, scout, spy, undercover agent, zoologist
+  - q: What words describe someone who likes to study?
+    words: studious, inquisitive

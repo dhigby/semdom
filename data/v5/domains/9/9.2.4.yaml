@@ -1,0 +1,7 @@
+code: "9.2.4"
+guid: 811A2ABC-4BF3-44E4-9FF4-E33FF4470CE6
+name: Prepositions, postpositions
+description: Use this domain to list all prepositions and postpositions.
+questions:
+  - q: What prepositions are in your language?
+    words: in, on, at, from, to, away, toward, about

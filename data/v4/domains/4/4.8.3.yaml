@@ -1,0 +1,41 @@
+code: "4.8.3"
+guid: A3BA10F3-66E3-4AD5-8057-453B8941E497
+name: War
+description: Use this domain for words related to war--fighting between countries.
+ocmCodes: >-
+  720 War; 726 Warfare; 721 Instigation of War; 722 Wartime Adjustments; 723 Strategy; 724
+  Logistics; 725 Tactics; 727 Aftermath of Combat; 729 War Veterans
+louwNidaCodes: 39 Hostility, Strife; 55 Military Activities
+questions:
+  - q: What words refer to war?
+    words: war, warfare, fighting, civil war, conflict, armed conflict
+  - q: What words refer to fighting a war?
+    words: >-
+      fight a war, wage war, be at war, declare war, make war, go on the warpath, fight,
+      clash
+  - q: What words refer to a time when armies fight?
+    words: war, battle, campaign, engagement, fight, contest, clash, skirmish
+  - q: What words refer to the place where a war is fought?
+    words: >-
+      battlefield, field of battle, theater of war, scene of the battle, front, front lines,
+      flank, rear, war zone
+  - q: What words refer to strategy in war?
+    words: >-
+      strategy, tactics, hunker down, keep up the pressure, overwhelm, concentrate your
+      forces, form a line, hold the line, break the line, reform, rally, morale, maintain
+      morale, military discipline, supply, supply lines, control the battle, battlefield
+      control, reconnaissance, reconnoiter, intelligence, propaganda
+  - q: What words refer to an army moving?
+    words: >-
+      deploy, maneuver, outmaneuver, flank, outflank, advance, charge, overrun, retreat,
+      withdraw
+  - q: What words refer to a person who fights on your side?
+    words: ally
+  - q: What words refer to a person who wants to fight a war?
+    words: warmonger, militarist, hawk
+  - q: What words describe a person or country that wants to fight a war?
+    words: warlike
+  - q: What words describe countries that are at war?
+    words: warring
+  - q: What words refer to someone who is hurt or killed in a war?
+    words: casualty, missing in action

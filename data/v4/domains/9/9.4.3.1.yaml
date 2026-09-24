@@ -1,0 +1,38 @@
+code: "9.4.3.1"
+guid: 965C6A0B-3034-4E2F-A00B-ED2EB3119A5D
+name: Imperative
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  imperatives. The following definitions are taken from Bybee, Joan, Revere Perkins, and
+  William Pagliuca. 1994. The evolution of grammar. Chicago and London: University of
+  Chicago Press. Use this domain for words and affixes that a speaker uses to indicate that
+  he is making a command. English has no command word. Some languages change the form of the
+  verb by adding an affix. Some languages have special verbs that are only or normally used
+  as commands. Those verbs could be classified here.
+questions:
+  - q: >-
+      imperative: the verb form used for direct commands in the 2nd person. If there are
+      also 1st and 3rd person forms, the meaning can still be that of imperative, with the
+      1st and 3rd persons being interpreted as 'Let us, let him...', etc.
+  - q: >-
+      optative: the proposition represents the speaker's will. Translated into English as
+      'May you prosper', 'May we all meet again.' with counterfactual: 'If only he had...',
+      etc.
+  - q: 'hortative: the speaker is encouraging or inciting someone to action.'
+  - q: 'prohibitive: the mood for expressing negative commands. The English is ''Don''t''.'
+  - q: 'admonitive: the command constitutes a warning: ''you had better not...''.'
+  - q: 'Meanings co-occurring with imperative:'
+  - q: 'polite: a mild or polite form of command.'
+  - q: >-
+      delayed: the action of the command is to be carried out in the future rather than
+      immediately.
+  - q: 'immediate: the action of the command is to be carried out immediately.'
+  - q: 'strong: (self-explanatory). '
+  - q: What words indicate that the sentence is a command?
+    words: (none in English)
+  - q: What affixes indicate that the sentence is a command?
+    words: >-
+      (none in English), (in many Bantu languages) -e 'a verbal suffix indicating that the
+      sentence is a command'
+  - q: What words are only used in the imperative?
+    words: whoa (stop)

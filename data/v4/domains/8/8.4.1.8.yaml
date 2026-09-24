@@ -1,0 +1,13 @@
+code: "8.4.1.8"
+guid: 659CCABF-F978-4852-A1A6-C225F1D76B97
+name: Special days
+description: Use this domain for words referring to a special day.
+ocmCodes: 527 Rest Days and Holidays; 528 Vacations
+related: ["4.2.2.1"]
+questions:
+  - q: What words refer to a special day of the year?
+    words: holiday, vacation
+  - q: What words are used for the days when a person works?
+    words: weekday(s) (Monday through Friday), workday, workweek
+  - q: What words are used for the days when a person does not work?
+    words: weekend, day off, Sabbath, day of rest

@@ -1,0 +1,10 @@
+code: "3.5.1.7.2"
+guid: 53D34F16-2F94-4AFA-9530-7AC75E05B8D4
+name: Flatter
+description: >-
+  Use this domain for words referring to flattering someone--saying something nice to
+  someone but not meaning it.
+louwNidaCodes: 33L' Flatter
+questions:
+  - q: What words refer to flattering someone?
+    words: flatter, ingratiate, adulate, blandish, cajole

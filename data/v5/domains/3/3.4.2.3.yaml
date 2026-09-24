@@ -1,0 +1,70 @@
+code: "3.4.2.3"
+guid: 2A62F8E4-7DA3-4F37-BF44-E24033C99C00
+name: Angry
+description: >-
+  Use this domain for words related to feeling angry--to feel bad when someone does
+  something wrong and to want to do something bad to them.
+louwNidaCodes: >-
+  88X Anger, Be Indignant With; 25P Offend, Be Offended; 88W Resentful, Hold a Grudge
+  Against
+questions:
+  - q: What words refer to feeling angry?
+    words: >-
+      be angry, feel angry, bristle, miffed, take offense, resent, be in a temper, pissed
+      off, pissed, be worked up, be up in arms, in a huff, be disgusted, take something
+      personally, take exception to, be put out, feel put out
+  - q: What words refer to the feeling of anger?
+    words: >-
+      anger, annoyance, bitterness, dander, fury, grudge, indignation, ire, outrage, rage,
+      rancor, resentment, temper, wrath
+  - q: What words describe someone who feels angry?
+    words: >-
+      angry, aggravated, bitter, embittered, cross, exasperated, incensed, indignant, irate,
+      irked, irritated, mad, nettled, offended, peeved, perturbed, piqued, rancorous,
+      resentful, riled, sore, upset, vexed, wroth
+  - q: What words refer to feeling very angry?
+    words: >-
+      enraged, furious, furiously, incensed, infuriated, irate, livid, full of resentment,
+      seething, be on the warpath, wrathful, have a tantrum, have a temper tantrum, boiling
+      mad
+  - q: What words describe a person who gets angry often or easily?
+    words: >-
+      have a temper, irascible, bilious, cantankerous, choleric, cranky, grouch, hot
+      tempered, hot headed, ill-tempered, irascible, irritable, easily offended,
+      quick-tempered, prim, prude, sensitive, thin-skinned, touchy
+  - q: What words refer to feeling angry for a long time?
+    words: >-
+      boil, burn, chafe, fume, fuss, mope, seethe, simmer, smolder, stew, sulk, sullen, bear
+      a grudge, hold a grudge against, have something against, have it in for, hold
+      something against someone, there is no love lost between
+  - q: What words refer to becoming angry?
+    words: >-
+      get angry, get mad, lose your temper, fly off the handle, blow your top, hit the roof,
+      go crazy, go nuts, have a fit, go berserk, erupt, get your dander up
+  - q: What words refer to causing someone to feel angry?
+    words: >-
+      anger (v), make someone angry, make someone mad, aggravate, antagonize, chafe, cross
+      someone, disturb, embitter, enrage, exasperate, gall, incense, infuriate, insult (v),
+      irk, madden, needle, nettle, offend, cause offense, peeve, perturb, pique, provoke,
+      rankle, rile, vex, make your blood boil, make you sick, get someone going, get
+      someone's back up, wind someone up, be like a red flag to a bull
+  - q: What words refer to something that causes someone to feel angry?
+    words: >-
+      affront, aggravation, bitter pill to swallow, insult (n), offense, outrage,
+      provocation, vexation
+  - q: What words describe something that causes someone to feel angry?
+    words: >-
+      aggravating, exasperating, galling, infuriating, insulting, irksome, maddening,
+      objectionable, offending, offensive, vexing
+  - q: What words refer to acting in an angry manner?
+    words: >-
+      make a scene, huff, have a tantrum, throw a tantrum, outburst, shake your fist, stamp
+      your foot, let off steam, rant, rave, scowl, pout
+  - q: What words describe something said or done in an angry manner?
+    words: angry, furious, stormy, heated, furor, uproar, feelings run high
+  - q: What words refer to trying to stop someone from feeling angry?
+    words: conciliate, mollify, pacify, placate, soothe
+  - q: What words refer to becoming less angry?
+    words: cool off, cool down, settle down, count to ten
+  - q: What words describe something that is unlikely to cause someone to feel angry?
+    words: inoffensive, harmless, innocuous

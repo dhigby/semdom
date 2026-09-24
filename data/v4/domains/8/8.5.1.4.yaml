@@ -1,0 +1,8 @@
+code: "8.5.1.4"
+guid: 2265A4BD-379D-4A9D-80D5-2318E6C8C683
+name: Inside
+description: Use this domain for words indicating that something is outside something else.
+louwNidaCodes: 83C Among, Between, In, Inside
+questions:
+  - q: What words indicate that something is in something else?
+    words: be in, inside, inner, within

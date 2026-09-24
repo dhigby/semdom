@@ -1,0 +1,15 @@
+code: "4.2.1.8.3"
+guid: 92EF1096-BAE2-4BC5-B4B8-C16F429C4867
+name: Belong to an organization
+description: Use this domain for words related to belonging to an organization.
+louwNidaCodes: 34C Belong to, Be Included in the Membership of, Be Excluded From
+questions:
+  - q: What words refer to belonging to a group?
+    words: belong to a group, be a member, belong in something, be on something
+  - q: What words refer to someone who belongs to a group?
+    words: member, membership, insider, one of us
+  - q: What words refer to one organization belonging to another organization?
+    words: be affiliated with, affiliation
+    sentence: >-
+      The hospital <is affiliated with> the university.; Our dictionary project <is
+      affiliated with> the university.

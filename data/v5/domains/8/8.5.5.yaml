@@ -1,0 +1,12 @@
+code: "8.5.5"
+guid: 3785D9F3-0922-4D79-A0FA-B97C4A26FE17
+name: Spatial relations
+description: Use this domain for words that indicate a spatial relation between situations.
+questions:
+  - q: What words indicate that a situation happened at the same place as another situation?
+    words: where, in the same place as, at the same place as
+    sentence: He is sitting <where> I was sitting.
+  - q: >-
+      What words indicate that a situation happened at a different place as another
+      situation?
+    words: somewhere else, elsewhere

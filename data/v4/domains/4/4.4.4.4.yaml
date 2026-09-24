@@ -1,0 +1,37 @@
+code: "4.4.4.4"
+guid: 06AC577A-4D61-4898-AC9D-E3F18B7504AF
+name: Save from trouble
+description: >-
+  Use this domain for words related to saving someone or something from trouble (something
+  bad is happening) or danger (something bad will happen).
+louwNidaCodes: >-
+  21C Safe, Free from Danger; 21D Become Safe, Free from Danger; 21E Cause To Be Safe, Free
+  from Danger
+questions:
+  - q: What words refer to saving someone from trouble?
+    words: >-
+      save, save someone's life, rescue (v), come to someone's rescue, mount a rescue,
+      release, come to the aid of, preserve life, cover, defend, deliver, ensure someone's
+      safety, extricate, free, guard, harbor, hide, insurance, insure, keep, preserve,
+      protect, ransom, recover, retrieve, safeguard, safekeeping, safety, salvage, screen,
+      secure someone's safety, grant asylum, shelter, shield, spare, pick up (a survivor),
+      get someone out of, bail out, throw someone a lifeline, grant safe conduct
+  - q: What words refer to the act of saving someone?
+    words: salvation, rescue (n), defense, deliverance, extrication, recovery
+  - q: What words refer to saving yourself?
+    words: >-
+      make it to safety, get to safety, avoid, break, bypass, dodge, duck, elude, escape,
+      evade, evasion, flee, shake, shy away from, sidestep, give someone the slip
+  - q: What words describe someone who is safe?
+    words: >-
+      safe, clear, found, free, guarded, immune, impregnable, intact, invulnerable,
+      protected, secure, security, sheltered, unharmed, unhurt, unscathed, untouched,
+      welfare, be out of danger, at a safe distance, be in good hands, safe and sound, with
+      a whole skin
+  - q: What words refer to a person who saves someone?
+    words: savior, defender, deliverer, liberator, rescuer, protector, guardian
+  - q: What words refer to a place where you are safe?
+    words: >-
+      safety, place of safety, refuge, sanctuary, shelter, safe house, safe harbor, haven,
+      stronghold, asylum, hideout, retreat
+    sentence: We are safe here.; We made it to safety.

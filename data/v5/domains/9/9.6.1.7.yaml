@@ -1,0 +1,14 @@
+code: "9.6.1.7"
+guid: EA7C06D0-5E33-4702-B6A0-51582B216FE8
+name: Distribution
+description: >-
+  Use this domain for words indicating that an event is distributed throughout a group,
+  area, or time span.
+louwNidaCodes: 89P Distribution
+questions:
+  - q: What words indicate distribution?
+    words: throughout, through, from...to, after, each, apiece
+    sentence: >-
+      The disease spread <throughout> the population.; He went <from> town <to> town.; He
+      applied for admission year <after> year.; He placed them in piles of ten <each>.; They
+      received ten dollars <apiece>.

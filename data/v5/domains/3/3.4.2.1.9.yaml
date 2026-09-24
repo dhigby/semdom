@@ -1,0 +1,7 @@
+code: "3.4.2.1.9"
+guid: F3654A7F-D16E-4870-9EF0-4B4268FAEFFB
+name: Discontent
+description: Use this domain for words related to feeling discontent.
+questions:
+  - q: What words refer to feeling bad about your present conditions?
+    words: be discontent, complain, complaint, fuss, chafe

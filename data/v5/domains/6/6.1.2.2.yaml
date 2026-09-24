@@ -1,0 +1,19 @@
+code: "6.1.2.2"
+guid: 64493789-1C2C-4B24-A7E6-F00FF9BE923E
+name: Use
+description: Use this domain for words related to using something to do something.
+related: ["6.7", "9.5.1.2", "7.9"]
+questions:
+  - q: What words refer to using something?
+    words: use, employ (something), make use of, handle, manipulate, wield
+  - q: What words refer to something being used for some activity or purpose?
+    words: be used to, be used for, be for, for
+    sentence: >-
+      This pot <is used to> make coffee.; This pot <is used for> making coffee.; What <is>
+      this pot <used for>?; This pot <is for> coffee.; What <is> this pot <for>?; a pot
+      <for> coffee
+  - q: What words refer to the activity that something is used for?
+    words: use (n)
+    sentence: Does this pot have a <use>?
+  - q: What words refer to using something in the wrong way?
+    words: abuse, misuse

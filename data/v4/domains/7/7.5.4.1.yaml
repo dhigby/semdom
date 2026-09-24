@@ -1,0 +1,13 @@
+code: "7.5.4.1"
+guid: 761706FE-D289-4ACE-B2C3-AB15D80DBA7F
+name: Rope, string
+description: >-
+  Use this domain for words referring to rope, string, and other things used to tie things
+  together.
+louwNidaCodes: 6D Instruments Used in Binding and Fastening
+related: ["6.7.5"]
+questions:
+  - q: What types of rope and string are there?
+    words: >-
+      rope, string, band, bindings, bonds, cable, chain, cord, lace, lashing, line, ribbon,
+      rubber band, shoelace, shoestring, strap, thong, twine, binder twine, wire

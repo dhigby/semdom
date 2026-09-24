@@ -1,0 +1,60 @@
+code: "6.5.1"
+guid: DC177F3C-D0FD-4232-ADF1-A77B339CDBB2
+name: Building
+description: >-
+  Use this domain for words related to buildings and other large structures that people
+  build.
+ocmCodes: >-
+  340 Structures; 344 Public Structures; 345 Recreational Structures; 346 Religious and
+  Educational Structures; 347 Business Structures; 348 Industrial Structures; 349
+  Miscellaneous Structures
+louwNidaCodes: 7B Buildings; 7D Open Constructions
+questions:
+  - q: What types of buildings are there?
+    words: >-
+      building, structure, construction, kitchen house, bathhouse, outhouse, latrine,
+      outbuilding, bank, elevator, gallery, garage, gazebo, hospital, library, lighthouse,
+      mausoleum, museum, outbuilding, observatory, pavilion, pyramid, rotunda, skyscraper,
+      tabernacle, tower
+  - q: What kinds of buildings are used by animals?
+    words: barn, shed, hen house, coop, kennel, pound, doghouse, stable
+  - q: What kinds of buildings are used for work and to make things?
+    words: office, factory, shop, laboratory, plant, greenhouse
+  - q: What kinds of buildings are used to store things?
+    words: barn, granary, grain silo, warehouse, storehouse, safe, shed, treasury
+  - q: What kinds of buildings are used to sell things?
+    words: store, shop, shopping center, mall, kiosk, supermarket
+  - q: What kinds of buildings are used by the government?
+    words: courthouse, Parliament house, government headquarters, castle, palace
+  - q: What kinds of buildings are used by the police?
+    words: police station, jail, prison, jailhouse, cell
+  - q: What kinds of buildings are used by the military?
+    words: >-
+      military base, guardhouse, barracks, fort, blockhouse, bomb shelter, watchtower,
+      lookout, bunker
+  - q: What kinds of buildings are used by travelers?
+    words: >-
+      station, railroad station, bus station, gas station, petrol station, rest area,
+      parking lot
+  - q: What kinds of buildings are used by travelers for sleeping?
+    words: hotel, motel, inn, hostel, lodge
+  - q: What kinds of buildings are used by travelers for eating?
+    words: restaurant, bar, pub, tavern
+  - q: What kinds of buildings are found at airports?
+    words: hangar, control tower, terminal
+  - q: What kinds of buildings are used for meetings?
+    words: assembly hall, auditorium, center, hall, community center
+  - q: What kinds of buildings are used for watching games and shows?
+    words: >-
+      theater, cinema, stadium, amphitheater, arena, ballpark, bullring, coliseum,
+      racetrack, hippodrome
+  - q: What kinds of buildings are used for schools?
+    words: school, schoolhouse, university, library, dormitory, conservatory
+  - q: What kinds of buildings are used in religion?
+    words: >-
+      church, synagogue, mosque, temple, shrine, cathedral, monastery, convent, cloister,
+      nunnery, abbey, chapel, parsonage, sanctuary, basilica, pagoda, tabernacle
+  - q: What kinds of buildings are made to remind people of something or someone?
+    words: monument, megalith, mound, obelisk, ziggurat
+  - q: What words describe different kinds of buildings?
+    words: enclosed, open, multi-story, high-rise

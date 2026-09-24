@@ -1,0 +1,11 @@
+code: "9.6.1.2"
+guid: 8B5F9519-7301-4400-B93D-EBDE4EA3DEF8
+name: Or, either
+description: >-
+  Use this domain for words indicating an alternative relation between two things or
+  propositions.
+louwNidaCodes: 89X Alternative Relation
+questions:
+  - q: What words indicate alternative relation?
+    words: or, either...or, alternatively, nor, otherwise, alternative, optional
+    sentence: You have two <alternatives>, keep quiet <or> leave.

@@ -1,0 +1,7 @@
+code: "2.1.3"
+guid: C5282457-BE5F-4CE9-A802-91140CB0A22B
+name: Limb
+description: Use this domain for words referring to a limb--either an arm or a leg.
+questions:
+  - q: What words refer to a limb?
+    words: limb, extremity, arms and legs

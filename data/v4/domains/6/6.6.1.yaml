@@ -1,0 +1,23 @@
+code: "6.6.1"
+guid: 71430132-F2EA-40FE-B3F5-B6775741CC56
+name: Working with cloth
+description: Use this domain for words related to working with cloth.
+ocmCodes: >-
+  280 Leather, Textiles and Fabrics; 287 Nonwoven Fabrics; 288 Textile Industry; 294
+  Clothing Manufacture; 295 Special Clothing Industries
+louwNidaCodes: 48 Activities Involving Cloth
+questions:
+  - q: What words are used for the craft?
+    words: tailoring, spinning, sewing, weaving, knitting, rope making, embroidery, cordage
+  - q: What words are used for the activity?
+    words: sew, spin thread, embroider, knit, crochet, mend, patch
+  - q: What are the steps in the process?
+    words: design, cut out, assemble, stitch, tie, hem
+  - q: Who does the activity?
+    words: tailor, seamstress, weaver
+  - q: What materials are used?
+    words: sisal, cotton, wool
+  - q: What things are made?
+    words: thread, yarn, rope, mat, cloth, clothes
+  - q: What tools are used?
+    words: needle, knitting needle, spinning wheel, sewing machine, pins, scissors, tape measure

@@ -1,0 +1,30 @@
+code: "9.4.4.9"
+guid: F883266A-146A-41C7-B1DB-85120840C3A8
+name: Impossible
+description: >-
+  Use this domain for words that a speaker uses to indicate that he thinks something is
+  impossible.
+louwNidaCodes: 71A Possible, Impossible
+questions:
+  - q: What words indicate that something cannot be done?
+    words: >-
+      impossible, not possible, impracticable, there's no way, out of the question,
+      hopeless, impractical
+    sentence: <It is impossible for> a person to fly.; <It is not possible for> a person to fly.
+  - q: What words indicate that your situation makes it impossible for you to do something?
+    words: >-
+      impossible, not have a hope, not stand a chance, can't possibly, that's out, with the
+      best will in the world, do the impossible
+  - q: What words indicate that something cannot happen?
+    words: >-
+      impossible, not possible, can't, couldn't, impossibility, inconceivable, unthinkable,
+      by any/no stretch of the imagination, there's no way
+  - q: What words indicate that something is impossible to get?
+    words: unattainable, out of reach
+  - q: What words indicate that one thing makes something else impossible?
+    words: make something impossible, rule out, preclude
+  - q: What words indicate that something is impossible?
+    words: >-
+      absurd, impenetrable, impervious, inaccessible, inoperable, insurmountable, no chance,
+      no earthly way, outlandish, preposterous, ridiculous, unable, unachievable,
+      unapproachable, undoable, unfeasible, unimaginable, unworkable

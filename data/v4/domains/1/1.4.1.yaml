@@ -1,0 +1,18 @@
+code: "1.4.1"
+guid: 06A89652-70E0-40ac-B929-ED42F011C9FC
+name: Dead things
+description: >-
+  Use this domain for words referring to dead things--things that were alive before, but
+  aren't now.
+related: ["2.6", "2.6.6"]
+questions:
+  - q: What words refer to dead things?
+    words: decay, remains, compost, carrion
+  - q: What words describe something that is dead?
+    words: dead, lifeless
+  - q: What words describe something that is not living and never has been?
+    words: inanimate, inorganic
+  - q: What words refer to a species dying out completely?
+    words: extinct, extinction, endangered species
+  - q: What words refer to plants and animals that do not exist today?
+    words: dinosaur, fossil, extinct

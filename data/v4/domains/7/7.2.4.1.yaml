@@ -1,0 +1,15 @@
+code: "7.2.4.1"
+guid: C0B7F354-A75C-41D5-A489-AE2DF6364D02
+name: Travel by land
+description: Use this domain for words related to traveling by land.
+ocmCodes: >-
+  490 Land Transport; 491 Highways and Bridges; 492 Animal Transport; 493 Vehicles; 494
+  Highway Transport; 495 Auxiliary Highway Services; 496 Railways; 497 Rail Transport; 498
+  Terminal Facilities; 499 Highway and Railway Construction
+questions:
+  - q: What words refer to moving by land?
+    words: travel overland, overland
+  - q: What words refer to starting a vehicle?
+    words: start, accelerate, pull out
+  - q: What words refer to stopping a vehicle?
+    words: stop, brake, park

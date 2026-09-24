@@ -1,0 +1,13 @@
+code: "6.2.1.1"
+guid: 36A2C83F-F7AA-41B0-9B17-F801F3720E4F
+name: Growing grain
+description: >-
+  Use this domain for general words related to growing grain crops such as barley, maize
+  (corn), millet, oats, rice, rye, sesame, sorghum, and wheat. If one crop is cultivated
+  extensively and there are many words related to it, set up a separate domain for it. This
+  has already been done for rice, wheat, and maize, since they are so common around the
+  world.
+ocmCodes: 243 Cereal Agriculture
+questions:
+  - q: What words refer to growing grain?
+    words: grow grain, sheaf, winnow

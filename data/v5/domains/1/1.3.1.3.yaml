@@ -1,0 +1,34 @@
+code: "1.3.1.3"
+guid: 4153416A-784D-4F7C-A664-2640F7979A14
+name: River
+description: Use this domain for words referring to bodies of flowing water.
+related: ["9.7.2.9", "1.1.3.7"]
+questions:
+  - q: What words refer to rivers of different sizes?
+    words: river, stream, streamlet, creek, brook, brooklet, rill, rivulet
+  - q: What words refer to a river when it has a lot of water?
+    words: flood, torrent, flash flood, freshet, swell, surge
+  - q: What words refer to a river overflowing its banks?
+    words: overflow its banks, flood, deluge
+  - q: What words refer to two rivers coming together?
+    words: branch, confluence, fork, tributary
+  - q: What words refer to a part of a river that is steep?
+    words: waterfall, falls, rapids, cascade, cataract, spillway, race
+  - q: What are the parts of a river?
+    words: >-
+      source, head, headwaters, mouth, upstream, downstream, bend, whirlpool, eddy, river
+      bottom, riverbed, backwater, narrows, oxbow
+  - q: What words refer to a river when it has no water?
+    words: watercourse, dry riverbed, wash, arroyo, wadi
+  - q: What words refer to a man-made river?
+    words: canal
+  - q: What words refer to a place to cross a river?
+    words: bridge, ford
+  - q: What words refer to something floating down a river or caught in it?
+    words: flotsam, snag, logjam
+  - q: What words refer to dirt, sand, and rocks washed down by a river?
+    words: sandbar, delta, alluvium, alluvial, silt
+  - q: What words refer to the area of land drained by a river?
+    words: watershed, basin
+  - q: What words refer to the movement of a river?
+    words: current, flow

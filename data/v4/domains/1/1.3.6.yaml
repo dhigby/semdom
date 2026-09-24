@@ -1,0 +1,18 @@
+code: "1.3.6"
+guid: 4D19F09F-035B-477E-862C-A4157ACDFE81
+name: Water quality
+description: Use this domain for words describing the quality or condition of water.
+related: ["5.2.3.3.2"]
+questions:
+  - q: What words describe salt water versus fresh water?
+    words: freshwater, saltwater, seawater, saline solution, brackish
+  - q: What words describe water for drinking?
+    words: drinking water, potable
+  - q: What words describe clean water?
+    words: clean, clear, pure, crystal clear
+  - q: What words describe dirty water?
+    words: contaminated, dirty, muddy, silt-filled, murky, stagnant, scum
+  - q: What words are used of cleaning water?
+    words: to clean up, to filter, filter, filtered, strain, to boil, boiled water, let settle
+  - q: What words are used of polluting water?
+    words: to pollute, pollution, polluted, contaminate, dump sewage into

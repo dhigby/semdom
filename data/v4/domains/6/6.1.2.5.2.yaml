@@ -1,0 +1,7 @@
+code: "6.1.2.5.2"
+guid: 6FCEEC81-1967-4FE5-81F3-86BCAF3F1C2F
+name: Cancel an event
+description: Use this domain for words related to canceling a plan, decision, or event.
+questions:
+  - q: What words refer to canceling an event?
+    words: cancel, call off, be off, scrub, shelve

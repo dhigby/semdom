@@ -1,0 +1,11 @@
+code: "8.3.5.6"
+guid: 0C7C33F2-4CFA-42df-84BB-19FC915A72BD
+name: Copy
+description: Use this domain for words related to copying something.
+questions:
+  - q: What words refer to copying something?
+    words: >-
+      copy (v), make a copy of, duplicate, photocopy, reduplicate, reproduce, clone,
+      replicate, triplicate
+  - q: What words refer to a copy of something?
+    words: copy (n), duplicate, photocopy, duplication, clone, replica, reproduction

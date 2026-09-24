@@ -1,0 +1,12 @@
+code: "6.2.6.2"
+guid: 69D0A37D-F5B3-48A5-9486-5654D37B030B
+name: Mill grain
+description: Use this domain for words related to milling grain.
+louwNidaCodes: 7G Miscellaneous Constructions
+questions:
+  - q: What words refer to milling grain?
+    words: mill (v), grind
+  - q: What things are used to mill grain?
+    words: mill (n)
+  - q: What crops are milled?
+    words: rice, wheat, maize

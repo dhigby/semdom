@@ -1,0 +1,16 @@
+code: "4.9.5.7"
+guid: 6105A207-4311-4920-8C19-63259424BFAF
+name: Salvation
+description: >-
+  Use this domain for the primary goal or goals of a religion, for instance in Christianity
+  salvation from sin, death and Hell. Each religion has different beliefs about salvation.
+  Our purpose here is not to preach or argue, but to list those words that people use to
+  talk about this topic.
+louwNidaCodes: 21F Save in a Religious Sense
+questions:
+  - q: What words refer to what God does to save a person?
+    words: save, salvation, sanctify, redeem, justify, regenerate
+  - q: What words refer to a person who saves another?
+    words: savior
+  - q: What words refer to what a person does to be saved?
+    words: believe, repent, return (to God), receive, work, earn

@@ -1,0 +1,25 @@
+code: "6.6.2.3"
+guid: 7EE3CCB5-E6CB-4028-9AF5-62AE782967B5
+name: Working with metal
+description: >-
+  Use this domain for words related to working with metal. Answer each question below for
+  each kind of smith.
+ocmCodes: 326 Smiths and Their Crafts; 328 Nonferrous Metal Industries
+louwNidaCodes: 7G Miscellaneous Constructions
+questions:
+  - q: What is a person called who works with metal?
+    words: smith, blacksmith (iron), goldsmith, silversmith, tinsmith, tinker, jeweler, welder
+  - q: What does a blacksmith do?
+    words: >-
+      work with (iron), forge, cast, shape, mold, heat, melt, weld, solder, hammer, work the
+      bellows, hit with hammer, beat, plate
+  - q: What raw materials does a blacksmith use?
+    words: ore, iron, steel, metal, solder, scrap metal
+  - q: What does a blacksmith make?
+    words: metal work, jewelry
+  - q: What tools does a blacksmith use?
+    words: hammer, anvil, tongs, forge, furnace, bellows
+  - q: What words refer to a place where people work with metal?
+    words: blacksmith shop, foundry, steelworks
+  - q: What words refer to a piece of metal?
+    words: nugget, bar, rod, ingot, wire

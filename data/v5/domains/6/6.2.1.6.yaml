@@ -1,0 +1,12 @@
+code: "6.2.1.6"
+guid: BF1F9360-6DD4-4EE3-B9F8-A5539BAEB53B
+name: Growing flowers
+description: >-
+  Use this domain for words related to growing flowers. If one type of flower is cultivated
+  extensively and there are many words related to it, set up a separate domain for it.
+ocmCodes: 247 Floriculture
+questions:
+  - q: What words refer to growing flowers?
+    words: >-
+      growing flowers, floriculture, flower, prune, pick flower, gardening, garden, flower
+      garden, flowering plants

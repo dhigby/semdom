@@ -1,0 +1,35 @@
+code: "2.6.1.1"
+guid: 2E95BD1E-82F0-461D-8CA6-B5F1CE1FB180
+name: Arrange a marriage
+description: >-
+  Use this domain for all the words related to arranging a marriage. Cultures vary widely in
+  their practices. In some cultures marriages are arranged by the parents. In other cultures
+  a man must seek a wife for himself. Some cultures allow either practice or a combination
+  of the two. So some of the questions below may be inappropriate to your culture.
+ocmCodes: 583 Mode of Marriage; 584 Arranging a Marriage
+related: ["6.1.2.5.1"]
+questions:
+  - q: What words refer to the process of arranging a marriage?
+    words: >-
+      arrange a marriage, arranged marriage, marriage negotiations, match, espousal, marry
+      off
+  - q: What words refer to asking someone to marry you?
+    words: ask someone to marry you, propose, pop the question, proposal
+  - q: What words refer to formally agreeing to get married?
+    words: get engaged, engagement, set a date
+  - q: What words refer to an announcement of a proposed marriage?
+    words: wedding announcement, announce your engagement, banns
+  - q: What words refer to the state of being engaged to be married?
+    words: engaged, engagement, betrothed, betrothal, espoused, promised
+  - q: What words refer to the people who are engaged to be married?
+    words: fiancé, fiancée, engaged couple, bride-to-be, husband-to-be
+  - q: What words refer to a person who helps with the negotiations?
+    words: matchmaker, go-between
+  - q: What words refer to a gift or payment given to your future spouse or their family?
+    words: engagement ring, bride price, dowry
+  - q: What words refer to a man trying to get a woman to marry him?
+    words: court, courtship, woo, suit, suitor, date, flirt
+  - q: What words refer to the age at which a person can get married?
+    words: marriageable age, coming out party, eligible, nubile
+  - q: What words refer to marrying secretly?
+    words: elope

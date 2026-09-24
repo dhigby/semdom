@@ -1,0 +1,8 @@
+code: "8.4.3"
+guid: 532245E7-8F46-4394-9045-240475EE62E8
+name: Indefinite time
+description: Use this domain for words referring to an indefinite time.
+louwNidaCodes: '67A A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often'
+questions:
+  - q: What words refer to an indefinite time?
+    words: when, then, sometime, someday, anytime, onetime, whenever, approximate, approximately

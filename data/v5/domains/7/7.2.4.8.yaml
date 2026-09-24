@@ -1,0 +1,24 @@
+code: "7.2.4.8"
+guid: 390AD7FC-8360-4EAE-8736-3AEDC15AE659
+name: Map
+description: Use this domain for words related to a map--a drawing of the world or part of the world.
+ocmCodes: 102 Maps
+questions:
+  - q: What words refer to a map?
+    words: map, chart, atlas
+  - q: What types of maps are there?
+    words: road map, street map, contour map, geographical map, political map
+  - q: What is a model of the earth called?
+    words: globe
+  - q: What words refer to making a map?
+    words: draw
+  - q: What words refer to using a map?
+    words: read a map, look for something on the map, find something on the map, trace a route
+  - q: What words refer to the symbols on a map?
+    words: symbol, legend, contour line, longitude line, latitude line, parallel
+  - q: >-
+      What words refer to the relationship between the size of the map and the size of the
+      real land?
+    words: scale, large scale, small scale, projection
+  - q: What other tools are used to find a place?
+    words: compass, sextant

@@ -1,0 +1,11 @@
+code: "9.2.5.2"
+guid: 2C576C40-17AE-45A7-9EC8-6C16E02AB9C3
+name: Clause conjunctions
+description: Use this domain to list all clause level conjunctions--conjunctions that join two clauses.
+questions:
+  - q: What conjunctions join two clauses?
+    words: and, or, while, then, if, because
+    sentence: >-
+      You come here <and> I'll go there.; You come here <or> I'll go there.; You come here
+      <while> I go there.; You come here <then> I'll go there.; <If> you come here, I'll go
+      there.

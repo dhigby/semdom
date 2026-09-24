@@ -1,0 +1,7 @@
+code: "6.1.2.4.3"
+guid: A2AE0C29-DF1C-486D-A44B-96FCC4E0AA8C
+name: Give up
+description: Use this domain for words related to giving up.
+questions:
+  - q: What words refer to stopping work?
+    words: give up, quit, resign, offer to resign, submit your resignation, fire, dismiss, sack

@@ -1,0 +1,9 @@
+code: "6.8.4.3.3"
+guid: FFE84C4F-8C38-4B84-AC36-E79FFADBD426
+name: Free of charge
+description: >-
+  Use this domain for words related to something being free of charge--something you can
+  have without paying for it.
+questions:
+  - q: What words describe something that is free?
+    words: free, free of charge, cost nothing, complementary, no charge

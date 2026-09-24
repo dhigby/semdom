@@ -1,0 +1,9 @@
+code: "3.5.7"
+guid: 70EAC6BE-66E8-4827-8F2F-D15427EFFF60
+name: Reading and writing
+description: Use this domain for general words related to reading and writing.
+questions:
+  - q: What general words refer to reading and writing?
+    words: reading and writing, literacy
+  - q: What words refer to whether or not a person can read and write?
+    words: literate, illiterate

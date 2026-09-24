@@ -1,0 +1,11 @@
+code: "7.2.8"
+guid: 38AB2681-FCC7-4A75-BB0B-29C5CD2E3A8F
+name: Send someone
+description: Use this domain for words related to causing someone to go somewhere.
+questions:
+  - q: What words refer to sending someone somewhere?
+    words: send, dismiss, transfer
+  - q: What words refer to summoning someone to come to you?
+    words: summon
+  - q: What words refer to sending someone to do something?
+    words: send

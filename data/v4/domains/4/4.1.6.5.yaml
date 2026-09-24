@@ -1,0 +1,10 @@
+code: "4.1.6.5"
+guid: C223335B-4803-4F1B-BF4D-F1EE077513CF
+name: Private, public
+description: >-
+  Use this domain for words describing something that is private--something that only
+  concerns you, and for words describing something that is public--something that concerns
+  many people.
+questions:
+  - q: What words describe something that only concerns you?
+    words: private, secret, personal, innermost

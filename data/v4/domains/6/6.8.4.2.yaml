@@ -1,0 +1,7 @@
+code: "6.8.4.2"
+guid: A758718D-6E90-471D-ACDE-A637BA9FF9EB
+name: Sell
+description: Use this domain for words related to selling something.
+questions:
+  - q: What words refer to selling something?
+    words: sell, offer (for purchase), to market

@@ -1,0 +1,12 @@
+code: "4.9.5.2"
+guid: 00DDE3BE-E53D-42C3-B3FF-717E25CBFFB6
+name: Pray
+description: Use this domain for words related to praying--talking to God.
+louwNidaCodes: 33M Pray
+questions:
+  - q: What words refer to praying to God?
+    words: pray, talk to God, beseech
+  - q: What words refer to prayer?
+    words: prayer, supplication, intercession, petition, thanksgiving, grace, benediction
+  - q: What actions or postures symbolize prayer?
+    words: bow your head, kneel, fold your hands

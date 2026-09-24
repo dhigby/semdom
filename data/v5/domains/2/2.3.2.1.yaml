@@ -1,0 +1,18 @@
+code: "2.3.2.1"
+guid: 0DE28F92-C851-413c-BB6C-3AD21F5E267F
+name: Listen
+description: Use this domain for words related to listening--to deliberately hear something.
+questions:
+  - q: What words refer to listening to something?
+    words: >-
+      listen, listen to, listen for, hear someone out, lend an ear, tune in, audit, give an
+      ear to, heed, pay attention to, prick up your ears, be all ears, attend to, get an
+      earful, hearken
+  - q: What words refer to listen to someone when they don't know you are listening?
+    words: listen in, eavesdrop, bug, tap, monitor
+  - q: What words refer to someone who listens?
+    words: listener, audience, eavesdropper, auditor
+  - q: What do you say when you want someone to listen to you?
+    words: >-
+      Listen. Listen up. Hear me. Your attention please. Pay attention. Lend an ear. Mark my
+      words. Hark.

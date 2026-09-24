@@ -1,0 +1,11 @@
+code: "3.5.1.3.4"
+guid: 016E3F5B-B527-446E-9DA6-49AF34870001
+name: Expose falsehood
+description: >-
+  Use this domain for words related to exposing falsehood--to do something to show that
+  someone has told a lie.
+questions:
+  - q: What words refer to exposing falsehood?
+    words: >-
+      testify, expose falsehood, catch in a lie, contradict, enlighten, substantiate,
+      provide evidence, call a liar

@@ -1,0 +1,7 @@
+code: "6.1.6"
+guid: 67247AB3-7B3A-4035-A0D0-A05C8E615C71
+name: Made by hand
+description: Use this domain for words describing something made by hand instead of by a machine.
+questions:
+  - q: What words describe something made by hand?
+    words: made by hand, craft, crafted, craftsman, craftsmanship

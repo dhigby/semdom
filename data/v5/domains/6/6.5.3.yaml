@@ -1,0 +1,30 @@
+code: "6.5.3"
+guid: 97E1ABA5-2AC1-44A3-8F18-59B2347A54A1
+name: Building materials
+description: Use this domain for words related to the materials used to make a building.
+ocmCodes: 339 Building Supplies Industries
+louwNidaCodes: 7H Building Materials
+questions:
+  - q: What materials are used to make a building?
+    words: >-
+      rafter, pole, center pole, horizontal pole, pillar, roofing, tin sheet, thatch, leaf
+      roof, shingle, brick, iron rod, mud, reed, wattle, paint, board, beam
+  - q: What materials are used to make walls?
+    words: >-
+      wood, brick, cement, plaster, drywall, mud and wattle, clay, cow dung, reinforcing
+      sticks
+  - q: What kinds of materials are used for bricks?
+    words: mud, clay, cement, straw, mortar, sun-dried, burned, fired, kiln-dried
+  - q: What materials are used to paint a house?
+    words: paint, varnish, lacquer, whitewash
+  - q: What materials are used to make a roof?
+    words: >-
+      roofing material, tile roof, tile, tin roof, tin sheet, shingle, wooden shingle,
+      asphalt shingle, shake, thatched roof, thatch, grass roof, grass, straw, palm leaf,
+      sod, canvas (tent)
+  - q: What materials are used to make a floor?
+    words: flooring, wooden floor, linoleum, tile floor, dirt floor, cement floor, cow dung
+  - q: What materials are used to make doors and windows?
+    words: wood, glass, screen
+  - q: What materials are used to make a foundation?
+    words: foundation stone, cornerstone

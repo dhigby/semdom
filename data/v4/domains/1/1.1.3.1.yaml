@@ -1,0 +1,63 @@
+code: "1.1.3.1"
+guid: 93B8BD61-137A-4EBC-B12F-52FA5D2B3EA4
+name: Wind
+description: >-
+  Use this domain for words related to the wind. Some words refer to when the wind begins
+  and ends. The wind changes in speed, so some words refer to how fast the wind is moving.
+  Try to rank these on a scale from very slow to very fast. These words may also be
+  distinguished by what the wind does, since a fast wind does more things. These words may
+  also be distinguished by how long the wind blows. Some words refer to the speed of the
+  wind becoming faster or slower. Some words distinguish a steady wind from a wind in which
+  the speed keeps changing. Some words refer to when the speed of the wind becomes faster
+  for a short time. A steady wind moves in a particular direction, so there are words that
+  include the direction of the wind. The direction of the wind may refer to the points of
+  the compass, a neighboring geographical feature or area, or the direction in which the
+  speaker is moving. Some words refer to a wind that moves in a small circle, making a
+  pillar of dust or a funnel-shaped cloud. Some words refer to what the wind does, such as
+  when it moves or damages something. People can feel the wind, so some words refer to how
+  it feels. The wind makes noise, so there are words that refer to the sound of the wind. In
+  some cultures there is a relation between the wind and spirits, so some words may refer to
+  the activity of the spirits in the wind, or that the wind brings disease.
+louwNidaCodes: 14B Wind
+related: ["1.1.2.1"]
+questions:
+  - q: What general words refer to the wind?
+    words: wind, windy, wind current
+  - q: What words describe a wind that only lasts a short time?
+    words: breath of air, puff of wind, gust, blast, flurry
+  - q: What words describe a steady wind?
+    words: steady wind, trade wind, monsoon winds
+  - q: What words describe a wind that comes and goes?
+    words: intermittent, gusty, blustery
+  - q: What words describe a strong wind?
+    words: heavy wind, strong wind, squall, gale, stormy wind, howling wind
+  - q: What words describe a light wind?
+    words: light wind, gentle wind, draft, draught, breeze, breezy, zephyr
+  - q: What words describe a windstorm?
+    words: windstorm, sandstorm, tempest, tempestuous
+  - q: What words refer to a wind that moves in a circle?
+    words: whirlwind, tornado, twister, dust devil, funnel, waterspout
+  - q: What words refer to a warm or cold wind?
+    words: Chinook, sirocco
+  - q: What words describe when the wind begins?
+    words: pick up, rise, freshen, gather, blow up
+  - q: What words describe when the wind stops?
+    words: drop, die down, calm, still
+  - q: What words describe the direction of the wind?
+    words: >-
+      north/south/east/west wind, northeaster, wind off the ocean, ocean breeze, wind from
+      the mountains, mountain breeze, wind from the desert, updraft, downdraft, head wind,
+      tail wind, following wind, cross breeze, windward, lee, prevailing
+  - q: What does the wind do?
+    words: >-
+      blow, knock down (things), rip, tear off, bend, puff out, billow out (sail), push
+      (boat), raise (waves), fan flames, push snow into drifts, ventilate a house
+  - q: What words describe something being blown by the wind?
+    words: >-
+      be blown by the wind, wind blows something, blow away, waft on the breeze, flutter in
+      the breeze, be carried by the wind, be born along on/by the wind, be picked up by the
+      wind
+  - q: What instruments are used to measure the direction or force of the wind?
+    words: weather vane, weathercock, windsock, wind gauge
+  - q: What sounds does the wind make?
+    words: whisper, sigh, moan, whistle, howl, scream, shriek

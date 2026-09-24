@@ -1,0 +1,36 @@
+code: "2.2.1"
+guid: A1959B00-9702-4B45-AC46-93F18D3BC5E6
+name: Breathe, breath
+description: Use this domain for words related to breathing.
+louwNidaCodes: 23J Breathe, Breath
+questions:
+  - q: What words refer to breathing?
+    words: breathe, rise and fall (of the chest)
+  - q: What words refer to the process of breathing?
+    words: breathing, breath, respiration
+  - q: What words refer to breathing in?
+    words: breathe in, take a breath, inhale, gasp, draw breath, whiff
+  - q: What words refer to breathing out?
+    words: breathe out, exhale, blow
+  - q: What words refer to making noise when you breathe?
+    words: sniff, snore, snort, sigh, hiss, sniffle, snuffle, hiccup
+  - q: What words refer to breathing quickly?
+    words: breathe hard, pant, huff and puff, gulp
+  - q: >-
+      What words refer to breathing quickly or with difficulty because of running or working
+      hard?
+    words: breathless, out of breath, draw breath
+  - q: What words refer to breathing with difficulty?
+    words: gasp, wheeze, short of breath
+  - q: What words refer to breathing normally after running or working hard?
+    words: get your breath back
+  - q: What words refer to stopping yourself from breathing?
+    words: hold your breath
+  - q: What words refer to being unable to breathe?
+    words: can't breathe, choke, suffocate
+  - q: What words refer to stopping breathing?
+    words: expire, draw your last breath, death rattle
+  - q: What words refer to killing someone by stopping them from breathing?
+    words: choke, strangle, suffocate, smother
+  - q: What words refer to helping someone who has stopped breathing to breathe again?
+    words: give artificial respiration

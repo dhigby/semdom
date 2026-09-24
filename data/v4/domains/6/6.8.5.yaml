@@ -1,0 +1,13 @@
+code: "6.8.5"
+guid: 49EE84FF-EB2B-4BA3-B193-3018D34599C2
+name: Borrow
+description: Use this domain for words related to borrowing something.
+questions:
+  - q: What words refer to borrowing something?
+    words: borrow, have the use of
+  - q: What words refer to borrowing money?
+    words: borrow, take out a loan
+  - q: What words refer to renting something?
+    words: rent, hire, lease, charter
+  - q: What words refer to the money that is borrowed?
+    words: loan, mortgage, debt

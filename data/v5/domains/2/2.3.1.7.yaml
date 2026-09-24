@@ -1,0 +1,15 @@
+code: "2.3.1.7"
+guid: EC118A28-FD23-48B3-8819-BFE1329F028D
+name: Reflect, mirror
+description: Use this domain for words related to reflecting light.
+questions:
+  - q: What words refer to reflecting light?
+    words: reflect, mirror (v)
+  - q: What words refer to light reflecting off of something?
+    words: reflect off, bounce off
+  - q: What words refer to the image that is reflected?
+    words: reflection, mirror image
+  - q: What words refer to something that reflects light?
+    words: mirror, looking glass, reflector
+  - q: What words describe something that reflects light?
+    words: reflective

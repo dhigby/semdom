@@ -1,0 +1,14 @@
+code: "4.8.3.6.3"
+guid: EB842DC1-AD9C-4c1a-9EB2-A48B7F3092BE
+name: Air force
+description: Use this domain for words related to the air force.
+ocmCodes: 707 Air Forces
+questions:
+  - q: What words refer to the air force?
+    words: the air force
+  - q: What types of air force units are there?
+    words: flight, squadron, air fleet, formation
+  - q: What words describe something belonging to the air force?
+    words: air
+  - q: What words refer to a soldier in the air force?
+    words: airman, pilot, wingman

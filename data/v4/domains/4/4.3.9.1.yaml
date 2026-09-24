@@ -1,0 +1,8 @@
+code: "4.3.9.1"
+guid: F5567550-E3C9-4589-8F88-8159EADCD194
+name: Custom
+description: Use this domain for words referring to customs--a particular practice of a cultural group.
+louwNidaCodes: 41B Custom, Tradition
+questions:
+  - q: What words refer to a custom?
+    words: custom, convention, tradition, (our) way, praxis

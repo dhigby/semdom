@@ -1,0 +1,14 @@
+code: "8.5.4.4"
+guid: 061749A8-E28A-461C-BF2D-052AB3E157D5
+name: Interval, space
+description: Use this domain for words related to an interval or space between things.
+ocmCodes: 209 Proxemics
+questions:
+  - q: What words refer to the area between things?
+    words: space, gap, opening, break, interval, separation, hole
+  - q: What words refer to arranging things with spaces between them?
+    words: space out
+  - q: What words indicate that things have spaces between them?
+    words: spaced, apart, be spaced out
+  - q: What words indicate that things are arranged with regular spaces in between?
+    words: at regular intervals, every meter, evenly spaced

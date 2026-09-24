@@ -1,0 +1,19 @@
+code: "5.2.1.5"
+guid: CD01DB6C-8AA6-42D1-93AC-05E81A8BE523
+name: Serve food
+description: Use this domain for words related to serving food.
+questions:
+  - q: What words refer to serving food?
+    words: serve, dish up, to ladle
+  - q: Who serves food?
+    words: servant, waiter, waitress, butler
+  - q: What is a piece of food called?
+    words: portion, piece, last piece, slice, share
+  - q: What is the best piece called?
+    words: delicacy, best piece
+  - q: What utensils are used to serve food?
+    words: >-
+      serving dish, serving platter, serving spoon, ladle, tureen, soup bowl, salad bowl,
+      pot, common dish
+  - q: Where is food served?
+    words: dining room, restaurant, banquet hall, serving line, buffet, soup line

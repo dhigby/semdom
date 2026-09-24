@@ -1,0 +1,9 @@
+code: "9.6.2.1"
+guid: 66DEDB31-DD2A-4E94-825E-331590AC59A9
+name: Derivation
+description: Use this domain for words indicating that something derives from another thing.
+louwNidaCodes: 89C Derivation
+questions:
+  - q: What words express the fact that something is derived from another?
+    words: derive, derived from, derivation, rooted in the past
+    sentence: The word 'goner' <is derived from> the root 'go'.

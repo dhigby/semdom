@@ -1,0 +1,35 @@
+code: "3.2.2.3"
+guid: 167BFBA5-0785-4BB5-A083-3FFBEFA57897
+name: Evaluate, test
+description: >-
+  Use this domain for words referring to the process of determining the truth or falsehood
+  of something, or for determining the nature or value of something.
+ocmCodes: 125 Tests and Schedules Administered In the Field; 208 Public Opinion
+louwNidaCodes: 30G To Distinguish, To Evaluate, To Judge
+questions:
+  - q: What words refer to the process of determining the truth of something?
+    words: >-
+      adjudge, adjudicate, assay, assess, assessment, calculate, consider, decide, decision,
+      determine, discern, estimate, evaluate, evaluation, examine, gauge, judge, judgment,
+      judicious, question, regard, render, scrupulous, seek (truth), size, taste, test,
+      testing, view
+  - q: What words refer to the process of determining the value of something?
+    words: appraisal, appraise, evaluate, weigh (the merits of)
+  - q: What words refer to choosing which of two or more things is better?
+    words: >-
+      differentiate, differentiation, discriminate, distinguish, rank, rate, rating,
+      separate, hold in esteem, hold up
+  - q: What words refer to the thing that is thought better?
+    words: choice
+  - q: What words refer to thinking something is not as good as something else?
+    words: discount, disregard, devalue, dismiss
+  - q: What words refer to the difference between two things?
+    words: difference, distinction, distinctions
+  - q: What words refer to judging wrongly?
+    words: indiscriminate, miscalculate, misjudge, overestimate, uncritical
+  - q: What words refer to a person who evaluates?
+    words: referee, tester
+  - q: What words refer to a report of an evaluation?
+    words: report, reputation, reward
+  - q: What words refer to being evaluated as better than before?
+    words: move up, rise, climb, shoot up

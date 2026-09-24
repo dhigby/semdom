@@ -1,0 +1,33 @@
+code: "2.6.2"
+guid: C753FC8B-22AE-4E71-807F-56FB3EBD3CDD
+name: Sexual relations
+description: >-
+  Use this domain for words related to sexual relations and having sex. Be careful that your
+  domain label does not use a taboo word.
+ocmCodes: 830 Sex; 831 Sexuality; 832 Sexual Stimulation; 833 Sexual Intercourse
+louwNidaCodes: 23D Sexual Relations
+questions:
+  - q: What general words refer to sexual relations?
+    words: sex, intercourse, sexual relations, conjugal rights, marital rights, union
+  - q: What words refer to having sex with someone?
+    words: >-
+      have sex with, have intercourse, make love, sleep with, go to bed with, lovemaking,
+      coition, coitus, copulation, coupling, impregnate, mate, unite
+  - q: What words refer to affection and sexual stimulation?
+    words: >-
+      stimulate, kiss, fondle, arousal, caress, climax, erection, eroticism, libido, mount,
+      snog, pet, hug, embrace, cuddle, hold hands
+  - q: What words refer to orgasm?
+    words: orgasm, climax, ejaculate, ejaculation, come, semen, sperm
+  - q: What words describe something having to do with sex?
+    words: carnal, erotic, genital, heterosexual, phallic, sexual, sexuality, sexually, venereal
+  - q: What words describe someone who wants to have sex?
+    words: amorous, aroused, in the mood, turned on
+  - q: What words refer to something used to increase sexual pleasure?
+    words: aphrodisiac
+  - q: What words refer to two people who are having sex?
+    words: lovers
+  - q: What words describe a person who has difficulty having sex?
+    words: impotence, impotent, frigid, frigidity
+  - q: What words refer to being friends, but not having sex?
+    words: platonic, be just good friends

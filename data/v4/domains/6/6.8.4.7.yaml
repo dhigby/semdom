@@ -1,0 +1,20 @@
+code: "6.8.4.7"
+guid: 57E367F4-7029-4916-A700-791DB32B4745
+name: Spend
+description: Use this domain for words related to spending money.
+louwNidaCodes: 57K Spend, Waste
+questions:
+  - q: What words refer to spending money?
+    words: spend, pay, give
+  - q: What words refer to spending lots of money?
+    words: spend a lot, go to great expense, spare no expense, shell out, go through, eat up
+  - q: What words refer to spending money carelessly?
+    words: squander, blow, waste, scatter
+  - q: What words describe someone who spends lots of money carelessly?
+    words: extravagant, spendthrift, big spender
+  - q: What words refer to not spending a lot of money?
+    words: economize, scrimp and save, budget, tighten your belt, live on a shoestring
+  - q: What words describe someone who does not spend a lot of money?
+    words: thrifty, economical, frugal, careful with your money
+  - q: What words describe how much you spend?
+    words: expenses, expenditure, spending, outlay, overhead, costs, budget

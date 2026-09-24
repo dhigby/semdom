@@ -1,0 +1,24 @@
+code: "4.3.1.3.1"
+guid: 2B846476-00CF-4D82-97A1-26E1EDA880CA
+name: Immature in behavior
+description: >-
+  Use this domain for words related to behaving in an immature way--for either a child or an
+  adult to act like a child.
+louwNidaCodes: 88M Mature Behavior
+questions:
+  - q: What words describe someone who is immature?
+    words: >-
+      immature, babyish, boyish, callow, childlike, childish, girlish, inexperienced,
+      infantile, irresponsible, naive, puerile, rookie, sophomoric, spoiled
+  - q: What words refer to an immature person?
+    words: baby
+  - q: What words refer to doing something immature?
+    words: be immature, act like a child
+  - q: What words refer to the quality of being immature?
+    words: immaturity
+  - q: What words describe something someone does that is immature?
+    words: immature, childish, infantile, juvenile, puerile, silly
+  - q: What words describe a bad child?
+    words: naughty, badly-behaved, mischievous, spoiled
+  - q: What words refer to a bad child?
+    words: brat, nuisance, pest, bully

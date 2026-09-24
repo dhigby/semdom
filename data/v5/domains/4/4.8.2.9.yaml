@@ -1,0 +1,11 @@
+code: "4.8.2.9"
+guid: 77F27500-AAD8-409C-A28E-92DF73794DCE
+name: Enemy
+description: Use this domain for words related to an enemy--someone you are fighting against.
+questions:
+  - q: What words refer to an enemy?
+    words: enemy, the enemy, foe, adversary, hostile, opponent
+  - q: What words refer to a group you are fighting against?
+    words: opposition, the other side
+  - q: What words describe something belonging to the enemy?
+    words: enemy (troops/action/tanks), hostile (forces/territory)

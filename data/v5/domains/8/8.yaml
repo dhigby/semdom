@@ -1,0 +1,12 @@
+code: "8"
+guid: C72985CF-B07F-4ED5-873A-A2209929667E
+name: States
+description: Use this domain for general words refer to the state or condition of something.
+louwNidaCodes: 13A State
+questions:
+  - q: What general words refer to the state or condition of something?
+    words: state, condition, shape, position
+    sentence: What <state> is your house in?; My house is in bad <shape>.
+  - q: What words indicate the state that something is in?
+    words: be, fare, stand
+    sentence: How are you <faring>?; How do things <stand> at work?

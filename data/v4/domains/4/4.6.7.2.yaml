@@ -1,0 +1,13 @@
+code: "4.6.7.2"
+guid: B536622C-80A3-4B31-9D22-4ED2FB76324D
+name: City
+description: Use this domain for words related to a city.
+ocmCodes: >-
+  632 Towns; 633 Cities; 360 Settlements; 361 Settlement Patterns; 362 Housing; 369 Urban
+  and Rural Life
+louwNidaCodes: 1N Population Centers
+questions:
+  - q: What words refer to a city?
+    words: city, town, village, hamlet, burg, community, urban
+  - q: What words refer to a part of a city?
+    words: district, park

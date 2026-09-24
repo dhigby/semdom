@@ -1,0 +1,11 @@
+code: "7.2.1.4"
+guid: 250BAAB9-5A31-493C-95EA-9FEE8BAF9FD5
+name: Graceful
+description: Use this domain for words referring to moving in a graceful manner.
+questions:
+  - q: What words describe someone who moves in a graceful way?
+    words: graceful, coordinated, elegant, light-footed, light on your feet, lithe
+  - q: What words describe graceful movements?
+    words: graceful, elegant, smooth, flowing, effortless, easy, with ease
+  - q: What words refer graceful movement?
+    words: grace, gracefulness, poise, elegance, coordination

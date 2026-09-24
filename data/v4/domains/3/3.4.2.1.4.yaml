@@ -1,0 +1,35 @@
+code: "3.4.2.1.4"
+guid: 2E30F02D-D1E6-489C-A1FB-8B9FB6ECD819
+name: Disappointed
+description: >-
+  Use this domain for words related to feeling disappointed--to feel bad because something
+  did not happen that you wanted to happen or someone did not do something that you wanted
+  them to do.
+questions:
+  - q: What words refer to feeling disappointed?
+    words: >-
+      be disappointed, feel let down, feel blue, feel forlorn, not realize your hopes, have
+      your hopes dashed, your heart sank, look blue
+  - q: What words refer to the feeling of disappointment?
+    words: >-
+      disappointment, frustration, letdown, bitter pill to swallow, forlorn hope,
+      unfulfilled hopes
+  - q: What words describe someone who feels disappointed?
+    words: >-
+      disappointed, crushed, disconcerted, discouraged, deflated, disillusioned,
+      disenchanted, dispirited, frustrated
+  - q: What words refer to feeling very disappointed?
+    words: crushed, bitterly disappointed
+  - q: What words refer to causing someone to feel disappointed?
+    words: >-
+      disappoint, dash someone's hopes, demoralize, devastate, discourage, dishearten,
+      disillusion, dissatisfy, jilt, let someone down, frustrate
+  - q: What words refer to something that causes someone to feel disappointed?
+    words: >-
+      disappointment, anticlimax, bitter pill to swallow, blow, letdown, discouragement,
+      frustration
+  - q: What words describe something that causes someone to feel disappointed?
+    words: >-
+      disappointing, be a disappointment, be an anticlimax, be a letdown, not live up to
+      expectations, not all it's cracked up to be, discouraging, disheartening, frustrating,
+      not up to par

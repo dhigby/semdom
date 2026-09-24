@@ -1,0 +1,9 @@
+code: "3.5.1.2.4"
+guid: 7AD54364-CA8C-4b7c-9748-F83EFB44D0EA
+name: Mention
+description: >-
+  Use this domain for words related to mentioning something--to talk about something but
+  without saying much about it.
+questions:
+  - q: What words refer to mentioning something?
+    words: mention, refer to, allude to, touch on, say briefly

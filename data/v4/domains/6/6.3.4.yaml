@@ -1,0 +1,13 @@
+code: "6.3.4"
+guid: 71A2CC77-F968-4341-84C1-6C16D007A093
+name: Butcher, slaughter
+description: Use this domain for words referring to killing animals and cutting them up for food.
+questions:
+  - q: What words refer to killing an animal?
+    words: kill, butcher, slaughter, destroy, put down, put away, put something out of its misery
+  - q: What words refer to skinning an animal?
+    words: skin, flay
+  - q: What words refer to cutting up an animal?
+    words: butcher, butchery, dress (meat)
+  - q: What words refer to a place where animals are butchered?
+    words: slaughterhouse, butchery

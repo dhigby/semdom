@@ -1,0 +1,7 @@
+code: "7.3.7.1"
+guid: 5B925EE1-82EF-4692-BBA2-9CE3CB41C7BB
+name: Uncover
+description: Use this domain for words related to uncovering something.
+questions:
+  - q: What words refer to uncovering something?
+    words: uncover, remove (a cover), take off, reveal

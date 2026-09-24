@@ -1,0 +1,22 @@
+code: "8.1.5.5"
+guid: 0AAACFFE-9B6C-49a7-BF68-C0F9FF3E120E
+name: Most, least
+description: >-
+  Use this domain for words related to the most--the largest number or amount; or the
+  least--the smallest number or amount. Most/least may refer to the largest/smallest number
+  possible or needed. If there are several groups being counted, most/least may refer to the
+  largest/smallest group.
+questions:
+  - q: What words refer to the largest amount of something?
+    words: maximum, most
+  - q: What words refer to the smallest amount of something?
+    words: the least, minimum, the fewest, the lowest
+  - q: What words refer to the largest group?
+    words: the most
+    sentence: Who has the <most> children?
+  - q: What words refer to the smallest group?
+    words: the least
+  - q: What words refer to an amount being the largest it has ever been?
+    words: an all-time high, record high, high water mark
+  - q: What words refer to an amount being the smallest it has ever been?
+    words: an all-time low, record low, lowest ebb

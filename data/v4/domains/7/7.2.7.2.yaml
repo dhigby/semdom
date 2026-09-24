@@ -1,0 +1,13 @@
+code: "7.2.7.2"
+guid: 82EB3050-D382-48F6-A049-22A5F8A3B25A
+name: Stay, remain
+description: Use this domain for words referring to not moving.
+louwNidaCodes: 85C Remain, Stay
+questions:
+  - q: What words refer to someone not moving?
+    words: >-
+      stay, stay behind, stay back, remain, remain behind, stay where you are, stay put,
+      remain in place, hold your place, hold still, freeze, stationary, standstill, stand
+      around, stand still, linger, tarry, abide
+  - q: What words refer to something never moving again?
+    words: permanent, final resting place

@@ -1,0 +1,19 @@
+code: "2.3.1.8"
+guid: 4275DF2E-D4F6-461A-9279-39E0712DC082
+name: Appearance
+description: Use this domain for words related to how something appears.
+louwNidaCodes: 58B Appearance as an Outward Manifestation of Form
+related: ["2.3.1"]
+questions:
+  - q: What words refer to the appearance of something?
+    words: appearance, look, manifestation
+  - q: What words refer to the appearance of someone?
+    words: appearance, looks, image, visage, features, countenance, profile
+  - q: What words indicate that something looks like another thing?
+    words: look like, have the look of, have the appearance of, resemble
+  - q: What words indicate that something looks a particular way?
+    words: look (good/bad), be (dark/young) in appearance, (good/bad) looking
+  - q: What words indicate that a piece of clothing looks good on someone?
+    words: suit, look good on, flattering
+  - q: What words indicate that something looks good with another thing?
+    words: go with, set off, match, go together, complement, matching, blend in

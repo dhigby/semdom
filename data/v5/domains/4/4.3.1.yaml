@@ -1,0 +1,23 @@
+code: "4.3.1"
+guid: 30E6B42C-6BBF-4659-99E7-AA4B8E68C9CE
+name: Good, moral
+description: Use this domain for words related to being good or moral in behavior.
+louwNidaCodes: 88B Just, Righteous; 88C Holy, Pure; 41C Particular Patterns of Behavior
+related: ["8.3.7"]
+questions:
+  - q: What words describe someone who is good?
+    words: >-
+      good, moral, blameless, decent, ethical, excellent, fine, high-minded, holy,
+      honorable, just, pure, righteous, saintly, sanctified, upstanding, virtuous, worthy
+  - q: What words refer to a good person?
+    words: saint
+  - q: What words refer to the quality of being good?
+    words: goodness, morality, holiness, purity, righteousness, sanctification, virtue
+  - q: What words refer to doing something good?
+    words: do good, be good, behave, behave yourself, be on your best behavior
+  - q: What words refer to something someone does that is good?
+    words: good deed, good behavior
+  - q: What words describe something someone does that is good?
+    words: good, ethical, fine, right, righteous, worthy
+  - q: What words refer to becoming good?
+    words: improve, develop, reform

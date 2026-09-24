@@ -1,0 +1,30 @@
+code: "3.4.2.5"
+guid: 8052744F-7A9A-49DA-89E3-4C518126180B
+name: Confused
+description: >-
+  Use this domain for words related to feeling confused--to be worried and uncertain about
+  what something means or what to do.
+related: ["4.3.6.4"]
+questions:
+  - q: What words refer to feeling confused?
+    words: be confused, be in a muddle
+  - q: What words refer to the feeling of being confused?
+    words: confusion, bewilderment, mystification, perplexity
+  - q: What words describe someone who feels confused?
+    words: >-
+      confused, baffled, befuddled, bemused, mystified, perplexed, puzzled, stupefied,
+      unsure
+  - q: What words describe someone who is very confused?
+    words: bewildered, mixed-up
+  - q: What words refer to causing someone to feel confused?
+    words: >-
+      confuse, baffle, befuddle, bewilder, distract, flummox, fluster, mystify, nonplus,
+      perplex, puzzle (v), stupefy, throw
+  - q: What words refer to something that causes someone to feel confused?
+    words: distraction, puzzle (n), mystery
+  - q: What words describe something that causes someone to feel confused?
+    words: confusing, puzzling, bewildering, baffling
+  - q: What words refer to confusing one thing for another?
+    words: >-
+      confuse, mix someone up with, mix people up, get something mixed up with, get things
+      mixed up

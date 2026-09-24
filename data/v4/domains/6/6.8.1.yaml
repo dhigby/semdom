@@ -1,0 +1,13 @@
+code: "6.8.1"
+guid: FF736F67-197B-46B9-BC14-EDBEB1FB3D5A
+name: Have wealth
+description: Use this domain for words related to having wealth.
+ocmCodes: 420 Property; 510 Living Standards and Routines; 511 Standard of Living
+louwNidaCodes: 57A Have, Possess, Property, Owner
+questions:
+  - q: What words refer to having wealth?
+    words: have, possess, own
+  - q: What words refer to the things a person owns?
+    words: possessions, property
+  - q: What words refer to the person who owns something?
+    words: owner

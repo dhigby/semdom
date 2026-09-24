@@ -1,0 +1,14 @@
+code: "6.3.6"
+guid: B2BB077A-92C8-4E54-8DFA-C89EFD60B82D
+name: Poultry raising
+description: Use this domain for words related to raising birds.
+ocmCodes: 235 Poultry Raising
+questions:
+  - q: What birds are domesticated?
+    words: poultry, chicken, duck, goose, turkey, pigeon, canary, parrot, guinea fowl
+  - q: Where are domesticated birds kept?
+    words: hen house, duck pond, birdcage
+  - q: What words refer to collecting eggs?
+    words: gather eggs, collect eggs
+  - q: What words refer to pulling the feathers off of a dead bird?
+    words: pluck

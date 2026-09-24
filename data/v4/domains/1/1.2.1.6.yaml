@@ -1,0 +1,30 @@
+code: "1.2.1.6"
+guid: 7988974C-99FD-40DD-9B5E-2D81EC603DDC
+name: Forest, grassland, desert
+description: >-
+  Use this domain for words referring to an area of land that has particular types of plants
+  growing in it.
+related: ["1.3.1.2"]
+questions:
+  - q: What words refer to the types of plants that grow in an area?
+    words: ecosystem, vegetation
+  - q: What words refer to a forest or group of trees?
+    words: >-
+      forest, forested, rain forest, grove, wood, wooded, woodland, woods, thicket, jungle,
+      taiga, orchard
+  - q: What are the parts of a forest?
+    words: >-
+      forest canopy, forest floor, underbrush, undergrowth, edge (of the forest), deep in
+      the forest, backwoods, timberland
+  - q: What words refer to a place in a forest where there are no trees?
+    words: meadow, clearing
+  - q: What words refer to land covered by grass or bushes?
+    words: >-
+      grassland, prairie, savannah, bush, moor, moorland, brush, brake, heath, scrubby,
+      scrubland, shrubby, steppe, tundra, veld
+  - q: What words refer to land where many plants grow?
+    words: lush, dense, thick, overgrown
+  - q: What words refer to land where very few plants grow?
+    words: desert, wasteland, oasis
+  - q: What words refer to land where no people live?
+    words: wilderness, uninhabited, frontier, hinterland, outback

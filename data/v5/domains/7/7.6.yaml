@@ -1,0 +1,17 @@
+code: "7.6"
+guid: 043D12AC-C76D-4B4C-813B-4EF7758C8085
+name: Hide
+description: >-
+  Use this domain for words related to hiding things so that they cannot be seen or found,
+  and for hiding oneself.
+questions:
+  - q: What words refer to hiding something?
+    words: hide, conceal, concealment, bury, secrecy
+  - q: What words describe something that is hidden?
+    words: hidden, secret
+  - q: What words refer to the place where something is hidden?
+    words: hiding place, hideout, refuge
+  - q: What words refer to hiding yourself?
+    words: hide, take refuge, go into hiding, disappear
+  - q: What words refer to coming out from hiding?
+    words: come out (from hiding), surface

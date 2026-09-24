@@ -1,0 +1,15 @@
+code: "3.5.1.1.5"
+guid: F5642647-9B9C-499B-A66E-349593C863F1
+name: Say nothing
+description: Use this domain for words related to being silent--to say nothing for some time.
+louwNidaCodes: 33H Keep Silent
+related: ["2.3.2.5"]
+questions:
+  - q: What words refer to not talking?
+    words: keep silent, keep quiet, say nothing, zip your lip, shut up, refrain from talking
+  - q: What words describe someone who is silent?
+    words: silent, quiet, close-mouthed, mum, mute, speechless, wordless
+  - q: What words refer to stopping someone from talking?
+    words: gag, hush, muffle, silence (v)
+  - q: What words refer to a time when everyone is silent?
+    words: silence

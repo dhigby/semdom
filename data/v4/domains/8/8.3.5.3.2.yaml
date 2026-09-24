@@ -1,0 +1,10 @@
+code: "8.3.5.3.2"
+guid: B0156A7C-928A-4CC8-A021-4AF4DC74FEAD
+name: Unusual
+description: Use this domain for words describing something that is unusual.
+louwNidaCodes: 58H Unusual, Different From the Ordinary
+questions:
+  - q: What words describe something that is unusual?
+    words: >-
+      unusual, rare, infrequent, out of the ordinary, abnormal, unnatural, atypical,
+      singular

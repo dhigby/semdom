@@ -1,0 +1,24 @@
+code: "9.5"
+guid: AAB82DC7-DE9F-44B3-845E-0C926F47CFB6
+name: Case
+description: >-
+  Each verb has a set of semantic case relations. For instance in the sentence 'I gave
+  flowers to my wife' the verb give has three case relations. 'I' is the Agent, 'flowers' is
+  the Patient, and 'my wife is the 'Recipient'. In this sentence the only word that marks a
+  case relation is 'to'. English often marks case relations by their position in the
+  sentence. Some languages mark case relations by affixes, prepositions, postpositions, and
+  sometimes special verbs. To completely describe a language, each verb must be
+  investigated, all its case relations must be identified, and all the ways in which these
+  relations are marked must be described. Since verbs are often unique and unpredictable in
+  their case relations, this information should go into the dictionary. This section should
+  be used to classify the words and affixes that are used to mark case relations. This
+  domain should be used for technical terms that refer to case.
+louwNidaCodes: >-
+  90 Case; 90A Agent, Personal or Nonpersonal, Causative or Immediate, Direct or Indirect;
+  90C Source of Event or Activity; 90D Responsibility; 90E Viewpoint Participant; 90F
+  Content; 90G Guarantor Participant with Oaths; 90H Opposition; 90J Reason Participant; 90K
+  Agent of a Numerable Event; 90L Agent in a Causative Role Marked by Verbs; 90M
+  Experiencer; 90N To Cause To Experience
+questions:
+  - q: What words are used to refer to case?
+    words: case, declension

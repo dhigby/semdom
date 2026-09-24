@@ -1,0 +1,9 @@
+code: "4.8.4.5"
+guid: 9B9CCD76-76D6-457B-93D2-C4D242A395F8
+name: Renounce claim, concede
+description: Use this domain for words related to renouncing a claim.
+questions:
+  - q: What words refer to renouncing a claim?
+    words: >-
+      renounce claim, concede, relinquish, cede, no contest, concession, disclaim,
+      disclaimer

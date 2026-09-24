@@ -1,0 +1,13 @@
+code: "3.5.1.6.1"
+guid: EBAC5EC8-DC4C-4B2B-A727-3CA82404CDBB
+name: Demonstrate
+description: >-
+  Use this domain for words referring to demonstrating something--to do something that shows
+  the truth of a statement, or shows how to do something.
+questions:
+  - q: What words refer to demonstrating something?
+    words: >-
+      demonstrate, show, show how, substantiate, prove, give proof, verify, authenticate,
+      confirm, corroborate, give evidence, establish, make good
+  - q: What words refer to an event when you demonstrate something?
+    words: demonstration

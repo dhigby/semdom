@@ -1,0 +1,10 @@
+code: "8.4.2"
+guid: C2B720F5-1123-446E-9F60-088A3272B889
+name: Take time
+description: Use this domain for words referring to taking time to do something.
+louwNidaCodes: >-
+  67E Duration of Time without Reference to Points or Units of Time: Time, Spend Time,
+  Always, Eternal, Old, Immediately, Young
+questions:
+  - q: What words refer to how people relate to time?
+    words: take time, spend time, use time, make time, find time

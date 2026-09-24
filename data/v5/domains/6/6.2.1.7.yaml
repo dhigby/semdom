@@ -1,0 +1,11 @@
+code: "6.2.1.7"
+guid: EF5EE2BE-8A32-452A-818B-80191EDB8E41
+name: Growing trees
+description: >-
+  Use this domain for words related to growing trees. If one crop is cultivated extensively
+  and there are many words related to it, set up a separate domain for it. This has already
+  been done for coconuts and coffee, since they are so common around the world.
+ocmCodes: 245 Arboriculture
+questions:
+  - q: What words refer to growing trees?
+    words: prune, seedling, graft

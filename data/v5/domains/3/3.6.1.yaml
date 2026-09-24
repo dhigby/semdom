@@ -1,0 +1,14 @@
+code: "3.6.1"
+guid: 4093BFE8-54B3-4FFC-BFE3-3999279840B5
+name: Show, explain
+description: >-
+  Use this domain for words related to showing someone how something works, or explaining
+  something to someone.
+related: ["2.3.1.4", "3.5.8.4"]
+questions:
+  - q: What words refer to showing how something works or how something is done?
+    words: show, demonstrate
+  - q: What words refer to explaining something?
+    words: explain, explanation, elaborate, elucidate
+  - q: What words refer to something that is said about something?
+    words: comment, remark, observation

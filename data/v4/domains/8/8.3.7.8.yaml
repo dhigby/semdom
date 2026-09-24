@@ -1,0 +1,24 @@
+code: "8.3.7.8"
+guid: 76A06E45-99F7-446F-A2E8-E23EDF6064BD
+name: Decay
+description: >-
+  Use this domain for words related to something decaying--when a living thing dies and
+  becomes bad, or when a part of a living thing becomes bad.
+louwNidaCodes: 23M Rot, Decay
+questions:
+  - q: What words refer to something decaying?
+    words: decay, rot, decompose, perish, fester, mildew, molder, putrefy
+  - q: What words describe something that is decaying?
+    words: rotten, decayed, moldy, mildewed, putrid, rotted, carious
+  - q: What words refer to food decaying?
+    words: go bad, go off, go stale, go sour, spoil, taint
+  - q: What words describe food that is decaying?
+    words: rotten, bad, stale, moldy, sour, rancid, off, tainted
+  - q: What words refer to making something decay?
+    words: rot
+  - q: What words refer to the process of decay?
+    words: decay (n), corruption, decomposition, putrefaction
+  - q: What words refer to a place on something where it is decaying?
+    words: decay (n), rot (n), canker, caries, carrion, dry rot
+  - q: What words refer to something being eaten by insects?
+    words: eaten by insects, infested with termites, moth-eaten

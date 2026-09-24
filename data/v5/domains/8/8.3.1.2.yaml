@@ -1,0 +1,11 @@
+code: "8.3.1.2"
+guid: 07E97F87-68CA-4D18-9F86-A326E0400947
+name: Line
+description: Use this domain for words referring to a line.
+questions:
+  - q: What words refer to a line?
+    words: line, band, row
+  - q: What tools are used to draw a line?
+    words: ruler, straightedge
+  - q: What words describe two lines that go in the same direction?
+    words: parallel

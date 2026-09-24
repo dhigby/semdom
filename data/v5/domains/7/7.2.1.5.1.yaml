@@ -1,0 +1,9 @@
+code: "7.2.1.5.1"
+guid: 3F535689-944A-4E9C-8F64-EC6395B7C8D7
+name: Slip, slide
+description: Use this domain for moving across a smooth or lubricated surface.
+questions:
+  - q: What words refer to moving across a smooth or lubricated surface?
+    words: slip, slide, glide, coast, skim, skate
+  - q: What words describe a surface that something can easily slip on?
+    words: slippery

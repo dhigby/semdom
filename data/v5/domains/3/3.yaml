@@ -1,0 +1,10 @@
+code: "3"
+guid: F4491F9B-3C5E-42AB-AFC0-F22E19D0FFF5
+name: Language and thought
+description: >-
+  Use this domain for general words referring to mental and verbal activity. This domain is
+  primarily for grouping many related domains. Therefore there may be no general word in a
+  language to cover such a broad area of meaning.
+questions:
+  - q: What general words refer to mental and verbal activity?
+    words: psychology, life of the soul

@@ -1,0 +1,9 @@
+code: "3.2.5.6"
+guid: 81E366FA-450B-42AD-B23F-7074DC7823E2
+name: Attitude
+description: >-
+  Use this domain for words referring to a person's attitude--the way you think and feel
+  about something.
+questions:
+  - q: What words refer to a person's opinions and feelings about something?
+    words: attitude, mentality, way of thinking, outlook, worldview

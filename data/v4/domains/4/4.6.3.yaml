@@ -1,0 +1,10 @@
+code: "4.6.3"
+guid: 562F55DE-EFC7-41A7-B450-6F9DEA2813E2
+name: Government organization
+description: Use this domain for words related to a government organization.
+ocmCodes: >-
+  621 Community Structure; 628 Inter-community Relations; 629 Inter-ethnic Relations; 642
+  Constitution
+questions:
+  - q: What general words refer to a government organization?
+    words: government organization, ministry, department, branch, agency

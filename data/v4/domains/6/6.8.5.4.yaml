@@ -1,0 +1,7 @@
+code: "6.8.5.4"
+guid: 1DA9C4F4-8AE2-47D9-8068-FF65FA3848A9
+name: Repay debt
+description: Use this domain for words related to repaying a debt.
+questions:
+  - q: What words refer to repaying a debt?
+    words: repay, return, restore (to rightful owner)

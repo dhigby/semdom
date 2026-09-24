@@ -1,0 +1,7 @@
+code: "7.3.1.2"
+guid: EF025CD9-DD92-442B-A8F9-FE7AC944CCEC
+name: Catch
+description: Use this domain for verbs for catching something that is thrown or dropped.
+questions:
+  - q: What words refer to catching something?
+    words: catch, intercept, snag

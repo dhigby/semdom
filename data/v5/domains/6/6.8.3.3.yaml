@@ -1,0 +1,11 @@
+code: "6.8.3.3"
+guid: 0105615F-0A96-4D08-AB00-CA4B4473DE39
+name: Stingy
+description: Use this domain for words related to being stingy.
+questions:
+  - q: What words refer to refusing to share?
+    words: hoard, parsimony
+  - q: What words describe a person who refuses to share?
+    words: stingy, avaricious, parsimonious, miserly
+  - q: What words refer to a person who refuses to share?
+    words: miser

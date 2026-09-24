@@ -1,0 +1,14 @@
+code: "3.2.2.7"
+guid: 880647E5-6543-46DD-9178-8EDAE9272ADD
+name: Willing to learn
+description: Use this domain for words referring to being willing to learn or unwilling to learn.
+louwNidaCodes: 27E Be Willing To Learn
+questions:
+  - q: What words refer to being willing to learn?
+    words: willing to learn, open your mind, open-minded, open to new ideas, teachable
+  - q: What words refer to being unwilling to learn?
+    words: >-
+      unwilling to learn, close your mind, closed minded, refuse to learn, won't listen to
+      reason, stubborn, hard heart, mind made up
+  - q: What words refer to wanting to learn something?
+    words: curious, interested

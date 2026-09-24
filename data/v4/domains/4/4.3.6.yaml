@@ -1,0 +1,35 @@
+code: "4.3.6"
+guid: 8ADD7F4D-333B-4B2C-9999-48A14162152B
+name: Self-controlled
+description: >-
+  Use this domain for words referring to self-control--deciding not to do something that you
+  want to do, because you think it would be bad to do it; or deciding to do something,
+  because you know it is good.
+louwNidaCodes: 88K Self-Control, Lack of Self-Control
+questions:
+  - q: What words describe someone who is self-controlled?
+    words: >-
+      self-controlled, ascetic, austere, careful, conscientious, controlled, disciplined,
+      discreet, moderate, provident, prudent, puritanical, restrained, sober-minded, stoic,
+      tempered, tolerant, unsparing
+  - q: What words refer to a self-controlled person?
+    words: ascetic, conformist, moderate, puritan, stoic
+  - q: What words refer to being self-controlled?
+    words: >-
+      abstain, behave, behave yourself, constrain, contain yourself, control yourself,
+      discipline yourself, forbear, forgo, restrain yourself, say no, tolerate
+  - q: What words refer to the quality of being self-controlled?
+    words: >-
+      self-control, abnegation, abstention, abstinence, asceticism, constraint, discipline,
+      equanimity, forbearance, moderation, poise, reserve, restraint, self-denial,
+      self-discipline, sobriety, stoicism, sufferance, temperance, tolerance, toleration
+  - q: What words refer to controlling your feelings?
+    words: >-
+      keep your temper, calm and collected, composed, composure, forbearing, unexcitable,
+      long-suffering, poised, reserved, staid, steady, unexcited
+  - q: What words refer to controlling your eating?
+    words: put a knife to your throat
+  - q: What words refer to controlling your desire to drink alcohol?
+    words: stay sober, go on the wagon
+  - q: What words refer to controlling your desire to spend money?
+    words: frugal, frugality, thrifty, thrift

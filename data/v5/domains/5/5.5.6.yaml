@@ -1,0 +1,25 @@
+code: "5.5.6"
+guid: 9FC25175-3B4A-4248-BC7F-B86012EC584F
+name: Fuel
+description: >-
+  Use this domain for types of fuel and for words used in making, collecting, storing, or
+  using fuel. This domain includes the scenario of collecting firewood.
+questions:
+  - q: What words refer to the thing that is burned by a fire?
+    words: fuel
+  - q: What types of things are normally used as fuel?
+    words: wood, coal, charcoal, oil, gas, candle wax, kindling
+  - q: What words refer to firewood?
+    words: firewood, bundle of firewood, piece of firewood, stack of firewood
+  - q: What words refer to collecting fuel?
+    words: collect, gather, pick up, chop firewood, split firewood
+  - q: What words refer to charcoal?
+    words: charcoal
+  - q: What words are used for making charcoal?
+    words: cook
+  - q: What words refer to liquid fuel?
+    words: >-
+      liquid fuel, gasoline (petrol), gas, kerosene (paraffin), diesel, candle wax, oil
+      (lamp)
+  - q: What containers are used to hold liquid fuels?
+    words: gas can, jerry can

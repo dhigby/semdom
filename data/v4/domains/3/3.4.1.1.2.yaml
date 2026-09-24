@@ -1,0 +1,20 @@
+code: "3.4.1.1.2"
+guid: CE6D5E60-7CF6-46AB-BD02-453EC7B04F7A
+name: Self-esteem
+description: Use this domain for words related to feeling good about yourself.
+louwNidaCodes: 25S Pride
+questions:
+  - q: What words refer to feeling good about yourself?
+    words: feel good about yourself
+  - q: What words refer to the feeling of self-esteem?
+    words: pride, self-esteem, self-respect
+  - q: What words describe someone who feels good about himself?
+    words: proud
+  - q: What words refer to feeling very good about yourself?
+    words: proud
+  - q: What words refer to causing someone to feel good about himself?
+    words: build up, encourage, bolster, boost, congratulate
+  - q: What words refer to something that causes someone to feel good about himself?
+    words: encouragement, boost, congratulations
+  - q: What words describe something that causes someone to feel good about himself?
+    words: encouraging

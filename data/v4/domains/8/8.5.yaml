@@ -1,0 +1,17 @@
+code: "8.5"
+guid: 2DCA9338-85CB-4F58-B40D-D2D759E8EDD6
+name: Location
+description: >-
+  Use this domain for words that refer to the place where something is located and for words
+  indicating the location of something.
+ocmCodes: 131 Location
+louwNidaCodes: 83 Spatial Positions; 83B Where, Somewhere, Everywhere
+questions:
+  - q: What words refer to the location of something?
+    words: location, position, place, venue, at, spot
+  - q: What words indicate that something is located somewhere?
+    words: be at, at, be, be located, location
+    sentence: >-
+      John <is at> home.; John <is> here.; The books <are> in the box.; The office <is
+      located> in the next building.; The <location> of the library <is> in the Academic
+      Building.; Here <is> John.; There <are> the potatoes.; the steps <at> the door

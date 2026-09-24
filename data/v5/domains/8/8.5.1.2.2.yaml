@@ -1,0 +1,11 @@
+code: "8.5.1.2.2"
+guid: C7C2D82E-D86C-4BF3-81A1-82772E87D709
+name: Between
+description: Use this domain for words indicating that something is between two other things.
+louwNidaCodes: 83C Among, Between, In, Inside
+questions:
+  - q: What words indicate that something is between two other things?
+    words: >-
+      between, amid, amidships, amidst, among, amongst, betwixt, center, central,
+      equidistant, half-way, mean, medial, median, medium, mid, middle, middlemost, midst,
+      midway, therein, throughout, within

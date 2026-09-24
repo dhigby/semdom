@@ -1,0 +1,11 @@
+code: "6.1.2.5"
+guid: 53BA3B61-4F4E-4749-8A7F-0D2B327A113D
+name: Plan
+description: Use this domain for words related to planning.
+ocmCodes: 121 Theoretical Orientation in Research and Its Results
+related: ["3.3.1"]
+questions:
+  - q: What words refer to making plans?
+    words: plan, make plans, devise a plan, come up with a plan, contrive, mastermind
+  - q: What words refer to a plan?
+    words: plan, aim, objective, goal, purpose, program, scheme

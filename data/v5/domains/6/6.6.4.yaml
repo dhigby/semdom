@@ -1,0 +1,8 @@
+code: "6.6.4"
+guid: F6EB81D5-CABA-4735-BE6F-AE038656B555
+name: Crafts
+description: Use this domain for words related to crafts.
+ocmCodes: 280 Leather, Textiles and Fabrics
+questions:
+  - q: What general words refer to working with materials?
+    words: craft

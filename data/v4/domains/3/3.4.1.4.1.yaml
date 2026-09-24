@@ -1,0 +1,43 @@
+code: "3.4.1.4.1"
+guid: 00364F0C-9A3A-4910-A82E-1FFBC4D4137F
+name: Excited
+description: >-
+  Use this domain for words related to feeling excited--to feel good when something good has
+  happening or is about to happen.
+questions:
+  - q: What words refer to feeling excited?
+    words: be on the edge of your seat, be on tenterhooks, be all agog
+  - q: What words refer to the feeling of excitement?
+    words: excitement, thrill, exhilaration, hysteria, suspense
+  - q: What words describe someone who feels excited?
+    words: excited, eager, thrilled, animated, exuberant
+  - q: What words describe a group of people who are excited?
+    words: frenzy, fever pitch, hysterical, high spirits
+  - q: What words refer to feeling very excited?
+    words: exhilarated, overexcited, mad, wild, crazy
+  - q: What words refer to causing someone to feel excited?
+    words: >-
+      excite, get someone excited, thrill, give someone a thrill, animate, stir up,
+      exhilarate
+  - q: What words refer to something that causes someone to feel excited?
+    words: sensation
+  - q: What words describe something that causes someone to feel excited?
+    words: >-
+      exciting, thrilling, sensational, sensation, exhilarating, heady, dramatic, nail
+      biting, action-packed
+  - q: What words refer to doing something in order to feel excited?
+    words: do something for kicks, do something for the thrill of it
+  - q: What words describe an exciting experience?
+    words: thrill, adventure, excitement
+  - q: What words refer to the most exciting part of something?
+    words: climax, high point, high spot, highlight
+  - q: What words describe a person who becomes excited easily?
+    words: excitable
+  - q: What words refer to becoming more excited?
+    words: >-
+      get excited, excitement rose, go mad, go wild, go crazy, reach a climax, reach a fever
+      pitch
+  - q: What words refer to becoming less excited?
+    words: calm down
+  - q: What words describe a person who does not feel excited?
+    words: calm, unexcited

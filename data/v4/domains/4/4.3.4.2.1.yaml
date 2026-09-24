@@ -1,0 +1,10 @@
+code: "4.3.4.2.1"
+guid: 60E63D4A-702E-4238-A42B-D97F6BE09C29
+name: Hinder
+description: Use this domain for words related to hindering someone.
+questions:
+  - q: What words refer to opposing someone?
+    words: >-
+      hinder, hinder someone from, oppose, opposition, stand in opposition to, be
+      antagonistic
+    sentence: The rain <hindered> John <from> finishing his work.

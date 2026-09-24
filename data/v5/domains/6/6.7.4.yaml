@@ -1,0 +1,8 @@
+code: "6.7.4"
+guid: BE4AB208-1FA0-463F-9CA0-4C7E3E03AAFD
+name: Lifting tool
+description: Use this domain for words referring to tools used to lift things.
+questions:
+  - q: What tools are used for lifting things?
+    words: lever, pulley, block and tackle
+  - q: What words are used to describe the actions done with these tools?

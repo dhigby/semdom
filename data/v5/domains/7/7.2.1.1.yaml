@@ -1,0 +1,60 @@
+code: "7.2.1.1"
+guid: 643CC712-B3B3-42D0-971E-7A4C8A6CBF1E
+name: Walk
+description: Use this domain for words related to walking--moving slowly using your legs.
+louwNidaCodes: 15C' Walk, Step x
+questions:
+  - q: What general words refer to walking?
+    words: walk
+  - q: What words refer to traveling someplace on foot?
+    words: travel by foot, foot it, hoof it, leg it, tramp, strike off on foot
+  - q: What words refer to walking quickly?
+    words: speed walk, step out, stride, pace, rush
+  - q: What words refer to walking slowly?
+    words: >-
+      walk slowly, stroll, amble, ramble, take a Sunday stroll, meander along, saunter,
+      inch, lumber, plod, poke, slog, toddle, traipse, trudge
+  - q: What words refer to walking carefully?
+    words: walk carefully, watch your step, tread, pick your way, edge
+  - q: What words refer to walking quietly or secretly?
+    words: steal along, walk stealthily, sneak, pad, stalk, creep
+  - q: What words refer to walking on your toes?
+    words: tiptoe, walk on tiptoes
+  - q: What words refer to walking loudly?
+    words: stomp, clump
+  - q: What words refer to walking like a soldier?
+    words: march, parade, goose-step, in step
+  - q: What words refer to walking in an unusual way?
+    words: >-
+      walk with a spring in your step, walk jauntily, swagger, flounce, mince, prance,
+      saunter, strut
+  - q: What words refer to stepping on something?
+    words: step on, put foot on/in, tread on, stamp on, underfoot
+  - q: What words refer to a single step?
+    words: step, footstep, pace
+  - q: What words refer to the length of your step?
+    words: stride
+  - q: What words refer to the way in which a person walks?
+    words: gait, funny gait
+  - q: What words refer to measuring the length of something by counting your steps?
+    words: pace off
+  - q: What words refer to someone who walks?
+    words: walker, hiker, tramp, pedestrian, passer-by
+  - q: What words refer to a place where a person walks?
+    words: sidewalk, walkway, promenade, path, footpath, stepping-stone
+  - q: What words refer to a mark on the ground left by a person's foot?
+    words: footprint
+  - q: What words refer to the effect of walking on something?
+    words: trample, wear a path
+  - q: What words refer to the sound of someone walking?
+    words: footsteps
+  - q: What words refer to walking through water?
+    words: wade, paddle, slosh
+  - q: What words refer to a time when people walk for fun?
+    words: >-
+      go for a walk, take a walk, go for a stroll, parade, procession, stretch your legs,
+      hike, go hiking, trek, walk around
+  - q: What words refer to causing someone to walk?
+    words: take someone for a walk, walk the dog
+  - q: What words refer to a walking stick?
+    words: walking stick, cane, crutch

@@ -1,0 +1,10 @@
+code: "8.3.7.3"
+guid: C7CCC5BB-181D-420F-8665-64793FEFB37B
+name: Perfect
+description: Use this domain for words describing something that is perfect.
+louwNidaCodes: 79C' Perfect; 88D Perfect, Perfection
+questions:
+  - q: What words describe something that is perfect?
+    words: perfect, flawless
+  - q: What words describe something that is not perfect?
+    words: imperfect, flawed

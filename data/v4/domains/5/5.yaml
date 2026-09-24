@@ -1,0 +1,8 @@
+code: "5"
+guid: 0F883EB0-00A1-44cc-B719-97FB6EC145D4
+name: Daily life
+description: Use this domain for words related to daily life at home.
+louwNidaCodes: 46 Household Activities
+questions:
+  - q: What words refer to daily life?
+    words: life, routine, homemaking

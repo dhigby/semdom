@@ -1,0 +1,12 @@
+code: "4.4.5"
+guid: B5499348-B8CA-4FAE-8486-B23863560AE5
+name: Chance
+description: Use this domain for words related to chance--when something happens that no one intended.
+ocmCodes: 777 Luck and Chance
+questions:
+  - q: What words refer to something happening by chance or luck?
+    words: chance, luck, fortune, fate
+  - q: What words refer to two things happening at the same time by chance?
+    words: coincidence
+  - q: What words refer to believing that things cause good or bad luck?
+    words: superstition, superstitious

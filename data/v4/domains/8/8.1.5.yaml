@@ -1,0 +1,30 @@
+code: "8.1.5"
+guid: F7960E84-5AF9-4999-9028-783058AA8C5C
+name: All
+description: Use this domain for words related to all.
+louwNidaCodes: 59C All, Any, Each, Every
+questions:
+  - q: What words refer to all of a group of things?
+    words: >-
+      all, everything, the lot, every, each, without exception, altogether, total, a hundred
+      percent, whatsoever, whichever
+    sentence: <Each> went his separate way.; <each> person
+  - q: What words refer to all of something?
+    words: >-
+      all, whole, entire, the lot, every bit of, every inch of, every drop of, in its
+      entirety, from start to finish, the whole of, totality
+  - q: What words refer to all of what you want?
+    words: whatever, anything, everything but the kitchen sink, you name it
+  - q: What words describe something that affects or includes everything?
+    words: >-
+      total, blanket, overall, global, all-embracing, universal, all-pervading, complete,
+      comprehensive, exhaustive, full, general, indiscriminate, sweeping, thorough,
+      thoroughgoing, unmitigated, unqualified, utter, widespread, worldwide
+  - q: What words refer to all people?
+    words: everyone, everybody, anybody, whoever, whomever, whomsoever, whosoever
+  - q: What words refer to all times?
+    words: always, every time, any time, everyday
+  - q: What words refer to all places?
+    words: everywhere
+  - q: What words refer to all ways?
+    words: every way, all-out

@@ -1,0 +1,28 @@
+code: "5.7"
+guid: D502512C-966B-4752-8636-716FB29FACFE
+name: Sleep
+description: Use this domain for words related to sleeping.
+ocmCodes: 513 Sleeping
+louwNidaCodes: 23E Sleep, Waking x
+related: ["2.4.5"]
+questions:
+  - q: What words are used of being asleep?
+    words: be asleep, sleep
+  - q: What words are used of a good sleep?
+    words: sleep well, sleep peacefully
+  - q: What words are used of a bad sleep?
+    words: sleep poorly, sleep badly, sleep fitfully
+  - q: What words are used of a light sleep?
+    words: light sleep, doze, half asleep
+  - q: What words are used of a deep sleep?
+    words: be in a deep sleep, be really out, sleep deeply, sleep soundly, sound asleep
+  - q: What words are used of sleeping during the day?
+    words: nap, take a nap, rest, take a rest
+  - q: >-
+      What words refer to sleeping someplace unusual, for instance in someone else's house,
+      or outside?
+    words: sleepover, sleep outside, sleep under the stars, camp, campout, bivouac
+  - q: What words are used of urinating while asleep?
+    words: wet the bed
+  - q: What words refer to talking in your sleep?
+    words: talk in your sleep

@@ -1,0 +1,28 @@
+code: "6.1.3.4"
+guid: 7C6BA6E5-D81E-4a50-A111-C946A0793378
+name: Advantage
+description: >-
+  Use this domain for words related to having an advantage--something that helps you succeed
+  that other people don't have.
+questions:
+  - q: What words refer to an advantage?
+    words: advantage, asset, privilege
+  - q: What words refer to having an advantage over other people?
+    words: >-
+      have an advantage, be at an advantage, have something on your side, the odds are
+      stacked in your favor, have a head start, have everything going for you, hold all the
+      cards, have the upper hand, be in a strong position, be in a position of strength
+  - q: What words indicate that something gives one person an advantage over others?
+    words: >-
+      give someone an advantage, give someone the edge, be to someone's advantage, be in
+      someone's favor, favor (v)
+  - q: What words refer to a disadvantage?
+    words: disadvantage, handicap, drawback, liability, limitations
+  - q: What words refer to having a disadvantage compared with other people?
+    words: >-
+      have a disadvantage, be at a disadvantage, be handicapped, the odds are stacked
+      against you, disadvantaged
+  - q: What words indicate that something gives someone a disadvantage?
+    words: be to someone's disadvantage, be against
+  - q: What words refer to the advantages and disadvantages of something?
+    words: advantages and disadvantages, pros and cons, pluses and minuses

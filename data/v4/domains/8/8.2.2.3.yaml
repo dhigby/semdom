@@ -1,0 +1,25 @@
+code: "8.2.2.3"
+guid: 0AAE1951-4D5B-45A0-853C-1839764C9862
+name: Short, not tall
+description: Use this domain for words related to being short in height.
+louwNidaCodes: 81C Long, Short, Far
+related: ["8.2.6.2"]
+questions:
+  - q: What words describe something that is short?
+    words: short, dumpy, dwarfed, low, runty, shrimpy, squat, squatty, stumpy, low
+  - q: What words describe someone who is short?
+    words: short, not very tall, small, little, petite, squat
+  - q: What words describe someone who is very short?
+    words: tiny, diminutive, puny
+  - q: What words refer to a short person?
+    words: midget, squirt, dwarf, runt, shrimp
+  - q: What words refer to becoming short?
+    words: shrink
+  - q: What words refer to making something shorter?
+    words: shorten, shrink something
+  - q: What words describe something that has been made short?
+    words: shortened, shrunken
+  - q: What words refer to how short something is?
+    words: shortness, how short
+  - q: What words indicate how short something is?
+    words: be (two inches) (too) short

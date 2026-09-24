@@ -1,0 +1,21 @@
+code: "6.6.2.4"
+guid: 66ABFBE5-E011-48DE-8773-905F1B1CE215
+name: Working with clay
+description: Use this domain for words related to working with clay.
+ocmCodes: 323 Ceramic Technology; Ceramic Industries
+louwNidaCodes: 7G Miscellaneous Constructions
+questions:
+  - q: What does a potter do with clay?
+    words: mold, shape, form, throw a pot
+  - q: What words refer to heating clay to make it hard?
+    words: fire a pot
+  - q: What is a person called who works with clay?
+    words: potter
+  - q: What words refer to clay?
+    words: clay, lump of clay
+  - q: What things are made out of clay?
+    words: ceramics, pottery, clay pot, clay pipe, clay idol, brick, tile
+  - q: What tools are used to work with clay?
+    words: potter's wheel, sponge, kiln, brick form, form for tile, mold
+  - q: Where does a potter work?
+    words: workshop, potter's field

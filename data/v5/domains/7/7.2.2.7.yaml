@@ -1,0 +1,17 @@
+code: "7.2.2.7"
+guid: 8BCC3B3D-DD0C-4838-A33A-B395F354C86F
+name: Move in a circle
+description: >-
+  Use this domain for words referring to continually changing the direction you are facing
+  in until you are once again facing in the same direction, e.g. moving in a circle, moving
+  around something, or rotating.
+louwNidaCodes: 15R Go Around, Surround; 15I' Roll
+questions:
+  - q: What words refer to moving around in a circle?
+    words: move in a circle, curve, circulate, turn around, swing, cycle
+  - q: What words refer to moving around something?
+    words: move around, surround, encircle, revolve, swivel, pivot
+  - q: What words refer to rotating?
+    words: rotate, spin, wheel, twirl, whirl, gyrate, roll, gyrate, revolve, swivel
+  - q: What words refer to rolling something?
+    words: roll, turn, rotate, spin

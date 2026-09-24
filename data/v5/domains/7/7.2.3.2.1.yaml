@@ -1,0 +1,9 @@
+code: "7.2.3.2.1"
+guid: AA8D812B-7C13-414A-AD02-A4240D2CEF68
+name: Come
+description: Use this domain for words referring to moving toward the speaker.
+questions:
+  - q: What words refer to moving toward the speaker?
+    words: come, come here
+  - q: What do people say when they want someone to come?
+    sentence: Come here!; Get over here!

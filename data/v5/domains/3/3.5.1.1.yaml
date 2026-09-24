@@ -1,0 +1,18 @@
+code: "3.5.1.1"
+guid: 1E9A0881-F715-4057-9AF8-251CB8EEC9DA
+name: Voice
+description: >-
+  Use this domain for words referring to a person's voice and the way it sounds--the kind of
+  sound a person makes when they speak or sing.
+related: ["2.3.2.2"]
+questions:
+  - q: What words refer to a person's voice?
+    words: voice
+  - q: What words describe the quality of a person's voice?
+    words: soft, harsh, loud, quiet
+  - q: What words describe a sound or voice that is high on the musical scale?
+    words: high, high-pitched, piercing, shrill, squeaky, tinny
+  - q: What words describe a sound or voice that is low on the musical scale?
+    words: low, deep, bass, rich, resonant
+  - q: What words describe a voice that is rough?
+    words: rough, throaty, husky, gruff, hoarse

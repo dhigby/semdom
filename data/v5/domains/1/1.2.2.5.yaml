@@ -1,0 +1,15 @@
+code: "1.2.2.5"
+guid: 21BCC306-13CB-4162-98B3-2BA319BA14EA
+name: Jewel
+description: Use this domain for words referring to jewels and precious stones.
+louwNidaCodes: 2F Precious and Semiprecious Stones and Substances
+questions:
+  - q: What general words refer to jewels?
+    words: jewel, precious stone, birthstone, crystal, gem, gemstone
+  - q: What types of jewels are there?
+    words: >-
+      agate, amethyst, beryl, carnelian, chalcedony, chrysolite, chrysoprase, diamond,
+      emerald, garnet, ivory, jacinth, jasper, marble, onyx, pearl, quartz, ruby, sapphire,
+      sardonyx, topaz
+  - q: What words describe jewels?
+    words: precious, semiprecious, facet, glitter, sparkle, lustrous

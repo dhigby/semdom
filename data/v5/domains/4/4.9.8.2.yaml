@@ -1,0 +1,21 @@
+code: "4.9.8.2"
+guid: 9B476AFD-58C2-46A2-8294-449AC4AAD3A9
+name: Place of worship
+description: >-
+  Use this domain for words related to places of worship. Each religion has different types
+  of places of worship. These questions must be answered according to the practices of each
+  religion and for each separate type of place.
+ocmCodes: 778 Sacred Objects and Places; 346 Religious and Educational Structures
+questions:
+  - q: What words refer to a place that is dedicated to God?
+    words: >-
+      house of God, church, temple, synagogue, mosque, shrine, god house, sanctuary,
+      tabernacle
+  - q: What are the parts of a church?
+    words: pew, altar, pulpit, choir loft, baptismal font, stained glass window, steeple
+  - q: What are the parts of a temple?
+    words: courtyard, holy place, holy of holies, altar, laver, lamp stand
+  - q: Where are idols placed?
+    words: god shelf, shrine
+  - q: Where do religious leaders live?
+    words: monastery, convent, parsonage

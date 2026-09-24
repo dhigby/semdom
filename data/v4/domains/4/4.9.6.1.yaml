@@ -1,0 +1,15 @@
+code: "4.9.6.1"
+guid: FF505092-6D88-4B5E-8095-04E471D7AD4C
+name: Resurrection
+description: >-
+  Use this domain for words related to resurrection--life after death, or living again after
+  dying.
+questions:
+  - q: What words refer to coming back to life?
+    words: come back to life, come back from the grave, come to life, resurrection
+  - q: What words refer to causing someone to come back to life?
+    words: resurrect, raise from the dead, bring back to life, bring back from the dead
+  - q: What words refer to the condition or state of living forever?
+    words: live forever, (have) eternal life, life everlasting, immortality, life after death
+  - q: What words refer to reincarnation?
+    words: reincarnation, reincarnated

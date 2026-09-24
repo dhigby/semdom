@@ -1,0 +1,18 @@
+code: "4.1.4"
+guid: D49F2C9D-1B4A-4370-B107-71F9B9FBDC8E
+name: Neighbor
+description: Use this domain for words referring to a neighbor--someone who lives nearby.
+related: ["8.5", "8.5.4"]
+questions:
+  - q: What words refer to someone who lives nearby?
+    words: neighbor, neighbor, next door neighbor
+  - q: What words describe a good neighbor?
+    words: good neighbor, neighborly
+  - q: What words indicate that someone lives nearby?
+    words: >-
+      be neighbors, live next to each other, live near each other, live in the same
+      neighborhood, live on the same street, live nearby
+  - q: What words refer to the area around your house?
+    words: >-
+      neighborhood, community, our street, our area, subdivision, housing development,
+      compound, apartment complex, district, vicinity, environs

@@ -1,0 +1,41 @@
+code: "3.4.1.1.1"
+guid: 50EB32A2-6DBB-4B7C-B370-AACDCFEAF5FC
+name: Enjoy doing something
+description: Use this domain for words related to enjoying doing something.
+questions:
+  - q: What words refer to enjoying something?
+    words: >-
+      like, enjoy, love, be fond of, get a lot of pleasure out of, savor, with relish,
+      exhilarate
+  - q: What words refer to feeling happy when you are doing something?
+    words: >-
+      enjoy yourself, have a good time, have fun, have the time of your life, have a whale
+      of a time, have a blast, be in your element, live it up, let your hair down
+  - q: What words refer to the feeling you get when you enjoy doing something?
+    words: enjoyment, pleasure, ecstasy, exhilaration, satisfaction
+  - q: What words describe someone who enjoys doing something?
+    words: keen, avid, great
+  - q: What words refer to causing someone to enjoy himself?
+    words: amuse, entertain
+  - q: What words refer to something that causes someone to enjoys something?
+    words: amusement, entertainment
+  - q: What words describe something that people enjoy doing?
+    words: >-
+      enjoyable, fun, good fun, great fun, pleasurable, pleasure, be a delight, the joys of,
+      the delights of, be a blast, be a good laugh, satisfying, amusing, entertaining, treat
+  - q: What words describe someone that other people enjoy being with?
+    words: be good company, fun, be a good laugh
+  - q: What words refer to enjoying something bad?
+    words: >-
+      revel in, get a kick out of, take delight in, relish, gloat, take pleasure in, delight
+      in, wallow in
+  - q: What words refer to doing something just because you enjoy it?
+    words: for fun, for a laugh, for the hell of it
+  - q: What words refer to enjoying being praised?
+    words: bask in, lap something up
+  - q: What words describe someone who is only interested in enjoying themselves?
+    words: self-indulgent, hedonist
+  - q: What words refer to something you do to enjoy yourself?
+    words: recreation, leisure
+  - q: What words refer to someone who does not want other people to enjoy themselves?
+    words: spoilsport

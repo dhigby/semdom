@@ -1,0 +1,32 @@
+code: "2.6.1.2"
+guid: ED4A2CA6-C03C-4C72-9431-B72FB7294B8F
+name: Wedding
+description: Use this domain for words related to the wedding ceremony.
+ocmCodes: 585 Nuptials
+questions:
+  - q: What words refer to a wedding ceremony?
+    words: wedding, ceremony, service, nuptials, church wedding, civil service
+  - q: What words refer to getting married secretly?
+    words: elope, elopement
+  - q: What are the parts of a wedding ceremony?
+    words: >-
+      procession, give (the bride) away, speech, wedding vows, pronouncement, reception,
+      toast
+  - q: What words refer to the people who are getting married?
+    words: bride, bridal, groom, bridegroom, couple, bride and groom
+  - q: What other people are involved in a wedding?
+    words: best man, maid of honor, groomsman, bridesmaid, wedding party, guest
+  - q: What words refer to performing a wedding ceremony?
+    words: marry (the couple), perform the wedding
+  - q: What words refer to the person who performs a wedding ceremony?
+    words: minister, justice of the peace
+  - q: What special clothes are worn at a wedding?
+    words: wedding gown, veil
+  - q: What things are used in a wedding?
+    words: wedding ring, wedding cake, bride's bouquet
+  - q: What words refer to the time immediately after the wedding?
+    words: honeymoon, wedding night, consummation (of the marriage)
+  - q: What words refer to the husband and wife after the wedding?
+    words: newlyweds, honeymooner, man and wife
+  - q: What words refer to the day of a wedding which is celebrated every year?
+    words: wedding anniversary

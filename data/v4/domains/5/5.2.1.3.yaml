@@ -1,0 +1,37 @@
+code: "5.2.1.3"
+guid: DBD3E164-3F70-4395-9728-1C24C8900DA6
+name: Cooking utensil
+description: Use this domain for words related to cooking utensils.
+ocmCodes: 415 Utensils
+questions:
+  - q: What general words refer to cooking utensils?
+    words: utensil, tool, appliance
+  - q: What utensils are used to cut food?
+    words: >-
+      knife, paring knife, bread knife, butcher knife, cleaver, grater, cutting board,
+      chopping block
+  - q: What utensils are used to break up and crush food?
+    words: mortar and pestle, meat tenderizer, grinder, meat grinder
+  - q: What utensils are used to move, stir, mix and turn food?
+    words: >-
+      pancake turner, spatula, whisk, stirring spoon, wooden spoon, meat fork, spit, mixer,
+      blender
+  - q: What containers are used to mix food?
+    words: mixing bowl
+  - q: What utensils are used to measure ingredients?
+    words: measuring cup, measuring spoon
+  - q: What utensils are used to handle hot pans?
+    words: hot pad, oven mitt
+  - q: What containers are used to cook food?
+    words: pot, pan, frying pan, baking pan, casserole dish, cookie sheet, kettle
+  - q: What appliances are used to cook food?
+    words: >-
+      oven, stove, grill, broiler, toaster, toaster oven, microwave oven, barbecue,
+      fireplace
+  - q: What appliances are used to store food?
+    words: refrigerator, freezer, icebox, cupboard, pantry
+  - q: What are the parts of these utensils?
+    words: >-
+      handle (of a pot, knife), blade (of a knife), lid (of a pot, container), lip (of a
+      bowl), door (of an oven, refrigerator, cupboard), shelf (of a refrigerator, cupboard),
+      rack (of an oven, grill)

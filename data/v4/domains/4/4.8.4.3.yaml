@@ -1,0 +1,11 @@
+code: "4.8.4.3"
+guid: FD7E03F8-61C9-47E9-AFA4-AB8917DB03A5
+name: Appease
+description: Use this domain for words related to appeasing someone.
+questions:
+  - q: What words refer to someone giving something to another to cause him to do something?
+    words: bribe, appease, pacify, give in to demands
+  - q: What words refer to this act or practice?
+    words: bribery, appeasement, pacification
+  - q: What words refer to the gift?
+    words: bribe

@@ -1,0 +1,12 @@
+code: "6.6.2.8"
+guid: 33037A4D-3454-4C59-9A61-C5FB747F107A
+name: Working with bricks
+description: Use this domain for words related to working with bricks.
+ocmCodes: 333 Masonry
+questions:
+  - q: What words refer to working with bricks?
+    words: brickwork, lay bricks
+  - q: What words refer to a person who works with bricks?
+    words: mason, bricklayer
+  - q: What materials does a bricklayer work with?
+    words: cement, mortar

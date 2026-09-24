@@ -1,0 +1,7 @@
+code: "4.5.4.7"
+guid: E9947962-A243-4A44-A94D-64D68718D88C
+name: Independent
+description: Use this domain for words related to being independent.
+questions:
+  - q: What words describe a country that is independent?
+    words: independent, sovereign, self-governing

@@ -1,0 +1,10 @@
+code: "9.6.2.6.1"
+guid: 139409C3-7860-4586-897F-85BA3226046C
+name: Without result
+description: Use this domain for words indicating that something had no result.
+louwNidaCodes: 89H Result
+questions:
+  - q: What words indicate that something had no result?
+    words: >-
+      without result, without effect, in vain, to no avail, with no result, have no
+      discernible effect, pointless, useless, worthless, be left with nothing, not yield

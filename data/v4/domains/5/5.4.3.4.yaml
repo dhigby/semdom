@@ -1,0 +1,13 @@
+code: "5.4.3.4"
+guid: 041B5AC9-99BE-4281-A17E-654EFF33D793
+name: Hairstyle
+description: Use this domain for words related to hairstyles.
+questions:
+  - q: What words refer to the style of a woman's hair?
+    words: hairstyle, short hair, long hair, braid, wig
+  - q: What words refer to the style of a man's hair?
+    words: blocked, buzz, crew cut, military cut, long, shaved, tonsure
+  - q: What words refer to fixing a person's hair in a particular style?
+    words: style (v), braid (v), fix, curl, cut, arrange
+  - q: What words describe a hairstyle?
+    words: curled, wavy, straight, bobbed, pigtailed

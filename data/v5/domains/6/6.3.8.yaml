@@ -1,0 +1,8 @@
+code: "6.3.8"
+guid: 71DBAF5F-2AFA-4282-B9B8-8A50D8C8E5E9
+name: Veterinary science
+description: Use this domain for words related to treating animal diseases.
+ocmCodes: 232 Applied Animal Science
+questions:
+  - q: What words refer to treating animal diseases?
+    words: veterinarian, veterinary, animal diseases

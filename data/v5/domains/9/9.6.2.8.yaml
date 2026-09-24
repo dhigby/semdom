@@ -1,0 +1,46 @@
+code: "9.6.2.8"
+guid: F858278A-2727-4403-9CF0-565CDECECB1E
+name: Condition
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate a
+  clause in a conditional sentence (If this is true, then that is true). The following
+  definitions are taken from Bybee, Joan, Revere Perkins, and William Pagliuca. 1994. The
+  evolution of grammar. Chicago and London: University of Chicago Press.
+louwNidaCodes: 89J Condition
+questions:
+  - q: >-
+      Conditional sentences: Conditional sentences consist of two clauses, the 'if'-clause
+      or protasis (which is a subordinate clause) and the 'then'-clause or apodosis (which
+      is the main clause). Both of these clauses may take special verb forms. (Interestingly
+      enough, they sometime both take the same special verb forms.)
+  - q: >-
+      There are at least three types of conditional sentences. (Labels, explanations, and
+      examples from Li and Thompson 1981): [Li, Charles N., and Sandra A. Thompson. 1981.
+      Mandarin Chinese: A functional reference grammar. Berkeley and Los Angeles: University
+      of California Press.]
+  - q: >-
+      reality condition: a conditional relation between two propositions referring to the
+      so-called real world: 'If you see my sister, you will know that she is pregnant'.
+  - q: >-
+      hypothetical: the situation is unreal or imagined, but one that could be true: 'If we
+      moved, we could have a garden'.
+  - q: >-
+      counterfactual: the proposition describes an unreal or imagined situation that could
+      have been true but was not: 'If you had taken algebra, you would know this formula'
+      (but you did not).
+  - q: >-
+      The verb forms that occur in these sentences will be coded according to the type of
+      sentence, and according to which clause of the sentence they occur in.
+  - q: 'Example: the English ''had'' + past participle would be coded as:'
+  - q: 'meaning label: protasis'
+  - q: 'meaning label: counterfactual'
+  - q: >-
+      Since the conjunction 'if' obligatorily occurs in the protasis, there will also be the
+      following:
+  - q: 'Co-occurrence restriction: ''if'''
+  - q: >-
+      This indicates that a morpheme meaning 'if' obligatorily occurs in the protasis. If no
+      such morpheme is necessary, then there will be no co-occurrence restriction.
+  - q: What words indicate the condition of a conditional sentence?
+    words: condition, if, if indeed, if at all, whether...or, or else, otherwise, unless
+    sentence: <If> you do this thing, something bad will happen to you.

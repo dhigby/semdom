@@ -1,0 +1,14 @@
+code: "8.1.2.4"
+guid: 57F07B5F-75BF-4565-B969-CE0ADC0B50D4
+name: Multiply numbers
+description: Use this domain for words related to multiplying one number times another.
+questions:
+  - q: What words refer to multiplying one number times another?
+    words: multiply, multiplication, multiples of (a number)
+  - q: What words are used for multiplication equations?
+    words: multiplied by, times
+    sentence: Two <multiplied by> two equals four.; Two <times> two makes four.
+  - q: What words indicate the answer?
+    words: makes
+  - q: What words refer to the answer?
+    words: product

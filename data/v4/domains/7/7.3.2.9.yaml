@@ -1,0 +1,41 @@
+code: "7.3.2.9"
+guid: 20BAA5E7-4F02-4782-A292-C6281D7B5F3A
+name: Push
+description: Use this domain for when someone or something causes something to move away from him.
+questions:
+  - q: What words refer to pushing something so that it moves away you?
+    words: >-
+      push something, push away, give something a push, move something forward, advance
+      something, thrust, nudge, give impetus, impel
+  - q: What words refer to pushing something quickly or suddenly?
+    words: shove, give something a shove, jog, jolt
+  - q: What words refer to pushing someone roughly?
+    words: shove, hustle, bundle, manhandle
+  - q: What words refer to pushing people in a crowd?
+    words: push, shove, press, force your way, jostle, elbow, barge
+  - q: What words refer to pushing something, but without making it move?
+    words: push on, press
+  - q: What words refer to pushing something heavy?
+    words: put your shoulder into it
+  - q: What words refer to pushing something along the ground?
+    words: push
+  - q: What words refer to pushing something with your finger or a stick?
+    words: poke, give something a poke, prod, jab, dig someone in the ribs
+  - q: What words refer to pushing something so that it falls over?
+    words: push over, topple
+  - q: What words refer to pushing something in some direction?
+    words: push aside, push out of the way
+  - q: What words refer to causing something to move away from you without touching it?
+    words: repel
+  - q: What words refer to pushing something from all directions?
+    words: squeeze, compress
+  - q: What words refer to pushing something into an opening or into something soft?
+    words: stick something into something, ram, drive, plunge, thrust
+  - q: What words refer to pushing something into a small space?
+    words: push in, squeeze in, jam in, force, stuff
+  - q: What words refer to pushing yourself into a small space?
+    words: squeeze into, squeeze through, squeeze in between
+  - q: What words refer to how hard you push?
+    words: pressure, put pressure on
+  - q: What words refer to pushing something with wheels?
+    words: wheel (v), push, roll, trundle

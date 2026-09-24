@@ -1,0 +1,35 @@
+code: "8.1.3.2"
+guid: 36934FAB-C0ED-4F25-A387-E1CCA26B2401
+name: Few, little
+description: Use this domain for words related there being few or little of something.
+louwNidaCodes: 59B Much, Little
+questions:
+  - q: What words indicate that there is a small amount of something?
+    words: >-
+      a little, a bit of, a small amount of, trace, trickle, dab, an element of, a touch of,
+      a hint of, taste of, dearth, grain, hair, inappreciable, inconsequential,
+      inconsiderable, infinitesimal, insignificant, iota, limited, minimum, minute, mite,
+      moderate, modest, modicum, ounce, particle, poor, scant, scanty, scintilla, shred,
+      slight, smidgen, some, speck, spoonful, suggestion, suspicion, tidbit, tinge, tiny,
+      trifle, whit
+  - q: What words indicate that there is a very small amount of something?
+    words: >-
+      not much, very little, to speak of, hardly any, scarcely any, almost no, minimal,
+      negligible, precious little, next to nothing, a smattering of, a scrap of, tiny,
+      minute
+  - q: What words indicate that there are a small number of things or people?
+    words: few, a small number of, one or two, a handful of, sparse, not many, a couple of
+  - q: What words indicate that there are a very small number of things or people?
+    words: very few
+  - q: What words refer to a small amount of food?
+    words: a little, a drop of, pinch, dash, mouthful, in moderation, meager
+  - q: What words describe something that contains a little of a particular substance?
+    words: low in
+  - q: What words refer to a small amount of money?
+    words: next to nothing, nominal, a drop in the ocean, paltry, miserly, a pittance, peanuts
+  - q: What words refer to a small number of people that are part of a larger group?
+    words: a minority of
+  - q: What words indicate that few people are doing something?
+    words: a trickle, in dribs and drabs, in ones and twos
+  - q: What words refer to using or giving a little of something?
+    words: dab (v), spoon out, frugal, parsimonious, scrimp, be sparing, stingy, stint

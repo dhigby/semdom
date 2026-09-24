@@ -1,0 +1,9 @@
+code: "5.2"
+guid: 4098899A-0AD0-4D71-9F9F-B99D5BA2E0D5
+name: Food
+description: Use this domain for general words referring to food.
+ocmCodes: 146 Nutrition
+louwNidaCodes: 5 Foods and Condiments; 5A Food
+questions:
+  - q: What general words refer to food?
+    words: food, sustenance, nourishment, intake, nutrition, nutritional, non-nutritional, diet

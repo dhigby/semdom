@@ -1,0 +1,11 @@
+code: "1.3.1.4"
+guid: BF6E1719-11EE-4ACE-9C84-72019C01AABC
+name: Spring, well
+description: Use this domain for words referring to a place where water comes out of the ground.
+questions:
+  - q: What words refer to a place where water comes out of the ground?
+    words: >-
+      spring, water source, water supply, well, artesian well, water hole, bore hole,
+      fountain, fountainhead
+  - q: What words refer to water coming out of the ground?
+    words: spring up, well up, bubble up, flow out of

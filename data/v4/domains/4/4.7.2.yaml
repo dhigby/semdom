@@ -1,0 +1,17 @@
+code: "4.7.2"
+guid: 05A7BBDC-7CF5-47D3-830B-84E1591B11CC
+name: Pass laws
+description: Use this domain for words related to passing a law.
+questions:
+  - q: What words refer to passing a law?
+    words: >-
+      legislate, enact, enactment, establish, pass, prescribe, propose, sign into law,
+      ratify
+  - q: What words refer to canceling a law?
+    words: annul, strike down, veto
+  - q: What words refer to telling people about a law?
+    words: issue an order, publish a law, proclaim, proclamation
+  - q: What is the name of the governing body that passes laws?
+    words: legislature, legislative branch
+  - q: Who passes laws?
+    words: legislator, congressman, senator, member of parliament (MP), lawgiver

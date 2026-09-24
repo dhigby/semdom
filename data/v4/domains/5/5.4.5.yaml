@@ -1,0 +1,10 @@
+code: "5.4.5"
+guid: 03E22B05-8505-442D-9C3B-7E691BD525E0
+name: Anoint the body
+description: Use this domain for words related to anointing the body.
+louwNidaCodes: 6U Perfumes and Incense; 47C Application and Removal of Liquids or Masses
+questions:
+  - q: What words refer to anointing the body?
+    words: anoint, perfume, smear, douse
+  - q: What materials are used to anoint the body?
+    words: perfume, deodorant, scent, oil, fat, aftershave

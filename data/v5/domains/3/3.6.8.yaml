@@ -1,0 +1,11 @@
+code: "3.6.8"
+guid: 51D4E258-430C-4032-94E3-EE53095E7045
+name: Answer in a test
+description: Use this domain for words related to the answer to a question in a test.
+questions:
+  - q: What words refer to the answer to a question in a test?
+    words: answer, result, solution
+  - q: What words refer to giving an answer on a test?
+    words: answer
+  - q: What words refer to finding an answer?
+    words: solve, work out

@@ -1,0 +1,10 @@
+code: "6.3.7"
+guid: 040E4B3E-2F36-430A-AB09-1917F96A09DE
+name: Animal products
+description: Use this domain for words related to animal products.
+ocmCodes: 237 Animal By-Products
+questions:
+  - q: What useful things are produced by animals?
+    words: >-
+      hide, meat, blood, milk, eggs, wool, skins, leather, bone meal, fat, tallow, grease,
+      horn, blood, feathers, down, silk

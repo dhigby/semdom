@@ -1,0 +1,15 @@
+code: "9.4.3.3"
+guid: 6FA33DE6-00F4-44D5-B6B3-B3C4A4F671E5
+name: Interrogative
+description: >-
+  Use this domain for words that a speaker uses to indicate that he is asking a question.
+  English has no question word, but other languages such as Japanese do.
+questions:
+  - q: What words indicate that the sentence is a question?
+    words: >-
+      (Japanese) ka? 'a particle coming at the end of a sentence to indicate that it is a
+      question'
+  - q: >-
+      English has an interjection that is added to a statement that has the effect of
+      questioning something about it.
+    sentence: So, you are going, <hmm?>

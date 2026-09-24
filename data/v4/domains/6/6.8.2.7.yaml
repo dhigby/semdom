@@ -1,0 +1,18 @@
+code: "6.8.2.7"
+guid: D21DB541-4122-465f-9DB5-4C76F5E84426
+name: Earn
+description: Use this domain for words related to earning money for work that you do.
+louwNidaCodes: 57P Earn, Gain, Do Business x
+questions:
+  - q: What words refer to earning money?
+    words: earn, be paid, get paid, make, get, be on, gross
+  - q: What words refer to earning a certain amount of money after taxes have been taken out?
+    words: take home, net, clear
+  - q: What words refer to earning enough to pay for what you need?
+    words: earn a living, make a living, support yourself, earn your keep
+  - q: What words refer to earning a lot of money?
+    words: make good money, be highly paid, be well paid, make a fortune, rake it in
+  - q: What words refer to the money you earn?
+    words: pay, salary, wages, earnings, income, wage
+  - q: What words refer to someone who earns money?
+    words: the breadwinner, wage-earner, salaried, on a salary

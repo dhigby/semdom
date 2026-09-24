@@ -1,0 +1,9 @@
+code: "9.7.1.2"
+guid: C2EC9CEE-7FE3-44F2-9008-C8B42F6F78DD
+name: Family names
+description: >-
+  Use this domain for the proper names of the families that exist within the language
+  community. If your culture does not use family names, just leave this domain empty.
+questions:
+  - q: What names are used by all the members of a family?
+    words: Smith, Jones, MacDonald, Johnson

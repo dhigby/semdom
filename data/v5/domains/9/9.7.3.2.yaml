@@ -1,0 +1,7 @@
+code: "9.7.3.2"
+guid: 4223D3BA-5560-4C30-B013-4E31FEE36329
+name: Names of buildings
+description: Use this domain for words referring to the name of a building.
+questions:
+  - q: What words refer to the name of a building?
+    words: White House, Capitol

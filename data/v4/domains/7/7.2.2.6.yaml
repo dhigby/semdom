@@ -1,0 +1,11 @@
+code: "7.2.2.6"
+guid: 60A5FA58-45B1-41AE-9430-5200E8BFBCB8
+name: Turn
+description: >-
+  Use this domain for words referring to turning and changing the direction in which one is
+  moving.
+questions:
+  - q: What words refer to turning?
+    words: turn, change direction/course, deviate, go off at an angle, swerve
+  - q: What words refer to turning around and moving in the opposite direction?
+    words: turn around, reverse direction, retreat, go back, retire to the rear

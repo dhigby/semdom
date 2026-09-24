@@ -1,0 +1,29 @@
+code: "1.6.5"
+guid: 17D5F429-6550-4A3A-A755-5AC3C3D7E04F
+name: Animal home
+description: >-
+  Use this domain for animal homes. It is necessary to think through the homes of each type
+  of animal, especially the important ones.
+ocmCodes: 136e Homes
+related: ["6.3"]
+questions:
+  - q: What general words refer to where an animal lives?
+    words: habitat, the wild
+  - q: Where do mammals live?
+    words: den, hole, burrow, molehill
+  - q: What other places do mammals use?
+    words: wallow, hunting grounds, watering hole, pasture, range, trail
+  - q: Where do birds live?
+    words: nest, birds nest, perch, range
+  - q: Where do snakes live?
+    words: snake pit, den of vipers, snake hole
+  - q: Where do fish live (other than water, lake, and ocean)?
+    words: spawning grounds
+  - q: Where do insects live?
+    words: >-
+      anthill, ants nest, termite mound, termite hill, hive, beehive, bee's wax, honeycomb,
+      spider web, cocoon, trail (of ants)
+  - q: Where do spiders live?
+    words: spider web, cobweb
+  - q: Where do worms live?
+    words: wormhole

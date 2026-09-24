@@ -1,0 +1,21 @@
+code: "4.3.1.5.2"
+guid: 93489181-AD8C-4A18-8DBC-FD7A9C871126
+name: Bad-tempered
+description: >-
+  Use this domain for words related to being bad-tempered--to behave in an angry, unfriendly
+  way.
+questions:
+  - q: What words describe a person who is often bad-tempered?
+    words: bad-tempered, grumpy, grouchy, disagreeable, cantankerous, uptight
+  - q: What words refer to being bad-tempered for a short time?
+    words: >-
+      be in a bad mood, be in a huff, be in one of his bad moods, got out of bed on the
+      wrong side, got out on the wrong side of the bed
+  - q: What words describe someone who refuses to talk because they are angry?
+    words: sullen, surly, sulky, sulk, be in a sulk, give someone the silent treatment
+  - q: What words describe someone who is easily annoyed by unimportant things?
+    words: irritable, crotchety, petulant, fractious
+  - q: What words describe someone who gets angry easily?
+    words: short-tempered, quick-tempered, have a short fuse, temper
+  - q: What words refer to someone who is bad-tempered?
+    words: grouch

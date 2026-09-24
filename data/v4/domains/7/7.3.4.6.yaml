@@ -1,0 +1,15 @@
+code: "7.3.4.6"
+guid: EB821083-3FB0-441A-9F1D-AD2A9ED918D8
+name: Support
+description: Use this domain for words related to keeping something from falling.
+questions:
+  - q: What words refer to keeping something from falling?
+    words: support, hold up
+  - q: >-
+      What words refer to putting something under or against something to keep it from
+      falling?
+    words: prop (up)
+  - q: >-
+      What words refer to something that is put under or against something to keep it from
+      falling?
+    words: prop, support, brace, retaining wall

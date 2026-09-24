@@ -1,0 +1,10 @@
+code: "9.6.2.7.1"
+guid: 4FDF3CF1-0808-4F11-ACDD-9DB71550BAAB
+name: Without purpose
+description: Use this domain for words indicating that something had no purpose.
+louwNidaCodes: 89I Purpose
+questions:
+  - q: What words indicate that there is no purpose to an action?
+    words: >-
+      without purpose, for no purpose, in vain, purposeless, senseless, chance,
+      indiscriminate, meaningless, pointless, undirected

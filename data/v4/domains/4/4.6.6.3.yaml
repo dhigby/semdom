@@ -1,0 +1,20 @@
+code: "4.6.6.3"
+guid: 57ED66EE-F82B-4E80-955F-7492D85372B0
+name: Represent
+description: Use this domain for words related to representing another person.
+questions:
+  - q: What words refer to representing someone?
+    words: represent, act for
+  - q: What words refer to speaking for a group of people?
+    words: speak for, represent
+  - q: What words indicate someone who is representing another person?
+    words: as someone's representative, on someone's behalf, on behalf of, for
+    sentence: >-
+      John went <as> David's <representative>.; John spoke <on> David's <behalf>.; John
+      spoke <on behalf of> David.; John spoke <for> David.
+  - q: What words refer to someone who represents another person?
+    words: >-
+      representative, contingent, envoy, delegate, delegation, deputation, mission,
+      mouthpiece, spokesman
+  - q: What words refer to someone who represents their government in a foreign country?
+    words: ambassador, ambassador, embassy, diplomat, diplomatic

@@ -1,0 +1,21 @@
+code: "2.6.4.3"
+guid: F74F28D1-8742-4C9F-95DC-D08336E91249
+name: Youth
+description: Use this domain for words referring to a youth.
+ocmCodes: >-
+  881 Puberty and Initiation; 882 Status of Adolescents; 883 Adolescent Activities; 884
+  Majority
+related: ["8.4.6.5.1"]
+questions:
+  - q: What words refer to a youth (between puberty and adulthood)?
+    words: >-
+      youth, teenager, adolescent, minor, young man, young woman, young people, damsel, the
+      young, the youth of
+  - q: What words refer to the time period when a person is a youth?
+    words: youth, adolescence, in your teens, teenage years
+  - q: What words refer to when a child becomes sexually active?
+    words: puberty, childbearing age, become sexually active
+  - q: What words describe a person who is not yet an adult?
+    words: immature, callow, young
+  - q: What words describe something to do with young people?
+    words: youth (adj), juvenile, teenage, adolescent

@@ -1,0 +1,22 @@
+code: "1.4"
+guid: 8D47C9EC-80C4-4309-9848-C453DCD71182
+name: Living things
+description: Use this domain for general words that relate to all living things.
+related: ["2.6", "2.6.6"]
+questions:
+  - q: What words refer to all living things, including both plants and animals?
+    words: >-
+      living things, life, all life, every living thing, everything that lives and breathes,
+      plants and animals, organic matter
+  - q: What words refer to something that is alive?
+    words: living thing, life form, organism
+  - q: What words refer to being alive?
+    words: be alive, live
+  - q: What words describe something that is living?
+    words: living, alive, animate, organic
+  - q: What general words refer to the parts of all living things?
+    words: tissue, cell, membrane, DNA, gene, protoplasm
+  - q: What words refer to the study of life?
+    words: biology, biologist, life science, ecology, ecologist, natural history, naturalist
+  - q: What words refer to whether a plant or animal can be eaten?
+    words: edible, inedible

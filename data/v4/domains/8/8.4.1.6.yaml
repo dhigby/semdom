@@ -1,0 +1,9 @@
+code: "8.4.1.6"
+guid: FCF16495-5226-4192-AFDB-E748192EFC3A
+name: Year
+description: Use this domain for words referring to a year.
+questions:
+  - q: What words refer to a year?
+    words: year, this year, last year, next year, the years to come
+  - q: What words are used to indicate that something happens every year?
+    words: yearly, every year, annually, annual

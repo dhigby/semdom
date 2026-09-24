@@ -1,0 +1,14 @@
+code: "1.6.1.8"
+guid: CFB159F7-82F6-4789-B9B4-8F611820F350
+name: Spider
+description: >-
+  Use this domain for spiders (phylum Arthropoda, class Arachnida). Note that insects have
+  six legs and spiders have eight legs. However some languages may not distinguish insects
+  from spiders and may use other characteristics to sub-divide the Arthropods.
+questions:
+  - q: What general words refer to spiders?
+    words: spider, arachnid
+  - q: What species of spiders are there?
+    words: black widow, brown recluse, tarantula, wolf spider, scorpion, tick, mite
+  - q: What words refer to spider webs?
+    words: spider web, cobweb, web, spin, silk

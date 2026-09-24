@@ -1,0 +1,11 @@
+code: "5.2.3.1"
+guid: 32125C5F-D69A-442F-BA66-6277EC0A3B15
+name: Food from plants
+description: Use this domain for words related to food from plants.
+ocmCodes: 137h Crops and vegetables
+related: ["1.5"]
+questions:
+  - q: What words refer to plants that can be eaten?
+    words: edible plants
+  - q: What words refer to a person (or animal) who only eats plants?
+    words: vegetarian

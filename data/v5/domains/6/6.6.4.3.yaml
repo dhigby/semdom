@@ -1,0 +1,10 @@
+code: "6.6.4.3"
+guid: 7EE96F62-7C8E-4C27-A373-D7A534844612
+name: Working with leather
+description: Use this domain for words related to working with leather.
+ocmCodes: 282 Leather Industry; 281 Work in Skins
+questions:
+  - q: What words refer to working with leather?
+    words: work with skins, tan leather, cure skins, taxidermy
+  - q: What things are made from leather?
+    words: skin, leather, leather goods, parchment

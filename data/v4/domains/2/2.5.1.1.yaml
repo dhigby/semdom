@@ -1,0 +1,27 @@
+code: "2.5.1.1"
+guid: 104D40C9-2A4F-4696-AD99-5CF0EB86AB2E
+name: Recover from sickness
+description: Use this domain for words referring to recovering from sickness or injury.
+questions:
+  - q: What words refer to recovering?
+    words: >-
+      recover, get better, make a slow/quick/complete recovery, get well, feel better,
+      improve, be on the mend, respond to treatment, regain your health, gain strength, make
+      good progress
+  - q: What words refer to recovering from a disease?
+    words: recover from, get over, shake off
+  - q: What words refer to no longer being very sick?
+    words: out of danger
+  - q: What words refer to spending time resting in order to recover?
+    words: recuperate, convalesce
+  - q: What words refer to being healthy after being sick?
+    words: >-
+      be better, be well, be fully recovered, be cured, be over something, be back on your
+      feet, be up and about, be fit, be healed, be well again, be fine, be back to normal,
+      be restored to health, be whole again
+  - q: What words refer to feeling good enough to do something?
+    words: feel up to
+  - q: What words refer to a disease going away?
+    words: go away, clear up
+  - q: What words refer to an injury healing?
+    words: heal, mend

@@ -1,0 +1,27 @@
+code: "2.6.5.2"
+guid: AE6F73AB-432D-42E8-AA1A-C848652A13F0
+name: Woman
+description: Use this domain for words referring to a woman or any female person.
+louwNidaCodes: 9C Females
+questions:
+  - q: What words refer to a woman?
+    words: >-
+      woman, lady, female, gal, belle, chick, dame, frau, gentlewoman, mistress, senorita,
+      wench, womenfolk
+  - q: What words refer to a young woman?
+    words: girl, lass, young woman, schoolgirl
+  - q: What words describe a woman?
+    words: >-
+      bitch, busty, catty, curvaceous, dish, distaff, doll, estrous, girlish, hag, hussy,
+      maidenly, menopausal, shrew, slatternly, slattern, slut, unfeminine, unladylike,
+      virginal, womanish, womanlike
+  - q: What words describe a woman who acts like a woman?
+    words: feminine, ladylike, womanly, femininity
+  - q: What words describe a woman who acts like a man?
+    words: mannish, tomboy, tomboyish
+  - q: What words describe something to do with women?
+    words: female, feminine, women's
+  - q: What words refer to whether or not a woman is married?
+    words: wife, virgin, old maid, maiden, divorcée, lesbian
+  - q: What do you call a woman when you talk to her?
+    words: madam, ma'am, Miss, Mrs., Ms., lady, Lady

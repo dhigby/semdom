@@ -1,0 +1,11 @@
+code: "6.5.2.6"
+guid: 58BE5DB0-C648-4522-BAD0-02CD9CC15F37
+name: Foundation
+description: Use this domain for words related to the foundation of a building.
+questions:
+  - q: What words refer to the foundation of a building?
+    words: foundation
+  - q: How does someone build a foundation?
+    words: dig a foundation, lay a foundation, build a foundation, pour a (concrete) foundation
+  - q: What words describe how good a foundation is?
+    words: good foundation, firm foundation, even foundation, proper foundation, weak foundation

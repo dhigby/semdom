@@ -1,0 +1,8 @@
+code: "4.8.4.9"
+guid: 3F069313-4827-4FC5-B73B-B9FBD42CA38C
+name: Reconcile
+description: Use this domain for words related to reconciling with someone.
+louwNidaCodes: 40A Reconciliation; 40 Reconciliation, Forgiveness
+questions:
+  - q: What words refer to enemies becoming reconciled?
+    words: make amends, reconcile, ameliorate, restore, make up, make peace, pacify

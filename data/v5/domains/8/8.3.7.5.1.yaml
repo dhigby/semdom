@@ -1,0 +1,7 @@
+code: "8.3.7.5.1"
+guid: 8938E132-6534-4428-9B03-CB1F459B7CBE
+name: Basic
+description: Use this domain for words describing something that is basic.
+questions:
+  - q: What words describe something that is basic?
+    words: basic, fundamental, essential, central

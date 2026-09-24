@@ -1,0 +1,13 @@
+code: "6.6.5.3"
+guid: 3AE3A1BE-CFB5-4953-B65B-68F0C51B1D40
+name: Sculpture
+description: Use this domain for words related to sculpture.
+questions:
+  - q: What words refer to carving something?
+    words: carve, sculpt, carve a sculpture, mold a figurine
+  - q: What words refer to a person who carves something?
+    words: carver, sculptor
+  - q: What words refer to something that has been carved?
+    words: carving, sculpture, model
+  - q: What tools and materials are used to carve a sculpture?
+    words: chisel, hammer, marble, clay

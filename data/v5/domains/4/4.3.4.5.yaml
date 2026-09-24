@@ -1,0 +1,12 @@
+code: "4.3.4.5"
+guid: B5B36C31-C56D-44B9-933C-FE0E62D80C25
+name: Share with
+description: Use this domain for words related to sharing with other people.
+related: ["6.8.3"]
+questions:
+  - q: What words refer to sharing with others?
+    words: share, share with, contribute toward, give to, be generous
+  - q: >-
+      What words refer to two or more people doing something, first one person doing it,
+      then another person doing it?
+    words: take turns, take it in turns, share, alternate

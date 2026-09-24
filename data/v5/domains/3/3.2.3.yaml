@@ -1,0 +1,26 @@
+code: "3.2.3"
+guid: 07476166-C5E5-4701-97D3-D97DE8B5BE6F
+name: Know
+description: Use this domain for words referring to the results of thinking.
+louwNidaCodes: 28 Know; 28A Know; 28B Known
+questions:
+  - q: What words refer to knowing something?
+    words: know, understand, have information
+  - q: What words refer to knowing how to do something?
+    words: know how to
+  - q: What words refer to not knowing something?
+    words: not know, be ignorant, be unaware of
+  - q: What words refer to knowing something slightly?
+    words: be aware of, be acquainted with, know a little, know about
+  - q: What words refer to knowing something thoroughly?
+    words: knowledgeable, know (something) thoroughly, know well, know all about, familiar with
+  - q: What words refer to what is known about a topic?
+    words: information, body of knowledge, (what is) known
+  - q: What words refer to what is not known about a topic?
+    words: unknown
+  - q: What words refer to all the things a person knows?
+    words: knowledge
+  - q: What words describe something that can be known?
+    words: knowable
+  - q: What words describe something that cannot be known?
+    words: unknowable

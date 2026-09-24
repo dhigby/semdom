@@ -1,0 +1,12 @@
+code: "6.3.8.2"
+guid: 4F80A620-30DB-4529-94E8-F0CD9D0B0E96
+name: Castrate animal
+description: >-
+  Use this domain for words related to castrating animals. There are sometimes specific
+  terms for castrated animals, such as 'steer--a male cow that has been castrated before
+  maturity'.
+questions:
+  - q: What words refer to castrating an animal?
+    words: castrate, spay, neutered
+  - q: What words refer to a castrated animal?
+    words: steer, ox (castrated bull), gelding

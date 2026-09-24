@@ -1,0 +1,19 @@
+code: "5.1"
+guid: BD4A2527-F66C-4F48-922E-8B180BBA8EF6
+name: Household equipment
+description: Use this domain for words related to household equipment and tools.
+ocmCodes: 354 Heating and Lighting Equipment; 355 Miscellaneous Building Equipment
+related: ["6.7"]
+questions:
+  - q: What general words refer to the things in a house?
+    words: property, belongings, household goods
+  - q: What kinds of things are used to provide light in a house?
+    words: lamp, lantern, candle, lamp stand, light fixture
+  - q: What things are used to clean a house?
+    words: broom, dustpan, mop
+  - q: What things are used to provide water?
+    words: bucket, cistern, water barrel
+  - q: What kinds of things are used to heat or cool a house?
+    words: heater, furnace, air-conditioning
+  - q: What other kinds of things are commonly found in a house?
+    words: bag, garbage pail, mirror

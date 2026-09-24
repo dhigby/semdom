@@ -1,0 +1,33 @@
+code: "3.4.1.4.5"
+guid: 5C31BDF6-901F-4F14-AB64-7A99524710FC
+name: Indifferent
+description: Use this domain for words related to feeling indifferent about something.
+questions:
+  - q: What words refer to feeling indifferent?
+    words: not care, shrug it off, be on the fence, middle-of-the-road
+  - q: What words refer to the feeling of indifference?
+    words: indifference, neutrality, apathy, unconcern, lack of concern
+  - q: What words describe someone who feels indifferent?
+    words: >-
+      indifferent, neutral, apathetic, unconcerned, unmoved, blasé, careless, lackadaisical,
+      half-hearted, casual, offhand, nonchalant, gaily
+  - q: What words refer to feeling very indifferent?
+    words: not give a damn, couldn't care less, be past caring, for all I care
+  - q: >-
+      What words indicate that you don't care, because you will be happy no matter what
+      happens?
+    words: don't mind, not be fussy, it doesn't bother me
+  - q: >-
+      What words indicate that you used to care, but don't anymore because you are hurt or
+      angry?
+    words: be past caring, for all I care, not give a damn, couldn't care less
+  - q: What words indicate that you don't care about someone else's problem?
+    words: not my problem, not my concern, that's your problem, (that's just) tough
+  - q: What expressions do people use when they don't care?
+    sentence: >-
+      What the hell! So what? Who cares? I don't care. I could care less. See if I care. I
+      don't give a care. I don't give a damn. I'm indifferent. What difference does it make?
+      What's the difference? It makes no difference to me. It's all the same to me. Never
+      mind! It doesn't matter (to me). Close enough.
+  - q: What words refer to not being aware of other people's feelings?
+    words: insensitive

@@ -1,0 +1,16 @@
+code: "4.8.4"
+guid: 0B7B9A1C-588B-475A-AC14-00F0999CBFE9
+name: Peace
+description: Use this domain for words related to peace--when people or countries are not fighting.
+louwNidaCodes: 88N Peaceful Behavior
+questions:
+  - q: What words refer to being at peace?
+    words: peace, peacetime, be at peace with, peaceful
+  - q: What words refer to the state of peace or the lack of fighting between people?
+    words: concord, social harmony
+  - q: What words describe the state of peace?
+    words: peaceful, harmonious
+  - q: What words refer to becoming peaceful?
+    words: become peaceful, pacify, pacification
+  - q: What words refer to keeping the peace?
+    words: keep the peace, peacekeeping force

@@ -1,0 +1,11 @@
+code: "3.2.4.2"
+guid: CBA1F6CC-58AC-4D09-AA6A-1661F5945787
+name: Understandable
+description: Use this domain for words that describe something that is easy to understand.
+questions:
+  - q: What words describe something that can be understood?
+    words: understandable
+  - q: What words describe something that is easy to understand?
+    words: obvious, transparent, clear, easy to understand, evident
+  - q: What words describe a clear connection between two things?
+    words: relevant, pertinent, clear, clearly, obvious

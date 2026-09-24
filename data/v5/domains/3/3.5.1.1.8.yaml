@@ -1,0 +1,29 @@
+code: "3.5.1.1.8"
+guid: 8F779877-7D86-4683-8A8B-298C7FC62815
+name: Speak poorly
+description: Use this domain for words related to speaking poorly.
+questions:
+  - q: What words refer to not being able to speak correctly?
+    words: slow of speech, not fluent, poor speaker, stutter, stammer, have a speech impediment
+  - q: What words refer to speaking so that people can't understand you?
+    words: >-
+      speak incoherently, speak irrational, say nonsense, speak gibberish, No one could
+      understand him. I can't understand you. I can't understand a word you are saying.
+  - q: What words refer to making a mistake when speaking?
+    words: stumble, misspeak, gaff, speak ungrammatically
+  - q: What words are used for speaking inappropriately?
+    words: >-
+      speak inappropriately, be rude, crude, socially unacceptable, filthy speech, out of
+      place, not fit for mixed company, shocking speech
+  - q: What words refer to not knowing what to say?
+    words: not know what to say, be speechless, tongue-tied, cat's got your tongue
+  - q: What words refer to speaking too long?
+    words: speak for too long, go over the time allotted, be long winded, speak forever
+  - q: What words refer to when a person wants to speak but hesitates?
+    words: hesitate, pause, false start
+  - q: >-
+      What words describe something that has been said so often that people think it is
+      stupid?
+    words: >-
+      trite, over-used, stale, banal, be wearing thin, threadbare, clichéd, corny,
+      hackneyed, shopworn, stereotyped, commonplace

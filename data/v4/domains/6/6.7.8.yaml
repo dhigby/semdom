@@ -1,0 +1,15 @@
+code: "6.7.8"
+guid: 3AEC74E5-6CFD-46D2-B26F-503FAD761583
+name: Parts of tools
+description: >-
+  Use this domain for words referring to parts of tools and machines. You need to think of
+  different tools and machines, and think of each part.
+questions:
+  - q: What words refer to parts of tools?
+    words: shaft, head, gear, lever, fulcrum, switch, key, spring
+  - q: What are the parts of a knife?
+    words: handle, hilt, guard, blade, edge, tip, back, flat
+  - q: What are the parts of a hammer?
+    words: handle, neck, head, claw
+  - q: What are the parts of a saw?
+    words: handle, blade, teeth

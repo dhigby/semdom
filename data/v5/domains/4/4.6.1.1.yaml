@@ -1,0 +1,16 @@
+code: "4.6.1.1"
+guid: DED0E58D-8AD7-4909-B0F1-B9AB9C10BB0D
+name: King's family
+description: Use this domain for words related to the king's family.
+questions:
+  - q: What is the king's family called?
+    words: royal family, royalty, nobility
+  - q: What are the members of the king's family called?
+    words: >-
+      queen (king's wife), prince (king's son), princess (king's daughter), duke (king's
+      brother), duchess (king's sister), queen mother (king's mother), former king (king's
+      father), noble, nobleman
+  - q: What is the person called who has been designated as the next king?
+    words: the next king, heir apparent, successor to the throne, Prince of Wales
+  - q: What words are used to describe things related to the king's family?
+    words: royal, queenly, princely, noble

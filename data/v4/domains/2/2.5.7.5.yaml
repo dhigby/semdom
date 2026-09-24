@@ -1,0 +1,18 @@
+code: "2.5.7.5"
+guid: 8E88ED6A-000D-400A-8CD8-7B3CC7F1818C
+name: Traditional medicine
+description: >-
+  Use this domain for words related to traditional medicine. There may be no distinction in
+  terminology between 'modern medicine' and 'traditional medicine.' In that case this domain
+  should be ignored. (Our purpose here is not to judge the value of traditional medicine,
+  but to collect and describe the words used for it.)
+ocmCodes: 754 Sorcery; 755 Magical and Mental Therapy
+questions:
+  - q: What words refer to the practice of traditional medicine?
+    words: traditional medicine, natural medicine
+  - q: What words refer to the types of treatment?
+    words: acupuncture
+  - q: What words refer to a person who practices traditional medicine?
+    words: medicine man, herbalist, shaman
+  - q: What words refer to the medicine used in traditional medicine?
+    words: potion, herb

@@ -1,0 +1,36 @@
+code: "6.9.2"
+guid: 5C770098-2C91-4A9C-BFA0-A7FFAA871A7F
+name: Work for someone
+description: Use this domain for words related to working for someone.
+ocmCodes: >-
+  460 Labor; 461 Labor and Leisure; 462 Division of Labor by Gender; Division of Labor by
+  Sex; 463 Occupational Specialization; 464 Labor Supply and Employment; 465 Wages and
+  Salaries; 466 Labor Relations; 467 Labor Organization; 468 Collective Bargaining; 890
+  Gender Roles and Issues
+questions:
+  - q: What words refer to working for someone?
+    words: work for, be employed, have a job, be in the employ of
+  - q: What words refer to a person who works for someone?
+    words: employee, hired hand, worker, labor
+  - q: What words refer to hiring someone?
+    words: hire, employ
+  - q: What words refer to a person who hires someone?
+    words: employer, boss, management
+  - q: What words refer to getting a job?
+    words: get a job, find work
+  - q: What words refer to a person's job?
+    words: job, employment
+  - q: What words refer to the money a person receives for his work?
+    words: wages, salary, income, benefits
+  - q: What words refer to the practice of having people work at special jobs?
+    words: division of labor, specialization, specialist
+  - q: What words refer to an organization of workers?
+    words: labor union, farmers cooperative, collective bargaining, labor relations
+  - q: What words refer to firing an employee?
+    words: >-
+      fire someone, send packing, dismiss, show the door to, give the sack to, lay off,
+      discharge, let go
+  - q: What words refer to being fired from a job?
+    words: get the sack, get the ax, lose your job, be laid off
+  - q: What words refer to going on strike?
+    words: strike (v), go on strike, strike (n), striker

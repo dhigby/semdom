@@ -1,0 +1,17 @@
+code: "2.6.2.5"
+guid: 0F1B4B4D-5B28-BD8C-C84A-0F2CE2C6C236
+name: Sexual violence
+description: >-
+  Use this domain for words referring to forced or non-consensual sexual acts, including
+  sexual assault and the sexual abuse of children. These are acts of violence and coercion;
+  they are grouped here with harm and crime, not with consensual behavior a community may
+  disapprove of.
+louwNidaCodes: 88J' Sexual Misbehavior
+related: ["4.8.2.3", "4.8.2.8"]
+questions:
+  - q: What words refer to forcing a person to have sex?
+    words: rape, sexually assault, force, sexual assault, rapist
+  - q: What words refer to unwanted sexual attention or pressure?
+    words: sexual harassment, molest, molestation, sexual abuse
+  - q: What words refer to sexual acts against a child?
+    words: child sexual abuse, molest a child, pedophile, pederasty

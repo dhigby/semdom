@@ -1,0 +1,19 @@
+code: "4.1.9.1.3"
+guid: BB29001E-97F3-4BB4-8946-7C33B9835FCB
+name: Brother, sister
+description: Use this domain for words related to siblings.
+louwNidaCodes: 10C Kinship Relations of the Same Generation
+related: ["4.1.9.1.9"]
+questions:
+  - q: What words refer to the children of your father and mother?
+    words: sibling, brother, sister
+  - q: What words indicate the order in which your brothers and sisters were born?
+    words: elder brother, elder sister, younger brother, younger sister
+  - q: >-
+      What words refer to the children of your father by another mother, or of your mother
+      by another father?
+    words: half-brother, half-sister
+  - q: >-
+      When your father or mother marries a person who already has children by a previous
+      marriage, what words refer to those children?
+    words: stepbrother, stepsister

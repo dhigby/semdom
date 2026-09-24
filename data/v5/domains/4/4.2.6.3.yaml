@@ -1,0 +1,9 @@
+code: "4.2.6.3"
+guid: 28E874FB-B2E7-4AFA-A4D7-600306AD2583
+name: Exercise
+description: Use this domain for words related to exercise.
+questions:
+  - q: What words refer to doing something in order to stay healthy and become stronger?
+    words: exercise, get exercise, train, work out, keep fit
+  - q: What words refer to activities people do for exercise?
+    words: gymnastics, aerobics, training, exercise (n)

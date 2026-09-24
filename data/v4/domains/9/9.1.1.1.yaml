@@ -1,0 +1,26 @@
+code: "9.1.1.1"
+guid: 0D63ADCE-41DD-4873-B0BF-331D0205E65D
+name: Exist
+description: Use this domain for words indicating that something exists.
+louwNidaCodes: 13C Exist
+questions:
+  - q: What words are used to indicate that something exists?
+    words: >-
+      exist, existence, there is, there exists, there lives, be, be found, occur, be in
+      existence, be in operation, real
+    sentence: >-
+      <There is> a man....; <There was> a man....; <There exists> evidence....; Evidence
+      <exists>....; God <exists>.; I think, therefore I <am>.; Once upon a time <there
+      lived> a man....
+  - q: What words refer to something starting to exist?
+    words: >-
+      appear, arise, coalesce, come into being, come into existence, come to be, develop,
+      emerge, form, materialize, spring up, take shape
+  - q: What words refer to continuing to exist?
+    words: remain, persist, persistence, survive, survival, survivor
+  - q: What words refer to something ceasing to exist?
+    words: >-
+      become extinct, extinction, die out, disappear, vanish, cease to exist, disappearance,
+      disintegrate, disintegration, fade, loss
+  - q: What words refer to not existing?
+    words: non-existent, extinct, there's no, there's no such thing

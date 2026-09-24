@@ -1,0 +1,14 @@
+code: "7.5.5.1"
+guid: 583C98FF-1CC8-4B05-9086-974D13A78894
+name: Disorganized
+description: Use this domain for words related to things becoming disorganized.
+questions:
+  - q: What words describe things that are disorganized?
+    words: >-
+      disorganized, arbitrary, chaotic, confused, in disarray, haphazard, helter-skelter,
+      jumbled, messed up, messy, nonsystematic, random, unarranged, unsorted, unmethodical,
+      unordered, unorganized, unsystematic
+  - q: What words refer to disorganizing things?
+    words: disorganize, disarrange, shuffle, mess up, randomize
+  - q: What words refer to the state of things being disorganized?
+    words: disorganization, ambient state, chaos, disorder

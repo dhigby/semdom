@@ -1,0 +1,26 @@
+code: "2.5.2.2"
+guid: 4D2A67FB-91C8-4436-87F4-F4EAB6CB0828
+name: Skin disease
+description: Use this domain for words related to skin diseases such as leprosy, boils, and rashes.
+questions:
+  - q: What words refer to a sore in the skin?
+    words: >-
+      boil, infection, sore, open sore, scab, rash, ulcer, abscess, bunion, growth, tumor,
+      bruise, gangrene, inflammation, pox, lesion, canker, corn, eruption, blister, bedsore,
+      cold sore
+  - q: What are the names of specific skin diseases?
+    words: >-
+      leprosy, chickenpox, smallpox, measles, German measles, scabies, ringworm, (itching of
+      foot due to worms), dermatitis, eczema, fungus, shingles
+  - q: What words refer to having an infection?
+    words: have an infection, be infected, infect, get infected, break out, develop an infection
+  - q: What words refer to an infection becoming worse?
+    words: spread, turn gangrenous, fester, peel, break
+  - q: What words refer to a small sore in the skin?
+    words: pimple, acne, zit, whitehead, blackhead
+  - q: What words refer to pus?
+    words: pus, pustule
+  - q: What does pus do?
+    words: ooze, run
+  - q: What words refer to a person with a skin disease?
+    words: leper

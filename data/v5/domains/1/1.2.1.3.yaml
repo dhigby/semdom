@@ -1,0 +1,13 @@
+code: "1.2.1.3"
+guid: 4FB79B12-3BD1-46ED-8698-7D27052A5DC7
+name: Plain, plateau
+description: Use this domain for words referring to land that is flat.
+questions:
+  - q: What words refer to land that is flat?
+    words: >-
+      plain, plateau, prairie, steppe, savanna, tundra, heath, mesa, field, meadow, pasture,
+      flatland, tableland, bottomland, lowland, level ground, lowlands
+  - q: What words describe land that is flat?
+    words: flat, level, even
+  - q: What words a place that is not very flat?
+    words: uneven, dip, depression, basin, rut, rutted

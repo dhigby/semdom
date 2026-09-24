@@ -1,0 +1,16 @@
+code: "3.2.7"
+guid: 5E3BB9E5-FD70-4C5A-95A0-938BC4876A47
+name: Expect
+description: Use this domain for words referring to thinking about the future.
+louwNidaCodes: 30C To Think Concerning Future Contingencies
+questions:
+  - q: What words refer to how a person thinks about the future?
+    words: >-
+      expect, feel satisfied, feel dissatisfied, expect with certainty, expect uncertainly,
+      be looking at, anticipate, await, suspense
+  - q: What words refer to something that may happen in the future?
+    words: expectation, prospect, possibility
+  - q: What words refer to an expectation happening?
+    words: come true, come about, be fulfilled, materialize
+  - q: What words refer to an expectation not happening?
+    words: not come true, fail to materialize

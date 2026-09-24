@@ -1,0 +1,16 @@
+code: "3.3.4.4"
+guid: 66FC9A08-3661-4DD5-94B0-1EEA41FB4554
+name: Prevent
+description: Use this domain for words related to preventing someone from doing something.
+related: ["7.2.6.2"]
+questions:
+  - q: What words refer to preventing someone from doing something.
+    words: >-
+      prevent someone from, keep someone from, avert, avoid, check, frustrate, nip in the
+      bud, obviate, preempt, preemption, prevention, prohibit, stave off, stop, stopping,
+      constrain, impose, hinder, impede, limit, overcome, prevail
+    sentence: >-
+      The rain <prevented> John <from> finishing his work.; John <kept> us <from> losing our
+      way.
+  - q: What words refer to something that prevents someone from doing something?
+    words: check, constraint, impediment, limitation, restriction

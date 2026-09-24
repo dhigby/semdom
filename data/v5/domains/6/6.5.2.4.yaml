@@ -1,0 +1,21 @@
+code: "6.5.2.4"
+guid: BAFA274E-8BF0-4CF7-8CE7-2C28293DB809
+name: Door
+description: Use this domain for words related to a door.
+questions:
+  - q: What words refer to the entrance to a house?
+    words: door, doorway, entrance, entry way
+  - q: What kinds of doors are there?
+    words: front door, back door, side door, screen door, double doors, glass door, sliding door
+  - q: What are the parts of a door?
+    words: >-
+      doorknob, door handle, lock, key, bolt, hinge, doornail, threshold, doorsill,
+      doorstep, doormat, doorframe, lintel, doorpost, doorbell
+  - q: What words are used when a visitor comes to the door?
+    words: knock, ring (the doorbell), answer (the door)
+  - q: What is a person called who guards the door or gate, and answers when visitors come?
+    words: doorkeeper, doorman, butler, gatekeeper, watchman, guard
+  - q: What do people do to a door?
+    words: >-
+      open, close, swing close, slam, walk through, leave by, lock, unlock, bolt, block,
+      hang, install

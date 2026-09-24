@@ -1,0 +1,13 @@
+code: "6.5.1.4"
+guid: C1CEEBE1-1274-40C1-A932-696265D9D412
+name: Yard
+description: >-
+  Use this domain for words referring to the outside of a house, the area around a house, a
+  barrier separating one house from another, and the entryway to the area around a house.
+ocmCodes: 351 Grounds
+related: ["8.5.1.4.1"]
+questions:
+  - q: What words refer to the area around a building?
+    words: premises, grounds, compound
+  - q: What words refer to the area around a house?
+    words: yard, front yard, back yard, patio, courtyard, garden, driveway, sidewalk, outside

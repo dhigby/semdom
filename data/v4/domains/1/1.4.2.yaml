@@ -1,0 +1,14 @@
+code: "1.4.2"
+guid: 1C512719-6ECB-48cb-980E-4FF20E8B5F9B
+name: Spirits of things
+description: Use this domain for words referring to the spirits of things.
+related: ["4.9.2"]
+questions:
+  - q: What words refer to the spirits of things?
+    words: spirit, animal spirits
+  - q: What words refer to talking to the spirits?
+    words: commune
+  - q: What words refer to worshiping spirits?
+    words: animism, animistic
+  - q: What words refer to things used to worship spirits?
+    words: amulet, fetish

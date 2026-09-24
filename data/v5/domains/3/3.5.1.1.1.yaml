@@ -1,0 +1,9 @@
+code: "3.5.1.1.1"
+guid: 8C7DA1D1-D7D7-470C-B6A3-EDEFB0E9A4D2
+name: Shout
+description: Use this domain for words related to shouting--to speak loudly.
+questions:
+  - q: What words refer to speaking loudly?
+    words: >-
+      shout, speak loudly, yell, scream, talk in a loud voice, holler, call out, project
+      your voice, aloud, exclaim, exclamation, vociferate

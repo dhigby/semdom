@@ -1,0 +1,48 @@
+code: "3.4.1.1"
+guid: D030F0C7-31A3-47DA-BE35-46F1EBA63AE9
+name: Like, love
+description: >-
+  Use this domain for words related to liking something or someone, or liking to do
+  something.
+questions:
+  - q: What words refer to liking something?
+    words: >-
+      like, have a liking for, adore, enjoy, be fond of, proud of someone, fancy something,
+      have a fancy for, take a fancy to, care for, have affection for, admire, look up to,
+      think highly of, approve, pleased, admire, appeals to you, be to your liking, go down
+      well, savor (v), luxuriate, be happy with, feel good toward, feel good about
+  - q: What words refer to liking someone?
+    words: >-
+      like, be fond of, be attached to, have a soft spot for, see something in someone, a
+      man/woman after your own heart
+  - q: What words refer to the feeling of liking something?
+    words: >-
+      liking, admiration, adoration, affection, approval, enjoyment, fondness for, pleasure,
+      pride, affinity
+  - q: What words refer to liking something very much?
+    words: >-
+      love, adore, delight, enthusiastic about, enthusiasm for, be mad about, be crazy
+      about, be attached to, have a passion for
+  - q: What words describe something that is liked?
+    words: >-
+      likable, lovable, lovely, tasteful, admirable, delightful, charming, endearing,
+      engaging, pleasing, pleasurable, enjoyable, nice, likes and dislikes, love of your
+      life, passion
+  - q: What words refer to a person who likes something?
+    words: admirer, fan, (art)-lover, lover of, enthusiast, devotee
+  - q: What words describe someone who likes something?
+    words: adoring, affectionate
+  - q: What words refer to liking something and wanting to have it?
+    words: >-
+      aspire, hanker for, have a hankering for, long for, relish (n), relish (v), covet,
+      crave, desire (v), desire (n), fancy (v), pine for, want (v), yearn
+  - q: What words refer to something causing someone to like a person or thing?
+    words: >-
+      beguile, bewitch, charm, dazzle, delight, enchant, enthrall, fascinate, gladden,
+      gratify, impress, please, thrill, tickle, wow
+  - q: What words refer to something that causes someone to like a person or thing?
+    words: charm, enchantress
+  - q: What words describe something that causes someone to like a person or thing?
+    words: >-
+      beguiling, bewitching, charming, dazzling, delightful, enchanting, enthralling,
+      fascinating, gratifying, impressive, pleasing, thrilling

@@ -1,0 +1,8 @@
+code: "6.6.7.4"
+guid: A6616A09-DF51-4CA6-850F-733EE73C8750
+name: Working in the sea
+description: Use this domain for words related to working in the sea.
+ocmCodes: 228 Marine Industries; 312 Water Supply; 336 Plumbing; 376 Water Power
+questions:
+  - q: What other work is done in the sea?
+    words: growing seaweed, scuba diving, pearl diving, offshore drilling, fishpond

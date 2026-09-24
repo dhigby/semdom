@@ -1,0 +1,29 @@
+code: "9.4.1.4"
+guid: 54F59B23-A2E8-4BFC-9DA2-7DD7C37D2A47
+name: Relational tenses
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  relational tenses. Relational tenses describe situations where the reference time is not
+  the same as the moment of speech. They may be combined with any of the tenses, either in
+  the same morpheme or in combinations of morphemes. The following definitions are taken
+  from Bybee, Joan, Revere Perkins, and William Pagliuca. 1994. The evolution of grammar.
+  Chicago and London: University of Chicago Press.
+questions:
+  - q: >-
+      resulting state (resultative): action in the past produces a state that persists into
+      the present.
+    words: be... -en
+  - q: >-
+      anterior continuing: past action continues into the present: 'I have waited over an
+      hour' ( = and I'm still waiting).
+    words: have been... -ing
+  - q: >-
+      anterior: the situation occurs prior to reference time, and is relevant to the
+      situation at reference time. This is different from a simple past or perfective, where
+      the situation is reported for its own sake and independent of its relevance to any
+      other situation.
+    words: have... -en
+  - q: >-
+      A form that signals a situation that is prior to and relevant to a past reference time
+      will be coded with two meaning labels, past and anterior.
+    words: had... -en

@@ -1,0 +1,14 @@
+code: "7.1.7"
+guid: 85B9908F-4F57-4BAA-9ED2-BC4705B12E72
+name: Straight posture
+description: >-
+  Use this domain for words referring to straight posture--holding your body straight,
+  stiff, or erect, rather than relaxed.
+questions:
+  - q: What words describe someone who is in a straight posture?
+    words: straight posture, stand at attention, stand/sit stiffly, erect
+  - q: What words refer to changing your posture so that it is straight?
+    words: straighten up, sit up straight, stand up straight
+    sentence: >-
+      The soldier stood at attention with his shoulders back, his chest out, his chin up,
+      and his arms held stiffly at his sides.

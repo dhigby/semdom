@@ -1,0 +1,11 @@
+code: "4.1.9.1.4"
+guid: 87C499B3-5FAB-45E0-9999-9C4FCBBA1E2B
+name: Son, daughter
+description: Use this domain for words referring to your children.
+questions:
+  - q: What words refer to your children?
+    words: child, son, daughter, heir, scion, kid
+  - q: What words refer to all your children?
+    words: children, family, issue, brood
+  - q: If you marry someone who already has children, what do you call his/her children?
+    words: stepson, stepdaughter, stepchild

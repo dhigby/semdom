@@ -1,0 +1,9 @@
+code: "4.5.3.2"
+guid: 94F919C2-BF8B-4AE5-A611-8C0CD4D7A5D2
+name: Command
+description: Use this domain for words related to commanding someone to do something.
+louwNidaCodes: 33F' Command, Order
+related: ["3.3.3"]
+questions:
+  - q: What words refer to commanding someone to do something?
+    words: command, order, direct, impel, prescribe

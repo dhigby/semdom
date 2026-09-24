@@ -1,0 +1,11 @@
+code: "8.4.6.3.1"
+guid: 3FBE3EA6-3AD3-430F-AB67-2D9C9F852C61
+name: Now
+description: Use this domain for words referring to now.
+questions:
+  - q: What words indicate that a situation exists now?
+    words: now, right now, nowadays, at this time, at the present time, currently, already
+  - q: What words describe a situation that exists now?
+    words: current, present, present-day
+  - q: What do you say when you want someone to start doing something now?
+    words: Go! Now!

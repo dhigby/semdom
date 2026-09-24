@@ -1,0 +1,9 @@
+code: "6.8.9.3"
+guid: A8AE0EE7-56CA-4BDF-BD9A-C56DA3FF9254
+name: Extort money
+description: >-
+  Use this domain for words related to extorting money--forcing someone to give you money on
+  a regular basis by threatening them with some harm.
+questions:
+  - q: What words refer to extorting money?
+    words: extort, extortion, racket, racketeering, organized crime

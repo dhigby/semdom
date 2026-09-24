@@ -1,0 +1,50 @@
+code: "8.2.5.1"
+guid: EA17ABA7-6D4E-4DBF-89EA-84A1B1C47647
+name: Big container, volume
+description: Use this domain for words referring to the volume of something.
+louwNidaCodes: 81E Specific Measures of Volume
+questions:
+  - q: What words describe a big container?
+    words: big, large, capacious, voluminous
+  - q: What words describe a very big container?
+    words: huge, enormous
+  - q: What words refer to a container that is big?
+    words: tank, tub
+  - q: What words refer to a container becoming big?
+    words: expand, inflate
+  - q: What words refer to making a container big?
+    words: expand, enlarge
+  - q: What words describe a container that has been made big?
+    words: expanded
+  - q: What words refer to a container being bigger than another container?
+    words: bigger, biggest
+  - q: What words refer to how big a container is?
+    words: volume, capacity, size, dimensions
+  - q: What words indicate how big a container is?
+    words: >-
+      how big, be (ten litres) in volume, hold, be (ten) cubic inches, be two meters long
+      two meters wide and two meters high, be two by two by two
+  - q: What words refer to measuring the volume of a something?
+    words: measure, find the volume
+  - q: What words refer to a unit of volume?
+    words: >-
+      cubic (inch, foot, yard), millilitre, centilitre, decilitre, litre, decalitre,
+      kilolitre, hectolitre, cup, pint, quart, gallon, fluid ounce, dry ounce, peck, bushel,
+      measure, batch
+  - q: What instruments are used to measure volume?
+    words: measuring cup, measuring spoon
+  - q: What words describe a system of measures?
+    words: metric, imperial
+  - q: >-
+      What words refer to an amount of something that has been measured by a particular
+      container?
+    words: >-
+      bag, bagful, barrel, boatload, bottle, bowl, box, boxful, bucketful, busload, can,
+      carload, glass, handful, jug, mug, pack, packet, planeload, platter, roomful, sackful,
+      scoop, scoopful, spoon, spoonful, tablespoon, tankful, teaspoon, teaspoonful,
+      trainload, tray, truckload
+    sentence: >-
+      We've just received two <truckloads> of food.; All I had to eat was a <handful> of
+      maize.
+  - q: What words describe a small container?
+    words: small

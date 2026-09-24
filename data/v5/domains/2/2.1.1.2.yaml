@@ -1,0 +1,32 @@
+code: "2.1.1.2"
+guid: 2E97B83D-1152-473F-9CBE-347F0655041A
+name: Ear
+description: Use this domain for words related to the ear.
+related: ["2.3.2"]
+questions:
+  - q: What words refer to an ear?
+    words: ear
+  - q: What are the parts of the ear?
+    words: >-
+      earlobe, lobe, inner ear, eardrum, tympanum, Eustachian tube, auditory nerve, canal,
+      cochlea
+  - q: What words describe a person's ears?
+    words: stick out
+  - q: What do the ears do?
+    words: hear
+  - q: What words refer to the ears moving?
+    words: wiggle
+  - q: What do people do to their ears?
+    words: >-
+      scratch, pick (your ear), clean, cup (put hand behind to help hearing), pierce (for
+      earrings)
+  - q: What do people do to their ears so they won't hear something?
+    words: >-
+      plug your ears, cover your ears, stuff cotton in your ears, stick your fingers in your
+      ears, earplugs
+  - q: What do the ears produce?
+    words: wax, earwax
+  - q: What do people use to clean their ears?
+    words: Q-tip
+  - q: What words describe something to do with the ears?
+    words: aural

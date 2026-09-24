@@ -1,0 +1,56 @@
+name: Validate
+
+# The repository is the source of truth for the Semantic Domains standard, so every
+# proposed change is checked before it can reach main. Nothing ran on pull requests
+# before this workflow existed.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Validate domain data
+        run: node scripts/validate.mjs
+
+      # The proposal form on /propose/ emits whole files through the same serializer.
+      # If that serializer stopped reproducing the committed files byte for byte, every
+      # form-authored edit would rewrite unrelated lines and become unreviewable.
+      - name: Check every domain file round-trips through the shared emitter
+        run: node scripts/check-emit.mjs
+
+      - name: Generate XML and verify fidelity against the historic v4 export
+        run: node scripts/build-xml.mjs --out .verify --verify
+
+      - name: Build the site
+        run: npx astro build
+
+      # A reviewer gets a readable report, never a 2.8 MB XML diff. Written to the step
+      # summary rather than posted as a PR comment because pull requests from forks get
+      # a read-only token and cannot comment.
+      - name: Report
+        if: always()
+        run: node scripts/report.mjs >> "$GITHUB_STEP_SUMMARY"
+
+      # The actual generated files, for a reviewer who wants to load them into FieldWorks.
+      - name: Upload generated XML
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: semdom-xml
+          # `.verify` is a dot directory, and upload-artifact excludes hidden paths
+          # unless told otherwise - without this the artifact silently uploads nothing.
+          include-hidden-files: true
+          # Stays `warn`, not `error`: this step is `if: always()`, so on a failed
+          # validate the XML legitimately does not exist yet.
+          path: .verify/*.xml
+          if-no-files-found: warn

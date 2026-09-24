@@ -1,0 +1,17 @@
+code: "6.6.2.7"
+guid: 084E2568-3F54-4EAB-B436-8A87FB466659
+name: Working with stone
+description: Use this domain for words related to working with stone.
+ocmCodes: 324 Lithic Industries; Stone Industry
+related: ["1.2.2.2"]
+questions:
+  - q: What words refer to working with stone?
+    words: masonry, sculpture, carve
+  - q: What words refer to a person who works with stone?
+    words: stonemason, sculptor, stone cutter
+  - q: What materials does a stonemason work with?
+    words: stone, marble
+  - q: What tools does a stonemason work with?
+    words: hammer, chisel
+  - q: What words refer to a place where stone is dug out of the ground?
+    words: quarry

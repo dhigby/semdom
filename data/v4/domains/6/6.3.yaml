@@ -1,0 +1,20 @@
+code: "6.3"
+guid: 79B580FF-64A7-445B-ABCB-B49B9093779C
+name: Animal husbandry
+description: Use this domain for words related to animal husbandry--working with animals.
+ocmCodes: 230 Animal Husbandry
+louwNidaCodes: 44 Animal Husbandry, Fishing; 1O Pastures and Cultivated Lands
+related: ["1.6", "1.6.5"]
+questions:
+  - q: What words refer to animal husbandry?
+    words: animal husbandry, tame, spray (for insects), brand
+  - q: What words are used of animal shelters and enclosures?
+    words: shelter, barn, shed, corral, pen, stall, manger
+  - q: Where do people keep birds?
+    words: birdcage, chicken coop
+  - q: Where do people keep fish?
+    words: fish tank, fishbowl, aquarium, fishpond
+  - q: Where do people keep insects?
+    words: beehive
+  - q: What words refer to breeding animals?
+    words: breed, crossbred, crossbreed, hybrid, interbred, mongrel, stud

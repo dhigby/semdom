@@ -1,0 +1,19 @@
+code: "8.4.4"
+guid: 06CB2024-5F7B-467C-B32C-EF4C56030AC0
+name: Telling time
+description: Use this domain for words related to telling time.
+questions:
+  - q: What words refer to telling time?
+    words: >-
+      tell time, keep time, mark time, measure time, beat time, register the time, to
+      chronicle
+  - q: What is a written record of times and events called?
+    words: chronology, chronicle, record, history
+  - q: What is a person called who keeps time?
+    words: timekeeper
+  - q: What words indicate a particular time?
+    words: '(In written English we use a semicolon to separate the hour from the minute: 5:00.)'
+    sentence: >-
+      It is now five <o'clock>.; It is five <a.m.>; It is five <p.m.>; It is noon <time>.;
+      ten minutes <after> five.; <half> <past> five.; a <quarter> <to> five.; at ten <of>
+      six.; a <quarter> <of> an hour.; in <half> an hour.; ten minutes <past> <the hour>.

@@ -1,0 +1,11 @@
+code: "6.2.9"
+guid: C7990233-EF2E-4EA6-8D1E-CCF56E540394
+name: Farmland
+description: Use this domain for words related to farmland.
+louwNidaCodes: 1O Pastures and Cultivated Lands
+questions:
+  - q: What words refer to farmland?
+    words: >-
+      farmland, farm, field, garden, cultivated land, agricultural land, plantation, plowed
+      field, tilled field, field ready for harvest, harvested field, fallow field, ground
+      prepared for planting

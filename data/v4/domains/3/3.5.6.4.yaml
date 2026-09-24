@@ -1,0 +1,52 @@
+code: "3.5.6.4"
+guid: CBC0A8F5-9CBA-41D2-A7E5-565FBF09C8C4
+name: Laugh
+description: >-
+  Use this domain for words related to the expression of good feelings, including
+  laughing--the sounds a person makes when he is enjoying himself or thinks something is
+  funny.
+louwNidaCodes: 25L Laugh, Cry, Groan x
+related: ["4.2.8", "3.5.1.8.3"]
+questions:
+  - q: What general words refer to laughing?
+    words: laugh, laughter, laugh at (something), have a laugh
+  - q: What words describe the way a person laughs?
+    words: >-
+      laugh aloud, laugh out loud, chortle, heehaw, guffaw, cackle, yuck it up, squeal with
+      laughter, canned laughter
+  - q: What words refer to laughing a little or quietly?
+    words: laugh silently, chuckle, giggle, ripple of laughter, titter, twitter
+  - q: What words refer to laughing a lot or loudly?
+    words: >-
+      roar with laughter, laugh uproariously, howl with laughter, shriek with laughter,
+      hearty laugh, peals of laughter, laugh helplessly, laugh your head off, laugh
+      hysterically, have hysterics, roll in the aisle, almost die laughing, double up,
+      convulsed with laughter, split your sides
+  - q: What words refer to laughing for a long time?
+    words: >-
+      can't stop laughing, have the giggles, fall over/about laughing, have a good laugh,
+      laugh till the tears roll down your cheeks
+  - q: What words refer to laughing at someone because they did something wrong?
+    words: laugh at, mock, titter, snicker, snigger
+  - q: What words refer to beginning to laugh?
+    words: start laughing, burst out laughing, burst of laughter, dissolve into laughter
+  - q: What words refer to causing someone to laugh?
+    words: >-
+      make someone laugh, amuse, crack someone up, have someone in hysterics, have someone
+      in stitches, tickle, ticklish
+  - q: What words describe someone or something that causes people to laugh?
+    words: laughable, amusing, comic, comical, absurd, facetious, humor, humorous, sense of humor
+  - q: What words refer to the sound of a person makes when he is laughing?
+    words: ho ho ho, ha ha ha
+  - q: What words refer to trying not to laugh?
+    words: (try to/can't) keep a straight face, stifle a laugh
+  - q: What words refer to smiling?
+    words: >-
+      smile, smile at, grin, wide grin, big smile, half smile, slight smile, smirk, crack a
+      smile, beam
+  - q: What other ways do people show they feel good?
+    words: >-
+      clap, applaud, applause, cheer, jump up and down, jump for joy, dance for joy, shout
+      for joy, make merry, revel, weep for joy, ululate
+  - q: What do people say when they are happy?
+    words: Hurrah! Hooray! Yeah! Three cheers! Hallelujah! Yippee! Yahoo!

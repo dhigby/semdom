@@ -1,0 +1,22 @@
+code: "9.5.2.3"
+guid: 6903B844-79BE-4E9D-A3C8-1CA2A385BF4F
+name: With, do with someone
+description: >-
+  Use this domain for words indicating a person who does something with another person who
+  is the subject of the sentence.
+related: ["7.2.5"]
+questions:
+  - q: What words indicate someone who goes somewhere with another person?
+    words: with, along
+    sentence: >-
+      John went to town <with> David.; We will go <with> you.; We wanted to go to town and
+      John decided to go <along>.
+  - q: What words indicate someone who does something with another person?
+    words: >-
+      with, in conjunction with, in partnership with, in collaboration with, side by side
+      with, shoulder to shoulder with
+    sentence: John was working <with> David in the field.
+  - q: What words indicate someone who does something bad with another person?
+    words: in league with, in collusion with, in cahoots with, hand in glove with
+  - q: What words refer to someone who does something with another person?
+    words: partner, companion, fellow (student), sidekick

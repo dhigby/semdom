@@ -1,0 +1,9 @@
+code: "8.3.3.3.2"
+guid: FF73FB69-7DAC-43E2-876B-0EAD264C3F2D
+name: Black
+description: Use this domain for words describing something that is black.
+questions:
+  - q: What words describe something that is black in color?
+    words: >-
+      black, pitch black, jet-black, inky black, ebony black, black as coal, coal-black,
+      black as pitch, black as night, night-black, henna, negro, raven

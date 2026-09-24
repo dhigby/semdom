@@ -1,0 +1,21 @@
+code: "3.4.2.1.2"
+guid: 97393C87-07E2-4633-88F9-C8BF4D9B935C
+name: Hate, detest
+description: >-
+  Use this domain for words related to hating someone or something--to dislike someone or
+  something very much.
+louwNidaCodes: 88Z Hate, Hateful; 25Q Abhor
+related: ["4.3.3.1"]
+questions:
+  - q: What words refer to feeling hateful?
+    words: >-
+      hate, abhor, have an abhorrence, abominate, deplore, despise, detest, loathe, have a
+      loathing for, look down on, odium, feel unfriendly toward
+  - q: What words refer to the feeling of hate?
+    words: hate, hating, hatred, abhorrence, aversion, loathing, repugnance, repulsion
+  - q: What words describe someone who feels hateful?
+    words: hateful
+  - q: What words describe a person who is hated?
+    words: hated, despised, detested, loathed, odious, resented
+  - q: What words describe something that causes someone to feel hateful?
+    words: hateful, abominable, deplorable, despicable, detestable, execrable, reprehensible

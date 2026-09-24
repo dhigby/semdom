@@ -1,0 +1,19 @@
+code: "5.4.7"
+guid: 93DE2257-8303-490D-B2FE-6D1D838B08C6
+name: Care for the fingernails
+description: Use this domain for words related to caring for the fingernails.
+questions:
+  - q: What words are used to describe the process of caring for the nails?
+    words: manicure, clean, cut, clip, trim, shape, sharpen
+  - q: What tools are used to care for the nails?
+    words: clippers, scissors, file
+  - q: What is a piece of a cut off fingernail called?
+    words: fingernail clippings
+  - q: What words describe when a nail grows into the finger or toe and causes a sore?
+    words: ingrown nail
+  - q: What do people do with their nails?
+    words: to bite (your nails), scratch
+  - q: What words are used of painting the nails?
+    words: paint, polish, nail polish
+  - q: What words are used to describe the condition of the nails?
+    words: long, clean, dirty, dirt under the nails, chipped, curved

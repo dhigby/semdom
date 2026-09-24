@@ -1,0 +1,14 @@
+code: "4.2.2.2"
+guid: DDC96103-4BC5-44d3-9412-C57569D2A9F5
+name: Festival, show
+description: >-
+  Use this domain for words referring to a festival or show--a large social event during
+  which some people entertain other people.
+louwNidaCodes: 51 Festivals
+questions:
+  - q: What general words refer to a festival?
+    words: festival, show, spectacle
+  - q: What types of festivals are there?
+    words: carnival, fair, circus, parade, county fair, state fair
+  - q: What words refer to part of a festival or show?
+    words: routine, act, ride, float, booth

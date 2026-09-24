@@ -1,0 +1,14 @@
+code: "3.3.2.2"
+guid: 1137590C-6F2F-4B69-B04E-F6A890A335A2
+name: Refuse to do something
+description: Use this domain for words related to refusing to do something.
+questions:
+  - q: What words refer to refusing to do something?
+    words: >-
+      refuse, refusal, flatly refuse, refuse point-blank, not agree to, will not, say no,
+      decline, shake your head, turn down, dig your heels in, slam the door in someone's
+      face, draw the line at, have none of
+  - q: What do people say when they refuse to do something?
+    words: not likely, nothing doing, no way, and that's that
+  - q: What words refer to refusing to give something?
+    words: refuse, deny, withhold

@@ -1,0 +1,12 @@
+code: "3.2.2.2"
+guid: F39B14C4-52CF-4AFA-956C-F0F5815EF6AC
+name: Check
+description: >-
+  Use this domain for words referring to checking something--when you think something is
+  true or correct, but you aren't sure, you do something to find out if it is true or
+  correct.
+questions:
+  - q: What words refer to checking something to make sure it is true or correct?
+    words: >-
+      check, make sure, make certain, double-check, verify, confirm, check out, crosscheck,
+      see for yourself, check up on

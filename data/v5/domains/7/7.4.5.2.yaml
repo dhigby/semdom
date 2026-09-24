@@ -1,0 +1,12 @@
+code: "7.4.5.2"
+guid: 6C32038C-ADF3-4085-BDE3-CD2F21A421BA
+name: Throw away
+description: Use this domain for throwing away something that you no longer want.
+questions:
+  - q: What words are used for throwing something away?
+    words: >-
+      throw away, throw aside, toss, junk, jettison, discard, eliminate, heave, reject,
+      expel, dispose of, cast off, throw overboard, get rid of, rid yourself of, dump, clean
+      out, purge, smoke out, unload, delete
+  - q: What words refer to something that is thrown away?
+    words: litter, trash, garbage

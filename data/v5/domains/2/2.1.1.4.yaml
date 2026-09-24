@@ -1,0 +1,31 @@
+code: "2.1.1.4"
+guid: E626C65E-EB79-4230-B07A-A6D975D3FE3D
+name: Mouth
+description: >-
+  Use this domain for words related to the mouth. Do not use this domain for words referring
+  to eating, drinking, or speaking.
+louwNidaCodes: 23B Processes Involving the Mouth, Other Than Eating and Drinking x
+related: ["2.3.3", "5.2.2", "3.5.6.3", "2.3.2.3"]
+questions:
+  - q: What words refer to the mouth?
+    words: mouth
+  - q: What are the parts of the mouth?
+    words: >-
+      lip, tongue, tooth, gum, uvula, palate, alveolar ridge, mouth cavity, roof, velum,
+      throat
+  - q: What words describe a person's mouth?
+    words: narrow, curved, thin lips, thick lips
+  - q: What do people do with their mouth?
+    words: breathe, talk, eat, taste, clear your throat, suck, blow, kiss, gag
+  - q: What words refer to moving the mouth?
+    words: open, close, smile, purse your lips
+  - q: What words refer to yawning?
+    words: yawn, yawn (n)
+  - q: What words refer to vomiting?
+    words: vomit (v), vomit (n), regurgitate, disgorge, heave, retch, throw up
+  - q: What do people do with their tongue?
+    words: lick, lick your lips, stick your tongue out, click your tongue, bite your tongue
+  - q: What do people do to their mouth?
+    words: wipe, cover, gag someone
+  - q: What words describe something to do with the mouth?
+    words: oral, orally, labial, palatal, velar

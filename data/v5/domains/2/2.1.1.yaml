@@ -1,0 +1,18 @@
+code: "2.1.1"
+guid: D98C1C67-B70E-4A35-89DB-2E744BD5197F
+name: Head
+description: Use this domain for the parts of the head.
+related: ["1.6.2", "2.1.6"]
+questions:
+  - q: What words refer to the head?
+    words: head
+  - q: What are the parts of the head?
+    words: feature, scalp, back of the head, chin, temple, poll, skull, brain
+  - q: What are the parts of the face?
+    words: face, forehead, cheek, chin, cleft (in chin), dimple (in cheek), jaw
+  - q: What are the parts of the neck?
+    words: neck, nape (back of the neck), throat, Adam's apple, wrinkle, fold in skin of neck
+  - q: What words describe the parts of a person's face?
+    words: >-
+      facial, thin (face), high (forehead), thick (eyebrows), long (eyelashes), beady
+      (eyes), stubby (nose), fleshy (cheeks), narrow (mouth), double chin

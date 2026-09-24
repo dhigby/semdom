@@ -1,0 +1,23 @@
+code: "8.4.6.1"
+guid: 3F37BB6F-CD32-4430-AA35-700ACABBEE15
+name: Start something
+description: >-
+  Use this domain for words referring to starting something, or for something beginning to
+  happen.
+louwNidaCodes: 68A Begin, Start
+related: ["9.1.2.3"]
+questions:
+  - q: What words refer to starting something?
+    words: >-
+      start, launch, open, initiate, set in motion, get things moving, start the ball
+      rolling, begin
+  - q: >-
+      What words refer to officially starting something such as a new law or way of doing
+      something?
+    words: introduce, bring in, phase in
+  - q: What words refer to starting an organization?
+    words: start, start up, open, set up, establish, found, inception
+  - q: What words refer to something starting a natural process?
+    words: start, activate, set off
+  - q: What words refer to starting something again after it has stopped?
+    words: restart, bring back, reintroduce, revive, restore, resurrect

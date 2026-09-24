@@ -1,0 +1,21 @@
+# The semantic-domain XML is a generated artifact with a byte-exact fidelity test.
+# Without these rules the test passes in CI (ubuntu, LF) and fails on Windows
+# (core.autocrlf=true rewrites the working copy), which would make the central
+# proof of the source-of-truth migration platform-dependent.
+*.xml text eol=lf
+
+# The provenance fixture is the historic v4 export. Git must never rewrite a byte
+# of it: it is the thing every other file is checked against.
+tests/fixtures/*.xml -text -diff
+
+# Immutable release artifacts: keep them out of diffs and language stats.
+releases/**/*.xml linguist-generated=true -diff
+
+# Domain data.
+*.yaml text eol=lf
+*.yml  text eol=lf
+
+# The structure locks are compared as exact strings by scripts/validate.mjs. A CRLF
+# working copy makes that comparison fail on Windows while passing in CI — the same
+# platform-dependence the XML rules above exist to prevent.
+*.lock text eol=lf

@@ -1,0 +1,11 @@
+code: "3.5.1.2.5"
+guid: 67D282F8-151D-429B-8183-6A7D2F5AC98D
+name: Introduce
+description: >-
+  Use this domain for words related to introducing a new subject--to start talking or
+  writing about something new for the first time.
+questions:
+  - q: What words refer to talking about something for the first time?
+    words: introduce, lead into, bring up, raise, broach a subject
+  - q: What words refer to what is said when you introduce something?
+    words: introduction, lead-in, introductory

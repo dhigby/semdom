@@ -1,0 +1,22 @@
+code: "5.2.2.7"
+guid: 6DE42A33-35B2-49C6-B2C4-FA9C0C5094F0
+name: Drink
+description: Use this domain for words related to drinking.
+ocmCodes: 271 Water and Thirst
+questions:
+  - q: What general words refer to drinking?
+    words: drink, drunk, take a drink
+  - q: What words describe the manner in which a person can drink?
+    words: >-
+      guzzle, gulp, gulp down, swig, sip, suck, pour down your throat, inhale, to down
+      (something)
+  - q: What words refer to what is drunk?
+    words: drink (n)
+  - q: What expressions are used to ask for a drink?
+    words: ''
+    sentence: May I have a drink? Could I have something to drink? I'm really thirsty.
+  - q: What expressions are used to offer a drink?
+    words: ''
+    sentence: >-
+      Would you like something to drink? Would you like some tea or coffee? Could I offer
+      you something to drink? Could I get you something to drink?

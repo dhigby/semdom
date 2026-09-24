@@ -1,0 +1,42 @@
+code: "3.4.1.4.6"
+guid: 0FA0BE21-2246-40B2-86B1-CA572FE8C16C
+name: Uninterested, bored
+description: >-
+  Use this domain for words related to feeling uninterested or bored--when someone is not
+  interested in something.
+questions:
+  - q: What words refer to feeling uninterested in something?
+    words: >-
+      not be interested, lack interest, be bored (with), be fed up with, be tired of, don't
+      care (about), can't be bothered, your heart's not in it, be cool towards, show no
+      interest, express no interest, leave someone cold
+  - q: What words refer to the feeling of being uninterested?
+    words: disinterest, lack of interest, boredom, apathy
+  - q: What words describe someone who feels uninterested?
+    words: >-
+      uninterested, disinterested, apathetic, bored, dull, lethargic, uncaring, unconcerned,
+      unenthusiastic, half-hearted, lukewarm
+  - q: What words refer to feeling very uninterested?
+    words: >-
+      could care less, couldn't care less, be bored to tears, be bored stiff, be bored out
+      of your mind, someone's eyes glaze over
+  - q: What words describe someone who is not interested in anything?
+    words: bored, bored to tears, bored stiff
+  - q: What words refer to causing someone to feel uninterested?
+    words: bore (v), put you to sleep
+  - q: What words refer to something that causes someone to feel uninterested?
+    words: monotony, tedium
+  - q: What words refer to a person who is uninteresting?
+    words: bore (n)
+  - q: What words describe something that is uninteresting?
+    words: >-
+      uninteresting, not very interesting, boring, dull, tedious, uneventful, unexciting,
+      humdrum, monotonous, repetitive, long-winded
+  - q: What words describe a place that is uninteresting
+    words: dead, one-horse town, nothing ever happens, drab, featureless, dreary
+  - q: >-
+      What words refer to trying to find something that is interesting because you are
+      bored?
+    words: relieve the boredom
+  - q: What words refer to something becoming uninteresting?
+    words: the novelty wears off, lose interest, get tired of

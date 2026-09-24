@@ -1,0 +1,39 @@
+code: "1.6.4.1"
+guid: 284433DF-7B37-4E63-A614-78520C483213
+name: Animal movement
+description: >-
+  Use this domain for ways in which animals move. Only include words specific for the
+  movement of animals. For the movement of people use the domains under Movement. It is
+  necessary to think through how each type of animal moves, especially the important ones.
+ocmCodes: 136c Movements
+questions:
+  - q: How do mammals move?
+    words: gallop, trot, hop, crawl, fly, soar
+  - q: How do cows move?
+    words: walk, trot, wander, lie down, charge
+  - q: How do dogs move?
+    words: trot, run, wag its tail
+  - q: How do horses move?
+    words: run, gallop, trot, canter, buck, kick, race, charge
+  - q: How do lions move?
+    words: walk, stalk, charge, run down, prowl
+  - q: How do whales move?
+    words: breach
+  - q: How do birds move?
+    words: >-
+      fly, flutter, soar, dive, swoop, bank, turn, (hummingbird) hover, hop, roost, hang in
+      the air, ride the wind, alight, land
+  - q: How do snakes move?
+    words: slither, glide
+  - q: How do fish move?
+    words: swim, leap
+  - q: How do insects move?
+    words: fly, hover, dive-bomb, crawl
+  - q: How do worms move?
+    words: crawl, inch along, creep
+  - q: What words refer to the annual migration of animals?
+    words: migrate, migration, fly south
+  - q: What words refer to animals moving in a group?
+    words: herd (v), flock (v), swarm (v), herd instinct, fly in formation, move as a herd
+  - q: What words refer to animal tracks?
+    words: track

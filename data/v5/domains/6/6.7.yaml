@@ -1,0 +1,24 @@
+code: "6.7"
+guid: 6342C8BF-55B5-400F-AF7E-63055FE6813B
+name: Tool
+description: >-
+  Use this domain for general words for tools and machines. The domains in this section
+  should be used for general tools and machines that are used in a variety of tasks.
+  Specialized tools and machines should be classified under the specific work or activity
+  for which they are used.
+ocmCodes: >-
+  410 Tools and Appliances; 412 General Tools; 413 Special Tools; 414 Miscellaneous
+  Hardware; 417 Apparatus
+louwNidaCodes: 6 Artifacts; 6A Artifacts; 6W Miscellaneous
+related: ["6.1.2.2", "9.5.1.2", "6.2.8", "5.1"]
+questions:
+  - q: What general words refer to tools?
+    words: tool, implement, utensil, device, instrument, gadget, hardware, paraphernalia
+  - q: What words refer to a set of tools?
+    words: kit, tool kit
+  - q: What words refer to a container for tools?
+    words: toolbox, tool cabinet
+  - q: What tools are used for climbing?
+    words: ladder, stepladder, rope ladder, rung, step
+  - q: What words refer to all the tools and other things you need to do a job?
+    words: equipment, apparatus, gear, kit, things, stuff, tools

@@ -1,0 +1,17 @@
+code: "6.3.1"
+guid: 8C28C640-DB5B-43E2-A1E6-B0E381962129
+name: Domesticated animal
+description: >-
+  Use this domain for words related to domesticated animals. Add extra domains for specific
+  domesticated animals in your culture such as elephants in east Asia, camels in the Middle
+  East, and llamas in South America.
+ocmCodes: 231 Domesticated Animals
+questions:
+  - q: What words refer to a domesticated animal?
+    words: domesticated animal, livestock, pet
+  - q: What words refer to domesticating an animal?
+    words: domesticate, tame, break (horse)
+  - q: What words describe an animal that has been domesticated?
+    words: domesticated, tamed, broken in
+  - q: What animals are commonly domesticated?
+    words: cow, goat, sheep, horse, donkey, dog, cat, chicken, duck, goose, turkey

@@ -1,0 +1,12 @@
+code: "3.3.1"
+guid: AF4AC058-D4B3-4C7A-ADE8-6AF762D0486D
+name: Decide, plan
+description: Use this domain for words related to deciding to do something.
+louwNidaCodes: 30E To Decide, To Conclude
+questions:
+  - q: What words refer to deciding to do something?
+    words: >-
+      decide, decide on, decide against, choose, plan, conclude that, determine your course,
+      strategize
+  - q: What words refer to what is decided?
+    words: decision, choice, plan, course, strategy

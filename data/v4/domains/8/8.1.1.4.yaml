@@ -1,0 +1,22 @@
+code: "8.1.1.4"
+guid: A57185C3-0CB5-41FA-94BF-DA0C9EDAC600
+name: Multiples
+description: Use this domain for words related to multiples of something (single, double, triple).
+louwNidaCodes: 60F Double, Four Times As Much, Etc.
+questions:
+  - q: What words describe something that is two or three times the amount of something else?
+    words: >-
+      single (portion, scoop), double (adj), triple, quadruple, quintuple, two-fold,
+      three-fold, four-fold
+    sentence: The oldest son inherited a <double> portion.
+  - q: What words indicate that something is two or three times the amount of something else?
+    words: twice as much (as), two times as much (as), two times what, double what
+    sentence: >-
+      He gave you <three times what> he gave me.; He gave you <three times as much as> he
+      gave me.
+  - q: What words refer to something becoming two or three times as much?
+    words: double (vi), triple, quadruple
+    sentence: The size of our herd <doubled> in three years.
+  - q: What words refer to making something become two or three times as much?
+    words: double (vt), triple, treble, quadruple
+    sentence: My boss <doubled> my salary.

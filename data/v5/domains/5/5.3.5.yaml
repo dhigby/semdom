@@ -1,0 +1,18 @@
+code: "5.3.5"
+guid: C817AF65-7CC8-4105-A8ED-47067D97B73B
+name: Clothes for special people
+description: >-
+  Use this domain for special clothes worn by special people. It is necessary to think
+  through all the various special types of people in the culture and think of any special
+  clothes worn by them. Several examples are given below, but there are many others.
+questions:
+  - q: What special clothes are worn by police or soldiers?
+    words: uniform, dress uniform, fatigues, camouflage, helmet, beret, cap, gas mask, braid
+  - q: What kinds of uniforms are there?
+    words: police uniform, military uniform, nurse's uniform, band uniform
+  - q: What special clothes are worn by religious people?
+    words: habit (nun), cowl (monk), robe
+  - q: What special clothes are worn by the king?
+    words: purple cloth, crown, royal robes
+  - q: What special clothes are worn by doctors?
+    words: greens, surgical suit, white coat, nurses cap

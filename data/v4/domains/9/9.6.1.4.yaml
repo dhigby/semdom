@@ -1,0 +1,11 @@
+code: "9.6.1.4"
+guid: ECF1CCE7-ED58-44BF-870A-E8579B309C54
+name: Combinative relation
+description: Use this domain for words indicating a combinative relation between two things.
+louwNidaCodes: 89V Combinative Relation
+questions:
+  - q: What words indicate combinative relation?
+    words: with, together with, combined with, mixed with
+    sentence: >-
+      We eat vegetables <with> our rice.; We used mud <mixed with> a little cement to
+      plaster the wall.

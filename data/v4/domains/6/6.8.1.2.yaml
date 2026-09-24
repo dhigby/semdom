@@ -1,0 +1,16 @@
+code: "6.8.1.2"
+guid: C1A70060-BA04-4F16-879E-5563492AEE02
+name: Rich
+description: Use this domain for words related to being rich.
+louwNidaCodes: 57C Be Rich, Be Wealthy
+questions:
+  - q: What words refer to being rich?
+    words: >-
+      be wealthy, be rich, rich person, the rich, the wealth, the upper class, live
+      comfortable, be well-off, well-to-do
+  - q: What words describe someone who is rich?
+    words: rich, wealthy, affluent, prosperous, well-off, privileged
+  - q: What words describe someone who is very rich?
+    words: fabulous wealth, filthy rich, millionaire, billionaire
+  - q: What words refer to someone who has enough but is not rich or poor?
+    words: middle class, bourgeois

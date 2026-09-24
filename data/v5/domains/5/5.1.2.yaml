@@ -1,0 +1,8 @@
+code: "5.1.2"
+guid: A220A734-AF03-4DE3-8D05-369A3CAD14CF
+name: Household decoration
+description: Use this domain for words related to household decorations.
+ocmCodes: 353 Building Interiors and Arrangement; Interior Decoration and Arrangement
+questions:
+  - q: What things are used to decorate a house?
+    words: decoration, picture, frame, calendar, poster, knickknack, flower vase, doily

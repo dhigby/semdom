@@ -1,0 +1,13 @@
+code: "4.3.4.3.1"
+guid: 92E441DF-7E56-4E2C-B205-79A95800F567
+name: Compete with
+description: Use this domain for words related to competing with someone.
+questions:
+  - q: What words refer to competing with someone?
+    words: >-
+      compete with, try to beat, gain an advantage over, oppose, engage, fight, struggle,
+      vie
+  - q: What words refer to a competition?
+    words: competition, contest, championship, tournament, conflict, rivalry
+  - q: What words refer to a person that you compete against?
+    words: competitor, opposition, rival

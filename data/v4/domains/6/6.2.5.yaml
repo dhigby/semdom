@@ -1,0 +1,25 @@
+code: "6.2.5"
+guid: C2630384-2F72-4A96-BAED-3FFF03383362
+name: Harvest
+description: >-
+  Use this domain for words related to harvesting crops. If there is an important crop and
+  there are a lot of words that refer to harvesting it, set up a special domain for it, such
+  as 'Harvest rice' or 'Harvest coconuts'. If there is more than one such crop, set up a
+  separate domain for each of them.
+questions:
+  - q: What words refer to harvesting?
+    words: harvest, reap, gather in the harvest
+  - q: What special words are used for harvesting each crop?
+    words: >-
+      harvest maize, harvest rice, harvest yams, harvest beans, pick fruit, pluck an apple,
+      dig potatoes, pull carrots, cut vegetables
+  - q: What words refer to what is harvested?
+    words: crop, harvest, yield
+  - q: What tools and machines are used to harvest crops?
+    words: harvester
+  - q: What is done to a field after the crops are harvested?
+    words: lie fallow, animals graze, plow under plants
+  - q: What words describe a crop that is ready to harvest?
+    words: ripe
+  - q: What words refer to the time of harvest?
+    words: harvest, harvest time

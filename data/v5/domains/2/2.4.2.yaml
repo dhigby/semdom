@@ -1,0 +1,20 @@
+code: "2.4.2"
+guid: 94AF09FA-FF23-433B-A881-CEACA87D9D18
+name: Weak
+description: Use this domain for words related to being weak.
+louwNidaCodes: 79M Strong, Weak
+questions:
+  - q: What words describe someone who is weak?
+    words: weak, puny, weedy, impotent
+  - q: What words describe someone who is weak because of being old or sick?
+    words: feeble, frail, fragile, shaky, unsteady, infirm, anemic, debilitated, unsound
+  - q: What words describe someone who is weak and who can easily be hurt or get sick?
+    words: vulnerable, defenseless, powerless
+  - q: What words refer to a person's weakness?
+    words: weakness, infirmity, disability, vulnerability
+  - q: What words describe someone who cannot work or run for a long time?
+    words: unfit, not be in shape, be out of condition, be out of shape
+  - q: What words refer to a person who is weak?
+    words: weakling, wimp, invalid, weed
+  - q: What words refer to making someone weaker?
+    words: weaken, debilitate, enfeeble

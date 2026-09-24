@@ -1,0 +1,10 @@
+code: "6.8.9.2"
+guid: D7AE7208-7869-46E3-90C1-676342C3D7AF
+name: Cheat
+description: Use this domain for words related to cheating someone.
+louwNidaCodes: 88S Exploit
+questions:
+  - q: What words refer to cheating someone?
+    words: >-
+      cheat, chisel, deceive, defraud, fraud, greed, impose yourself on, maneuver, scheme,
+      swindle, take someone, trick

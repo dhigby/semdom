@@ -1,0 +1,24 @@
+code: "3.2.5.1.1"
+guid: 691BDBA3-C216-4b42-877C-674BBDB517A7
+name: Trust
+description: >-
+  Use this domain for words referring to trusting someone--believing that someone is honest
+  and will not do something bad to you.
+louwNidaCodes: 31I Trust, Rely
+questions:
+  - q: What words refer to trusting someone?
+    words: trust, believe in, put your trust in, have confidence in
+  - q: What words refer to the feeling that you can trust someone?
+    words: trust, confidence, faith, blind faith
+  - q: What words describe someone that you can trust?
+    words: trustworthy, responsible, trusted
+  - q: What words describe someone who usually trusts other people?
+    words: trusting
+  - q: What words refer to not trusting someone?
+    words: not trust, distrust, be suspicious of, be suspicious of, view someone with suspicion
+  - q: What words refer to the feeling that you cannot trust someone?
+    words: distrust, mistrust, suspicion
+  - q: What words describe someone who cannot be trusted?
+    words: untrustworthy, can't be trusted, not to be trusted
+  - q: What words describe someone who usually does not trust other people?
+    words: distrustful, mistrustful

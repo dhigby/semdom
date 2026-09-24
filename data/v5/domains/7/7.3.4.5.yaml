@@ -1,0 +1,11 @@
+code: "7.3.4.5"
+guid: 5DB1B502-7C36-44FB-A7B4-50744E9EC286
+name: Actions of the hand
+description: Use this domain for the functions and actions of the hand.
+questions:
+  - q: What words refer to moving your hand over something?
+    words: scratch, scratch hard, itch, massage, rub
+  - q: What words refer to trying to find something with your hand?
+    words: feel (for something), grope (in the dark)
+  - q: What other actions are done with the hands?
+    words: tickle, pinch, crack a knuckle, hug, embrace

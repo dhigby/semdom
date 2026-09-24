@@ -1,0 +1,30 @@
+code: "2.6.4.1.1"
+guid: A19E219A-6CC1-4057-A8D9-18554AE88DE1
+name: Care for a baby
+description: Use this domain for words related to caring for a baby.
+ocmCodes: 853 Infant Feeding; 854 Infant Care; 862 Weaning and Food Training
+questions:
+  - q: What words refer to caring for a baby?
+    words: care for, watch, baby-sit
+  - q: What words refer to feeding a baby?
+    words: breastfeed, nurse, feed, wean, suck, suckle
+  - q: What things are used to feed a baby?
+    words: breast milk, milk, bottle, baby food, bib, highchair
+  - q: What words refer to holding a baby?
+    words: hold, cradle (in arms), rock
+  - q: What words refer to comforting a baby when it is crying?
+    words: comfort, soothe, cuddle
+  - q: What words refer to carrying a baby?
+    words: carry in arms, carry on back
+  - q: What things are used to carry a baby?
+    words: baby carriage, pram, stroller, backpack, car seat, carrycot
+  - q: Where are babies put?
+    words: crib, cradle, playpen
+  - q: What words refer to a baby urinating or defecating?
+    words: wet, urinate, defecate, potty
+  - q: What words refer to cleaning a baby?
+    words: change someone's diaper, diaper, nappy, bathe, baby powder, baby lotion
+  - q: What toys are given to a baby?
+    words: rattle, pacifier, dummy
+  - q: What words refer to protecting a baby?
+    words: amulet, evil eye

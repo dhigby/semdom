@@ -1,0 +1,11 @@
+code: "2.5.2.1"
+guid: F0DE6C5A-3DF6-4483-8C63-2D8FCD6C97BE
+name: Malnutrition, starvation
+description: Use this domain for words related to not having enough food.
+questions:
+  - q: What words refer to the condition produced by not having enough food?
+    words: malnutrition, kwashiorkor, anemia, dystrophy, deficiency, anorexia
+  - q: What words refer to dying from lack of food?
+    words: starve, starvation, waste away
+  - q: What words describe someone who doesn't have enough food?
+    words: starving, malnourished, anemic, emaciated

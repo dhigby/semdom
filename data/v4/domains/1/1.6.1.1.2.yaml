@@ -1,0 +1,25 @@
+code: "1.6.1.1.2"
+guid: 56EF3F06-7FB9-462E-A7D0-517F3CE1623F
+name: Carnivore
+description: >-
+  Use this domain for carnivores--meat-eating animals (phylum Chordata, class Mammalia,
+  order Carnivora).
+questions:
+  - q: What general words refer to carnivores?
+    words: carnivore, meat eater, meat eating
+  - q: What animals are in the dog family?
+    words: dog, wolf, coyote, fox, jackal, wild-dog, dingo
+  - q: What animals are in the cat family?
+    words: >-
+      cat, lion, lioness, leopard, leopardess, genet, wild-cat, bobcat, cheetah, tiger,
+      tigress, lynx, wildcat, cougar, panther, puma, jaguar, jaguarundi, ocelot, caracal
+  - q: What animals are in the bear family?
+    words: bear, grizzly, koala, panda, polar bear
+  - q: What animals are in the weasel family?
+    words: weasel, ermine, ferret, marten, mink, otter, polecat, skunk, stoat
+  - q: What animals are in the sable family?
+    words: sable, wolverine
+  - q: What animals are in the civet cat family?
+    words: civet cat, mongoose
+  - q: What other carnivores are there?
+    words: hyena, raccoon, coon

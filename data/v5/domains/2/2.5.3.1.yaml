@@ -1,0 +1,15 @@
+code: "2.5.3.1"
+guid: 5FCADAE4-B4A8-4600-8D30-C4F67986D619
+name: Amputate
+description: >-
+  Use this domain for words related to amputating or losing a limb or other part of your
+  body.
+questions:
+  - q: What words refer to the condition of having lost a limb?
+    words: be an amputee, disfigured
+  - q: What words refer to the event or process that results in losing a limb?
+    words: amputate, amputation, lose a limb, sever, mutilate
+  - q: What words refer to a person who has lost a limb?
+    words: amputee
+  - q: What things are used by a person who has lost a limb?
+    words: artificial limb, wooden leg, peg leg, prosthesis

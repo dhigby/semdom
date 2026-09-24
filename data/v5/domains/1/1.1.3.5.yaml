@@ -1,0 +1,17 @@
+code: "1.1.3.5"
+guid: 380B0D15-77A1-49BA-AD83-A508E7FFB83D
+name: Storm
+description: Use this domain for words related to storms.
+questions:
+  - q: What general words refer to a storm?
+    words: storm, be stormy, stormy weather
+  - q: What types of storms are there?
+    words: >-
+      hurricane, typhoon, cyclone, blizzard, snowstorm, hailstorm, thunderstorm, rainstorm,
+      cloudburst, windstorm, tornado, funnel, whirlwind
+  - q: What words describe the intensity of a storm?
+    words: terrible (storm), howling (blizzard), raging (storm)
+  - q: What words refer to a storm starting?
+    words: break
+  - q: What words refer to a storm stopping?
+    words: die down

@@ -1,0 +1,45 @@
+code: "8.3.3.3.4"
+guid: 536A2D3E-2303-43BC-BF53-379131EB5730
+name: Colors of the spectrum
+description: Use this domain for words describing something that is colored.
+questions:
+  - q: What words refer to all the colors arranged in the spectrum of the rainbow?
+    words: spectrum, rainbow, prism, spectral
+  - q: What words describe a kind of color?
+    words: primary color, secondary color, earth color, warm color, cool color, infrared
+  - q: What are the shades of red?
+    words: >-
+      red, beet-red, blood-red, blush, brick-red, cardinal, carmine, carnelian, cherry,
+      Chinese red, claret, coral, crimson, fiery, fire-red, flame-colored, incarnadine,
+      lobster, lobster-colored, madder, pink, puce, roan, rose, rose-colored, roseate, rosy,
+      rouge, ruby-red, ruddy, scarlet, vermilion, wine
+  - q: What are the shades of orange?
+    words: orange, apricot, cadmium, carrot top, carroty, ocher, peach, salmon, tangerine
+  - q: What are the shades of yellow?
+    words: >-
+      yellow, amber, banana, blond, blonde, canary, chartreuse, chrome yellow, citron,
+      cream, flaxen, gold, golden, goldilocks, jaundice, lemon, saffron, sallow,
+      straw-colored, sulfur, tawny, terracotta, yellow ocher, xanthous
+  - q: What are the shades of green?
+    words: >-
+      green, greenish, apple-green, bottle-green, chlorine, emerald, grass, grass-green,
+      khaki, leaf-green, leek-green, lime-green, olive, pea, pea-green, peacock, sap green,
+      sea-green, topaz, verdant, viridian
+  - q: What are the shades of blue?
+    words: >-
+      blue, azure, baby-blue, beryl-blue, carbuncle, cerulean, cobalt, cyan, cyanic, indigo,
+      lapis lazuli, navy blue, Prussian blue, royal blue, sapphire, sky blue, teal,
+      turquoise, ultramarine
+  - q: What are the shades of purple?
+    words: >-
+      purple, violet, amethyst, crocus, hyacinth, lavender, lilac, liver-colored, magenta,
+      maroon, mauve, mulberry, plum, plum-colored, royal purple
+  - q: What are the shades of brown?
+    words: >-
+      brown, tan, beige, flesh colored, auburn, brunette, buff, chestnut, chocolate,
+      cinnamon, cocoa, coffee, dun, fawn, foxy, hazel, khaki, mahogany, ocher, russet, rust,
+      sepia, sienna, sorrel, umber, walnut
+  - q: What words describe something that looks like metal?
+    words: >-
+      metallic, copper, brass, bronze, bronzed, gilded, gilt, gold, golden, platinum,
+      silver, silvery, steely

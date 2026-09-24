@@ -1,0 +1,11 @@
+code: "6.8.6"
+guid: 43282DE6-51E1-4E52-99FC-D54E2043FB6C
+name: Money
+description: Use this domain for words related to money.
+ocmCodes: 436 Medium of Exchange; 457 Foreign Exchange
+louwNidaCodes: 6K Money and Monetary Units
+questions:
+  - q: What words refer to money?
+    words: >-
+      money, currency, finance, financial, bill, denomination, bread (slang), coin, bill,
+      check, cash

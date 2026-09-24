@@ -1,0 +1,13 @@
+code: "9.6.2"
+guid: B2FD2D29-1389-4114-91A8-15B8D9742794
+name: Dependency relations
+description: Use this domain for words indicating that something is dependent on another thing.
+louwNidaCodes: 89B Dependency
+questions:
+  - q: What words express the fact that something is logically dependent on another?
+    words: >-
+      to depend on, that depends, depend upon, dependency, dependent, hang on, tied to, lean
+      on, stand on, supportive relationship
+    sentence: >-
+      It all <depends>.; This <is dependent on> that.; It all <hangs on> whether we finish
+      on time.; Prosperity <is tied to> government regulations.

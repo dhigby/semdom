@@ -1,0 +1,15 @@
+code: "6.6.4.2"
+guid: 019E3B64-C68A-4B19-BEC5-A22F4EB88F48
+name: Weaving baskets and mats
+description: Use this domain for words related to weaving baskets, mats, and other things.
+ocmCodes: 285 Mats and Basketry
+related: ["6.6.1.4"]
+questions:
+  - q: What words refer to weaving?
+    words: weave
+  - q: What things are woven?
+    words: basket, mat, net, hat
+  - q: What materials are used to weave things?
+    words: reed, palm leaf, rope, string
+  - q: What words refer to woven material?
+    words: network, weaving

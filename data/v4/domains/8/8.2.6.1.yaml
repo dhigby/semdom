@@ -1,0 +1,41 @@
+code: "8.2.6.1"
+guid: BBA30B56-6CD8-4542-81AB-F983CF1354BD
+name: Far
+description: Use this domain for words indicating that something is far from something else.
+louwNidaCodes: 83E At, Beside, Near, Far x
+related: ["8.2.2"]
+questions:
+  - q: What words indicate that something is far from something else?
+    words: >-
+      far, far away, far off, afar, far afield, far and wide, a far cry from, far apart, far
+      removed, distant, be distant, a long distance, in the distance, some distance, a good
+      distance, a ways, way off, a long way (off), a long ways away, a fair way, quite a
+      ways, nowhere near, miles (away), yonder, wide of, clear off, all over, asunder, at
+      arm's length, on the horizon, the ends of the earth, uttermost parts of the earth
+    sentence: It is far from here to there, about a day's journey.
+  - q: What words describe something that is far?
+    words: distant, remote, faraway, out of the way, long-distance, far-flung
+  - q: What words refer to how far something is?
+    words: distance, how far
+  - q: What words indicate that something is far enough so that you cannot do something?
+    words: too far, out of sight, out of range, beyond reach, out of reach, out of hearing
+  - q: What words refer to moving away from someone or something?
+    words: go away, recede
+  - q: What words refer to moving away from a person or vehicle behind you?
+    words: leave behind, leave in the dust
+  - q: What words refer to staying far from something?
+    words: >-
+      not go near, not come near, stay away from, keep away from, keep your distance, keep
+      off, stay back, keep back, remain at a distance, stand off, stand aloof, steer clear
+      of, stand clear of
+  - q: What words refer to a long distance?
+    words: long distance, long haul, long range, a fur piece
+  - q: What words describe a place that is far away from where most people go?
+    words: >-
+      remote, isolated, out of the way, off the beaten track, secluded, miles from anywhere,
+      in the middle of nowhere, way out, backwater, backcountry, boondocks, boonies, hicks,
+      out in the sticks
+  - q: What words indicate that something is farther than something else?
+    words: >-
+      farther, further, beyond, past, on the other side of, farthest, furthest, extreme, in
+      the offing, background

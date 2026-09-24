@@ -1,0 +1,20 @@
+code: "7.2.6.2"
+guid: D7140538-FB99-4AF9-8398-8C31A1B79FB5
+name: Prevent from moving
+description: Use this domain for words referring to preventing someone or something from moving.
+louwNidaCodes: 37A Control, Restrain
+questions:
+  - q: What words refer to preventing someone from moving?
+    words: prevent, immobilize, keep, restrain, control, quarantine, restrict
+  - q: What words refer to preventing someone from moving by holding them?
+    words: hold, hold down, restrain, pin someone down, seize
+  - q: What words refer to preventing someone from moving by tying them?
+    words: handcuff, shackle, tie up, bind, binding
+  - q: What words refer to preventing someone from moving by putting them in an enclosure?
+    words: lock up, cage, confine, contain, corral, shut up, trap
+  - q: What words refer to preventing someone from moving by getting in their way?
+    words: block, check, hem in, blockade, get in the way
+  - q: What things are used to prevent someone from moving?
+    words: handcuffs, shackles, restraint, cage, restraint
+  - q: What words describe someone who is being prevented from moving?
+    words: be under restraint, bound, captive, in confinement, held, limited, restricted

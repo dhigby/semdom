@@ -1,0 +1,13 @@
+code: "2.6.3.6"
+guid: F3D162D7-DA79-4CE4-9610-040F03B57D9D
+name: Unusual birth
+description: Use this domain for words related to an unusual birth.
+ocmCodes: 845 Difficult and Unusual Births
+related: ["2.5.4.5"]
+questions:
+  - q: What words refer to giving birth early?
+    words: be premature
+  - q: What words refer to a difficult birth?
+    words: difficult birth, hard labor
+  - q: What words refer to a mother who dies while giving birth?
+    words: die in childbirth

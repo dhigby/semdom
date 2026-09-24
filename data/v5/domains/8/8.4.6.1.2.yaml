@@ -1,0 +1,28 @@
+code: "8.4.6.1.2"
+guid: 2C42F822-2079-440C-B3B7-7725B6A8DB8B
+name: Stop something
+description: Use this domain for words related to the end of an action or situation.
+questions:
+  - q: What words (intransitive verbs) indicate that something has ended?
+    words: stop, come to rest, halt, come to a screeching halt
+  - q: What words (transitive verbs) indicate that someone is stopping something?
+    words: >-
+      end (something), stop (something), stanch (flow of blood), obstruct (justice), arrest
+      (progress), halt (traffic), impede (progress), inhibit (flow), delay (someone/event),
+      hold up (traffic), detain (someone), discontinue (product), suspend (action),
+      terminate (someone's life), conclude (story), cease (hostilities), desist from (doing
+      something), bring closure to (something), curtail
+  - q: What words refer to the event of stopping?
+    words: halt, standstill, pause, discontinuance, stoppage, stay, closure
+  - q: Where do things typically stop?
+    words: stopping place, station
+  - q: What things are used to stop things?
+    words: brake, catch, skid
+  - q: What do people say when they want someone to stop?
+    words: Halt! Stay! Cease and desist! Belay that order! Avast!
+  - q: What words describe something that you can't stop doing?
+    words: compulsive
+  - q: What words indicate that some state has ended?
+    words: cease, finish, stop
+  - q: What words refer to something stopping gradually?
+    words: fade away, wear off, go away, die away

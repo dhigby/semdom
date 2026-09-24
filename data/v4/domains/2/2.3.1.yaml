@@ -1,0 +1,36 @@
+code: "2.3.1"
+guid: A8568A16-4C3B-4CE4-84A7-B8B0C6B0432F
+name: See
+description: >-
+  Use this domain for words related to seeing something (in general or without conscious
+  choice).
+louwNidaCodes: 24A See
+related: ["2.5.4.1", "8.3.3"]
+questions:
+  - q: What words refer to seeing something?
+    words: >-
+      see, set eyes on, witness, see something with your own eyes, behold, notice, perceive,
+      get an eyeful
+  - q: What words refer to seeing something for a very short time?
+    words: catch sight of, catch a glimpse of, get a look at
+  - q: What words refer to seeing something that you have been looking for?
+    words: spot, sight, observe
+  - q: What words refer to seeing something with difficulty?
+    words: make out, distinguish
+  - q: What words refer to the ability to see?
+    words: sight, sense of sight, vision, eyesight
+  - q: What words refer to someone who sees something?
+    words: observer, beholder, witness, eyewitness, onlooker, spectator, viewer
+  - q: What words refer to something that is seen?
+    words: sight, view, scene, scenery, picture, show, spectacle, vision, vista, panorama
+  - q: What words refer to an occasion of seeing?
+    words: sight, at first sight, your first sight of
+  - q: What words describe how well a person can see?
+    words: >-
+      blind, astigmatism, clear-eyed, clear-sighted, cross-eyed, eyesight, good eyesight,
+      poor eyesight, farsighted, lynx-eyed, myopia, myopic, nearsighted, purblind,
+      sightless, visionless
+  - q: What words refer to doing something so that someone can't see?
+    words: blindfold, blind, dazzle, block someone's view
+  - q: What words describe something that has to do with seeing?
+    words: seeing, optic, optical, visual

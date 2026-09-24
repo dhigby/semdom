@@ -1,0 +1,19 @@
+code: "4.9.5.6"
+guid: B790470F-ED4E-42AC-932D-CD15EF701B03
+name: Religious purification
+description: Use this domain for words related to religious purification.
+ocmCodes: >-
+  783 Purification and Atonement; Purification and Expiation; 783 Purification and
+  Expiation; 688 Religious Offenses
+louwNidaCodes: 88C Holy, Pure; 53C Purify, Cleanse; 53D Defiled, Unclean, Common; 53E Baptize
+questions:
+  - q: What words refer to purifying someone or something for religious purposes?
+    words: >-
+      purify, purification, cleanse, cleansing, wash, washing, sprinkle, sprinkling,
+      baptize, baptism
+  - q: What words describe something that has been purified?
+    words: be pure, undefiled, unpolluted, washed, sprinkled
+  - q: What words describe something that has not been purified?
+    words: be impure, defiled, polluted, unwashed
+  - q: What words refer to something that causes impurity?
+    words: impurity, defilement, pollution

@@ -1,0 +1,13 @@
+code: "5.1.1"
+guid: 44BF22FD-3725-4C49-BD3C-434402C33493
+name: Furniture
+description: Use this domain for words related to furniture.
+ocmCodes: 352 Furniture
+louwNidaCodes: 6O Furniture
+questions:
+  - q: What general words refer to furniture?
+    words: furniture, piece of furniture, set of furniture
+  - q: What words refer to putting furniture in a house?
+    words: furnish
+  - q: What words refer to floor coverings?
+    words: carpet, rug, mat

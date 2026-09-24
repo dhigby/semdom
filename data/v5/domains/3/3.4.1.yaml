@@ -1,0 +1,19 @@
+code: "3.4.1"
+guid: 474AA982-8350-47E2-A983-E1E2BCE9D928
+name: Feel good
+description: Use this domain for general words related to positive emotions.
+questions:
+  - q: What words refer to feeling good?
+    words: feel good, feel up
+  - q: What words refer to good feelings?
+    words: good feelings, positive emotions, good attitude
+  - q: What words describe someone who feels good?
+    words: up, high
+  - q: What words refer to feeling very good?
+    words: exhilarated
+  - q: What words refer to feeling good for a long time?
+    words: happy
+  - q: What words refer to causing someone to feel good?
+    words: cheer, hearten, entertain, brighten your day
+  - q: What words describe something that causes someone to feel good?
+    words: cheerful (thought)

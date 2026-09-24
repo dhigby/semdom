@@ -1,0 +1,12 @@
+code: "8.4.8"
+guid: DF149819-608F-46CD-BA0F-55F1D9D2E8EC
+name: Speed
+description: >-
+  Use this domain for words referring to the speed at which a person acts or the speed at
+  which something happens.
+louwNidaCodes: 68G Rapidity, Suddenness
+questions:
+  - q: What words refer to the speed at which a person acts?
+    words: speed, velocity, pace
+  - q: What words are used to indicate the speed of something?
+    sentence: miles <per> hour

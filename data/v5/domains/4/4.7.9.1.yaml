@@ -1,0 +1,7 @@
+code: "4.7.9.1"
+guid: 38BDFF04-C7A9-41FA-A6A2-7AA214DE308C
+name: Impartial
+description: Use this domain for words related to being impartial.
+questions:
+  - q: What words describe a person who treats other people equally?
+    words: be impartial, fair, consistent, equal treatment, impartial, impartiality

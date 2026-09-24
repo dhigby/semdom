@@ -1,0 +1,16 @@
+code: "8.3.2.5"
+guid: C8AEA8B2-4088-4D20-A0D2-45C2AD974EE1
+name: Furrow
+description: >-
+  Use this domain for words related to a furrow--a long mark cut into the surface of
+  something, such as the furrow made by a plow, or a long cut made by a knife.
+louwNidaCodes: 1H Depressions and Holes
+questions:
+  - q: What words refer to a furrow?
+    words: >-
+      furrow, groove, rut, scratch, crack, score, incision, slit, chamfer, channel, gutter,
+      trench, ditch, moat, trough, seam, line, fold, wrinkle
+  - q: What words refer to making a furrow?
+    words: furrow, plow, incise, score, cut, seam, cut a channel, engrave, etch, bite in
+  - q: What words describe something with many furrows?
+    words: furrowed, ribbed, striated, fluted, corduroy, corrugated, rippled, washboard, wrinkled

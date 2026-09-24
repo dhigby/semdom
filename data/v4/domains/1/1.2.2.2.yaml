@@ -1,0 +1,21 @@
+code: "1.2.2.2"
+guid: 0F07ADB7-4387-4723-9800-8362E825AD45
+name: Rock
+description: Use this domain for words referring to rock.
+louwNidaCodes: 2E Earth, Mud, Sand, Rock
+related: ["6.6.2.7"]
+questions:
+  - q: What general words refer to a rock?
+    words: rock, stone, bedrock
+  - q: What words refer to the size of a rock?
+    words: crag, rocky outcropping, boulder, rock, stone, pebble, gravel, sand, grit, powder
+  - q: What types of rocks are there?
+    words: >-
+      granite, sedimentary, igneous, metamorphic, pumice, shale, quartz, flint, marble,
+      slate, chalk, sandstone
+  - q: What words describe rocks?
+    words: hard, soft, sharp, smooth
+  - q: What words describe ground with lots of rocks in it?
+    words: rocky, stony
+  - q: What words refer to a piece of rock?
+    words: block, slab

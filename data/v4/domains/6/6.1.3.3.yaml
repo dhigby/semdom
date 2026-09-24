@@ -1,0 +1,9 @@
+code: "6.1.3.3"
+guid: A764174F-CCB7-48B1-ADD7-158BC89A5E81
+name: Fail
+description: Use this domain for words related to failing to do something.
+questions:
+  - q: What words refer to failing to do a task?
+    words: fail, unsuccessful, not make it
+  - q: What words refer to someone who has failed?
+    words: failure

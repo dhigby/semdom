@@ -1,0 +1,7 @@
+code: "6.1.2.2.3"
+guid: 34DD26B6-D081-42F5-8BE9-C5FE7A7253B2
+name: Available
+description: Use this domain for words related to something being available to use.
+questions:
+  - q: What words refer to something being available for use?
+    words: available, obtainable, at your disposal

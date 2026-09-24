@@ -1,0 +1,11 @@
+code: "6.7.3"
+guid: 62964BAF-FEA6-4D8E-8509-D312BFF8761A
+name: Carrying tool
+description: Use this domain for words related to carrying tools.
+related: ["7.3.1"]
+questions:
+  - q: What tools are used for carrying things?
+    words: >-
+      pole, pack, backpack, suitcase, case, briefcase, sling, stretcher, tray, grass ring
+      for head, carrying basket for back, rope, string, liana
+  - q: What words are used to describe the actions done with these tools?

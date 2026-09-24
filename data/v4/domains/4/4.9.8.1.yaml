@@ -1,0 +1,10 @@
+code: "4.9.8.1"
+guid: B97531DF-8256-4796-8335-F69753A8F2E3
+name: Idol
+description: Use this domain for words related to idols and their use.
+louwNidaCodes: 6M Images and Idols
+questions:
+  - q: What words refer to an object that represents a god?
+    words: idol, image, icon
+  - q: What words refer to the practice of making and worshiping idols?
+    words: idolatry

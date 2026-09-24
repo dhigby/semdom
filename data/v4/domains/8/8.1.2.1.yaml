@@ -1,0 +1,23 @@
+code: "8.1.2.1"
+guid: 8BDF4847-903B-4AF6-9553-3CFAB65DE516
+name: Mathematics
+description: Use this domain for words related to mathematics and arithmetic--the study of numbers.
+ocmCodes: 803 Mathematics
+questions:
+  - q: What words refer to mathematics?
+    words: mathematics, math, arithmetic, geometry, algebra, calculus, trigonometry, statistics
+  - q: What words refer to determining the amount of something?
+    words: calculate, work out, figure out, make, figure, compute, solve
+  - q: What words indicate the answer in an equation?
+    words: is, equals, get
+    sentence: >-
+      Two plus two <is> four.; Two added to two <equals> four.; If you add two and two, you
+      <get> four.
+  - q: What words refer to the answer to a mathematical problem?
+    words: answer, solution
+  - q: What words are used to talk about mathematics?
+    words: problem, equation, square root, squared, graph, axis
+  - q: What words refer to a person who studies mathematics?
+    words: mathematician, statistician
+  - q: What instruments are used to do mathematics?
+    words: calculator, computer, abacus, slide rule

@@ -1,0 +1,14 @@
+code: "7.3.3"
+guid: E931DA8A-EFC1-46CB-836A-72FBA4A1EB4F
+name: Take somewhere
+description: Use this domain for words referring to taking something or someone somewhere.
+louwNidaCodes: 15W Lead, Bring, Take
+questions:
+  - q: What words refer to taking someone somewhere?
+    words: take, bring, escort, whisk someone away
+  - q: What words refer to taking something somewhere?
+    words: take, bring, deliver, transport
+  - q: What words refer to taking someone somewhere?
+    words: lead, guide
+  - q: What words refer to taking an animal somewhere?
+    words: lead, herd

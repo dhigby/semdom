@@ -1,0 +1,23 @@
+code: "4.3.6.3"
+guid: 9A9C7174-4148-43C2-875C-0D2F884A5FE3
+name: Untidy
+description: >-
+  Use this domain for words related to being untidy--to not keep your things tidy and
+  orderly.
+questions:
+  - q: What words describe someone who is untidy?
+    words: untidy, messy, slovenly, slob, disorderly
+  - q: What words describe someone whose clothes and hair are untidy?
+    words: untidy, scruffy, unkempt, disheveled, bedraggled
+  - q: What words refer to making something untidy?
+    words: make a mess, mess something up, clutter, ransack, leave something lying about
+  - q: What words refer to the quality of being untidy?
+    words: untidiness, messiness, disorderliness
+  - q: What words refer to a place that is untidy?
+    words: dump, pigsty
+  - q: What words describe something that is untidy?
+    words: >-
+      untidy, messy, be a mess, bedraggled, careless, cluttered, disheveled, frowzy,
+      rumpled, slatternly, slovenly, be all in a muddle
+  - q: What words refer to things that are scattered around a place and make it look untidy?
+    words: mess, clutter

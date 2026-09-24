@@ -1,0 +1,14 @@
+code: "3.5.1.5.3"
+guid: 16DBD62C-F60D-4530-BA4E-0E74221E4681
+name: Hide your thoughts
+description: Use this domain for words related to hiding your thoughts.
+questions:
+  - q: What words refer to hiding information?
+    words: >-
+      hide, not show, conceal, keep secret, cover up, suppress, repress, disguise, mask, put
+      on a brave face, bottle something up, be non-committal, sweep something under the rug,
+      cover your tracks
+  - q: What words describe something that is hidden?
+    words: cover-up, whitewash, hidden, suppressed, repressed, disguised, veiled, secret, secrecy
+  - q: What words refer to something that is used to hide something?
+    words: cover, front, smokescreen, blind

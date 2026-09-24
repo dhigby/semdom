@@ -1,0 +1,16 @@
+code: "4.6.2.1"
+guid: D2F516F4-DF1C-44F6-8704-76DD52201317
+name: Foreigner
+description: >-
+  Use this domain for words related to a foreigner--a person who visits or lives in a
+  country but is not a citizen.
+related: ["9.7.1.4", "9.7.2.1", "4.1.9.9"]
+questions:
+  - q: What words refer to a foreigner?
+    words: foreigner, immigrant, alien, expatriate, outsider
+  - q: What words refer to a person you don't know?
+    words: stranger
+  - q: What words describe something from a foreign country?
+    words: foreign, overseas
+  - q: What words indicate that someone is in or going to a foreign country?
+    words: abroad, overseas

@@ -1,0 +1,7 @@
+code: "5.4.3.1"
+guid: FC1E4EA7-15FA-4BBF-8697-F312762504BA
+name: Comb hair
+description: Use this domain for words related to combing your hair.
+questions:
+  - q: What words refer to combing the hair?
+    words: to comb, comb, brush, pick, tangle, snarl, rats nest

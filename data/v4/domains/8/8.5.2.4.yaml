@@ -1,0 +1,11 @@
+code: "8.5.2.4"
+guid: E0AD6BB1-D422-408A-83F8-F1A7661ED225
+name: Up
+description: Use this domain for words referring to the direction up.
+questions:
+  - q: What words refer to the direction up?
+    words: up, upwards, upward, uphill, upstairs, higher and higher, up and down
+  - q: What words describe something that is facing or pointing upwards?
+    words: face-up
+  - q: What words indicate that a path or road goes upward?
+    words: go up, climb, rise

@@ -1,0 +1,30 @@
+code: "1.6.2"
+guid: FFD0547E-E537-4614-AC3F-6D8CD3351F33
+name: Parts of an animal
+description: Use this domain for the parts of animals, especially those of mammals.
+ocmCodes: 136a Parts
+questions:
+  - q: What general words refer to the parts of an animal?
+    words: animal body parts
+  - q: What are the parts of the head?
+    words: >-
+      head, ear, eye, nose, muzzle, maw, snout, trunk (of an elephant), proboscis, mouth,
+      tooth, fang, tusk, tongue, neck, horn, antler, dewlap
+  - q: What are the parts of the torso?
+    words: >-
+      chest, back, belly, rump, croup, tail, switch, udder, flank, brisket, teat,
+      hindquarters
+  - q: What are the parts of the legs?
+    words: >-
+      foreleg, forefoot, forepaw, forelimb, hind leg, hind limb, hoof, paw, claw, hock,
+      fetlock, haunch, pastern, shank, stifle
+  - q: What are the parts of the skin and hair?
+    words: >-
+      fur, wool, fleece, forelock, mane, hide, skin, meat, pelt, whisker, sheepskin,
+      goatskin, leather
+  - q: What are the internal parts of an animal?
+    words: >-
+      skull, second stomach (for cows, goats, sheep), spinal cord, lung, heart, small
+      intestine, large intestine, liver, gall bladder, pancreas, kidney
+  - q: What are the parts of sea mammals?
+    words: whale flukes, flipper, blubber, baleen, blow hole

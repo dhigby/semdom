@@ -1,0 +1,13 @@
+code: "4.4.4.7"
+guid: 290F0994-CE8E-4922-975F-FA091F566823
+name: Relief
+description: Use this domain for words related to relief.
+louwNidaCodes: 22E Relief from Trouble
+questions:
+  - q: What words refer to relieving someone?
+    words: >-
+      relieve someone's suffering, bring relief, give relief, allay, alleviate, assuage,
+      ease someone's load, lighten someone's load, mitigate, bring respite, soften the blow,
+      soothe
+  - q: What words refer to relief from trouble?
+    words: relief

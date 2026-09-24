@@ -1,0 +1,13 @@
+code: "9.4.4.8"
+guid: CA495E57-A8E0-4294-BFE3-7B7995DC96C7
+name: Don't think so, doubt it
+description: >-
+  Use this domain for words indicating that you think something is unlikely to be true or to
+  happen.
+questions:
+  - q: >-
+      What words indicate that you think it is very unlikely that something is true or will
+      happen?
+    words: >-
+      don't think, doubt, be doubtful, be dubious, I'd be surprised if, I think not, I
+      wouldn't have thought so

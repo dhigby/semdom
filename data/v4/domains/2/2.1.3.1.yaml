@@ -1,0 +1,15 @@
+code: "2.1.3.1"
+guid: C2F01AA8-9F94-43C9-9ADA-B1E4A60ABA07
+name: Arm
+description: Use this domain for the parts of the arm.
+questions:
+  - q: What words refer to the arm?
+    words: arm
+  - q: What are the parts of the arm?
+    words: >-
+      shoulder, armpit, upper arm, elbow, funny bone (nerve in elbow), forearm, lower arm,
+      wrist
+  - q: What words refer to the hand?
+    words: hand, right hand, left hand, heel of hand, palm, back of hand
+  - q: What words refer to a part of an arm when it is in a particular position?
+    words: crook (of the arm when it is bent), fist

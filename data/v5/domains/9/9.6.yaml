@@ -1,0 +1,47 @@
+code: "9.6"
+guid: 7F7FC197-5064-43C0-AF51-2919FB7355C9
+name: Connected with, related
+description: >-
+  Use the domains in this section for words that indicate a logical relation between two or
+  more words or sentences. Use this domain for words that indicate an unspecified logical
+  relation between people, things, or situations.
+louwNidaCodes: 89 Relations; 89A Relation
+questions:
+  - q: What words indicate that two things or situations are connected somehow?
+    words: >-
+      be connected (with), be related (to), be linked (with), be associated (with), there is
+      a link between, there is a connection between, be bound up with, go hand in hand,
+      relate, relation, be a relationship between, relationship, have something to do with,
+      be something to do with, be intertwined, tied, pertain, be relative to
+    sentence: >-
+      What is the <relation> between the two?; How are they <related>?; The <relationship>
+      is complex.; What does this <have to do with> that?; The two <are related> somehow,
+      but I don't know in what way.; The distance an arrow flies <is related to> the angle
+      at which you shoot.; My science class and the smell of sulfur will forever <be
+      associated> in my mind.; I don't see the <connection>.; There must be some sort of
+      <correlation> between them.; I'm sure there is <a link between> the two, but I haven't
+      found it yet.
+  - q: What words indicate that two people are connected somehow?
+    words: be connected with, have links, have connections with, be linked with
+  - q: >-
+      What words indicate that two things are connected because they are similar in some
+      way?
+    words: related, associated, allied
+  - q: What words indicate that several things are connected somehow?
+    words: interconnected, interrelated
+  - q: What words refer to showing that there is a connection between two things?
+    words: >-
+      connect, link, associate, make a connection, establish a link, establish a connection,
+      relate, correlate
+  - q: What words refer to something that connects two things?
+    words: >-
+      connection, relationship, link (between), point of contact, association, tie,
+      relation, correlation, interplay
+  - q: What words indicate that there is no connection between two things?
+    words: no connection, unrelated, unconnected
+  - q: >-
+      What words indicate that something someone says has no connection with the topic being
+      discussed?
+    words: >-
+      irrelevant, be beside the point, have nothing to do with, be nothing to do with, be
+      neither here nor there, doesn't come into it, be a red herring

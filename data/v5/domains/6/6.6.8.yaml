@@ -1,0 +1,16 @@
+code: "6.6.8"
+guid: F1373316-7917-4DCA-9D33-C6B520BD4034
+name: Working with machines
+description: Use this domain for words related to working with machines.
+ocmCodes: >-
+  390 Capital Goods Industry; 391 Hardware Manufacture; 392 Machine Industries; 393
+  Electrical Supplies Industry; 394 Manufacture of Heating and Lighting Appliances; 395
+  Manufacture of Optical and Photographic Equipment; 396 Shipbuilding; 397 Railway Equipment
+  Industry; 398 Manufacture of Vehicles; 399 Aircraft Industry; 719 Munitions Industries
+questions:
+  - q: What words refer to working with machines?
+    words: manufacturing, operate
+  - q: What words refer to machines?
+    words: machine, machinery, hardware, computer
+  - q: What words refer to a person who works with machines?
+    words: mechanic, machinist, operator, engineer

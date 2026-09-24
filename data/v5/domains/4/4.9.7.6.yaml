@@ -1,0 +1,9 @@
+code: "4.9.7.6"
+guid: F211DEFE-D80F-4E40-9842-AF19CB0719E7
+name: Judaism
+description: Use this domain for words used in Judaism.
+questions:
+  - q: What words are used to talk about Judaism?
+    words: >-
+      Judaism, Jew, Jewish, Israel, Torah, Mishna, rabbi, synagogue, kosher, Passover,
+      Hanukkah, Messiah, Mosaic Law

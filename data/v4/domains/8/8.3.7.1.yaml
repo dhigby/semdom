@@ -1,0 +1,11 @@
+code: "8.3.7.1"
+guid: AECF2AAD-B7A4-444F-9B13-64BC534126D2
+name: Bad
+description: Use this domain for words describing something bad.
+louwNidaCodes: 88O Bad, Evil, Harmful, Damaging
+related: ["4.3.1.1"]
+questions:
+  - q: What words describe something that is bad in quality?
+    words: >-
+      bad, no good, lousy, unpleasant, cheap, severe, terrible, abject, mean, low, base,
+      infamous, ignoble, irregular

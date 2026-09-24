@@ -1,0 +1,29 @@
+code: "8.1.8.1"
+guid: E9CAFABE-F0F7-4142-A6F6-D1C94BDC4B5C
+name: Empty
+description: Use this domain for words referring to being empty.
+louwNidaCodes: 59D Full, Empty
+related: ["8.5.3.1"]
+questions:
+  - q: What words describe something that is empty?
+    words: empty, blank, devoid, hollow, clear, cleaned out, barren, drained, dry
+  - q: What words describe a place that has no people in it?
+    words: >-
+      empty, bare, deserted, desolate, ghost town, wasteland, uninhabited, lonely, vacant,
+      free, unoccupied
+  - q: What words indicate that no one is in a place?
+    words: nobody present, no one here, no one there, not a soul, nary a one
+  - q: What words refer to something that is empty?
+    words: empties, blank (n), space, vacuum, the void, vacancy
+  - q: What words refer to something becoming empty?
+    words: empty (v), drain
+  - q: What words refer to making something empty?
+    words: empty (v), drain, turn out, clear (v), dump out, clean out
+  - q: What words describe something that has been made empty?
+    words: emptied, depleted
+  - q: What words refer to the state of being empty?
+    words: emptiness
+  - q: What words describe something that is almost empty?
+    words: almost empty, not quite empty
+  - q: What words refer to something being partly empty?
+    words: half empty

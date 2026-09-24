@@ -1,0 +1,7 @@
+code: "6.1.2.2.5"
+guid: 424CED39-D801-419A-86FE-265942A9B74B
+name: Take care of something
+description: Use this domain for words related to taking care of something.
+questions:
+  - q: What words refer to taking care of something?
+    words: take care of, look after, maintain

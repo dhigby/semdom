@@ -1,0 +1,23 @@
+code: "4.3.1.4"
+guid: CB783AD9-4650-416E-BF63-88C4CA43FE6A
+name: Reputation
+description: >-
+  Use this domain for words related to having a good reputation--when most people think well
+  of someone because he does good things and doesn't do bad things.
+questions:
+  - q: What words refer to a person's reputation?
+    words: reputation, standing, image, name, character
+  - q: What words describe someone who has a good reputation?
+    words: reputable, of repute, prestigious
+  - q: What words refer to having a good reputation?
+    words: >-
+      have a good reputation, have a reputation for, be of good repute, be well thought of,
+      have a good name
+  - q: What words refer to a good reputation?
+    words: good reputation, prestige, stature
+  - q: What words refer to hurting someone's reputation?
+    words: >-
+      harm someone's reputation, damage someone's reputation, give someone a bad name, bring
+      someone into disrepute, discredit, bring discredit on
+  - q: What words refer to having a bad reputation?
+    words: have a bad reputation, be of evil repute, be poorly thought of, have a bad name

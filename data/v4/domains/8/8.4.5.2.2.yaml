@@ -1,0 +1,25 @@
+code: "8.4.5.2.2"
+guid: 9F8B8C01-F790-469F-BC37-DECE6227E276
+name: At the same time
+description: Use this domain for words referring to two things happening at the same time.
+louwNidaCodes: '67G Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout'
+questions:
+  - q: What words indicate that two things happen at the same time?
+    words: >-
+      at the same time, together, at one time, at once, simultaneously, at the same instant,
+      in concert, in unison
+  - q: What words indicate that something happens at the same time as something else?
+    words: >-
+      at the same time as, meanwhile, while, as, -ing, simultaneity, concurrently,
+      coincident
+    sentence: >-
+      John went out to the garden, carry<ing> his hoe and shovel.; Mary bought food, <while>
+      John got gas for the car.
+  - q: What words refer to two things happening at the same time?
+    words: coincide, clash
+  - q: What words refer to arranging two events so that they happen at the same time?
+    words: synchronize, tie something in with
+  - q: What words describe things that happen at the same time?
+    words: simultaneous, synchronized, parallel, synchronous, contemporaneous, concurrent
+  - q: What words refer to two people that lived at the same time?
+    words: contemporary, be a contemporary of someone, be contemporaries

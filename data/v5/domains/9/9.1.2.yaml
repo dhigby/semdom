@@ -1,0 +1,24 @@
+code: "9.1.2"
+guid: E28F3F79-D4A5-402C-8A70-196856791078
+name: Do
+description: Use this domain for general verbs with a volitional subject (agent).
+louwNidaCodes: 42 Perform, Do; 42A Function; 42B Do, Perform
+questions:
+  - q: What general words refer to someone doing something?
+    words: >-
+      do, act, actuate, behave, accomplish, achieve, attain, conduct, effectuate, engage in,
+      execute, exercise, exert, function, give, go about, dabble in, implement, manage,
+      perform, practice, progress, undertake, up to, use, utilize, work, operate, be
+      involved in
+  - q: What words refer to the thing that is done?
+    words: >-
+      deed, thing to do, something to do, what you do, act (n), action, activity, event,
+      behavior, accomplishment, achievement, attainment, execution, exercise, function (n),
+      job, implementation, measure, performance, practice (n), task, undertaking, work (n),
+      workmanship, feat, exploits, operation
+  - q: What words refer to the person doing something?
+    words: achiever, actor, doer, performer, agent
+  - q: What words describe someone who is doing something?
+    words: active, in action
+  - q: How do you ask someone what he is doing?
+    words: What are you doing? What are you up to? What do you think you are doing?

@@ -1,0 +1,9 @@
+code: "4.4.3.4"
+guid: A90E47FB-667C-46F7-BEAB-5EC4E9E6EDB5
+name: Caution
+description: Use this domain for words related to being cautious.
+questions:
+  - q: What words describe a person who is cautious?
+    words: cautious, caution, careful
+  - q: What words describe a person who is not cautious?
+    words: incautious, rash, impetuous

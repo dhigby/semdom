@@ -1,0 +1,23 @@
+code: "5.7.3"
+guid: 2158EB7D-EB59-4740-9628-9080D7F51A97
+name: Wake up
+description: Use this domain for words related to waking up from sleep.
+questions:
+  - q: What words refer to waking up?
+    words: wake up, come to, awaken, come out of a deep sleep, be startled out of sleep
+  - q: What words refer to someone waking someone else up?
+    words: wake (someone) up, get (someone) up, rouse
+  - q: What do people do to wake someone up?
+    words: call, shake, dump water on him
+  - q: What do people say to wake someone up?
+    words: Time to get up. Rise and shine. Hey, sleepyhead.
+  - q: What means do people use to wake themselves up?
+    words: alarm clock, wake up call, rooster
+  - q: What do people do after they wake up?
+    words: get up, get out of bed
+  - q: What words describe not being asleep?
+    words: be awake
+  - q: What words are used of not being able to sleep?
+    words: toss and turn, couldn't sleep, lay awake, insomnia, insomniac, sleep disorder
+  - q: What words are used of not wanting to sleep?
+    words: stay awake, be alert, stay up

@@ -1,0 +1,14 @@
+code: "3.5.3.2"
+guid: 4A388000-D5C6-4127-91CD-F4E0C9FAC6F1
+name: Information
+description: >-
+  Use this domain for words referring to information--something someone says about
+  something.
+louwNidaCodes: 33O Inform, Announce
+questions:
+  - q: What words refer to information?
+    words: information, info, content, facts, details, particulars, data
+  - q: What words refer to an organized collection of information?
+    words: file, record, dossier, database
+  - q: What words describe something that gives a lot of information?
+    words: informative

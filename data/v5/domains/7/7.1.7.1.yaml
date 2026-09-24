@@ -1,0 +1,12 @@
+code: "7.1.7.1"
+guid: 8E65904C-F9E9-4E12-B430-C1DDC540F1AE
+name: Relaxed posture
+description: Use this domain for words describing a relaxed posture.
+related: ["3.4.1.2.1"]
+questions:
+  - q: What words refer to a relaxed posture?
+    words: >-
+      relaxed (posture), (stand/be) at ease, be a slouch, slouch around, lounge, sprawl,
+      droop, sag, loll
+  - q: What words refer to changing your posture so that it is relaxed?
+    words: relax (your posture), slouch, lean back, slump

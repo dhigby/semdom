@@ -1,0 +1,12 @@
+code: "6.1.2.2.2"
+guid: 29D131D2-5E52-49E3-83B1-C872D331CF03
+name: Useless
+description: >-
+  Use this domain for words related to being useless--words describing something that cannot
+  be used to do anything.
+louwNidaCodes: 65D Useful, Useless; 65E Advantageous, Not Advantageous
+questions:
+  - q: What words describe something that is useless?
+    words: useless, be of no use, be no use, be no good, unhelpful, be of no help, be no help
+  - q: What words refer to something that is useless?
+    words: junk, garbage

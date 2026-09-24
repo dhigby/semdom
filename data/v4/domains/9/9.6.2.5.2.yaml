@@ -1,0 +1,18 @@
+code: "9.6.2.5.2"
+guid: BE3559D9-D69F-4E06-8184-071C35AA2E10
+name: Without cause
+description: >-
+  Use this domain for words that indicate that an event or state has no cause or reason, or
+  is unreasonable (has insufficient cause).
+louwNidaCodes: 89G Cause and/or Reason
+questions:
+  - q: What words indicate that something has no cause or reason?
+    words: without cause, unreasonable, without basis, absurd, for no reason, by itself
+    sentence: He did it <for no reason>.; There is <no basis> for your claim.
+  - q: What words indicate that something is contrary to reason?
+    words: contrary to reason, absurd
+    sentence: >-
+      It is <unreasonable> to assume that anything will come of this.; What you are saying
+      is <ridiculous>.
+  - q: What words indicate that something is self-caused?
+    sentence: The door opened <by itself>.; Goodness <is its own reason>.

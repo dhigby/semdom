@@ -1,0 +1,25 @@
+code: "8.1.2"
+guid: C0D903BF-6502-45DD-9DD8-CFF7F022C696
+name: Count
+description: >-
+  Use this domain for words related to counting--to say the numbers in order, or to use
+  numbers to find an amount.
+questions:
+  - q: What words refer to saying the numbers in order?
+    words: count, countdown, say your numbers
+  - q: What words refer to counting the number of something?
+    words: >-
+      count, count up, at the last count, keep count, keep track, keep a tally of,
+      enumerate, enumeration
+  - q: What words refer to determining the amount of something without being exact?
+    words: estimate, assess, reckon
+  - q: What words refer to determining the quantity of something a second time?
+    words: recount, renumber
+  - q: What words refer to making a mistake when you count?
+    words: miscalculate, miscount, lose count
+  - q: What words refer to the number or amount of something that is counted?
+    words: calculation, sum, estimate, estimation, count (n)
+  - q: What words refer to assigning a number to each thing in a series?
+    words: number, assign a number, count off
+  - q: What words describe an amount that cannot be counted?
+    words: innumerable, unnumbered, uncountable, uncounted, countless

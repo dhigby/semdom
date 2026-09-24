@@ -1,0 +1,33 @@
+code: "8.4.5.1.2"
+guid: F352A437-58F2-4920-AEC3-EDA8041F7447
+name: First
+description: >-
+  Use this domain for words referring to something happening first--to be before all other
+  things in order or time.
+questions:
+  - q: What words describe something that is first in order or time?
+    words: first, original, initial, earliest, inaugural, prime
+  - q: What words indicate an event or action that is first?
+    words: first (adv), first of all, beginning with, starting with
+  - q: What words indicate that something happened when you first saw something?
+    words: at first sight, at first glance
+  - q: >-
+      What words indicate that something is the first in a list of things that you will talk
+      about?
+    words: firstly, first of all, to start with, to begin with, in the first place
+  - q: What words indicate that something happens or is done for the first time?
+    words: first, the first time
+  - q: What words refer to the first time someone does something?
+    words: debut, premiere, maiden (voyage)
+  - q: What words describe something that has never happened before?
+    words: unprecedented, a first
+  - q: What words refer to doing something that has never been done before?
+    words: be the first to do something, show the way, lead the way, pioneer, break new ground
+  - q: >-
+      What words refer to being the first person to do something in a situation instead of
+      waiting for someone else?
+    words: make the first move, take the initiative
+  - q: What words refer to the person who did something first?
+    words: pioneer, the first
+  - q: What words refer to something that is the first of its kind?
+    words: prototype, original (n)

@@ -1,0 +1,27 @@
+code: "8.2.3.1"
+guid: 627280F0-4F98-4B31-AD23-EABE37B002AD
+name: Thin thing
+description: Use this domain for words describing something that is thin.
+louwNidaCodes: 81D Narrow, Wide
+related: ["8.2.3.3"]
+questions:
+  - q: What words describe something that is thin?
+    words: thin, slender, slight, stringy
+  - q: What words describe something like a branch or rope that is thin?
+    words: thin, spindly
+  - q: What words describe something like thread that is thin?
+    words: fine, fibrous, fine-spun
+  - q: What words describe something that is thin and flat?
+    words: thin, paper-thin, wafer-thin, slim
+  - q: What words describe something like cloth or paper that is thin?
+    words: thin, fine, light, lightweight
+  - q: What words describe something that is thin and weak?
+    words: flimsy, tenuous
+  - q: What words refer to something becoming thin?
+    words: get thinner, grow thinner
+  - q: What words refer to making something thin?
+    words: taper
+  - q: What words refer to being thinner than another thing?
+    words: thinner, thinnest
+  - q: What words describe something that is thin on one side or end?
+    words: tapering

@@ -1,0 +1,27 @@
+code: "1.5.6"
+guid: D2CA3194-E393-480E-AE1D-DD67BED55227
+name: Growth of plants
+description: Use this domain for words related to the growth of plants.
+ocmCodes: 137b Growth Stages
+louwNidaCodes: 23K Grow, Growth; 23L Ripen, Produce Fruit, Bear Seed
+questions:
+  - q: What words refer to the growth of plants?
+    words: >-
+      grow, growth, branch out, put down roots, spread, develop, extend, flourish, spring,
+      swell, thrive, photosynthesis
+  - q: What words refer to a seed beginning to grow?
+    words: germinate, sprout, spring up, seedling
+  - q: What words refer to a plant producing leaves?
+    words: bud, leaf out, produce leaves
+  - q: What words refer to a plant bearing seeds or fruit?
+    words: >-
+      flower, blossom, bear fruit, produce fruit, fruitful, head, drop seeds, pollinate,
+      yield
+  - q: What words refer to seeds and fruit being ripe?
+    words: green, unripe, immature, mature, mellow, ripen, ripe
+  - q: What words describe how plants grow?
+    words: spread, run (of vines), entwine, cling, trail
+  - q: What words refer to a plant dying?
+    words: wither, droop, fade, decay, rot, dry, die
+  - q: Where are dead plants put?
+    words: compost pile

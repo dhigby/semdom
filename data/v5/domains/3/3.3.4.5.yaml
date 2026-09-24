@@ -1,0 +1,21 @@
+code: "3.3.4.5"
+guid: C8C74EC6-3F7A-4B45-B0E9-399B97C4A800
+name: Free to do what you want
+description: >-
+  Use this domain for words related to freedom--when you can do the things that you want to
+  do.
+louwNidaCodes: 37J Release, Set Free
+related: ["4.4.4.6", "7.2.6.4"]
+questions:
+  - q: What words refer to being free to do something?
+    words: free, freely, be at liberty to do something
+  - q: What words describe a person who is free?
+    words: free, freedman, liberated, freeborn, freeman
+  - q: What words describe an activity that is free?
+    words: free, open, open-ended, unrestricted
+  - q: What words refer to the state or right to be free?
+    words: freedom, liberty, autonomy, latitude, license, scope
+  - q: What words refer to becoming free?
+    words: gain your freedom, gain your liberty, win your freedom
+  - q: What words refer to freeing someone?
+    words: free someone, set free, liberate, emancipate

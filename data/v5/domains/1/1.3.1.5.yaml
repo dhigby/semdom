@@ -1,0 +1,24 @@
+code: "1.3.1.5"
+guid: 928741B5-BFF6-4DD1-BE37-EC6E7A4EB6CA
+name: Island, shore
+description: Use this domain for words referring to land in contrast with the sea or river.
+louwNidaCodes: 1I Land in Contrast With the Sea
+questions:
+  - q: What words refer to the land in contrast to the sea?
+    words: land (and sea), dry land, mainland, continent, inland, interior, terrestrial
+  - q: What words refer to an island?
+    words: island, isle, islet, archipelago, atoll, key
+  - q: What words are used of the edge of a lake or sea?
+    words: >-
+      shore, beach, coast, coastal, coastland, seaboard, seashore, shoreline, foreshore,
+      edge, strand, reef, coral reef, water-front, strip
+  - q: What words refer to a bay?
+    words: bay, gulf, cove, fjord, harbor, inlet, lagoon, sound, strait, port
+  - q: What words refer to a peninsula?
+    words: peninsula, promontory, cape
+  - q: What words are used of the edge of a river?
+    words: bank, riverbank, levee, sandbar, embankment
+  - q: What words describe something near water?
+    words: seaside, beachfront, lakeside, bordering
+  - q: What words refer to a place where the water is shallow?
+    words: shallows, shoal

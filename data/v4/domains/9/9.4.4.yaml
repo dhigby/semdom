@@ -1,0 +1,38 @@
+code: "9.4.4"
+guid: 3EA4C495-B837-4310-8741-38D89FA63E0B
+name: Epistemic moods
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  epistemic moods. Epistemic moods have the whole proposition in their scope and indicate
+  the degree of commitment of the speaker to the truth or future truth of the proposition.
+  They may be combined with any of the tenses, either in the same morpheme or in
+  combinations of morphemes. The following definitions are taken from Bybee, Joan, Revere
+  Perkins, and William Pagliuca. 1994. The evolution of grammar. Chicago and London:
+  University of Chicago Press.
+louwNidaCodes: 71 Mode
+questions:
+  - q: >-
+      possibility: the speaker is indicating that the situation described in the proposition
+      is possibly true. Some markers with this meaning also indicate future time: 'He may
+      arrive late because of the weather; It may snow again tomorrow; She could have already
+      taken it'.
+    words: may, could
+  - q: >-
+      probability: the speaker is indicating that the situation described in the proposition
+      is probably true. Some marker with this meaning also indicate future time. This is
+      sometimes called the "Dubitative" in grammars: 'Paula should be home by now'.
+    words: should
+  - q: >-
+      inferred certainty: the speaker infers from evidence that the proposition is true:
+      'They must have killed a bear here (I can see blood on the snow)'.
+    words: must have
+  - q: 'certainty: the speaker is emphasizing that the proposition is true.'
+    words: certainly
+  - q: >-
+      uncertainty: the speaker is emphasizing that s/he doesn't know that the proposition is
+      true.
+    words: might
+  - q: >-
+      indicative: main clause mood that also appears in questions. Contrasts with
+      subjunctive, conditional, and imperative.
+    words: '[none in English]'

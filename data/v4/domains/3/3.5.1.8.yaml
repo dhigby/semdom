@@ -1,0 +1,41 @@
+code: "3.5.1.8"
+guid: BC9D763C-E4FE-48AB-AD44-87A36F6CC06F
+name: Criticize
+description: >-
+  Use this domain for words related to criticizing someone or something--to say that
+  something is bad, especially something that someone did.
+louwNidaCodes: 33S' Criticize
+questions:
+  - q: What words refer to criticizing someone or something?
+    words: >-
+      criticize, be critical, be a critic of, critique, accuse, attack, launch into an
+      attack on, badmouth, belittle, blame, carp, cavil, censure, cite, charge, decry,
+      denounce, deprecate, deride, disparage, gibe, harangue, judge, lay into, mock, rake
+      someone over the coals, recriminate, reprehend, reproach, ridicule, scoff, speak evil
+      of, tear down (someone), voice your disapproval
+  - q: What words refer to strongly criticizing someone or something?
+    words: >-
+      slam, pan, tear to shreds, pillory, do a hatchet job on, blast, castigate, condemn,
+      damn, excoriate, execrate
+  - q: What words refer to criticizing someone in an unfair way?
+    words: find fault with, pick holes in, knock, run down, denigrate, put down, get at
+  - q: What words refer to something someone says when criticizing?
+    words: >-
+      criticism, critique (n), accusation, attack (n), belittlement, castigation, censure,
+      charge, condemnation, denigration, denouncement, denunciation, deprecation, derision,
+      disapproval, disparagement, excoriation, execration, faultfinding, gibe (n), harangue
+      (n), judgment, malediction, put-down, recrimination, reprehension, ridicule (n), slur
+  - q: What words describe something someone says when criticizing?
+    words: critical (remark/essay), belittling, deprecatory, disparaging, scathing
+  - q: What words refer to a person who often criticizes other people?
+    words: critic
+  - q: What words describe someone who often criticizes other people?
+    words: critical, captious, censorious, hypercritical, judgmental
+  - q: What words refer to being criticized by someone else?
+    words: >-
+      receive criticism, come in for criticism, be under attack, come under attack, get a
+      lot of flak, take a lot of flak, be open to criticism
+  - q: What words refer to someone who is criticized?
+    words: target
+  - q: What words refer to not criticizing someone?
+    words: don't blame, can't blame

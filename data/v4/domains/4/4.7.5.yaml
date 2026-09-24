@@ -1,0 +1,13 @@
+code: "4.7.5"
+guid: 85214614-AB45-4805-9014-092750D47511
+name: Trial
+description: Use this domain for words related to the legal process.
+ocmCodes: >-
+  691 Litigation; 690 Justice; 692 Judicial Authority; 693 Legal and Judicial Personnel; 694
+  Initiation of Judicial Proceedings; 695 Trial Procedure; 696 Execution of Justice
+louwNidaCodes: 56D Judicial Hearing, Inquiry
+questions:
+  - q: What words refer to the process of administering the law?
+    words: >-
+      legal process, due process of law, lawsuit, jurisdiction, take legal action,
+      jurisprudence

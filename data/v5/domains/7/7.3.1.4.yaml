@@ -1,0 +1,11 @@
+code: "7.3.1.4"
+guid: 06905A7E-47F4-4C86-AFEA-A4175295B566
+name: Knock over
+description: >-
+  Use this domain for words referring to knocking something over so that it falls, and for
+  knocking a container over so that it spills its contents.
+questions:
+  - q: What words refer to knocking something over so that it falls?
+    words: knock down, topple
+  - q: What words refer to knocking a container over so that it spills its contents?
+    words: knock over, tip over, spill, dump

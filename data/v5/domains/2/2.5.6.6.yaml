@@ -1,0 +1,25 @@
+code: "2.5.6.6"
+guid: 5C091D8D-5BC4-40C3-8A30-2A08FB0794B8
+name: Vision, hallucination
+description: >-
+  Use this domain for words related to having a vision--when a person sees something that
+  isn't there because something unusual has happened to their mind. Include unusual,
+  abnormal, and paranormal states of consciousness, visions, hallucinations, and spiritually
+  induced trances.
+questions:
+  - q: What words refer to an unusual state of consciousness?
+    words: vision, trance, hallucination
+  - q: What words refer to beginning an unusual state of consciousness?
+    words: go into a trance
+  - q: What words refer to the state of being in an unusual state of consciousness?
+    words: be in a trance, have a vision, hallucinate
+  - q: >-
+      What words refer to one person causing another to be in an unusual state of
+      consciousness?
+    words: hypnotize
+  - q: What words describe regaining normal consciousness?
+    words: come out of the trance
+  - q: What people deal with unusual states of consciousness?
+    words: exorcist
+  - q: What causes someone to be in an unusual state of consciousness?
+    words: be possessed by a spirit, drugs

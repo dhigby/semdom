@@ -1,0 +1,7 @@
+code: "6.1.2.4"
+guid: B760A3A7-EA7F-4A4B-A4B5-81752F2CA158
+name: Work poorly
+description: Use this domain for words related to working poorly.
+questions:
+  - q: What words refer to working poorly?
+    words: work poorly, work slowly, do a bad job, mess up on the job, slipshod, sloppy

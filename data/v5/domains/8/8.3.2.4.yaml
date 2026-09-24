@@ -1,0 +1,7 @@
+code: "8.3.2.4"
+guid: 396A2A1B-832F-4180-B26A-C606550541D7
+name: Blunt
+description: Use this domain for words describing something that is blunt.
+questions:
+  - q: What words describe something that is blunt?
+    words: blunt, dull

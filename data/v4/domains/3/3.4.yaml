@@ -1,0 +1,43 @@
+code: "3.4"
+guid: CB95189C-8C74-465B-AF07-48E08DBF7C39
+name: Emotion
+description: Use this domain for general words related to feelings and emotions.
+ocmCodes: 152 Drives and Emotions; 150 Behavior Processes and Personality
+louwNidaCodes: 25 Attitudes and Emotions
+questions:
+  - q: What words refer to feeling something?
+    words: feel, experience
+  - q: What words refer to the part of a person that enables him to feel emotions?
+    words: feelings, emotions, heart
+  - q: What words refer to a feeling?
+    words: feeling, emotion, sentiment
+  - q: What words describe a feeling?
+    words: heart-felt, strong, powerful, deep, shallow, passing
+  - q: What words refer to feeling something very strongly?
+    words: be gripped by
+  - q: What words refer to a strong feeling?
+    words: strong feeling, strong emotion, passion
+  - q: What words describe someone who has strong emotions?
+    words: emotional, sensitive, sentimental, passionate, intense, intensity
+  - q: What words refer to feeling something for a long time?
+    words: attitude, mood, state of mind, frame of mind, spirits, morale
+  - q: What words refer to causing someone to feel something?
+    words: make you feel, stimulate, stir, arouse, raise, touch
+  - q: What words refer to something that causes someone to feel something?
+    words: stimulation
+  - q: What words describe something that causes someone to feel something?
+    words: stimulating, rousing, touching, emotional
+  - q: What words refer to doing something to show a feeling?
+    words: emote, express, show, act out, display
+  - q: What words describe someone who does not show many emotions?
+    words: unemotional, dispassionate, unfeeling, insensitive, unsentimental
+  - q: What words refer to controlling your feelings?
+    words: >-
+      control yourself, self-control, restrain yourself, restraint, contain yourself, keep
+      your temper
+  - q: What words describe a person whose emotions are so strong that they lose control?
+    words: >-
+      hysterical, have hysterics, go to pieces, fall apart, break down, have an emotional
+      breakdown, go berserk, snap, crack, crack up, give in to, get carried away, have a fit
+  - q: What words refer to controlling your feelings again after losing control?
+    words: snap out of it, get a grip on yourself, pull yourself together

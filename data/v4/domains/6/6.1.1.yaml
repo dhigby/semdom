@@ -1,0 +1,17 @@
+code: "6.1.1"
+guid: 8BE94377-A3CC-4187-A6E2-51523E953503
+name: Worker
+description: Use this domain for words related to a worker.
+questions:
+  - q: What general words refer to a person who works?
+    words: worker, laborer
+  - q: What words refer to a person who works in a particular place?
+    words: butler (house), field hand, farm hand (fields), ranch hand (ranch)
+  - q: What words refer to a person who works for someone else?
+    words: hired hand, employee, servant, hireling, slave
+  - q: What words refer to a person who works for a day or a few days?
+    words: day laborer, temporary help, casual worker
+  - q: What words refer to a person who works for only part of a day, or for the whole day?
+    words: part-time worker, full-time worker
+  - q: What words refer to a person who works with a particular material or animal?
+    words: carpenter (wood), blacksmith (iron, metal), cowboy (cattle), shepherd (sheep)

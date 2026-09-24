@@ -1,0 +1,7 @@
+code: "5.2.1.2.1"
+guid: 6E83C471-0FE8-4641-8ECF-68B63DF29AB7
+name: Remove shell, skin
+description: Use this domain for words related to removing the shell or skin from food.
+questions:
+  - q: What words refer to removing the shell or skin from food?
+    words: shell, skin, pare, peel, husk

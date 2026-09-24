@@ -1,0 +1,15 @@
+code: "9.7.1.5"
+guid: DD3E872A-FB50-4204-9646-7A24C644013B
+name: Names of languages
+description: >-
+  Use this domain for the proper names of the languages that are spoken in the area around
+  the language community, including the name of your own language. These language names may
+  or may not correspond with the names of countries. Do not try to include every language
+  name in the world, only the neighboring and important ones. For instance you might want to
+  include the languages that border your own and the national language. Give the form that
+  you use. For instance the German people call their language 'Deutsch', but in English we
+  call it 'German'.
+ocmCodes: 101 Identification
+questions:
+  - q: What are the names of the languages spoken in the area?
+    words: English, Gaelic, Irish, Welsh, Dutch, German, French, Spanish, Pidgin English

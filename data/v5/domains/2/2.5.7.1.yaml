@@ -1,0 +1,46 @@
+code: "2.5.7.1"
+guid: C01BBCEF-7D89-4753-BAFD-3A7F23648982
+name: Doctor, nurse
+description: >-
+  Use this domain for words referring to people who habitually take care of the sick and
+  injured, such as those who do it for a living.
+ocmCodes: 759 Medical Personnel
+questions:
+  - q: What words refer to a person who takes care of the sick?
+    words: >-
+      doctor, physician, general practitioner, the medical profession, family doctor, family
+      practitioner, healer
+  - q: What words refer to medical specialists and their branch of medicine?
+    words: >-
+      specialist, consultant, allergist, anesthesiologist, anesthesiology, cardiologist,
+      cardiology, chiropractor, chiropractic, dermatologist, dermatology, endocrinologist,
+      endocrinology, epidemiology, gastroenterologist, gastroenterology, gynecologist,
+      gynecology, hematology, histology, homeopathist, homeopathy, immunologist, immunology,
+      neonatologist, neonatology, nephrologist, nephrology, neurologist, neurology,
+      obstetrician, obstetrics, oncologist, oncology, ophthalmologist, orthopedist,
+      orthopedic surgeon, orthopedics, pediatrician, pediatrics, plastic surgeon, podiatry,
+      proctologist, radiation oncologist, radiologist, radiology, radiotherapy,
+      rheumatologist, rheumatology, surgeon, surgery, urologist
+  - q: What words refer to a doctor who treats mental illness?
+    words: >-
+      psychiatrist, shrink, analyst, psychiatry, psychologist, psychoanalyst,
+      psychoanalysis, psychotherapist, psychotherapy
+  - q: What words refer to a doctor who treats teeth?
+    words: dentist, dentistry, oral surgeon
+  - q: What words refer to someone who helps a doctor?
+    words: >-
+      nurse, nursing, hygienist, hygiene, lab/medical technician, laboratory analysis,
+      midwife, midwifery, orderly, pharmacist, pharmacology, speech therapist, speech
+      therapy, therapist, therapy
+  - q: >-
+      What words refer to someone who give emergency treatment to someone who has been
+      injured?
+    words: medic, corpsman, ambulance driver, paramedic
+  - q: What words refer to a doctor who treats animals?
+    words: vet, veterinarian
+  - q: What words refer to a person who pretends to be a doctor?
+    words: quack
+  - q: What words refer to working as a doctor?
+    words: practice, doctor (v), be in medicine
+  - q: What words refer to going to a doctor?
+    words: go to the doctor, see a doctor, consult a doctor

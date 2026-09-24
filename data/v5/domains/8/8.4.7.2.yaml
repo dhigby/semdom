@@ -1,0 +1,9 @@
+code: "8.4.7.2"
+guid: 08244B88-BFBA-487A-96BC-CA3771D1FA7C
+name: Start again
+description: >-
+  Use this domain for words referring to starting to do something after stopping for some
+  time.
+questions:
+  - q: What words refer to continue doing something after stopping?
+    words: continue, start again, resume, get on with, get around to

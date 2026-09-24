@@ -1,0 +1,13 @@
+code: "1.3"
+guid: 60364974-A005-4567-82E9-7AAEFF894AB0
+name: Water
+description: Use this domain for general words referring to water.
+louwNidaCodes: 2D Water
+related: ["6.6.7", "7.2.4.2"]
+questions:
+  - q: What general words refer to water?
+    words: water, H2O, moisture
+  - q: What words describe something that belongs to the water or is found in water?
+    words: watery, aquatic, amphibious
+  - q: What words describe something that water cannot pass through?
+    words: waterproof, watertight

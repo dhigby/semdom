@@ -1,0 +1,35 @@
+code: "5.5"
+guid: FF7E3ABD-6810-4128-83C9-701B4925C2FE
+name: Fire
+description: >-
+  Use this domain for general words that refer to fire and for words referring to types of
+  fire. These words may be specific for what is being burned (forest fire 'a fire burning a
+  forest'), the size of the fire (inferno 'a very large hot fire'), or the place where the
+  fire burns (hellfire 'the fire in hell').
+ocmCodes: 372 Fire
+louwNidaCodes: 2C Fire
+questions:
+  - q: What general words refer to a fire?
+    words: fire, combustion
+  - q: What types of fire are there?
+    words: fireball, torch, firebrand, fireworks, firecracker, burn a field before planting
+  - q: What words refer to what is being burned?
+    words: house fire, forest fire, grass fire, wood fire, oil fire
+  - q: What words refer to the size of the fire?
+    words: >-
+      spark, flame, flicker, finger, tongue, flare, blaze, conflagration, inferno, raging
+      inferno
+  - q: What words refer to where the fire is?
+    words: campfire, hellfire
+  - q: What words refer to a fire started by accident?
+    words: blaze, the flames
+  - q: What words refer to a fire started on purpose?
+    words: cook fire, bonfire, controlled fire
+  - q: What words refer to deliberately burning something?
+    words: burn something, set something on fire, set fire to, torch (v)
+  - q: What words refer to the crime of burning someone's house or field?
+    words: arson, arsonist
+  - q: What words describe something that burns easily?
+    words: flammable, inflammable, combustible
+  - q: What words describe something that will not burn?
+    words: fireproof, unburnable, fire-resistant, unquenchable

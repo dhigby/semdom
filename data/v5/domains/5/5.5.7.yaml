@@ -1,0 +1,18 @@
+code: "5.5.7"
+guid: 70164474-A65B-4506-9953-F26AFB6B497A
+name: Fireplace
+description: Use this domain for any place where fires are normally burned.
+questions:
+  - q: Where do people light fires?
+    words: >-
+      fireplace, stove, lamp, lantern, candle, trash heap, firepot, incinerator, furnace,
+      heater, kiln, barbecue, forge, blast furnace, crematorium, brazier, range, cooker, gas
+      ring, burner
+  - q: What are the parts of a fireplace?
+    words: hearth, flue, grate, fireguard, screen, chimney, mantle, fender, hob, trivet
+  - q: What are the parts of a stove?
+    words: oven, burner, grill
+  - q: What are the parts of a candle?
+    words: candlestick, wax, wick
+  - q: What are the parts of a lamp?
+    words: lamp stand, oil, wick

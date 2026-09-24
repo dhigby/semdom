@@ -1,0 +1,10 @@
+code: "8.3.7.2.1"
+guid: 91CC7E8F-522E-4FF1-B545-5A5B72F4E953
+name: Worse
+description: Use this domain for words describing something that is worse than something else.
+related: ["4.3.4.6.1"]
+questions:
+  - q: What words describe something that is worse than something else?
+    words: worse, lesser, inferior
+  - q: What words refer to something getting worse in condition?
+    words: degenerate, deteriorate

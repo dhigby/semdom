@@ -1,0 +1,15 @@
+code: "9.3.3"
+guid: D74914E7-E329-49d4-8513-EC8D850241E4
+name: Partly
+description: >-
+  Use this domain for words referring to a complete degree--when something is done, happens,
+  is thought, is felt, etc completely and in every way.
+questions:
+  - q: What words indicate that something is done partly?
+    words: >-
+      partly, partially, to some extent, to a certain extent, to a degree, to some degree,
+      up to a point, in part, sort of
+  - q: What words indicate that something is done one part at a time?
+    words: >-
+      gradually, in stages, step by step, one step at a time, in increments, incrementally,
+      piecemeal, by degrees, little by little

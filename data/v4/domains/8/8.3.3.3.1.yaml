@@ -1,0 +1,10 @@
+code: "8.3.3.3.1"
+guid: 7ADF468C-B93A-4B04-8AF6-4C691122A4EB
+name: White
+description: Use this domain for words describing something that is white.
+questions:
+  - q: What words describe something that is white in color?
+    words: >-
+      white, alabaster, albino, bleached, chalky, cream, cream-colored, creamy, eggshell,
+      fair, ivory, lily-white, milk-white, milky, off-white, oyster white, pearl, pearly,
+      snowy, snow-white

@@ -1,0 +1,10 @@
+code: "8.3.6.1"
+guid: E86364AC-6FA1-4AAD-A6C1-068D56B6A1F1
+name: Strong, brittle
+description: Use this domain for words that describe something that is strong--not easily broken.
+louwNidaCodes: 79M Strong, Weak
+questions:
+  - q: What words describe something that is not easily broken?
+    words: strong, strength, tough, substantial
+  - q: What words describe something that is easily broken?
+    words: brittle, weak, weakness, breakable

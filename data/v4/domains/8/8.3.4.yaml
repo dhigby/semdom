@@ -1,0 +1,45 @@
+code: "8.3.4"
+guid: 742996CD-B87F-40A8-BDB3-DBA74219BD73
+name: Hot
+description: Use this domain for words describing something that is hot.
+ocmCodes: 374 Heat
+louwNidaCodes: 79N Hot, Lukewarm, Cold
+related: ["5.5"]
+questions:
+  - q: What words describe something that is hot?
+    words: >-
+      hot, heat, red hot, boiling, burning hot, molten, ardent, baking, blazing, brisk,
+      broiling, burning, calorific, fervent, fervid, fevered, fiery, glowing, heat, hot,
+      igneous, incandescent, reeking, scorching, sizzling, smoking, torrid, white-hot
+  - q: What words describe food that is hot?
+    words: hot, piping hot, scalding
+  - q: What words describe something that is warm?
+    words: be warm, lukewarm, tepid
+  - q: What words describe a time or place that is hot?
+    words: hot, boiling, be a scorcher, sultry, sunny, sweltering, sweltry, tropical, heat wave
+  - q: What words describe a time or place that is warm?
+    words: warm, the warmth, balmy, mild, temperate
+  - q: What words describe a time or place that is so hot that you are uncomfortable?
+    words: stifling, muggy, humid, oppressive
+  - q: What words refer to feeling hot?
+    words: hot, warm, boiling
+  - q: What words refer to feeling hot because you are sick?
+    words: have a temperature, feverish
+  - q: What words refer to how hot something is?
+    words: temperature, heat, degree, Celsius, Centigrade, Fahrenheit, level of heat, warmth
+  - q: What things do people use to measure how hot something is?
+    words: thermometer
+  - q: What words refer to something becoming hot?
+    words: warm up, get hot, thaw, melt, temperature is rising
+  - q: What words refer to making something hot?
+    words: >-
+      heat something, warm something, thaw something, melt something, take the chill off,
+      heat up, reheat, warm up
+  - q: What happens to things and people when they get hot?
+    words: boil, melt, burn, warp, sweat
+  - q: What words describe clothes that make you feel warm?
+    words: warm, thermal
+  - q: What things do people use to stay warm when it is cold?
+    words: fire, heater, furnace, central heating, radiator, hot-water bottle, electric blanket
+  - q: What words describe something that is neither hot nor cold?
+    words: room temperature, ambient temperature

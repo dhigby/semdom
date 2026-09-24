@@ -1,0 +1,21 @@
+code: "4.7"
+guid: 87BD0D45-8A94-41CB-9864-90D53A11A4B9
+name: Law
+description: Use this domain for words related to the law.
+ocmCodes: 670 Law
+louwNidaCodes: 56 Courts and Legal Procedures
+questions:
+  - q: What general words refer to the law?
+    words: law
+  - q: What words describe something that agrees or disagrees with the law?
+    words: in accordance with, just, lawful, legal, legality
+  - q: What words refer to enforcing the law?
+    words: law enforcement, police, policeman, enforce
+  - q: What words refer to a lawyer?
+    words: lawyer, advocate, barrister, bar
+  - q: What words refer to administering the law?
+    words: adjudicate, judge, administer, justice, jury
+  - q: What words refer to a person's responsibility to obey the law?
+    words: responsible, responsibility, obligation
+  - q: What words refer to a person's rights under the law?
+    words: right

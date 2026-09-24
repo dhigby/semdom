@@ -1,0 +1,20 @@
+code: "7.8.6"
+guid: C5B8C936-1E01-4E86-9145-A2B721EC9E39
+name: Dig
+description: Use this domain for words related to digging in the ground.
+louwNidaCodes: 19F Dig
+questions:
+  - q: What words refer to digging?
+    words: >-
+      dig, mine, excavate, tunnel, burrow, unearth, undermine, cave in, bulldoze, shovel
+      out, scoop, scratch out, scrape, drill, dredge, sink (a hole)
+  - q: What words refer to a hole dug in the ground?
+    words: >-
+      hole, pit, mine, excavation, tunnel, burrow, trench, ditch, shaft, foxhole, crater,
+      cave, cavern, grotto
+  - q: What tools and machines are used to dig?
+    words: shovel, spade, hoe, pickaxe, steam shovel, bulldozer, backhoe
+  - q: What words describe the size of a hole in the ground?
+    words: deep, shallow, narrow, wide
+  - q: What words refer to putting something in a hole and covering it up?
+    words: bury

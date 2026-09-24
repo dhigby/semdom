@@ -1,0 +1,7 @@
+code: "9.2.5"
+guid: F950B7CC-FB85-4DBB-B8CA-934D38CAE7FC
+name: Conjunctions
+description: Use this domain to list all conjunctions.
+questions:
+  - q: What conjunctions are in your language?
+    words: and, or, but

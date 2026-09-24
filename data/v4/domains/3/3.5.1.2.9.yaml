@@ -1,0 +1,30 @@
+code: "3.5.1.2.9"
+guid: 06B23BCD-69DF-471A-B5A5-4CA8CAB7F0D9
+name: Be about, subject
+description: >-
+  Use this domain for words that express the idea that something (said, written, thought, or
+  made) depicts or is about a subject, or that something is logically related to some topic.
+  Also use this domain for words that mark the topic or subject of what is being thought
+  about, talked about, or written about. Verbs of thinking, knowing, or speaking (including
+  other types of expression) can take a 'topic' role. We can think of a 'topic' as the main
+  idea. Use this domain also for the important thing in a picture.
+related: ["3.5.1.2"]
+questions:
+  - q: What words refer to being about something or someone?
+    words: >-
+      be about something, concern, deal with, be concerned with, center on, focus on,
+      address, cover, depict, discuss, dwell on, present, portray, treat
+    sentence: >-
+      The book <is about> the President.; The meeting <is about> the schedule.; The story
+      <depicts> the life of the President.; The story <presents> a view of the President.
+  - q: What words indicate what something is about?
+    words: about, on, concerning, on the subject of, regarding, re, with regard to, in, of
+    sentence: >-
+      John was talking <about> the new seed he bought.; I read <about> John in the
+      newspaper.; a book <about> the President; the book <on> the President; the picture
+      <of> the President; an experiment <concerning> growing rice; a course <in> history
+  - q: What words refer to the thing something is about?
+    words: subject, topic, theme, issue, question, matter, business, thing
+    sentence: >-
+      The <subject> of the book is the President.; The <topic> of the discussion is
+      efficiency.

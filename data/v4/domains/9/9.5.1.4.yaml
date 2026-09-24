@@ -1,0 +1,18 @@
+code: "9.5.1.4"
+guid: D0B14231-1471-41B3-AEB5-69199ACAAEFB
+name: Way, manner
+description: Use this domain for words indicating the way or manner in which something is done.
+louwNidaCodes: 89N Manner
+questions:
+  - q: What words indicate the way you do something or the way something is done?
+    words: way, manner, style, fashion, how, thus, mode
+  - q: What question words ask for the manner in which something is done?
+    words: how
+    sentence: <How> does he talk? (quietly, slowly)
+  - q: What words indicate that something is done in a particular way?
+    words: >-
+      in a ... way/manner/fashion, with, like, along ... lines, as if, as though, with an
+      air of
+  - q: What words indicate the way in which something happened?
+    words: in
+    sentence: John recovered the use of his leg <in> stages.

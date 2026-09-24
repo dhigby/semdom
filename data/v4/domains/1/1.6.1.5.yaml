@@ -1,0 +1,24 @@
+code: "1.6.1.5"
+guid: 85188748-1919-4210-A9E9-91171D9D6454
+name: Fish
+description: Use this domain for fish (phylum Chordata, class Osteichthyes).
+ocmCodes: 136j Fish and Mollusk
+louwNidaCodes: 4E Fishes and Other Sea Creatures
+questions:
+  - q: What general words refer to animals that live in the water?
+    words: fish, water animal, sea creature
+  - q: What species of freshwater fish are there?
+    words: trout, minnow, catfish, mudfish, perch
+  - q: What species of saltwater fish are there?
+    words: >-
+      anchovy, barracuda, bass, blackfish, bonefish, bream, carp, cod, codfish, crappie,
+      darter, flatfish, flounder, gar, garfish, garpike, goldfish, grouper, guppy, halibut,
+      herring, lungfish, mackerel, marlin, pickerel, pike, piranha, pollack, pompano,
+      sailfish, salmon, sardine, sea horse, shad, sole, spearfish, sturgeon, sucker,
+      sunfish, swordfish, tarpon, tuna, turbot, whitefish, whiting, wrasse
+  - q: What words refer to the very small animals in the ocean?
+    words: plankton
+  - q: What words describe where a fish lives?
+    words: freshwater, saltwater, pelagic, marine, aquatic
+  - q: What words describe fish?
+    words: bony, finned, jawed, jawless, lobe-finned, poisonous, snouted

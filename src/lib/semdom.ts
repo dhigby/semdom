@@ -1,6 +1,4 @@
-import { XMLParser } from 'fast-xml-parser';
-import { readFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
+import { loadVersion } from '../../scripts/lib/domains.mjs';
 
 export interface Question {
   question: string;
@@ -21,50 +19,7 @@ export interface Domain {
   childCodes: string[];
 }
 
-/** fast-xml-parser returns a plain string only when the element has no attributes;
- * any element with an attribute (e.g. ws="en") is nested as { '#text': ..., ws: ... },
- * and numeric-looking text is additionally coerced to a JS number. */
-type TextNode = string | number | { '#text': string | number };
-
-interface RawDomain {
-  guid: string;
-  Abbreviation: { AUni: TextNode };
-  Name: { AUni: TextNode };
-  Description?: { AStr: { Run: TextNode } };
-  OcmCodes?: { Uni: TextNode };
-  LouwNidaCodes?: { Uni: TextNode };
-  RelatedDomains?: { Link: LinkEl | LinkEl[] };
-  Questions?: { CmDomainQ: RawQuestion | RawQuestion[] };
-  SubPossibilities?: { CmSemanticDomain: RawDomain | RawDomain[] };
-}
-
-interface LinkEl {
-  guid: string;
-}
-
-interface RawQuestion {
-  Question: { AUni: TextNode };
-  ExampleWords?: { AUni: TextNode };
-  ExampleSentences?: { AStr: { Run: TextNode } };
-}
-
-function asArray<T>(value: T | T[] | undefined): T[] {
-  if (value === undefined) return [];
-  return Array.isArray(value) ? value : [value];
-}
-
-function text(node: TextNode | undefined): string {
-  if (node === undefined || node === null) return '';
-  if (typeof node === 'string' || typeof node === 'number') return String(node);
-  return node['#text'] !== undefined ? String(node['#text']) : '';
-}
-
 export type Version = 'v4' | 'v5';
-
-const SOURCES: Record<Version, string> = {
-  v4: '../../public/SemDom.xml',
-  v5: '../../public/SemDom5-draft.xml',
-};
 
 export type CodeSystem = 'louwNida' | 'ocm';
 
@@ -256,61 +211,42 @@ export function loadSemDom(version: Version = 'v4'): Cache {
   const cached = caches.get(version);
   if (cached) return cached;
 
-  const xmlPath = fileURLToPath(new URL(SOURCES[version], import.meta.url));
-  const xml = readFileSync(xmlPath, 'utf-8');
-
-  const parser = new XMLParser({
-    ignoreAttributes: false,
-    attributeNamePrefix: '',
-    textNodeName: '#text',
-    isArray: (name) => name === 'CmSemanticDomain' || name === 'CmDomainQ' || name === 'Link',
-    attributeValueProcessor: (name, value) => value,
-    processEntities: { maxTotalExpansions: Infinity },
-  });
-
-  const doc = parser.parse(xml);
-  const roots: RawDomain[] =
-    doc.LangProject.SemanticDomainList.CmPossibilityList.Possibilities.CmSemanticDomain;
+  // Source of truth is data/<version>/domains/**/*.yaml. The shared loader in
+  // scripts/lib/domains.mjs is the same module the XML generator and the CI validator
+  // use, so the site and the validator cannot drift.
+  const { ordered } = loadVersion(version);
 
   const domains: Domain[] = [];
   const byCode = new Map<string, Domain>();
   const byGuid = new Map<string, Domain>();
 
-  function walk(raw: RawDomain, parentCode: string | null) {
-    const code = text(raw.Abbreviation.AUni);
-    const questions: Question[] = asArray(raw.Questions?.CmDomainQ).map((q) => ({
-      question: text(q.Question.AUni),
-      exampleWords: text(q.ExampleWords?.AUni) || undefined,
-      exampleSentences: text(q.ExampleSentences?.AStr?.Run) || undefined,
-    }));
-
-    const children = asArray(raw.SubPossibilities?.CmSemanticDomain);
-    const childCodes = children.map((c) => text(c.Abbreviation.AUni));
-
+  for (const d of ordered) {
     const domain: Domain = {
-      guid: raw.guid,
-      code,
-      name: text(raw.Name.AUni),
-      description: text(raw.Description?.AStr?.Run),
-      ocmCodes: text(raw.OcmCodes?.Uni) || undefined,
-      louwNidaCodes: text(raw.LouwNidaCodes?.Uni) || undefined,
-      relatedGuids: asArray(raw.RelatedDomains?.Link).map((l) => l.guid),
-      questions,
-      parentCode,
-      childCodes,
+      guid: d.guid,
+      code: d.code,
+      name: d.name,
+      description: d.description,
+      ocmCodes: d.ocmCodes || undefined,
+      louwNidaCodes: d.louwNidaCodes || undefined,
+      relatedGuids: d.relatedGuids,
+      // The "(n) " prefix is presentation, derived from position and never stored --
+      // the questions list is rendered with `list-style: none`, so this IS the visible
+      // numbering. Inserting a question therefore renumbers the rest for free.
+      questions: d.questions.map((q, i) => ({
+        question: `(${i + 1}) ${q.question}`,
+        // Six v4 questions carry an empty ExampleWords element. The XML generator has to
+        // preserve that distinction for byte fidelity; the site does not, and collapsing
+        // it here keeps rendering exactly as it was.
+        exampleWords: q.exampleWords || undefined,
+        exampleSentences: q.exampleSentences || undefined,
+      })),
+      parentCode: d.parentCode,
+      childCodes: d.childCodes,
     };
 
     domains.push(domain);
-    byCode.set(code, domain);
+    byCode.set(domain.code, domain);
     byGuid.set(domain.guid, domain);
-
-    for (const child of children) {
-      walk(child, code);
-    }
-  }
-
-  for (const root of roots) {
-    walk(root, null);
   }
 
   // Built after the walk rather than inside it: a group's official name comes from a
@@ -427,4 +363,19 @@ export function groupCodeRefs(entries: CodeEntry[], system: CodeSystem, version:
     codes: grouped.get(group)!.slice().sort(compareCodes),
     domainCodes: [],
   }));
+}
+
+/** Repository that holds the standard. Domain data is edited here, by pull request. */
+export const REPO_URL = 'https://github.com/dhigby/semdom';
+
+/**
+ * GitHub web-editor link for a domain's source file.
+ *
+ * Now that a domain is exactly one file, a reader who spots a problem can act on it
+ * from the page they are reading — which is what actually makes "the repository is the
+ * source of truth" true for a linguist rather than only for a maintainer.
+ */
+export function getEditUrl(domain: Domain, version: Version = 'v4'): string {
+  const root = domain.code.split('.')[0];
+  return `${REPO_URL}/edit/main/data/${version}/domains/${root}/${domain.code}.yaml`;
 }

@@ -1,0 +1,17 @@
+code: "3.5.7.6"
+guid: B7801F6E-683B-4D5D-9BAB-57F6E593DB8C
+name: List
+description: Use this domain for words related to a list of things.
+questions:
+  - q: What words refer to a list of things?
+    words: list, checklist, inventory, catalog
+  - q: What words refer to a list of people?
+    words: register, roll, roster
+  - q: What words refer to a list of things in a book?
+    words: table of contents, index
+  - q: What words refer to a list of events?
+    words: program, schedule, agenda
+  - q: What words refer to making a list?
+    words: list (v), make a list, compile a list, catalog (v)
+  - q: What words refer to giving a list?
+    words: list, reel off

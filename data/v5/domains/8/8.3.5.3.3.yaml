@@ -1,0 +1,8 @@
+code: "8.3.5.3.3"
+guid: 2CCCFD92-DE45-42C2-83F7-1E0EF7DFDDC1
+name: Unique
+description: Use this domain for words describing something that is unique--not like anything else.
+louwNidaCodes: 58G Distinctive, Unique
+questions:
+  - q: What words describe something that is not like anything else?
+    words: unique, distinctive

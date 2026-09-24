@@ -1,0 +1,29 @@
+code: "2.6.4.5"
+guid: 8FFF393A-23C2-42BB-8DA8-9B151E790904
+name: Old person
+description: Use this domain for words related to old age and older persons.
+ocmCodes: 886 Senescence; 887 Activities of the Aged; 888 Status and Treatment of the Aged
+related: ["8.4.6.5.2"]
+questions:
+  - q: What words refer to an old person?
+    words: old man, old woman, elder, senior citizen, senior, old people, the old
+  - q: What words refer to becoming old?
+    words: age (v), get old, grow old, mature, be getting on, aging, not be as young as you were
+  - q: What words describe an old person?
+    words: old, elderly, aged, ancient, up in years, retired
+  - q: What words describe a person who looks old?
+    words: wrinkled, wizened, gray, show your age, look your age
+  - q: What words refer to the time period of old age?
+    words: old age, twilight years
+  - q: What words refer to being too old to do something?
+    words: be past it, be over the hill, be a bit long in the tooth
+  - q: What words refer to when an old person can no longer work?
+    words: retire, retirement, retired, retiree, pension, pensioner, old age pensioner
+  - q: What words refer to being old but still able to do things?
+    words: going strong
+  - q: What problems do the elderly have?
+    words: senile, senility, declining health, aging process
+  - q: What words refer to caring for an old person?
+    words: elder care, retirement center, old folks home, nursing home
+  - q: What words describe something to do with old people?
+    words: geriatric, senior

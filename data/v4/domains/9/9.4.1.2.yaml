@@ -1,0 +1,71 @@
+code: "9.4.1.2"
+guid: CCBBD16F-58C5-45C1-BFFF-1FBA64D9740E
+name: Aspect--dynamic verbs
+description: >-
+  Use this section for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  aspects of dynamic verbs. Aspects describe the temporal contours of a situation. They may
+  be combined with any of the tenses, either in the same morpheme or in combinations of
+  morphemes. The following definitions are taken from Bybee, Joan, Revere Perkins, and
+  William Pagliuca. 1994. The evolution of grammar. Chicago and London: University of
+  Chicago Press.
+questions:
+  - q: >-
+      habitual: the situation is customary or usual, repeated on different occasion over a
+      period of time. English 'used to' is past habitual; English 'Nancy sings' is present
+      habitual.
+  - q: >-
+      continuous: a single situation is viewed as in progress, as maintained over a period
+      of time; also called "durative." The English "Progressive" is a continuous restricted
+      to dynamic words. English 'I am reading; *I am knowing the number'.
+  - q: 'continuative: keep on doing what is being done. Restricted to dynamic words.'
+  - q: >-
+      progressive: the action takes place simultaneously with the moment of reference, 'to
+      be in the process of...'. This is more restricted than the English Progressive, which
+      may be used for events that are not actually in progress at reference time: 'I am
+      writing a book' may be used even if the speaker is not at that moment writing.
+  - q: >-
+      excessive duration: action is extended over a long period of time, longer than normal
+      for that action.
+  - q: 'limited duration: action performed for a relatively short or bounded period of time.'
+  - q: >-
+      iterative: the action is repeated on one occasion; usually restricted to dynamic
+      words, often further restricted to semelfactive words.
+  - q: >-
+      frequentative: action occurs frequently, not necessarily habitually, nor necessarily
+      on one occasion, as is the iterative.
+  - q: >-
+      imperfective: the situation is viewed as unbounded in the sense that it is habitual,
+      continuous, progressive, or iterative.
+  - q: >-
+      perfective: the situation is viewed as bounded temporally. It cannot be simultaneous
+      with the moment of speech; in the non-past it is sometimes interpreted as future.
+  - q: >-
+      completive: to do something thoroughly and to completion, e.g. 'to shoot someone dead,
+      to eat up'.
+  - q: >-
+      inceptive: the action or event begins. We are distinguishing this from the beginning
+      of a state.
+  - q: 'delimited: action is performed only a little.'
+  - q: The preceding terms or "Aspects" are not usually relevant to stative words.
+  - q: What general words refer to an aspect of an event?
+    words: aspect
+  - q: What words are used to indicate that something has begun?
+    words: >-
+      begin, start, commence, beginning, the start, commencement, initiate, to institute,
+      inception
+  - q: What do people say when they want someone else to start?
+    words: >-
+      go, dig in, have at it, let's go, let's do it, move it, let's get going, "on your
+      marks, get set, go", "ready, set, go"
+  - q: What is a person called who starts something?
+    words: initiator, founder, originator, starter
+  - q: What words are used to indicate that someone is attempting to do something?
+    words: try, attempt
+  - q: What words are used to indicate that something is being done quickly?
+    words: quick, quickly, rapidly
+  - q: What words are used to indicate that something happened suddenly?
+    words: sudden, suddenly, suddenness, immediate
+  - q: What words are used to indicate something is continuing?
+    words: continue, continuous, keep on
+  - q: What words are used to indicate that something has been completed?
+    words: complete, finish, succeed

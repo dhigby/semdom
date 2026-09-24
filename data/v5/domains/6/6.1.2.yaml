@@ -1,0 +1,18 @@
+code: "6.1.2"
+guid: D8366DAF-AE1D-4B2C-A447-478C73580639
+name: Method
+description: Use this domain for words related to the method of doing something.
+ocmCodes: 120 Research Methods; Methodology
+questions:
+  - q: What words refer to a method of doing something?
+    words: >-
+      method, methodology, approach, means, procedure, process, strategy, system, tactics,
+      technique, way
+  - q: What question words ask for the way in which something is done?
+    words: how, however
+  - q: What words indicate the way in which something is done?
+    words: how, however, somehow, somehow or other
+  - q: What words describe a method of doing something?
+    words: technical, strategic, tactical
+  - q: What words refer to the way in which a person works?
+    words: work style

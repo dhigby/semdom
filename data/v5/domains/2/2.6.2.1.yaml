@@ -1,0 +1,13 @@
+code: "2.6.2.1"
+guid: 9F6754AE-A429-4BBA-8F6F-2CD4EA0CBE45
+name: Virginity
+description: Use this domain for words related to being a virgin--a person who has never had sex.
+questions:
+  - q: What words refer to a person who has never had sex?
+    words: virgin, virginity, celibate
+  - q: What words refer to maintaining your virginity?
+    words: >-
+      abstain (from sex), abstinence, restraint, celibacy, chastity, continence, honor,
+      purity, virtue
+  - q: What words refer to no longer being a virgin?
+    words: lose your virginity, become sexually active, have sex for the first time

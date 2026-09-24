@@ -1,0 +1,50 @@
+code: "8.1.5.6"
+guid: AFDD8B8E-9502-4D06-94EE-E79815B65750
+name: Almost
+description: >-
+  Use this domain for words related to a number or amount that is almost the same as another
+  number.
+questions:
+  - q: What words indicate that something is almost a particular number or amount?
+    words: >-
+      almost, nearly, close to, close on, approaching, nearing, not quite, be pushing,
+      pretty well
+    sentence: He is almost 100 years old.
+  - q: What words indicate that someone has almost reached a place?
+    words: almost, nearly, just about
+    sentence: We are <almost> there.
+  - q: What words indicate that something has almost reached a particular state?
+    words: >-
+      almost, nearly, very nearly, just about, practically, virtually, all but, as good as,
+      to all intents and purposes, nearing, approaching, near to, close to, verging on,
+      bordering on, more or less, pretty much, not quite
+    sentence: The clothes are <almost> dry.
+  - q: What words indicate that something is almost finished?
+    words: almost, nearly, just about, practically, as good as, more or less, not quite
+    sentence: We are <almost> finished.
+  - q: What words indicate that someone almost does something?
+    words: almost, nearly, very nearly, come close to, be on the verge of, come within an inch of
+    sentence: I <almost> hit you.
+  - q: What words indicate that something almost happens?
+    words: almost, be near to, be on the brink of, come within an inch of
+    sentence: He <almost> died.
+  - q: >-
+      What words indicate that something is almost the best or worst example of some
+      quality?
+    words: almost, nearly, practically, virtually, just about, verging on, bordering on
+    sentence: He is <almost> the worst student in the school.
+  - q: >-
+      What words indicate that something is so similar to something that it is almost the
+      same thing?
+    words: almost, practically, virtually
+    sentence: That dog is <almost> human.
+  - q: >-
+      What words indicate that something is almost some quality (such as some color or
+      shape)?
+    words: almost, more or less, practically, virtually, not quite
+    sentence: The road is <almost> straight.
+  - q: >-
+      What words indicate that something is true of or has happened to almost all of
+      something?
+    words: almost, nearly, practically, virtually, pretty well, more or less, just about
+    sentence: <Almost> everyone is sick.

@@ -1,0 +1,8 @@
+code: "7.9.4"
+guid: 41CAC849-613D-4BE4-A3BC-389412B7F653
+name: Repair
+description: Use this domain for words related to repairing something.
+related: ["8.3.7.8.4"]
+questions:
+  - q: What words refer to repairing something?
+    words: repair, fix, mend, restore, restoration, undo, correct, rebuild, right, put to rights

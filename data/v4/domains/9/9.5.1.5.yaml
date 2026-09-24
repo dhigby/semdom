@@ -1,0 +1,11 @@
+code: "9.5.1.5"
+guid: AABC32EE-46E4-469F-93AD-673373CB2E8D
+name: Attendant circumstances
+description: >-
+  Use this domain for words indicating the attendant circumstances in which something
+  happened.
+louwNidaCodes: 89M Attendant Circumstances
+questions:
+  - q: What words indicate attendant circumstances?
+    words: in
+    sentence: The president resigned <in> disgrace.

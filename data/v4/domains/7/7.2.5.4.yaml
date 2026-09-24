@@ -1,0 +1,12 @@
+code: "7.2.5.4"
+guid: 678A3319-A12B-4F92-857D-167DEF8EF583
+name: Move together
+description: Use this domain for words referring to more than one thing moving together.
+related: ["9.5.2.1"]
+questions:
+  - q: What words refer to moving together?
+    words: go together
+  - q: What words refer to many things moving together?
+    words: >-
+      crowd, flock, flood, hail, parade, pelt, pour, rain, roll, shower, stream, swarm,
+      teem, throng, troop

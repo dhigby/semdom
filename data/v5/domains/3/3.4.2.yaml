@@ -1,0 +1,17 @@
+code: "3.4.2"
+guid: 60DC7CF6-0A41-4CD3-99A6-0B7A71488E7E
+name: Feel bad
+description: Use this domain for general words related to feeling bad.
+questions:
+  - q: What words refer to feeling bad?
+    words: feel bad
+  - q: What words refer to bad feelings?
+    words: bad feelings, negative emotions
+  - q: What words describe someone who feels bad?
+    words: down
+  - q: What words refer to feeling bad for a long time?
+    words: bad attitude, be in a bad mood
+  - q: What words refer to causing someone to feel bad?
+    words: get someone down
+  - q: What words refer to something that causes someone to feel bad?
+    words: downer

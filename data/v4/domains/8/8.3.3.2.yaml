@@ -1,0 +1,20 @@
+code: "8.3.3.2"
+guid: BF9606EC-9A8E-4822-8BFD-D5EEBC58C65B
+name: Dark
+description: >-
+  Use this domain for words describing something that is dark--a place where there is little
+  or no light.
+louwNidaCodes: 14G Darkness
+questions:
+  - q: What words describe a place where there is no light?
+    words: dark, dismal, shadowed, shaded, pitch-dark
+  - q: What words describe a place where there is little light?
+    words: pale, dim, weak, poor, bad, soft, low, dull, dusky
+  - q: What words describe a place where there is very little light?
+    words: unlit, dimly-lit, darkened, the half-light
+  - q: What words describe a place that is dark and makes you feel bad or afraid?
+    words: gloomy, dingy, the shadows
+  - q: What words refer to a place becoming dark?
+    words: get dark, darken, the light fades, dim (v), fall, go dark, be plunged into darkness
+  - q: What words refer to darkness?
+    words: darkness, the dark, gloom

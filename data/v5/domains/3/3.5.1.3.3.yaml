@@ -1,0 +1,12 @@
+code: "3.5.1.3.3"
+guid: 02B6DA2B-FAE3-49F4-83F0-FD014024E117
+name: Contradict
+description: >-
+  Use this domain for words related to contradicting someone--to say that something someone
+  has said is not true.
+louwNidaCodes: 33Z' Oppose, Contradict
+questions:
+  - q: What words refer to contradicting what someone has said?
+    words: >-
+      contradict, speak in opposition to, disagree with, speak against, deny, dispute, argue
+      against

@@ -1,0 +1,11 @@
+code: "7.2.3.3"
+guid: 20E7D987-0D55-46D4-AB69-0B0CCE2F1E24
+name: Leave
+description: Use this domain for words referring to moving away from a place.
+louwNidaCodes: 15D Leave, Depart, Flee, Escape, Send
+questions:
+  - q: What words refer to leaving a place?
+    words: >-
+      leave, depart, departure, go away, withdraw, take your leave, scram, skedaddle, beat
+      it, set out, hit the road, quit (a place), absent yourself, slip away, vacate, make
+      yourself scarce

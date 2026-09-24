@@ -1,0 +1,12 @@
+code: "9.7.1.6"
+guid: 94F573FF-29F0-42AE-B1D9-F882823B2935
+name: Nickname
+description: >-
+  Use this domain for common nicknames--an additional name given to a person later in life,
+  often descriptive. Also include general names used to call or refer to someone when you
+  don't know their name.
+questions:
+  - q: What are the common nicknames?
+    words: buddy, buster, guy, gal, bro, sis
+  - q: What names are used to refer to someone when you don't know their name?
+    words: John Doe, Jane Doe, Joe Blow, GI Joe

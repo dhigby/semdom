@@ -1,0 +1,11 @@
+code: "4.3.4.8"
+guid: B0E5042D-1ADE-4FB1-A6FD-9A165F5C4763
+name: Kidnap
+description: Use this domain for words related to kidnapping someone.
+questions:
+  - q: What words refer to kidnapping someone?
+    words: kidnap, abduct, kidnap, nab, shanghai, snatch
+  - q: What words refer to the act of kidnapping someone?
+    words: kidnapping, abduction
+  - q: What words refer to someone who kidnaps?
+    words: kidnapper, abductor, snatcher

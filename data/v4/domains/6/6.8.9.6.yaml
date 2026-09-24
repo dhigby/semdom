@@ -1,0 +1,13 @@
+code: "6.8.9.6"
+guid: A36B3354-8598-4228-B779-C7C922B1E61D
+name: Smuggle
+description: >-
+  Use this domain for words related to smuggling--taking something secretly into a country,
+  something which is illegal or without paying duty.
+questions:
+  - q: What words refer to smuggling?
+    words: smuggle, smuggling
+  - q: What words refer to someone who smuggles?
+    words: smuggler
+  - q: What words refer to something that is smuggled?
+    words: contraband

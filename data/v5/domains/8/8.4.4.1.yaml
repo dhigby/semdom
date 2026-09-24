@@ -1,0 +1,11 @@
+code: "8.4.4.1"
+guid: 12D752D5-53A9-46F6-9E81-3153401CC760
+name: Plan a time
+description: Use this domain for words referring to planning the time of an event.
+questions:
+  - q: What words refer to planning the time of an event?
+    words: plan a time, set a date, schedule something, time something
+  - q: What words refer to the time of an event?
+    words: time, date, timing
+  - q: What words refer to a plan for the time of an event?
+    words: schedule, timetable, program

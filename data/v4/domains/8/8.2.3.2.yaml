@@ -1,0 +1,36 @@
+code: "8.2.3.2"
+guid: 45D867C7-8496-4c92-BB41-B7DB5DB47717
+name: Fat person
+description: Use this domain for words describing a person or animal who is fat.
+louwNidaCodes: 81D Narrow, Wide
+questions:
+  - q: What words describe someone who is fat?
+    words: >-
+      fat, overweight, big, large, portly, hefty, thickset, corpulent, fleshly, heavy,
+      paunchy, ponderous, roly-poly, rotund, heavy-set
+  - q: What words describe someone who is very fat?
+    words: obese, obesity, gross
+  - q: What words describe someone who is fat and short?
+    words: dumpy, tubby, stout, stocky, squat, stubby
+  - q: What words describe someone who is fat and attractive?
+    words: plump, chubby
+  - q: What words describe someone who is fat and strong?
+    words: brawny, burly
+  - q: What words refer to someone who is fat?
+    words: tub, porker
+  - q: What words refer to someone becoming fat?
+    words: put on weight, gain weight, fill out, get fat
+  - q: What words refer to making someone fat?
+    words: fatten
+  - q: What words describe food that makes someone fat?
+    words: fattening
+  - q: What words describe someone who has been made fat?
+    words: fattened
+  - q: What words refer to being fatter than another person?
+    words: fatter, fattest
+  - q: What words refer to how fat someone is?
+    words: weight, bulk
+  - q: What words describe a part of the body that is fat?
+    words: pudgy, flabby, full, thick, ample, podgy
+  - q: What words refer to a fat stomach?
+    words: paunch, pot belly, beer gut, spare tire, middle-age spread, paunchy

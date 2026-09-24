@@ -1,0 +1,14 @@
+code: "9.3.1.3"
+guid: 73B959AB-0229-4710-AF99-DFC9B5370540
+name: To a larger degree
+description: Use this domain for words referring to a larger degree.
+louwNidaCodes: 78B More Than, Less Than
+questions:
+  - q: What words indicate that something is becoming larger in degree?
+    words: advance, double, explode, gain, grow, increase, jump, rise, rocket, soar, triple
+  - q: What words refer to the amount by which something became larger?
+    words: growth, explosion, hike, increase, rise
+  - q: What words refer to causing something to become larger in degree?
+    words: increase, raise, swell
+  - q: What words indicate that something is larger than another thing in degree?
+    words: more than

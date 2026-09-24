@@ -1,0 +1,32 @@
+code: "4.3.6.4"
+guid: CD8B2A8B-687B-42E9-91E7-CFB8812B64EE
+name: Mistake
+description: >-
+  Use this domain for words referring to mistakes--something bad that someone does by
+  accident.
+related: ["3.6.5"]
+questions:
+  - q: What words refer to a mistake?
+    words: mistake, error, slip, mix-up, slip-up, oversight, aberration
+  - q: What words refer to a mistake in writing or speaking?
+    words: >-
+      mistake, misprint, spelling mistake, slip of the tongue, error, typographical error,
+      typo
+  - q: What words refer to a serious mistake in judgment or planning?
+    words: >-
+      mistake, miscalculation, misjudgment, error of judgment, be a bad move, blunder, bad
+      tactics, muddle, confusion, mess something up, make a mess of something
+  - q: What words refer to an embarrassing mistake?
+    words: put your foot in it, faux pas, gaffe, boo-boo, indiscretion
+  - q: What words refer to making a mistake?
+    words: >-
+      make a mistake, make an error, mistake something, go wrong, get something wrong,
+      blunder, goof, goof up, slip up, misjudge, bungle
+  - q: What words describe something done by mistake?
+    words: by mistake, mistaken, mistakenly, in error, erroneously
+  - q: What words refer to mistaking one thing or person for another?
+    words: mistake something, confuse, mix someone up with, get something mixed up, muddle
+  - q: What words refer to causing someone to make a mistake?
+    words: trip someone up, catch someone out
+  - q: What do you say when you make a mistake?
+    words: oops

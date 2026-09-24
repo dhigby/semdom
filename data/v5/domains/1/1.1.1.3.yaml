@@ -1,0 +1,38 @@
+code: "1.1.1.3"
+guid: A0D073DF-D413-4DFD-9BA1-C3C68F126D90
+name: Planet
+description: >-
+  Use this domain for words related to planets (large objects that circle the sun, looking
+  like bright wandering stars in the sky), comets (objects that circle the sun, looking like
+  a star with a tail), meteors (small objects that come from space and burn up when they hit
+  the earth's atmosphere, causing a streak of light across the sky), and asteroids (small
+  objects that circle the sun), planetary moons (large objects that circle the planets).
+  Some cultures do not study the stars and will have few or no words in this domain. Others
+  cultures that study the stars will have many words. There are only five planets that
+  people can see in the sky--Mercury, Venus, Mars, Jupiter, and Saturn. The others are only
+  known from the scientific study of astronomy.
+questions:
+  - q: What words refer to a planet?
+    words: planet, planetary, wandering star
+  - q: What are the names of the planets?
+    words: >-
+      Mercury, Venus (Morning Star, Evening Star), Earth, Mars, Jupiter, Saturn, Uranus,
+      Neptune, Pluto
+  - q: What words refer to how the planets move?
+    words: revolve (around the sun), orbit
+  - q: What words refer to the sun and planets?
+    words: solar system
+  - q: What words refer to comets?
+    words: comet, tail, head
+  - q: What do comets do?
+    words: appear, point, fade
+  - q: What words refer to meteors?
+    words: meteor, shooting star, falling star, meteor trail, meteor shower
+  - q: What do meteors do?
+    words: >-
+      flash across the sky, blaze a trail across the sky, strike the earth, make a crater,
+      burn up
+  - q: What words are used for when a meteor hits the earth?
+    words: meteorite, meteor crater
+  - q: What is a small planet called?
+    words: asteroid, moon

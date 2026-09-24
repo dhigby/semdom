@@ -1,0 +1,26 @@
+code: "4.3.2.1"
+guid: A2A3E21A-819C-4400-B2E6-E6C1A0A0DED3
+name: Despise someone
+description: >-
+  Use this domain for words related to despising someone--to feel bad about someone because
+  you think they are not as good as you.
+louwNidaCodes: 88Y Despise, Scorn, Contempt
+questions:
+  - q: What words refer to despising someone?
+    words: >-
+      despise, disdain, disregard, rebuff, reject, repudiate, scoff, scorn, shun, slight,
+      sneer at, snub, spurn, be contemptuous of, hold in contempt, feel contempt for, feel
+      superior, think someone is worthless, think poorly of, feel superior to, look down on,
+      spit on, be cliquish, turn up your nose at
+  - q: What words describe someone who despises someone?
+    words: contemptuous, disdainful, disrespectful, haughty, scornful, snobbish, superior
+  - q: What words refer to a person who despises someone?
+    words: scoffer
+  - q: What words refer to the feeling of despising someone?
+    words: contempt, disdain, disregard, disrespect, hate, irreverence
+  - q: What words refer to something you do that shows you despise someone?
+    words: rebuff (n), slight (n), snub (n)
+  - q: What words describe something someone does to show they despise someone?
+    words: withering (look), derisive (laugh)
+  - q: What words describe someone who is despised?
+    words: contemptible, despicable, pitiable, pitiful, despised

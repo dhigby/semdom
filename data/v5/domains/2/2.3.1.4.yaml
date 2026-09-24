@@ -1,0 +1,24 @@
+code: "2.3.1.4"
+guid: 273F4956-F79F-4B1E-B552-466280A65E60
+name: Show, let someone see
+description: >-
+  Use this domain for words related to showing something to someone so that they can see
+  it--to cause someone to see something.
+related: ["3.6.1", "3.5.8.4"]
+questions:
+  - q: What words refer to showing something to someone?
+    words: show, let someone see, let someone have a look, present, produce, flash
+  - q: What words refer to showing something by moving something that has been covering it?
+    words: show, expose, reveal
+  - q: What words refer to showing something that you are proud of?
+    words: show off, flourish, parade, flaunt
+  - q: What words refer to showing someone where something is?
+    words: show, point out, point to, mark, indicate
+  - q: What words refer to showing something to a lot of people?
+    words: >-
+      show, display, put something on show, put something on display, exhibit, be on show,
+      be on display, unveil
+  - q: What words refer to an event when something is shown?
+    words: show (n), exhibition, display, presentation, showing
+  - q: What words refer to what is shown?
+    words: display, exhibit

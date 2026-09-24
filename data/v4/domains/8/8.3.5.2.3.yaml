@@ -1,0 +1,15 @@
+code: "8.3.5.2.3"
+guid: 0D427D55-D63E-4A35-A66A-5E4DCE0A963E
+name: Different
+description: Use this domain for words describing two things that are different--not the same.
+louwNidaCodes: 58F Different Kind or Class
+questions:
+  - q: What words describe two things that are different?
+    words: differ, different, else, vary, dissimilar, unlike
+    sentence: This <is different from> that.; <a different> man
+  - q: What words indicate that two numbers or amounts are different?
+    words: different, unequal
+  - q: What words refer to the way in which two things are different?
+    words: difference, variation, dissimilarity
+  - q: What words refer to discovering the difference between two things?
+    words: tell the difference, see the difference, distinguish, differentiate

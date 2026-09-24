@@ -1,0 +1,11 @@
+code: "3.5.8.3"
+guid: 751BD45C-ABFB-443F-AC55-AAD3472C20DE
+name: Unintelligible
+description: >-
+  Use this domain for words related to being unintelligible--to say something that someone
+  cannot understand.
+questions:
+  - q: What words describe speech that someone cannot understand?
+    words: unintelligible, foreign
+  - q: What words describe speech that a person cannot hear well enough to understand?
+    words: unintelligible, indistinct, garbled

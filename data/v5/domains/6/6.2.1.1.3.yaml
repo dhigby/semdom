@@ -1,0 +1,7 @@
+code: "6.2.1.1.3"
+guid: 37F6A1D9-985D-465E-B62D-37C1F9BF855B
+name: Growing maize
+description: Use this domain for words related to growing maize.
+questions:
+  - q: What words refer to growing maize?
+    words: ear, husk, stalk, silk

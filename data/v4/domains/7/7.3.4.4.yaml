@@ -1,0 +1,18 @@
+code: "7.3.4.4"
+guid: 1E419F7A-7363-46BC-8044-157ED0B40CCD
+name: Hold
+description: Use this domain for holding something in the hand.
+louwNidaCodes: 18 Attachment; 18A Grasp, Hold
+questions:
+  - q: What words refer to holding something in the hand?
+    words: hold
+  - q: What words refer to holding something tightly?
+    words: hold tightly, grip
+  - q: What words refer to holding something loosely?
+    words: hold loosely
+  - q: What words refer to holding something with the hand open?
+    words: hold in the palm
+  - q: What words refer to holding something with the hand closed?
+    words: hold in the fist
+  - q: What words refer to releasing something?
+    words: release, let go of

@@ -1,0 +1,25 @@
+code: "3.4.1.1.5"
+guid: E54CD744-D106-4BCF-BD07-B8783C075C21
+name: Fashionable
+description: Use this domain for words describing something that many people like.
+questions:
+  - q: What words describe something that is fashionable?
+    words: >-
+      fashionable, be in fashion, be the fashion, in, be the in thing, chic, cult, designer,
+      be the latest thing, be all the rage, trendy, be in vogue
+  - q: What words describe someone who has fashionable things?
+    words: fashionable, trendy
+  - q: What words refer to something becoming fashionable?
+    words: come into fashion, come in, make a comeback
+  - q: What words refer to making something fashionable?
+    words: set the fashion, set the trend, bring in
+  - q: What words refer to something that is fashionable?
+    words: fashion, trend, vogue, the latest thing
+  - q: What words refer to something that is fashionable for a short time?
+    words: fad, craze
+  - q: What words refer to the business of making fashionable things?
+    words: fashion
+  - q: What words describe something that is not fashionable?
+    words: be out of fashion, out, unfashionable, old-fashioned
+  - q: What words refer to something becoming unfashionable?
+    words: go out, date

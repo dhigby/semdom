@@ -1,0 +1,10 @@
+code: "7.2.2.2"
+guid: 6DE4E99B-2B5A-493A-A208-F024D1EABDF3
+name: Move back
+description: >-
+  Use this domain for words referring to moving in a backward direction--the person is
+  facing one direction, but moving toward their back--to move in the opposite direction from
+  the direction the person is facing.
+questions:
+  - q: What words refer to moving backwards while still facing forward?
+    words: move back, back up, move backwards, move in reverse

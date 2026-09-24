@@ -1,0 +1,15 @@
+code: "3.5.1.4"
+guid: EC1BCACE-FC10-45DF-8E1F-29BCE1EF786A
+name: Speak with others
+description: Use this domain for words referring to carrying on a conversation with other people.
+ocmCodes: 521 Conversation
+louwNidaCodes: 33K Converse, Discuss
+questions:
+  - q: What words refer to carrying on a conversation with other people?
+    words: speak with, converse, carry on a conversation, talk with, talk to, chat, discuss
+  - q: What words refer to an event or time period when people talk to each other?
+    words: conversation, discussion
+  - q: What words refer to what is talked about?
+    words: topic (of conversation)
+  - q: What words modify the length of time?
+    words: long (conversation, talk), brief (conversation)

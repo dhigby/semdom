@@ -1,0 +1,17 @@
+code: "3.3.1.2"
+guid: FED2B7BD-2315-4085-B0A7-2CED988120F3
+name: Choose
+description: >-
+  Use this domain for words related to choosing something--to want one thing (or person)
+  from a group of things, or to choose to do one thing from several possible things you
+  could do.
+louwNidaCodes: 30F To Choose, To Select, To Prefer
+questions:
+  - q: What words refer to choosing something?
+    words: >-
+      choose, select, prefer, decide on, pick, designate, elect, favor, opt for, specify,
+      vote, would rather have
+  - q: What words refer to the thing that is chosen?
+    words: choice, selection, preference, decision
+  - q: What words refer to the things that could be chosen?
+    words: alternative, option, selection, candidate

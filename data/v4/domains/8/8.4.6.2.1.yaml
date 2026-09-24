@@ -1,0 +1,24 @@
+code: "8.4.6.2.1"
+guid: 0656CD5E-641F-46F3-BCAD-6F643727A344
+name: Recently
+description: >-
+  Use this domain for words indicating that something happened recently--a short time before
+  now.
+questions:
+  - q: What words indicate that an event happened a short time ago?
+    words: >-
+      recently, not long ago, a short time ago, newly, freshly, a little while back, a short
+      while ago, a little while ago
+  - q: What words indicate that an event happened a very short time ago?
+    words: >-
+      just, only just, a moment ago, a minute ago, just this minute, barely, scarcely,
+      hardly
+    sentence: It <just> happened.
+  - q: What words indicate that something has been happening up until now?
+    words: >-
+      recently, lately, in recent weeks/months, in the last/past few weeks/months, for the
+      last/past few weeks/months
+  - q: What words describe an event that has happened recently?
+    words: recent, latest
+  - q: What words describe news of something that happened recently?
+    words: latest, up-to-date, up-to-the-minute

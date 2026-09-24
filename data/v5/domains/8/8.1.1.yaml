@@ -1,0 +1,24 @@
+code: "8.1.1"
+guid: FB84538A-17A8-4ADC-8D50-E2B66F8E4099
+name: Number
+description: >-
+  Use this domain for words related to numbers. Every language has a word for 'one', and a
+  word for 'two'. These two numbers often have special words. So we have included a separate
+  domain for 'one' and 'two'. In addition the numbers form a series (one, two, three...).
+  Most languages have more than one series of numbers (first, second, third...). So we have
+  also included a domain for each series of numbers that most languages have. Your language
+  may have other series of numbers. Put them in the domain 'Number series'.
+ocmCodes: 801 Numerology; 802 Numeration
+louwNidaCodes: 60 Number; 60A Number, Countless
+questions:
+  - q: What words refer to a written number?
+    words: number, figure, digit, numeral
+  - q: What words refer to a number of people or things?
+    words: toll, statistics
+  - q: What words describe different kinds of numbers?
+    words: even, odd, positive, negative, infinite, cardinal, ordinal, whole, fraction, decimal
+  - q: What words refer to writing numbers on a series of things?
+    words: number (v), numbered
+  - q: What words indicate that there are a particular number of something?
+    words: number (v)
+    sentence: The group <numbered> fifty.

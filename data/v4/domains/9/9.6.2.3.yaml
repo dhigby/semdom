@@ -1,0 +1,17 @@
+code: "9.6.2.3"
+guid: 3759BDDA-2B52-43DC-8995-8379E3129DCE
+name: Relations involving correspondences
+description: >-
+  Use this domain for words indicating relations involving correspondences--a situation in
+  which one thing is the same or similar in some respect to something else.
+louwNidaCodes: 89E Relations Involving Correspondence
+questions:
+  - q: What words indicate that one thing corresponds to another?
+    words: >-
+      correspond to, correspondence, in accordance with, in relation to, according to, in
+      line with, in proportion to, to apply to, to regard as applicable to, in keeping with
+    sentence: >-
+      We will submit the file <in accordance with> the law.; He will be judged <in
+      accordance with> his crime.; His grade <corresponds to> his performance.; You aren't
+      acting <in line with> your beliefs.; You will benefit <in proportion to> your
+      contribution.; What I have said <applies to> myself as well.

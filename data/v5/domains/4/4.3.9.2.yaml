@@ -1,0 +1,13 @@
+code: "4.3.9.2"
+guid: 6A6BBF65-B521-4B74-BF35-DEDE87217D3C
+name: Habit
+description: >-
+  Use this domain for words referring to a habit--a pattern of behavior of a person;
+  something a person does frequently or regularly.
+questions:
+  - q: What words refer to a habit?
+    words: habit, habitual, mannerism, ways
+  - q: What words refer to doing something because it is a habit?
+    words: >-
+      have a habit of doing something, out of habit, from habit, force of habit, be
+      accustomed to

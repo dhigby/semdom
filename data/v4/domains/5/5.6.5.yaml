@@ -1,0 +1,11 @@
+code: "5.6.5"
+guid: DC71598D-21A2-4598-9C12-13978796D2C9
+name: Sweep, rake
+description: Use this domain for words related to cleaning the floor or ground.
+questions:
+  - q: What words refer to cleaning the floor or ground?
+    words: sweep, mop, scrub, wax, rake
+  - q: What tools are used?
+    words: broom, dustpan, mop, scrub brush, rake, brush
+  - q: What words refer to the things that are removed?
+    words: sweepings, leaves

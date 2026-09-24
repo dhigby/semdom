@@ -1,0 +1,13 @@
+code: "6.5.2.5"
+guid: EEEE02E1-157E-4786-AB92-80C92E5023B8
+name: Window
+description: Use this domain for words related to a window.
+questions:
+  - q: What words refer to a window?
+    words: window
+  - q: What are the parts of a window?
+    words: >-
+      window frame, windowsill, windowpane, window screen, glass, curtain, curtain rod,
+      blind, shade, gable, shutter
+  - q: What do people do to a window?
+    words: open, close, look out, view

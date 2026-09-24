@@ -1,0 +1,11 @@
+code: "8.6.3"
+guid: 9E775794-3DDA-4942-B6AF-087FFD57F342
+name: Side
+description: Use this domain for words related to the side part of something.
+questions:
+  - q: What words refer to the side of something?
+    words: side (n), flank, right side, left side
+  - q: What words refer to an area that is on one side of a border or wall
+    words: side
+  - q: What words describe something that is on the side?
+    words: side (adj), lateral

@@ -1,0 +1,17 @@
+code: "4.8.1"
+guid: 189F8C29-F0FF-44b6-A0DB-5B287C412A75
+name: Hostility
+description: >-
+  The words in this domain describe a situation in which people disagree about something so
+  strongly that they might start fighting. But these words imply that they have not started
+  fighting yet.
+ocmCodes: 578 Ingroup Antagonisms
+louwNidaCodes: 39 Hostility, Strife; 39E Strife, Struggle
+related: ["4.1.6.1"]
+questions:
+  - q: What words refer to hostility between people?
+    words: >-
+      conflict, antagonism, discord, disharmony, friction, hostility, ill feeling, rivalry,
+      strife, tension, sit on a powder key, cold war, phony war
+  - q: What words describe someone who is hostile?
+    words: hostile, aggressive, combative, contentious, discordant

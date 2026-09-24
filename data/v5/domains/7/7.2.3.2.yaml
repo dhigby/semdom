@@ -1,0 +1,11 @@
+code: "7.2.3.2"
+guid: 2CC624FA-76CB-46AB-87C8-C13C6ADB1C72
+name: Go
+description: >-
+  Use this domain for words referring to moving away from the speaker. In Australian
+  languages many movement words are marked for direction toward or away from the speaker.
+questions:
+  - q: What words refer to moving away from the speaker?
+    words: go (away), leave here/this place, get out of here
+  - q: What do people say when they want someone to go away?
+    sentence: Go away!; Leave me alone!; Get out of my sight!

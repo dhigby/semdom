@@ -1,0 +1,17 @@
+code: "5.3.6"
+guid: 40516AF2-D413-418E-8B68-8443847EE169
+name: Parts of clothing
+description: Use this domain for words related to parts of clothing.
+ocmCodes: 293 Paraphernalia
+questions:
+  - q: What words refer to parts of clothing?
+    words: >-
+      belt loop, bodice, collar, cowl, crease, cuff, fringe, hem, hood, lapel, leg, neck,
+      neckband, neckline, placket, pocket, sash, seam, seat, shirttail, skirt, sleeve, slit,
+      tassel, waist, waistband, waistline
+  - q: What words refer to parts of shoes?
+    words: sole, shoelace, bootlace, eye, tongue, toe, heel, insole, strap, buckle, thong
+  - q: What words refer to parts of hats?
+    words: brim, peak, ribbon
+  - q: What things are used to hold parts of clothes together?
+    words: belt buckle, button, buttonhole, clasp, cuff-link, lace, snap, zip, zipper

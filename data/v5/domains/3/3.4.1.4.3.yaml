@@ -1,0 +1,23 @@
+code: "3.4.1.4.3"
+guid: 1C0C4951-03B6-49B8-8A8E-724397CFD5A7
+name: Obsessed
+description: >-
+  Use this domain for words related to feeling obsessed--to be very interested in something
+  for a long time.
+questions:
+  - q: What words refer to feeling obsessed with something?
+    words: >-
+      be obsessed with, be fascinated by, can't get something out of your mind, have a thing
+      about, have an unhealthy interest in, have a one-track mind
+  - q: What words refer to the feeling of obsession?
+    words: fascination, obsession, mania, fixation, fetish, preoccupation
+  - q: What words describe someone who feels obsessed?
+    words: >-
+      obsessed, absorbed, captivated, engrossed, enthralled, fascinated, intrigued,
+      mesmerized, spellbound, be all ears
+  - q: What words refer to causing someone to feel obsessed?
+    words: obsess, captivate, fascinate, intrigue
+  - q: What words describe something that causes someone to be obsessed?
+    words: >-
+      fascinating, intriguing, irresistible, absorbing, riveting, gripping, compelling,
+      couldn't put it down

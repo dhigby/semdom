@@ -1,0 +1,35 @@
+code: "8.3.3.1.1"
+guid: 64E41545-3A0A-4524-A8D4-8E5E0F0E2391
+name: Light source
+description: >-
+  Use this domain for words related to a source of light--something that makes or gives
+  light.
+louwNidaCodes: 6N Lights and Light Holders
+questions:
+  - q: What words refer to something that makes light?
+    words: >-
+      light, lamp, candle, arc light, beacon, chandelier, electric light, fire, fixture,
+      flare, flashlight, flash (camera), floodlight, fluorescent light, globe, headlight,
+      incandescent light, lamp-post, lantern, lighthouse, lighting, light source, luminary,
+      night-light, paraffin lamp, searchlight, spotlight, street light, strobe, sunlamp,
+      taillight, taper, torch
+  - q: What words describe something that produces light?
+    words: light producing, shining
+  - q: What are the parts of a lamp?
+    words: >-
+      lampstand, stand, wick, chimney, bulb, light bulb, lamp shade, switch, filament,
+      socket
+  - q: What are the parts of a candle?
+    words: candlestick, wick, wax, candelabra, holder
+  - q: What words refer to the lights being on in a place?
+    words: the lights are on, be lit up, ablaze
+  - q: What words refer to a light starting to work?
+    words: come on
+  - q: What words refer to making a light start working?
+    words: turn on, light (a candle), switch on
+  - q: What words refer to a light stopping?
+    words: go out, go down, dim
+  - q: What words refer to making a light stop working?
+    words: turn out, put out, turn down, switch off
+  - q: What words refer to not turning off the lights?
+    words: leave the lights on

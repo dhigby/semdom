@@ -1,0 +1,16 @@
+code: "7.2.4.4"
+guid: 161CAE07-D1CB-467C-920F-62BA9039584C
+name: Travel in space
+description: Use this domain for words related to traveling in space.
+related: ["1.1"]
+questions:
+  - q: What words refer to traveling in space?
+    words: space travel, voyage, orbit
+  - q: What words refer to a vehicle that travels in space?
+    words: spacecraft, spaceship, rocket, space shuttle, space station, satellite, flying saucer
+  - q: What words refer to a person who travels in space?
+    words: astronaut, cosmonaut, spaceman
+  - q: What words refer to a rocket lifting off?
+    words: lift off, lift-off, blast off, launch, launch pad, countdown, mission control
+  - q: What words refer to a spacecraft landing?
+    words: land, reenter, reentry

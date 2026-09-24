@@ -1,0 +1,24 @@
+code: "2.5.4.3"
+guid: 3BE7E3FE-89D4-471A-92BD-8C70FCB146BB
+name: Deaf
+description: Use this domain for words related to being deaf.
+related: ["2.3.2"]
+questions:
+  - q: What words describe someone who is deaf?
+    words: deaf
+  - q: What words describe someone who is partially deaf?
+    words: be hard of hearing, hearing impaired
+  - q: What words describe someone who is totally deaf?
+    words: be stone deaf, be as deaf as a post, totally deaf, profoundly deaf
+  - q: What words refer to a deaf person?
+    words: deaf man, the deaf
+  - q: What words refer to becoming deaf?
+    words: go deaf, become deaf, lose your hearing, deafen
+  - q: What words refer to the condition of being deaf?
+    words: deafness
+  - q: What things are used by a deaf person?
+    words: hearing aid, ear trumpet
+  - q: What words refer to a deaf person talking using their hands?
+    words: sign language, sign (v)
+  - q: What words refer to a deaf person understanding someone by watching their mouth?
+    words: lip-read, lip-reading

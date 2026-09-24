@@ -1,0 +1,20 @@
+code: "9.1.1.4"
+guid: 94CAD4CA-C2EC-4FF3-B9B1-11107549941D
+name: Attribution
+description: >-
+  Attributes often belong to a class of attributes (shape = straight, curved) or to a scale
+  (length = long, short). The class or scale can sometimes be included in the expression,
+  but does not mark the proposition itself. (The towel <feels> damp. The box <weighs> five
+  kilos.)
+questions:
+  - q: What words are used to indicate an attribute of something?
+    words: found to be, discover to be, turn out to be, be in many ways
+    sentence: >-
+      <be> characteristic, state; <have> condition; <bear> characteristic; <be in a state
+      of> characteristic; The dirt <is> red.; The towel <is> damp.; This man <is>
+      important.; This man <has> an important status.; The towel<'s> dampness.; The dampness
+      <of> the towel.; The damp state <of> this towel.
+  - q: What words indicate a point on a scale?
+    sentence: The box <weighs> five kilos.
+  - q: What words indicate an evaluation of something?
+    sentence: That woman <is> beautiful.

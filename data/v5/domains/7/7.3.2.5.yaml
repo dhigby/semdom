@@ -1,0 +1,14 @@
+code: "7.3.2.5"
+guid: AB127348-7F98-43E5-801D-01241ECDB517
+name: Lower something
+description: >-
+  Use this domain for words referring to putting something lower than you or lower than
+  something else, putting something under something else, or moving something lower than it
+  was.
+questions:
+  - q: What words refer to moving something down?
+    words: lower, lower away, move (something) down, drop it down a peg
+  - q: What words refer to putting something under something?
+    words: put under, put underneath
+  - q: What words refer to letting something drop?
+    words: drop, let fall, slip through your fingers, slip out of your hand

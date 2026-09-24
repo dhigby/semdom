@@ -1,0 +1,19 @@
+code: "4.2.7"
+guid: A3D95C6A-4B0B-4AF0-ACA8-ADDD042BECD2
+name: Play, fun
+description: Use this domain for words related to playing and fun.
+questions:
+  - q: What words are used of play?
+    words: >-
+      play, have fun, goof off, frolic, amuse oneself/others, amusement, play games, caper,
+      gambol, disport
+  - q: What words refer to the things people play with?
+    words: >-
+      toy, doll, plaything, bauble, puzzle, kite, ball, top, trifle, trinket, stilts, jump
+      rope
+  - q: What words refer to people who play?
+    words: player, playmate
+  - q: What words describe a person who plays?
+    words: playful, frolicsome, mischievous, frisky, prankish, jolly, rollicking
+  - q: Where do people play?
+    words: playground

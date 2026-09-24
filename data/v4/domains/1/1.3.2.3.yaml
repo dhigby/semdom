@@ -1,0 +1,11 @@
+code: "1.3.2.3"
+guid: A9FBC056-3134-41AF-BAF4-9F63FA5BD5AE
+name: Drip
+description: Use this domain for words referring to drops of water and what they do.
+questions:
+  - q: What is a drop of water called?
+    words: drop (of water/blood), droplet, a drip
+  - q: What do drops of water do?
+    words: drip, drip on, fall to the ground, splash on, hit, splatter, sprinkle
+  - q: What is a steady dripping called?
+    words: dripping (of water), steady drip, drip-drip (of water)

@@ -1,0 +1,22 @@
+code: "4.7.4"
+guid: 30EA3057-753D-4C4C-9B1F-ED30E569FEEA
+name: Court of law
+description: Use this domain for words related to a court of law.
+ocmCodes: 698 Special Courts
+louwNidaCodes: 56A Court of Justice; 56B Lawsuit, Case
+questions:
+  - q: What is a court of law called?
+    words: >-
+      court of law, law court, supreme court, superior court, court of appeals, district
+      court, divorce court, juvenile court, appellate court, tribunal, court-martial,
+      kangaroo court
+  - q: Where is a court held?
+    words: courthouse
+  - q: What are the parts of a courthouse?
+    words: courtroom, judge's chambers, jury room
+  - q: What are the parts of a courtroom?
+    words: jury bench, witness stand, witness box, judge's bench, lawyers table, bar, dock
+  - q: What words refer to the time when the court is in session?
+    words: session, the court is now in session
+  - q: What is a court case called?
+    words: trial, case, lawsuit, suit, action, litigation, proceedings, dispute, hearing

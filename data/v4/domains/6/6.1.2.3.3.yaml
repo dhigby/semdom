@@ -1,0 +1,7 @@
+code: "6.1.2.3.3"
+guid: 0D935E77-E437-426F-ACFF-DCCFB516EC8C
+name: Busy
+description: Use this domain for words related to being busy.
+questions:
+  - q: What words describe a person who is busy and has a lot to do?
+    words: busy, have a lot to do, have your hands full, pressure, overburdened

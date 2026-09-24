@@ -1,0 +1,17 @@
+code: "4.7.7.7"
+guid: 62EFA729-0920-4933-93F3-B6A48519A5C7
+name: Atone, restitution
+description: >-
+  Use this domain for words referring to atoning for a past sin--doing something to make up
+  for something bad you did, or giving something to pay for something bad you did.
+questions:
+  - q: What words refer to atoning for a sin?
+    words: >-
+      atone, expiate, make up for, make amends, compensate, repay, pay for, pay your debt to
+      society
+  - q: What words refer to something a person does to atone for a sin?
+    words: penance, amends
+  - q: What words refer to something a person gives to atone for a sin?
+    words: restitution, compensation, damages, reparations, indemnity
+  - q: What words refer to the act of atoning for a sin?
+    words: atonement, expiation, reparation, redress

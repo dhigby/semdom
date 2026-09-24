@@ -1,0 +1,31 @@
+code: "2.1.8"
+guid: 4C862416-F7C4-4A3C-82AC-FE81E1EFB879
+name: Internal organs
+description: Use this domain for words referring to the internal organs.
+questions:
+  - q: What general words refer to the internal organs?
+    words: organ, internal organ, gut, gland, system, systemic, vascular system, vas, cortex, sac
+  - q: What are the names of each of the internal organs?
+    words: >-
+      liver, hepatic, appendix, gall bladder, pancreas, pancreatic, spleen, lymphatic, lymph
+      node, peritoneum
+  - q: What are the parts of the lungs?
+    words: lung, pulmonary system, lobe, sack, diaphragm, respiratory system
+  - q: What are the parts of the intestines?
+    words: >-
+      intestine, intestinal tract, gut, bowel, small intestine, large intestine, colon,
+      transverse colon, rectum, anus
+  - q: What are the parts of the kidneys and bladder?
+    words: kidney, bladder, urethra, ureter, urinary, nephritic, renal
+  - q: What words refer to the glands?
+    words: >-
+      adrenal, endocrine, pituitary, thyroid, thymus, sweat gland, salivary gland, mammary
+      gland, hormone, hormonal
+  - q: What are the parts of the throat?
+    words: >-
+      throat, trachea, esophagus, Adam's apple, bronchus, bronchial, windpipe, pharyngeal,
+      pharynx, gullet, epiglottis, glottal, glottis, laryngeal, larynx
+  - q: What are the parts of the nervous system?
+    words: >-
+      brain, spinal column, spinal cord, nerve, nervous, nerve ending, synapse, synaptic,
+      cerebellum, cerebrum, ganglion, hypothalamus, neural, neuron

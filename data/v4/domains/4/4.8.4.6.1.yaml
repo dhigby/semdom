@@ -1,0 +1,7 @@
+code: "4.8.4.6.1"
+guid: 4B669BED-BA46-41CC-BCBA-C2EF8E129C85
+name: Request forgiveness
+description: Use this domain for words related to asking for forgiveness.
+questions:
+  - q: What words refer to requesting forgiveness?
+    words: ask forgiveness, sue for peace, seek pardon, beg for mercy

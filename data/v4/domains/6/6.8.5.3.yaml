@@ -1,0 +1,11 @@
+code: "6.8.5.3"
+guid: 4EB41E40-4115-435A-934A-5D91022A29DC
+name: Owe
+description: Use this domain for words related to owing money.
+ocmCodes: 426 Borrowing and Lending
+louwNidaCodes: 57R Owe, Debt, Cancel; 57Q Lend, Loan, Interest, Borrow, Bank
+questions:
+  - q: What words refer to owing money?
+    words: owe, be in debt, have a debt, heavily in debt
+  - q: What words refer to the money you owe?
+    words: debt, indebtedness

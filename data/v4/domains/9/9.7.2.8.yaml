@@ -1,0 +1,12 @@
+code: "9.7.2.8"
+guid: A105E31C-1268-4FC2-8655-838D34860ECE
+name: Names of oceans and lakes
+description: >-
+  Use this domain for the proper names of the oceans and lakes in the language area. Only
+  include the names of oceans and lakes outside the language area if your language has
+  borrowed or adapted the name and you talk about them in your language.
+questions:
+  - q: What are the names of the oceans?
+    words: Atlantic Ocean, Pacific Ocean, Indian Ocean, Arctic Ocean, Mediterranean Sea
+  - q: What are the names of the lakes in the language area?
+    words: Lake Superior, Lake Michigan

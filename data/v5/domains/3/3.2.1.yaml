@@ -1,0 +1,7 @@
+code: "3.2.1"
+guid: 7185BD93-5281-46DE-80AF-767F0EC40FF6
+name: Mind
+description: Use this domain for general words referring to the mind--the part of a person that thinks.
+questions:
+  - q: What words refer to the mind?
+    words: mind, intellect, intelligence, reason, understanding, brain, head

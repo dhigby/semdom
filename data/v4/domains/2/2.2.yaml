@@ -1,0 +1,16 @@
+code: "2.2"
+guid: 7FE69C4C-2603-4949-AFCA-F39C010AD24E
+name: Body functions
+description: >-
+  Use this domain for the functions and actions of the whole body. Use the subdomains in
+  this section for functions, actions, secretions, and products of various parts of the
+  body. In each domain include any special words that are used of animals.
+ocmCodes: 147 Physiological Data; 514 Elimination
+louwNidaCodes: 8C Physiological Products of the Body; 23 Physiological Processes and States
+questions:
+  - q: What general words refer to the functions of the body?
+    words: function
+  - q: What general words refer to secretions of the body?
+    words: secrete, secretion, excrete, excretion, product, fluid, body fluids, discharge, flux
+  - q: What words refer to bile?
+    words: bile, gall (fluid from the liver stored in the gall bladder)

@@ -1,0 +1,13 @@
+code: "8.3.7"
+guid: 83ADEB9D-C0BE-4073-894D-913014420280
+name: Good
+description: Use this domain for words describing something that is good.
+louwNidaCodes: 65C Good, Bad; 88A Goodness
+related: ["4.3.1"]
+questions:
+  - q: What words describe a person who is good?
+    words: good, fine, excellent, moral, nice, worthy
+  - q: What words describe something that is good?
+    words: good, nice
+  - q: What words describe an action that is good?
+    words: well done

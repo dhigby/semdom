@@ -1,0 +1,13 @@
+code: "3.2.4.3"
+guid: 6EA13B69-B2A8-41f9-B0BC-14316EBC5118
+name: Mysterious
+description: Use this domain for words that describe something that is difficult to understand.
+questions:
+  - q: What words describe something that cannot be understood?
+    words: not understandable, inscrutable, unfathomable, incomprehensible, inconceivable
+  - q: What words describe something that is difficult to understand?
+    words: >-
+      vague, oblique, unclear, not well worded, cryptic, hard to understand, difficult to
+      understand, puzzle, puzzling, riddle
+  - q: What words describe an unclear connection between two things?
+    words: obscure, shrouded in mystery, mysterious

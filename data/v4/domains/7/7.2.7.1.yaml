@@ -1,0 +1,8 @@
+code: "7.2.7.1"
+guid: 7110ADBE-A4CE-47B0-8C2F-6B41EDAF2FCB
+name: Stop moving
+description: Use this domain for words referring to stopping moving.
+louwNidaCodes: 68D Cease, Stop
+questions:
+  - q: What words refer to stopping moving?
+    words: stop, come to rest, halt, brake

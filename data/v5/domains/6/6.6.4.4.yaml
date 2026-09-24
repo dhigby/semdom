@@ -1,0 +1,9 @@
+code: "6.6.4.4"
+guid: 49471924-2458-4CB0-9430-F38CFC2FB63B
+name: Working with bone
+description: Use this domain for words related to working with bone.
+ocmCodes: 321 Work in Bone, Horn, and Shell
+questions:
+  - q: What words refer to working with bones?
+  - q: What words refer to things made from bones?
+    words: bone, horn, shell

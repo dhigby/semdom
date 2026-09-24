@@ -1,0 +1,21 @@
+code: "9.1.2.7"
+guid: 754AC437-2841-48C3-BBB0-7D6DFF52605E
+name: Event propositions
+description: >-
+  Use this domain for words that indicate event propositions. Event propositions are similar
+  in that they are normally expressed by a subject and a verb, possibly including an object,
+  indirect object, or complement clause. However there are multiple ways in which a language
+  can express an event, such as a passive construction, noun phrase, or subordinate clause.
+  In addition each event type is different in its primary cases, and in the ways those cases
+  are marked. Each event type has subtypes, such as intransitive, transitive, and
+  ditransitive verbs. A great deal of research is needed in order to identify all the
+  variations. Ultimately every verb must be investigated to determine how it behaves in each
+  syntactic construction and how its case relations are marked. No two verbs are entirely
+  alike.
+questions:
+  - q: What words indicate an event?
+    words: '-ing, -''s...-ing, -ing...of, to'
+    sentence: >-
+      A bark<ing> dog (kept me awake last night).; The dog<'s> bark<ing> (woke me up).; The
+      bark<ing> <of> a dog (woke me up).; (John told me) <to> wake him up at 6 a.m.; I want
+      <to> do something.; He started do<ing> something.

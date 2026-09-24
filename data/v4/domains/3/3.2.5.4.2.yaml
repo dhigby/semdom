@@ -1,0 +1,28 @@
+code: "3.2.5.4.2"
+guid: 2855CDA6-A031-46AA-BF3F-718D94374D46
+name: Protest
+description: >-
+  Use this domain for words related to protesting--to say publicly that you do not like
+  something.
+related: ["3.5.1.8.5", "4.8.2.6"]
+questions:
+  - q: What words refer to protesting?
+    words: protest (v), object to, remonstrate, speak out against
+  - q: What words refer to many people protesting?
+    words: storm of protest, outcry against, outcry over, public outcry, boycott
+  - q: What words refer to someone who protests?
+    words: protester, demonstrator, dissident, marcher, objector
+  - q: What words refer to something someone protests about?
+    words: protest (n), objection, remonstrance
+  - q: What words refer to many people protesting in a group?
+    words: protest, demonstrate, march, boycott, riot, in protest
+  - q: What words refer to when many people protest in a group?
+    words: >-
+      protest (n), demonstration, march, rally, riot, unrest, civil disobedience, peaceful
+      demonstration, placard
+  - q: What words describe something done in protest?
+    words: protest (adj)
+  - q: What do people do when they are protesting against something?
+    words: boo (v), boo (n), booing
+  - q: What do people say when they are protesting against something?
+    words: Down with (someone/something)! No more (something)!

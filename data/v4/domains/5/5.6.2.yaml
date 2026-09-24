@@ -1,0 +1,18 @@
+code: "5.6.2"
+guid: DD12AC0F-55CC-4C79-A50C-D23CC7EA60B3
+name: Bathe
+description: Use this domain for words related to bathing.
+ocmCodes: 515 Personal Hygiene
+questions:
+  - q: What words are used to refer to the action of taking a bath?
+    words: bathe, take a bath, take a shower, wash up
+  - q: What words refer to the event of taking a bath?
+    words: bath, bathing
+  - q: What words refer to someone who is taking a bath?
+    words: bather
+  - q: Where does a person take a bath?
+    words: bathroom, bathtub, tub, shower, shower stall, bathhouse
+  - q: What does a person use to take a bath?
+    words: >-
+      soap, shampoo, lather, washcloth, towel, shower cap, bathrobe, shower curtain,
+      bathmat, bathroom sink

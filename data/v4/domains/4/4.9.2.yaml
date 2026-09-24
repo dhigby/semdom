@@ -1,0 +1,33 @@
+code: "4.9.2"
+guid: 7F6C81FB-02A4-415F-A363-FB11CC6B9254
+name: Supernatural being
+description: >-
+  Use this domain for words referring to supernatural beings--gods, spirits, other types of
+  beings, which normally cannot be seen and do not belong to this world. Some people accept
+  the existence of certain supernatural beings and not others. Mythological beings are those
+  that were believed in during previous times but that are no longer believed in. Fictional
+  beings are those that no one has ever believed in. An indication of whether most people
+  believe in the supernatural being should be put in the definition.
+ocmCodes: 776 Spirits and Gods
+louwNidaCodes: 12 Supernatural Beings and Powers; 12A Supernatural Beings
+questions:
+  - q: What general words refer to supernatural beings?
+    words: supernatural being, spirit
+  - q: What words refer to lesser gods?
+    words: god, goddess, the gods, pantheon, deity
+  - q: What types of good supernatural beings are there?
+    words: angel, angelic being, cherub, seraph, saint
+  - q: What types of evil supernatural beings are there?
+    words: demon, devil, Satan, the Devil, Beelzebub
+  - q: What words refer to the spirit of a dead person?
+    words: spirit, ghost, specter, apparition, phantom, shade, ghoul
+  - q: >-
+      What words refer to supernatural beings that are considered to be mythological or
+      fictional and not real?
+    words: >-
+      Santa Claus, elf, fairy, giant, dwarf, sprite, genie, dragon, monster, Cyclops,
+      vampire, alien
+  - q: What words describe something like or related to a supernatural being?
+    words: >-
+      divine, angelic, demonic, Satanic, devilish, diabolical, ghost like, ghoulish,
+      monstrous, alien

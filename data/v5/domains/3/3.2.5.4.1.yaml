@@ -1,0 +1,8 @@
+code: "3.2.5.4.1"
+guid: 1D5C798B-0F2D-49F2-BDE6-CBCF2EF8FD02
+name: Disagree
+description: Use this domain for when two people disagree about something.
+louwNidaCodes: 31C Agree, Consent
+questions:
+  - q: What words refer to when two people disagree?
+    words: disagree, disagreement, think differently, dissent, dissenting, contest (v)

@@ -1,0 +1,18 @@
+code: "7.2.6"
+guid: 19D54C2F-AE03-4CBC-9B7E-57292F92FBC1
+name: Pursue
+description: >-
+  Use this domain for words related to pursuing someone--to follow someone in order to catch
+  them.
+louwNidaCodes: 15U Pursue, Follow
+questions:
+  - q: What words refer to pursuing someone?
+    words: >-
+      run after, chase, in pursuit, pursue, be on someone's heels, chase after, go after,
+      give chase, come after, be after, hunt
+  - q: What words refer to following someone in order to find out where they go?
+    words: follow, tail, shadow, stalk, track, trail, hound, trace
+  - q: What words refer to the act of pursuing someone?
+    words: chase (n), pursuit
+  - q: What words refer to someone who is pursuing someone?
+    words: pursuer

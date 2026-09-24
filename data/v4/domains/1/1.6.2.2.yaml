@@ -1,0 +1,11 @@
+code: "1.6.2.2"
+guid: 203F46D2-F0D0-4DDA-8D1A-DDC15065B005
+name: Parts of a reptile
+description: Use this domain for the parts of a reptile.
+questions:
+  - q: What are the parts of reptiles?
+    words: scale, snakeskin, fang, rattle (of rattlesnake), coil, egg tooth
+  - q: What are the parts of a turtle?
+    words: shell
+  - q: What words refer to a snake's poison?
+    words: venom, venomous, poison, poisonous

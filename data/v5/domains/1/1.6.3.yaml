@@ -1,0 +1,22 @@
+code: "1.6.3"
+guid: AC187298-85E8-43ED-BA85-CC06A62C08BA
+name: Animal life cycle
+description: Use this domain for words related to the life cycle of an animal.
+ocmCodes: 136b Growth Stages
+questions:
+  - q: What words refer to an animal giving birth?
+    words: >-
+      give birth, embryo, multiply, propagate, reproduce, calve, calving, drop, kid,
+      lambing, lay, spawn, spawning grounds, whelp
+  - q: What words refer to a young animal?
+    words: >-
+      young, puppy, cub, foal, kid, kitten, lamb, litter, chick, brood, fledgling, larva,
+      roe
+  - q: What words refer to the sexual behavior of animals?
+    words: mate, harem, breed
+  - q: What words refer to the life cycle of insects?
+    words: cocoon, chrysalis, pupa, pupal stage, maggot, grub, larva, larval, caterpillar, nymph
+  - q: What words refer to animals such as snakes, birds, and insects shedding their skin?
+    words: shed (skin), molt (feathers)
+  - q: What words refer to animals growing fur, feathers, or new skin?
+    words: molt, shed, down, fledge

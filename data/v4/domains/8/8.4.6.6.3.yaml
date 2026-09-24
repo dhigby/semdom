@@ -1,0 +1,22 @@
+code: "8.4.6.6.3"
+guid: 12F12BF3-F232-4477-BF39-D91B7F55C2C3
+name: Often
+description: >-
+  Use this domain for words referring to something happening often--happening or done many
+  times.
+questions:
+  - q: What words indicate how often something happens?
+    words: >-
+      often, frequently, time after time, time and again, repeatedly, many a time, hundreds
+      of times, half the time, at frequent intervals
+    sentence: Mary <often> washes the dress.; I have <frequently> lent John money.
+  - q: What words describe something that happens often?
+    words: frequent, repeated, habitual
+  - q: What words indicate that something does not happen often?
+    words: rarely, infrequently
+  - q: What words describe something that does not happen often?
+    words: rare, infrequent
+  - q: What words indicate how often something happens?
+    words: how often, how many times, the number of times, frequency
+  - q: What words refer to something happening more often?
+    words: increasingly

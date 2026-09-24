@@ -1,0 +1,12 @@
+code: "9.6.2.6"
+guid: 48D3DE9F-3619-4785-B50B-6921BA7EECD6
+name: Result
+description: Use this domain for words indicating that something is the result of another thing.
+louwNidaCodes: 89H Result
+questions:
+  - q: What words indicate the result of something?
+    words: >-
+      result, outcome, end, to result in, to lead to, wages, to end up being, have as a
+      consequence, therefore, so then, consequently, as a result, for this reason, with the
+      result that, so that as a result, to cause, which caused, so that, that, accordingly,
+      then, hence, and so, yield, has the effect of

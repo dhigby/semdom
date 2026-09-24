@@ -1,0 +1,7 @@
+code: "8.3.5.2.6"
+guid: 23FA2115-3979-472c-8939-4DB8D54E4C98
+name: Opposite
+description: Use this domain for words describing two things that are opposite.
+questions:
+  - q: What words describe two things that are opposite?
+    words: opposite

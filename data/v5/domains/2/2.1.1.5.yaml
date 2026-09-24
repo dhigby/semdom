@@ -1,0 +1,20 @@
+code: "2.1.1.5"
+guid: C8602DC5-5C91-480a-B5CE-1C82FE3DA83A
+name: Tooth
+description: Use this domain for words related to the teeth.
+related: ["5.4.4", "2.5.2.4"]
+questions:
+  - q: What words refer to a tooth?
+    words: tooth, incisor, canine tooth, molar, wisdom tooth, milk tooth, baby tooth
+  - q: What are the parts of a tooth?
+    words: enamel, root, crown, ivory
+  - q: What words describe a person's teeth?
+    words: even, crooked, decayed, white, yellow
+  - q: What do the teeth do?
+    words: bite, chew
+  - q: What words refer to moving the teeth against each other?
+    words: grind, gnash
+  - q: What do people do to their teeth?
+    words: pick
+  - q: What words describe something to do with the teeth?
+    words: dental

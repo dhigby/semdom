@@ -1,0 +1,17 @@
+code: "3.5.4.3"
+guid: 26D32F3E-CED6-45FC-AFD0-7E017FA252C6
+name: Riddle
+description: >-
+  Use this domain for words referring to a riddle--something someone says that is hard to
+  understand.
+questions:
+  - q: >-
+      What words are used for short sayings or questions that have a meaning that someone
+      has to figure out?
+    words: riddle, conundrum, enigma, puzzle, problem
+  - q: What words are used of telling a riddle?
+    words: tell a riddle, give a riddle
+  - q: What words are used of solving a riddle?
+    words: >-
+      solve the riddle, figure out the riddle, guess the meaning of the riddle, tell the
+      meaning of the riddle

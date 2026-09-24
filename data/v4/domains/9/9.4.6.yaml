@@ -1,0 +1,15 @@
+code: "9.4.6"
+guid: A03663CA-0C66-4570-BE2D-B40105CC4400
+name: 'Yes'
+description: >-
+  Use this domain for words that affirm or agree with the truth of something, or that answer
+  a yes/no question in the affirmative.
+louwNidaCodes: 69A Affirmation; 69 Affirmation, Negation
+questions:
+  - q: What words are used to affirm the truth of something?
+    words: >-
+      yes, yeah, yea, indeed, true, that's true, it is true, verily, agreed, certainly, of
+      course, that's right, I guess so, that is so, a-huh, nod your head, affirmative,
+      positive
+  - q: What words are used to refer to the action of affirming the truth of something?
+    words: affirm, affirmation, confirm, concur, agree, agreement

@@ -1,0 +1,16 @@
+code: "8.4.1"
+guid: 14AD95AD-50FC-450F-B44D-4273DF0B1E8B
+name: Period of time
+description: Use this domain for words referring to a period of time.
+louwNidaCodes: >-
+  67 Units of Time; 67H Indefinite Units of Time: Age, Lifetime, Interval, Period; 67I
+  Definite Units of Time: Year, Month, Week, Day, Hour
+questions:
+  - q: What general words refer to a period of time?
+    words: period, span, while, length of time
+  - q: What words refer to a period of time?
+    words: >-
+      instant, second, minute, hour, hourly, day, week, fortnight, month, season, year,
+      decade, century, turn of the century, lifetime, millennium
+  - q: What words refer to a point in time?
+    words: point, moment

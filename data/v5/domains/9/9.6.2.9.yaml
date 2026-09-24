@@ -1,0 +1,8 @@
+code: "9.6.2.9"
+guid: 2F28F1AB-476E-4317-8787-124D95D6B9D2
+name: Concession
+description: Use this domain for words indicating that the speaker is conceding a point in a debate.
+louwNidaCodes: 89K Concession
+questions:
+  - q: What words indicate that the speaker is conceding a point?
+    words: concession, although, though, even though, and yet, even if, nevertheless

@@ -1,0 +1,11 @@
+code: "8.5.1.2"
+guid: B8FC54D8-AFD2-4EF8-B811-EFB8AA7064DB
+name: Beside
+description: Use this domain for words that indicate that something is to the side of someone.
+louwNidaCodes: 83E At, Beside, Near, Far
+related: ["8.5.1.5.1"]
+questions:
+  - q: What words indicate that something is beside something else?
+    words: >-
+      be beside, alongside, along, next to, at your side, be way over to the side, be on the
+      right, be on the left

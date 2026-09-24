@@ -1,0 +1,32 @@
+code: "8.2.3.3"
+guid: 08C05E00-9660-4491-AF2F-A05FAB27EF39
+name: Thin person
+description: Use this domain for words describing a person or animal who is thin.
+louwNidaCodes: 81D Narrow, Wide
+questions:
+  - q: What words describe someone who is thin?
+    words: thin, slight
+  - q: What words describe someone who is very thin?
+    words: emaciated, skeletal, be skin and bones, underweight, gaunt
+  - q: What words describe someone who is thin and tall?
+    words: lanky, spindly, rangy
+  - q: What words describe someone who is thin and attractive?
+    words: slim, slender, trim, willowy, keep your figure, dapper, svelte
+  - q: What words describe someone who is thin and not attractive?
+    words: skinny, bony, scrawny, scraggy, angular
+  - q: What words describe someone who is thin and strong?
+    words: lean, wiry
+  - q: What words refer to someone who is thin?
+    words: scarecrow, skeleton, bag of bones
+  - q: What words refer to someone becoming thin?
+    words: lose weight, slim, shed (ten) pounds, waste away, get thin
+  - q: What words refer to being thinner than another person?
+    words: thinner, thinnest
+  - q: What words describe a face that is thin?
+    words: pinched, drawn, gaunt, hollow cheeks
+  - q: What words refer to a thin stomach?
+    words: flat stomach
+  - q: What words refer to trying to become thin?
+    words: >-
+      try to lose weight, watch your weight, watch your figure, diet, be on a diet, go on a
+      diet, slim (v)

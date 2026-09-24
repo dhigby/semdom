@@ -1,0 +1,7 @@
+code: "8.5.2.5"
+guid: 84084E67-B321-4B6A-A436-29EAD0BEE586
+name: Down
+description: Use this domain for words referring to the direction down.
+questions:
+  - q: What words refer to the direction down?
+    words: down, downwards, downhill

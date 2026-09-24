@@ -1,0 +1,23 @@
+code: "3.5.4.5"
+guid: 2629943B-3A69-4C6B-9956-2AA59EBD03D3
+name: History
+description: Use this domain for words related to history.
+ocmCodes: >-
+  1210 Archaeological Excavation Methods; 1211 Dating Methods in Archaeology; 1212
+  Laboratory Analysis of Materials Other Than Dating Methods in Archaeology; 1213
+  Comparative Data [in Reconstructing History]; 129 Archaeological Survey Methods; 138 Post
+  Depositional Processes in Archaeological Sites; 159 Life History Materials; 170 History
+  and Culture Change; 171 Comparative Evidence; Distributional Evidence; 1710 Cultural
+  Revitalization and Ethnogenesis; 172 Prehistory; Archaeology; 173 Traditional History; 174
+  Historical Reconstruction; 175 History; Recorded History; 176 Innovation; 177
+  Acculturation and Culture Contact; 178 Sociocultural Trends; 910 Archaeological Measures,
+  Techniques and Analysis; 911 Chronologies and Cultural Sequences; 912 Cultural
+  Stratigraphy; 913 Functional Specialization; 914 Typologies and Classification; 915
+  Archaeological Inventories
+questions:
+  - q: What words refer to history?
+    words: history, historical, archaeology, chronology
+  - q: What words refer to a time period in history?
+    words: era, epoch, civilization, period, age
+  - q: What words refer to a person who studies history?
+    words: historian, archaeologist

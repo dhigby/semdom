@@ -1,0 +1,11 @@
+code: "8.3.2.3.1"
+guid: 34FE8676-7BDA-493D-A012-BC5748E87823
+name: Pointed
+description: Use this domain for words describing something that is pointed.
+questions:
+  - q: What words describe something that is pointed?
+    words: pointed
+  - q: What words refer to a point?
+    words: point
+  - q: What words refer to making something pointed?
+    words: to point, give a point to, sharpen to a point

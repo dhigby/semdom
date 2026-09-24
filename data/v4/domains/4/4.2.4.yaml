@@ -1,0 +1,17 @@
+code: "4.2.4"
+guid: 4B3A9B5A-DF7D-4EC2-9576-2C07FE396021
+name: Dance
+description: Use this domain for words related to dancing.
+ocmCodes: 535 Dancing
+louwNidaCodes: 15F' Dance
+questions:
+  - q: What words refer to dancing?
+    words: dance
+  - q: What are the types of dances?
+    words: barn dance, folk dance, square dance, ballet, waltz, tap-dancing
+  - q: What are the parts of a dance?
+    words: dance step, swing, lead, follow
+  - q: What words refer to the people who dance?
+    words: dancer, dance partner, chorus line, dance team
+  - q: Where are dances held?
+    words: dance hall, dance floor

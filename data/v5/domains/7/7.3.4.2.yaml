@@ -1,0 +1,7 @@
+code: "7.3.4.2"
+guid: 3885231E-8B18-4DA3-AF76-C75E8B731ED8
+name: Pick up
+description: Use this domain for words related to picking something up.
+questions:
+  - q: What words refer to picking something up?
+    words: pick up, take, get

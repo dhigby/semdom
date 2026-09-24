@@ -1,0 +1,25 @@
+code: "7.5"
+guid: 6045C6EB-EFEA-4586-95F8-840D32578D66
+name: Arrange
+description: >-
+  Use this domain for words referring to arranging things--to physically move a group of
+  things or people and put them in a pattern.
+louwNidaCodes: 62 Arrange, Organize; 62A Put Together, Arrange
+related: ["8.4.5.1"]
+questions:
+  - q: What words refer to arranging things?
+    words: >-
+      arrange, align, array, dispose, lay out, line up, order, put in order, range, set out,
+      concatenate
+  - q: What words refer to the pattern in which things are arranged?
+    words: >-
+      arrangement, alignment, array, formation, order, ordering, pattern, row, disposition,
+      distribution, gradation, grouping, layout, concatenation
+  - q: >-
+      What words refer to arranging things a second time, or arranging things after they
+      have been mixed up?
+    words: rearrange, rearrangement, reorder, reordering, reform, reformation
+  - q: What words describe things that have been arranged?
+    words: arranged, ordered, well-ordered, be in order, regular
+  - q: What words refer to when everything is arranged?
+    words: order

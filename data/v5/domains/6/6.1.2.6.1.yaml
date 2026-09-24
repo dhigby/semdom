@@ -1,0 +1,11 @@
+code: "6.1.2.6.1"
+guid: F77053F4-ED5A-4376-BCBA-17552EA447BA
+name: Prepare something for use
+description: >-
+  Use this domain for words related to preparing something so that it can be used for some
+  purpose.
+questions:
+  - q: What words refer to preparing something?
+    words: prepare, get something ready
+  - q: What words describe something that has been prepared?
+    words: prepared, ready

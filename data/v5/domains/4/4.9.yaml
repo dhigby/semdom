@@ -1,0 +1,17 @@
+code: "4.9"
+guid: 7556A257-3703-40D3-91D3-C891FB250947
+name: Religion
+description: Use this domain for general words referring to religion and the supernatural.
+ocmCodes: 770 Religious Beliefs; 771 General Character of Religion
+louwNidaCodes: 12 Supernatural Beings and Powers
+questions:
+  - q: What words refer to the system of belief and practice related to God?
+    words: religion, religious system, faith
+  - q: What words refer to what is beyond our senses or ability?
+    words: supernatural, magic, miracle, miraculous, paranormal
+  - q: What words describe something having to do with religion?
+    words: religious, sacred, spiritual
+  - q: What words refer to those areas of life outside of religion?
+    words: secular, profane
+  - q: What words refer to the world of gods and spirits?
+    words: spirit world, spiritual realm, the supernatural, the unseen

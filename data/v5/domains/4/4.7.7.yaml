@@ -1,0 +1,19 @@
+code: "4.7.7"
+guid: 6BF7569E-DC79-49DA-9CE1-E2E03303828A
+name: Punish
+description: Use this domain for words related to punishing someone.
+ocmCodes: 681 Sanctions
+louwNidaCodes: 38 Punish, Reward; 38A Punish
+questions:
+  - q: What words refer to punishing someone?
+    words: punish, discipline, penalty, consequence, punishment, sentence
+  - q: What things are used to punish someone?
+    words: stocks, pillory
+  - q: What words refer to punishing someone by beating them?
+    words: flog, beat, lash, scourge, whip
+  - q: What things are used to punish someone by beating them?
+    words: belt, cane, lash, paddle, rod, stick, strap, switch, whip
+  - q: What words refer to torturing someone?
+    words: torture
+  - q: What things are used to torture someone?
+    words: rack, screw, thumbscrew

@@ -1,0 +1,43 @@
+code: "9.7.1"
+guid: 7B513A02-C3AE-4243-9410-16854D911258
+name: Name of a person
+description: >-
+  Use this domain for words related to the name of a person. Each culture has a system of
+  personal names to identify individuals and kin groups. The subcategories under this
+  heading should reflect the cultural system. If your language has a special set of names
+  that do not fit any of they domains given here, then set up a special domain.
+ocmCodes: 551 Personal Names
+louwNidaCodes: 9E Persons For Whom There Is Affectionate Concern; 93A Persons
+questions:
+  - q: What words refer to the name of a person?
+    words: >-
+      name, proper name, proper noun, first name, given name, personal name, middle name,
+      last name, family name, father's name, surname, maiden name, initial, title, identity
+  - q: >-
+      What words refer to a name your family or friends use for you that is not your real
+      name?
+    words: nickname, pet name
+  - q: What words refer to a name you use for yourself that is not your real name?
+    words: >-
+      false name, pseudonym, pen name, stage name, alias, a.k.a. (also known as), under the
+      name of, under an assumed name, go by the name of
+  - q: What words are used to refer to someone when you can't remember what they are called?
+    words: what's his/her name, whatchamacallit, whatsit, so and so
+  - q: What words describe someone whose name is not known?
+    words: anonymous, unnamed, unidentified, incognito, unknown, nameless
+  - q: >-
+      What words refer to discovering or stating the name of someone whose name has not been
+      known?
+    words: name, identify
+  - q: What words are used to indicate a person's name?
+    words: someone's name is, be called, be known as, named
+  - q: What words refer to giving someone a name?
+    words: >-
+      name (v), call, be christened, give a name to, choose a name, pick a name, call
+      him/her 'name'
+  - q: What words refer to the reason why someone is given a name?
+    words: be named for, be named after, namesake
+  - q: When is a name given?
+    words: naming ceremony, christening
+  - q: What words refer to writing your name?
+    words: sign (your name), signature

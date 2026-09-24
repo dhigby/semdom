@@ -1,0 +1,19 @@
+code: "3.3.1.5"
+guid: 26BC089A-A989-4763-BE6C-05D127D1C0E8
+name: Deliberately
+description: >-
+  Use this domain for words related to doing something deliberately--to intend to do
+  something, as opposed to doing something accidentally.
+questions:
+  - q: What words refer to doing something deliberately?
+    words: >-
+      deliberately, on purpose, intentionally, pointedly, make a point of, knowingly,
+      consciously, willfully, mean to do something
+  - q: What words describe something that is done deliberately?
+    words: deliberate, intentional, conscious, calculated, premeditated
+  - q: What words refer to not doing something deliberately?
+    words: >-
+      accidentally, by accident, by mistake, unintentionally, not mean to do something,
+      inadvertently, unconsciously
+  - q: What words describe something that is not done deliberately?
+    words: accidental, unintentional, unconscious, involuntary

@@ -1,0 +1,58 @@
+code: "2.6.2.3"
+guid: B0905FA9-2F90-410B-8EB5-7C7944C4F0F9
+name: Sexual immorality
+description: Use this domain for words referring to illicit sexual relations.
+ocmCodes: >-
+  684 Sex and Marital Offenses; 834 General Sex Restrictions; 835 Kinship Regulation of Sex;
+  836 Premarital Sex Relations; 837 Extramarital Sex Relations; 838 Homosexuality; 839
+  Miscellaneous Sex Behavior
+louwNidaCodes: 88J' Sexual Misbehavior
+questions:
+  - q: What general words refer to sexual immorality?
+    words: immorality, illicit relations, sexual sin, lasciviousness, licentiousness, obscenity
+  - q: What words refer to someone who is sexually immoral?
+    words: sex maniac, dirty old man, lecherous, nymphomaniac, sex fiend, libertine
+  - q: What words describe someone who is sexual immoral?
+    words: >-
+      bawdry, erotic, immoral, kinky, licentious, lustful, sensuous, voluptuous, indecent,
+      obscene
+  - q: What words refer to sex before marriage?
+    words: fornicate, fornication, deflower (a virgin)
+  - q: What words refer to sexual offenses within a marriage?
+    words: abuse
+  - q: What words refer to sex with a person you are not married to?
+    words: >-
+      commit adultery, adultery, be unfaithful, cheat on, two-time, sow wild oats,
+      infidelity
+  - q: What words refer to a person who commits adultery?
+    words: adulterer, adulteress, sexual partner, lover, mistress
+  - q: What words refer to tempting someone to have sex outside of marriage?
+    words: >-
+      seduce, get someone into bed, seductive, seduction, make advances, make a pass at,
+      sexual harassment
+  - q: What words refer to an ongoing relationship outside of marriage?
+    words: affair, relationship, be together, romance
+  - q: What words refer to a single time of adultery?
+    words: one night stand
+  - q: What words refer to having sex with many people?
+    words: sleep around, promiscuous, promiscuity
+  - q: What words refer to a prostitute?
+    words: prostitute, hooker, call-girl, harlot, whore, rent boy
+  - q: What words refer to what prostitutes do?
+    words: prostitute (oneself), prostitution, solicit sex, sell (oneself)
+  - q: What words refer to having sex by yourself?
+    words: masturbate, masturbation
+  - q: What words describe books and movies that are about sex?
+    words: erotic, pornographic, pornography, porn, adult, blue, dirty, steamy, raunchy, X-rated
+  - q: What words refer to sex between close relatives?
+    words: have an incestuous relationship, incest
+  - q: What words refer to forcing a woman to have sex?
+    words: rape, rapist, force, sexually assault
+  - q: What words refer to sex between two people of the same sex?
+    words: >-
+      homosexual, gay, lesbian, homo, homosexuality, lesbianism, pervert, perverted,
+      bisexual, sodomy, sexual orientation
+  - q: What words refer to having sex with a child?
+    words: abuse, sexual abuse, molest, molestation, pedophile, pederast, pederasty
+  - q: What words refer to sex with an animal?
+    words: bestial, bestiality

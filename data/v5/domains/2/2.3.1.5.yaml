@@ -1,0 +1,43 @@
+code: "2.3.1.5"
+guid: 3F4C559F-AB4F-411F-A23B-D2396C977005
+name: Visible
+description: >-
+  Use this domain for words related to being able to see something--words that describe
+  something that can be seen, something that cannot be seen, something that is easy to see,
+  or something that is difficult to see.
+related: ["7.6", "2.3.1.6"]
+questions:
+  - q: What words refer to being able to see something?
+    words: can see, can make out, catch a glimpse of
+  - q: What words refer to not being able to see something?
+    words: can't see, can't make out
+  - q: What words describe something that can be seen?
+    words: >-
+      visible, show, in view, in sight, seen, show up, perceptible, noticeable, observable,
+      discernible, seeable, distinguishable, perceivable
+  - q: What words describe something that cannot be seen?
+    words: invisible, lose sight of, unseen, invisibility, imperceptible, indiscernible
+  - q: What words describe something that can be easily seen?
+    words: >-
+      clear, distinct, apparent, clear-cut, conspicuous, prominent, stand out, evident,
+      glaring, manifest, obvious, patent, pronounced, unmistakable
+  - q: What words describe something that cannot be easily seen?
+    words: >-
+      unclear, not clear, faint, blurred, blur, blurry, barely discernible, dim,
+      inconspicuous, indistinct, obscure, unapparent
+  - q: What words refer to how well something can be seen?
+    words: clarity, visibility
+  - q: What words indicate that something happens where people can see it?
+    words: >-
+      in full view of, in front of, in front of someone's eyes, before someone's eyes, in
+      the open, exposed to view, unhidden, within view
+  - q: What words indicate that something happens where people cannot see it?
+    words: out of sight, hidden from view, away from people's eyes
+  - q: What words refer to something blocking another thing from view?
+    words: >-
+      becloud, befog, block, blot out, cloak, cloud, conceal, cover, eclipse, enshroud,
+      hide, mask, obfuscate, obscure, obstruct, occlude, screen, shroud, veil
+  - q: What words describe something that is blocked from view?
+    words: >-
+      beclouded, befogged, blocked, cloaked, concealed, covered, eclipsed, enshrouded,
+      hidden, masked, obscured, screened, shrouded, veiled

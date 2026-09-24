@@ -1,0 +1,16 @@
+code: "4.2.6.4"
+guid: 42133F78-9860-4BB7-8083-5559083F0714
+name: Gambling
+description: Use this domain for words related to gambling.
+ocmCodes: 525 Gambling
+questions:
+  - q: What words refer to gambling?
+    words: gamble, gambling, gaming, bet, place a bet, wager
+  - q: What types of gambling games are there?
+    words: cards, dice, lottery, roulette
+  - q: What other kinds of events do people typically bet on?
+    words: cockfight, horse race
+  - q: What words refer to a person who gambles?
+    words: gambler, bookie
+  - q: What words refer to a person's chances of winning?
+    words: odds

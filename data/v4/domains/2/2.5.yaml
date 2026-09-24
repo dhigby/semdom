@@ -1,0 +1,21 @@
+code: "2.5"
+guid: 32BEBE7E-BDCC-4E40-8F0A-894CD6B26F25
+name: Healthy
+description: Use this domain for words related to a person being healthy--not sick.
+ocmCodes: 147 Physiological Data; 740 Health and Welfare
+louwNidaCodes: 23H Health, Vigor, Strength
+questions:
+  - q: What words describe a person who is healthy?
+    words: healthy, well, fine, in good health, able-bodied, hale, sound, whole
+  - q: What words describe someone who is healthy and doesn't get sick?
+    words: robust, have a strong constitution
+  - q: What words describe someone who looks healthy?
+    words: glowing, be the picture of health, healthy-looking
+  - q: What words refer to the state of being healthy?
+    words: health, bloom, fitness
+  - q: What words refer to a person's physical condition?
+    words: health, well-being, condition, physiology
+  - q: What words describe something that makes you healthy?
+    words: healthy, be good for you, be good for your health, do you good, beneficial
+  - q: What words describe food that makes you healthy?
+    words: wholesome, nutritious, nourishing, healthful

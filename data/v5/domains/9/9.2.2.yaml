@@ -1,0 +1,10 @@
+code: "9.2.2"
+guid: 24D3D7F9-0FDA-4759-930B-6B721D3E9115
+name: Adverbs
+description: >-
+  Use this domain to list all adverbs. If there are many adverbs in your language, it is
+  probably not worth the trouble to list them here. The Shoebox program (and other
+  dictionary programs) can sort your dictionary by part of speech.
+questions:
+  - q: What adverbs are in your language?
+    words: quickly

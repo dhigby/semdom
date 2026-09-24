@@ -1,0 +1,51 @@
+code: "9.4.1.1"
+guid: DF2EE830-0668-43D7-8A32-E2FD3E7B31D8
+name: Tense
+description: >-
+  Use this domain for verbal auxiliaries, affixes, adverbs, and particles that indicate
+  tense (also known as temporal deixis)--the time of a situation (event, activity, or state)
+  in relation to a reference point, which is usually the time of utterance. The following
+  definitions are taken from Bybee, Joan, Revere Perkins, and William Pagliuca. 1994. The
+  evolution of grammar. Chicago and London: University of Chicago Press.
+questions:
+  - q: 'present: the situation occurs simultaneously with the moment of speech.'
+  - q: 'past: the situation occurred before the moment of speech.'
+  - q: >-
+      future: the situation takes place after the moment of speech; the speaker predicts
+      that the situation in the proposition will hold.
+  - q: 'crastinal: tomorrow.'
+  - q: 'hesternal: yesterday.'
+  - q: 'hodiernal: today, normally with past.'
+  - q: 'pre-hodiernal: before today.'
+  - q: 'post-crastinal: after tomorrow.'
+  - q: 'ancient past: used for narrating events in ancient or mythical time.'
+  - q: >-
+      remote: combines with other tense labels to indicate a situation occurring temporally
+      distant from the moment of speech.
+  - q: >-
+      immediate: a meaning label that may be combined with other tense labels to indicate a
+      situation not simultaneous with the moment of speech, but very close to it.
+  - q: 'immediate future: what is about to occur.'
+  - q: >-
+      immediate past: occurring immediately before the moment of speech. Also called the
+      Recent Past. Do not use this label if there is any sense of current relevance--use
+      anterior for that.
+  - q: Immediate may also be combined with anterior or imperative.
+  - q: >-
+      expected future: the situation is to occur in the near future; what is scheduled to
+      happen.
+  - q: >-
+      narrative time: the use of a form with no other past uses for reporting a past
+      narrative.
+  - q: >-
+      gnomic present: the situation described in the proposition is generic; the predicate
+      has held, holds, and will hold for the class of entities named by the subject, such as
+      'Elephants have trunks'. 
+  - q: What general words refer to the tense of an event?
+    words: tense, time
+  - q: What words are used to indicate the present tense?
+    words: (no words or affixes in English)
+  - q: What words are used to indicate the past tense?
+    words: '-ed, (in English vowel replacement is also used to indicate past tense, e.g. run, ran)'
+  - q: What words are used to indicate the future tense?
+    words: will, going to

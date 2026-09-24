@@ -1,0 +1,15 @@
+code: "8.1.1.6"
+guid: 64E6C0DB-6DD6-4B80-BBE9-C96BB161674B
+name: Fraction
+description: Use this domain for the numbers that refer to a fraction of something.
+louwNidaCodes: 60D Half, Third, Fourth
+related: ["8.1.6.1"]
+questions:
+  - q: What general words refer to a fraction of something?
+    words: fraction, proportion, percentage, decimal, decimal point
+  - q: What words refer to a particular fraction of something?
+    words: >-
+      half, one half, third, one third, two thirds, quarter, fourth, fifth, sixth, seventh,
+      eighth, ninth, tenth
+  - q: What words refer to dividing something into a fraction of the whole?
+    words: halve, quarter (v), bisect, trisect, (divide/cut/fold) in half, in two

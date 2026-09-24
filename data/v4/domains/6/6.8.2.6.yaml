@@ -1,0 +1,14 @@
+code: "6.8.2.6"
+guid: 044F740B-94F3-4096-AA3A-C07F5E708346
+name: Collect
+description: >-
+  Use this domain for words related to collecting things you find interesting. In some
+  cultures people collect rare or valuable things that they think are attractive or
+  interesting, such as art, stamps, coins, books, or antiques.
+questions:
+  - q: What words refer to collecting things?
+    words: collect, acquire
+  - q: What words refer to someone who collects things?
+    words: collector
+  - q: What words refer to things that someone has collected?
+    words: collection, set

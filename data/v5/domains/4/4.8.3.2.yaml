@@ -1,0 +1,31 @@
+code: "4.8.3.2"
+guid: C8595A5F-4DDE-4260-B8D8-265D0554CE93
+name: Win
+description: Use this domain for words related to winning a victory.
+questions:
+  - q: What words refer to winning a fight or war?
+    words: >-
+      win a fight, win a victory, gain the victory, be victorious, come out on top, prevail,
+      win the day, carry the day, emerge victorious
+  - q: What words refer to winning a game or other competition?
+    words: win, come first, come in first, finish first, get in, first place
+  - q: What words refer to winning easily?
+    words: win easily, win hands down, sweep to victory, romp home, sweep the board
+  - q: What words refer to almost losing?
+    words: win by a narrow margin, scrape home, scrape by, squeak by, be a close-run thing
+  - q: What words refer to a victory?
+    words: victory, win, triumph, success, conquest
+  - q: What words refer to an easy victory?
+    words: easy win, walkover, landslide
+  - q: What words refer to a difficult victory?
+    words: narrow victory, close call, hard won
+  - q: What words refer to the person or group that wins?
+    words: winner, winning side, victor, champion, victorious army, champ
+  - q: What words refer to something that you win?
+    words: prize, winnings, jackpot, trophy, cup
+  - q: >-
+      What words refer to a situation during a fight or game when it looks like you will
+      win?
+    words: be winning, lead, be ahead, be in the lead, be out in front
+  - q: What words refer to the person or group that people think will win?
+    words: front runner, strong contender, be the favorite, be in the running

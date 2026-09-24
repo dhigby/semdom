@@ -1,0 +1,8 @@
+code: "8.5.1.2.1"
+guid: 6BC8E911-36F2-4D45-B237-2BDB6C03CC11
+name: Around
+description: Use this domain for words indicating that something is around something else.
+louwNidaCodes: 83D Around, About, Outside
+questions:
+  - q: What words indicate that something is around something else?
+    words: be around, surrounding

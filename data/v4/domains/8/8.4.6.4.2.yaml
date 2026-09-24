@@ -1,0 +1,9 @@
+code: "8.4.6.4.2"
+guid: 99E38DA1-91AD-4DFF-A68F-972607936E50
+name: Not yet
+description: Use this domain for words referring to something not happening yet.
+questions:
+  - q: What words indicate that an event has not happened yet?
+    words: >-
+      not yet, not now, still need to wait, it will be awhile (still), it will take some
+      time, not quite here, almost

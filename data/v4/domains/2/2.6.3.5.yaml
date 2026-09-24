@@ -1,0 +1,13 @@
+code: "2.6.3.5"
+guid: 5C468A85-E45F-4EA0-A3BA-68FEDA7E85A1
+name: Help to give birth
+description: Use this domain for words related to helping a woman to give birth.
+questions:
+  - q: What words refer to giving help to a woman who is giving birth?
+    words: deliver, delivery, help to give birth, midwifery, obstetrics
+  - q: What words refer to a doctor operating on a woman to deliver a baby?
+    words: Caesarean section
+  - q: What words refer to a person who helps to give birth?
+    words: midwife, obstetrician
+  - q: What materials and instruments are used by obstetricians and midwives?
+    words: knife, clamp, forceps, incubator

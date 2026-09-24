@@ -1,0 +1,18 @@
+code: "4.8.1.1"
+guid: 763FA2E0-C119-4f50-A307-81ED8C3497ED
+name: Oppose
+description: Use this domain for words referring to opposing something that you think is wrong.
+ocmCodes: 578 Ingroup Antagonisms
+louwNidaCodes: 39 Hostility, Strife; 39E Strife, Struggle
+related: ["4.3.4.3.1"]
+questions:
+  - q: What words refer to opposing something?
+    words: oppose, be opposed to, be against, anti-
+  - q: What words refer to something someone does to show he is opposed to something?
+    words: objection, opposition, hostility, antagonism
+  - q: What words refer to saying that you are opposed to something?
+    words: object to, voice opposition to, express opposition to, raise objections
+  - q: What words refer to someone who opposes something?
+    words: opponent, the opposition, enemy, foe
+  - q: What words describe someone who opposes something?
+    words: opposing, hostile, antagonistic, opposing

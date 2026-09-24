@@ -1,0 +1,23 @@
+code: "9.1.1.2"
+guid: 093EEEA2-4FF6-4EE8-AD05-8AF1702B7246
+name: Become, change state
+description: >-
+  Many languages have general words that indicate some kind of change of state. These
+  general words may be used with a wide variety of specific meanings. For instance in
+  English the word 'become' may be used to a change in identity, a change in characteristic,
+  a change in nature, and many other ideas.
+louwNidaCodes: 13B Change of State
+questions:
+  - q: What words are used to indicate a change of state?
+    words: >-
+      become (characteristic), change, come to be, turn, get, develop, grow into, turn into,
+      change into, become different, evolve
+    sentence: >-
+      John <became> president last year.; The sky <turned> red as the sun set.; After a long
+      illness, John finally <got> better.
+  - q: What words are used of causing or producing a state?
+    words: produce, cause to be, make to be, make, make into, result in, bring upon, bring about
+    sentence: He <made> me angry.
+  - q: What words are used of attaining a state?
+    words: come to be, attain, achieve, reach
+    sentence: He <reached> the age of 100.

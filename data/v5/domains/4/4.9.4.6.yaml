@@ -1,0 +1,17 @@
+code: "4.9.4.6"
+guid: 147C2E58-9AE8-460F-8CAB-BF04A668945D
+name: Prophecy
+description: >-
+  Use this domain for words referring to speaking for God, including foretelling the future
+  through divine knowledge.
+louwNidaCodes: 33A" Prophesy; 33X Foretell, Tell Fortunes
+related: ["3.2.7.3"]
+questions:
+  - q: What words refer to being able to speak for God or deliver a message from God?
+    words: prophesy, foretell the future, predict the future
+  - q: What words refer to what is said?
+    words: prophecy, prediction, prophetic utterance
+  - q: What is a person called who speaks for God or foretells the future?
+    words: prophet, prophetess
+  - q: What words describe something said in prophecy?
+    words: prophetic

@@ -1,0 +1,37 @@
+code: "1.6.1"
+guid: 73499B8B-76FC-4121-8BFA-1BDEBE537259
+name: Types of animals
+description: >-
+  Use this domain for words describing types of animals. Use a book of pictures to identify
+  each species and its scientific name. This section is organized according to the
+  scientific, biological classification of animals. It may not correspond to the local
+  classification of animals (folk taxonomy), which are often based on how people relate to
+  animals (tame/wild, edible/work). Use this domain for words referring to large classes of
+  animals that do not correspond to the scientific classification. For instance this would
+  be the place for a word like 'flying animal', which includes birds, bats, and flying
+  insects.
+louwNidaCodes: 4A Animals
+questions:
+  - q: What words refer to types of animals?
+    words: >-
+      phylum, class, order, family, genus, species, chordate, vertebrate, invertebrate,
+      crustacean, rodent, insect, arthropod, mollusk, echidna, protozoa, protozoan,
+      protozoon, amoebic, amoeba, bacteriophage, cold-blooded, warm-blooded, multicellular,
+      single-celled, unicellular, microorganism, germ, virus, viral, purebred, hybrid,
+      quadruped, biped, two-footed, four-footed, diurnal, nocturnal, beast, brute, vermin,
+      varmint, albino
+  - q: What words refer to wild animals?
+    words: wild (animal), untamed, feral, wildlife, beast
+  - q: What words refer to tame animals?
+    words: tame (animal), tamed, domesticated, livestock, pet
+  - q: What words refer to the process of taming an animal?
+    words: tame, domesticate, break (a horse)
+  - q: What words refer to animals that eat certain things?
+    words: >-
+      carnivore, carnivorous, meat eater, meat eating, predator, predatory, insectivore,
+      insectivorous, herbivore, herbivorous, plant eating, omnivore, omnivorous, scavenger,
+      parasite
+  - q: What words refer to whether or not an animal can be eaten?
+    words: edible, non-edible, clean, unclean, kosher
+  - q: What words refer to where an animal lives?
+    words: amphibian, aquatic, arboreal, barnyard, tropical

@@ -1,0 +1,21 @@
+code: "8.4.6.5"
+guid: 615674AC-8158-4089-AE70-B55472FD279B
+name: Age
+description: Use this domain for words referring to the age of something.
+louwNidaCodes: 58K New, Old
+related: ["2.6.4.8"]
+questions:
+  - q: What words refer to the age of something?
+    words: age, how old
+  - q: What words are used to say how old someone is?
+    words: >-
+      be (ten), be (ten) years old, be (ten) years of age, aged (ten), (a boy) of (ten),
+      (ten)-year-old, have turned (ten)
+  - q: What words are used to say how old something is?
+    words: be (ten) years old, (ten)-year-old
+  - q: What words describe something that is the same age as something else?
+    words: the same age
+  - q: What words refer to all the people of the same age?
+    words: generation, age group, the under-(ten)s, the over-(ten)s
+  - q: What words refer to finding out how old something is?
+    words: date (v), establish the date of, determine the age of

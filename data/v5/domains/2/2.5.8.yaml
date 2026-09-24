@@ -1,0 +1,35 @@
+code: "2.5.8"
+guid: A01A1900-FC1F-462E-BA3D-AE822711B034
+name: Mental illness
+description: Use this domain for words related to being mentally ill or disabled.
+ocmCodes: 158 Personality Disorders; 756 Shamans and Psychotherapists
+related: ["4.3.7.2"]
+questions:
+  - q: What words describe someone who is mentally ill?
+    words: >-
+      mentally ill, insane, mad, crazy, disturbed, mentally disabled, crackbrained, crazed,
+      demonized, demon possessed, feeble minded, melancholic, neurotic, obsessive, paranoid,
+      preoccupied, psychopathic, psychotic, retarded, catatonic
+  - q: What words describe an old person who has become mentally ill?
+    words: senile, confused, his mind is wandering, lose your marbles
+  - q: What words refer to mental illness?
+    words: >-
+      mental illness, madness, insanity, dementia, demon possession, fixation, hypochondria,
+      lunacy, mania, melancholia, neurosis, obsession, paranoia, psychosis, schizophrenia,
+      senility
+  - q: What words refer to becoming mentally ill?
+    words: >-
+      have a nervous breakdown, crack up, go mad, go insane, go crazy, go senile, develop a
+      psychosis
+  - q: What words refer to something that causes mental illness?
+    words: brain injury, mental trauma, shock
+  - q: What words refer to partial or total mental disability?
+    words: mild disability, severe disability, intellectual disability
+  - q: What words refer to a mentally ill person?
+    words: madman, crazy man, hypochondriac, lunatic, maniac, psychopath, schizophrenic
+  - q: What words refer to someone who cares for mentally ill people?
+    words: psychologist, psychiatrist, exorcist
+  - q: What words refer to a hospital for mentally ill people?
+    words: insane asylum
+  - q: What words refer to someone who is normal and not mentally ill?
+    words: sane, sanity, of sound mind

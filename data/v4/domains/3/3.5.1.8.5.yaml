@@ -1,0 +1,25 @@
+code: "3.5.1.8.5"
+guid: F3DBB078-6265-4861-A6E3-46CC151C5D72
+name: Complain
+description: Use this domain for words related to complaining--to say that you don't like something.
+louwNidaCodes: 33O' Complain
+related: ["3.4.1.1.6", "3.2.5.4.2"]
+questions:
+  - q: What words refer to complaining?
+    words: >-
+      complain, beef, blame, fuss, grouch, grouse, growl, murmur, mutter, object, protest,
+      squawk, wail, yap, make a complaint, lodge a complaint, file a complaint, take it up
+      with, take the matter up with, make a fuss, kick up a fuss, air your grievances,
+      yammer
+  - q: What words refer to complaining all the time?
+    words: bitch, gripe (v), grumble, moan, nag (v), whine, go on about
+  - q: What words refer to someone who complains?
+    words: complainer, fusspot, grumbler, misery, nag (n)
+  - q: What words describe someone who complains?
+    words: complaining, fretful, querulous
+  - q: What words refer to something someone says when complaining?
+    words: complaint, complaining, grumbling, protest, whining
+  - q: What words refer to something that someone complains about?
+    words: complaint, grievance, gripe, grumble, objection, cause for complaint
+  - q: What words describe something someone says when complaining?
+    words: plaintive, whiny

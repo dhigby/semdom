@@ -1,0 +1,24 @@
+code: "7.2.3.5"
+guid: EA2D0DC5-2CDB-4686-9F48-ABE65ED295A4
+name: Move past, over, through
+description: Use this domain for words referring to moving past, over, or through something.
+louwNidaCodes: 15C Pass, Cross Over, Go Through, Go Around
+questions:
+  - q: What words refer to moving past something?
+    words: move past, move by, bypass, go around, go by, stop by, zoom by, zip by
+  - q: >-
+      What words refer to passing someone or something, which is moving in the same
+      direction?
+    words: pass
+  - q: >-
+      What words refer to overtaking someone of something, which is moving in the same
+      direction?
+    words: come up with, catch up with, overtake
+  - q: What words refer to moving over something?
+    words: move over, walk over, run over, overrun
+  - q: What words refer to moving through something?
+    words: pass through
+  - q: >-
+      What words refer to moving across something, such as a river, road, mountain range, or
+      some other dividing line?
+    words: move across, go across, cross, go to the other side

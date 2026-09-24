@@ -1,0 +1,14 @@
+code: "3.3.1.4"
+guid: 7BF77556-64DF-428E-BFDD-095AF5BFEEDA
+name: Intend
+description: >-
+  Use this domain for words related to intending to do something--to do something
+  intentionally and not by accident.
+louwNidaCodes: 30D To Intend, To Purpose, To Plan
+questions:
+  - q: What words refer to intending to do something?
+    words: intend, aim, expect, mean to do something, plan, purpose, resolve, be set on
+  - q: What words refer to what is intended?
+    words: intent, intention, impulse, aim, purpose, resolution
+  - q: What words describe something that someone intended to do?
+    words: intentional, intentionally, on purpose, because I wanted to

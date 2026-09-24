@@ -1,0 +1,16 @@
+code: "9.7"
+guid: 5B7666BD-C6C1-45E7-AA2E-1799FCB16D97
+name: Name
+description: >-
+  Use this domain for general words referring to proper nouns--the name given to a
+  particular person or thing to distinguish it from other things like it. Proper nouns are
+  often not included in a dictionary, or are included in an appendix at the front or back of
+  a dictionary. This is because there are so many of them, they are sometimes difficult to
+  define, and it saves space in the dictionary. For instance place names can be included in
+  a map. So it might be good to type the proper nouns into a special file.
+louwNidaCodes: 93 Names of Persons and Places
+questions:
+  - q: What general words refer to the name of a person, place, or thing?
+    words: name, proper noun
+  - q: What words refer to giving a name to someone or something?
+    words: name (v), call, christen

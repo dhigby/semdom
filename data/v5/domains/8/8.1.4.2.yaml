@@ -1,0 +1,38 @@
+code: "8.1.4.2"
+guid: F2022802-4F43-4FA2-8C58-33A8B9E75895
+name: Increase
+description: >-
+  Use this domain for words related to something increasing in number or amount--to be more
+  than before.
+louwNidaCodes: 59G Increase, Decrease
+questions:
+  - q: What words refer to something increasing in number or amount?
+    words: >-
+      increase, go up, rise, grow, climb, gain, escalate, pick up, improve, widen, augment,
+      expand
+  - q: What words describe something that is increasing in number or amount?
+    words: >-
+      increasing, rising, growing, mounting, escalating, expanding, more and more,
+      cumulative
+  - q: What words refer to increasing a lot?
+    words: multiply, double, treble, quadruple, proliferate, snowball
+  - q: What words refer to increasing very quickly?
+    words: shoot up, soar, rocket, go through the roof, spiral, take off, jump
+  - q: What words refer to increasing slowly?
+    words: accumulate, build up, pile up, collect, gather, mount up
+  - q: What words refer to causing something to increase?
+    words: increase (vt), raise, put up, push up, drive up, force up, boost, maximize
+  - q: What words refer to increasing something by adding to it?
+    words: add to, strengthen, swell, augment, supplement
+  - q: What words refer to increasing what a machine is doing?
+    words: turn up
+  - q: What words refer to an increase in number or amount?
+    words: >-
+      increase (n), growth, rise, raise, build-up, upturn, hike, increment, proliferation,
+      addition, supplement
+  - q: What words refer to a large increase?
+    words: leap, surge, explosion, boom, jump
+  - q: What words indicate that something happens or someone does something more than before?
+    words: increasingly, gain ground, get more and more, become more and more, grow in, gain in
+  - q: What words describe something that someone is doing or feeling more than before?
+    words: increased, heightened, greater, higher

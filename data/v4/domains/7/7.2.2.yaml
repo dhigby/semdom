@@ -1,0 +1,11 @@
+code: "7.2.2"
+guid: 12FE5F6C-7F98-47BA-936A-BCD1065C2DB3
+name: Move in a direction
+description: >-
+  Use the domains in this section for words referring to moving in a direction related to
+  the orientation of the person's body (not in relation to the position of the destination).
+questions:
+  - q: What general words refer to moving in a direction?
+    words: head (in a direction), go (in a direction)
+  - q: What words refer to the direction in which a person is moving?
+    words: direction, heading, way, course

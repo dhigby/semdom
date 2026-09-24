@@ -1,0 +1,9 @@
+code: "9.2.6.1"
+guid: DA41EA1F-DD09-421D-A1A5-174FF43F4EFF
+name: Classifiers
+description: Use this domain to list all classifiers.
+questions:
+  - q: What words indicate the class of something?
+    words: >-
+      (Japanese) -hon (long objects), -mai (flat objects), -ban (order in a series), -nin
+      (people), -fun (minutes), -dai (large vehicles)

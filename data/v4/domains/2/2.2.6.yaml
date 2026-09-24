@@ -1,0 +1,23 @@
+code: "2.2.6"
+guid: D395EDC8-FB58-4BA4-8446-DACF8EA0477A
+name: Sweat
+description: Use this domain for words related to sweating.
+questions:
+  - q: What words refer to sweating?
+    words: sweat (v), perspire, be dripping with sweat, sweat like a pig
+  - q: What words refer to sweat?
+    words: sweat (n), perspiration
+  - q: What words are used to describe a person beginning to sweat?
+    words: break out in a sweat, break into a sweat, begin to sweat
+  - q: What happens to sweat?
+    words: dry
+  - q: What do people do about sweat?
+    words: bathe, use deodorant, wash clothes, wipe sweat from your forehead
+  - q: What words describe a person who has been sweating?
+    words: sweaty, drenched with sweat
+  - q: What words describe the smell of sweat?
+    words: >-
+      smell sweaty, smelly, stink, body odor, natural smell of sweat, smell of old people,
+      smell of someone who never bathes
+  - q: What is a drop of sweat called?
+    words: bead of sweat

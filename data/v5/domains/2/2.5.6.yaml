@@ -1,0 +1,26 @@
+code: "2.5.6"
+guid: A894D991-D5DA-45A6-9C62-009133257F36
+name: Symptom of disease
+description: >-
+  Use this domain for words for symptoms of disease--something that happens to you when you
+  get sick, something that shows that you are sick.
+related: ["2.5.6.4"]
+questions:
+  - q: What words refer to a symptom?
+    words: symptom, sign, indication, evidence, warning, pathology
+  - q: What types of symptoms are there?
+    words: shock, delirious, numb
+  - q: What words refer to feeling weak?
+    words: weak, weakened, feel tired, no energy, debilitate, enervate
+  - q: What words refer to the skin changing color due to illness?
+    words: pale, flushed, red, dark (circles under the eyes), spot, rash
+  - q: What words refer to itching when the skin is irritated?
+    words: itch, have an itch, scratch, be irritated
+  - q: What words refer to coughing?
+    words: cough, sneeze, clear throat, hack
+  - q: What words refer to muscles cramping from pain?
+    words: cramp, be bent over (with pain), doubled up (with pain), spasm
+  - q: What words refer to the body shaking due to illness?
+    words: convulsion, chills, fit
+  - q: What words refer to feeling dizzy or faint?
+    words: dizzy, dizziness, feel faint

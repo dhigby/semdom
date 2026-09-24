@@ -1,0 +1,13 @@
+code: "3.6.7"
+guid: 1688280E-27C4-47A8-87B7-8FE31B174AB8
+name: Test
+description: Use this domain for words related to a test.
+questions:
+  - q: What words refer to a test?
+    words: test, exam, examination, quiz
+  - q: What words refer to passing a test?
+    words: pass, fail
+  - q: What words refer to the grade you get on a test?
+    words: grade, score, mark, results
+  - q: What words refer to a teacher grading a test?
+    words: grade, mark

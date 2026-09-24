@@ -1,0 +1,9 @@
+code: "6.8.7"
+guid: ED2113C8-1784-4808-AB1A-FD269F86FA99
+name: Accounting
+description: Use this domain for words related to accounting--to keep records of money.
+ocmCodes: 451 Accounting
+louwNidaCodes: 57T Keep Records
+questions:
+  - q: What words refer to accounting?
+    words: accounting, account, accountant, CPA, ledger

@@ -1,0 +1,12 @@
+code: "7.3.4.7"
+guid: DF47F55D-B15D-4261-881E-3C4B0DC6D9BE
+name: Extend
+description: >-
+  Use this domain for words related to extending something--to move something so that it
+  covers a greater distance or area.
+louwNidaCodes: >-
+  16 Non-Linear Movement; 84 Spatial Extensions; 84A Extension From a Source; 84B Extension
+  To a Goal; 84C Extension Along a Path
+questions:
+  - q: What words refer to extending something?
+    words: extend, expand, grow, reach

@@ -1,0 +1,12 @@
+code: "7.3.4.3"
+guid: B7ED2482-6883-4A02-A992-E86C2573CC74
+name: Put down
+description: Use this domain for words related to putting something down.
+louwNidaCodes: 85B Put, Place
+questions:
+  - q: What words refer to putting something down?
+    words: put down, set, lay
+  - q: What words refer to putting something to the side of something else?
+    words: put aside, put to the side, put beside, move aside, push aside
+  - q: What words refer to putting something somewhere?
+    words: put, place, position, post

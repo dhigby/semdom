@@ -1,0 +1,37 @@
+code: "9.6.3.8"
+guid: 2E5A80F9-35AE-4850-9627-BE530832A781
+name: Honorifics
+description: >-
+  Use this domain for words that the speaker uses to show respect or a lack of respect to
+  the person he is addressing. Some languages have elaborate systems of honorifics. Other
+  languages have none. Languages with a stratified social structure often use honorifics.
+  Egalitarian societies generally lack them, but some egalitarian societies may use them.
+  For instance in Nahuatl there are four levels of honorifics. Level 1 is how one addresses
+  intimates, small children, and pets. Level 2 is for strangers and persons treated
+  formally. Level 3 is for respected persons, the dead, and God. Level 4 is for obsequious
+  respect, as for the archbishop in an interview with a priest, and for ritual kin. (Jane H.
+  Hill and Kenneth C. Hill. 1978. Honorific usage in modern Nahuatl: the expression of
+  social distance and respect in the Nahuatl of the Malinche Volcano area, Language
+  54:123-155.) In Japanese, which has a stratified social structure, a person uses one set
+  of words and affixes when speaking to someone below you in the social hierarchy, such as
+  your wife, children, and pets. A different set of words is used when speaking to peers.
+  Another set is used when speaking to a superior. A fourth set is used when speaking to the
+  emperor. English used to have two pronouns for second person singular. 'Thou' was used for
+  equals and inferiors, and 'you' was used for superiors. Your language may have special
+  honorific words used as (1) pronouns, (2) affixes, (3) particles, (4) terms of direct
+  address, (5) greetings (6) requests, (7) apologies.
+questions:
+  - q: What pronouns are used to show respect or a lack of respect?
+    words: thou (archaic), you (archaic)
+  - q: What affixes are used to show respect?
+    words: (none in English)
+  - q: What particles are used to show respect?
+    words: please
+  - q: What terms of direct address are used to show respect?
+    words: sir, ma'am, your honor, your majesty
+  - q: What words are used in greetings to show respect?
+    words: hey, hi, hello, pleased to meet you
+  - q: What words are used in requests to show respect?
+    words: may, can
+  - q: What words are used in apologies to show respect?
+    words: sorry, excuse me, I beg your pardon

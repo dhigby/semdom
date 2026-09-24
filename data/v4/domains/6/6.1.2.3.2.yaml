@@ -1,0 +1,13 @@
+code: "6.1.2.3.2"
+guid: 398FFED0-BFA7-452C-8521-7D37B3082DCF
+name: Work hard
+description: Use this domain for words related to working hard.
+questions:
+  - q: What words refer to working hard?
+    words: >-
+      work hard, labor at, strive, try hard, give it your best, do your best, push hard, go
+      all out, wear several hats, hard driving, make an effort
+  - q: What words describe someone who works hard?
+    words: industrious, hard working, busy, devoted, devotion, diligent, diligence
+  - q: What words describe someone who works too hard?
+    words: overburdened, worn

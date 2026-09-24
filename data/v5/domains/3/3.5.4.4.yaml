@@ -1,0 +1,18 @@
+code: "3.5.4.4"
+guid: F0F3C371-166E-4A66-849F-60D6FA7AD889
+name: Poetry
+description: Use this domain for words related to poetry.
+ocmCodes: 5310 Verbal Arts
+questions:
+  - q: What words refer to poems?
+    words: poetry, poem, poetic, sonnet, verse, rhyme, nursery rhyme, ballad, epic poem
+  - q: What words refer to a collection of poems?
+    words: anthology
+  - q: What words refer to a person who writes poetry?
+    words: poet
+  - q: What words refer to saying a poem?
+    words: recite
+  - q: What words refer to a part of a poem?
+    words: line, stanza, verse
+  - q: What words refer to the features of a poem?
+    words: rhyme, rhythm

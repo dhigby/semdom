@@ -1,0 +1,12 @@
+code: "7.1.4"
+guid: 3A28AB73-2847-44A4-97ED-7129269F1366
+name: Kneel
+description: Use this domain for words referring to kneeling.
+louwNidaCodes: 17C Kneel x
+questions:
+  - q: What words refer to kneeling down?
+    words: >-
+      kneel, kneel down, get down on your knees, bend the knee, go down on one knee, sink to
+      your knees
+  - q: What words refer to being in a kneeling position?
+    words: be kneeling, be down on your knees

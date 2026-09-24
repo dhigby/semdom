@@ -1,0 +1,12 @@
+code: "3.5.8.1"
+guid: 8894CAC9-C82A-4616-856E-0516D2ED1DF7
+name: Meaning
+description: Use this domain for words related to the meaning of something that is said.
+ocmCodes: 196 Semantics
+questions:
+  - q: What words refer to the meaning of something?
+    words: meaning, definition, semantics, sense, interpretation
+  - q: How do you say that something means something?
+    words: mean (something), have the meaning
+  - q: What words describe something that has two meanings?
+    words: ambiguous, double meaning, double talk

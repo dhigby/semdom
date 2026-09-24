@@ -1,0 +1,7 @@
+code: "6.8.4.3.2"
+guid: ECBDF1C5-9D7F-4446-B6A1-644A379A480B
+name: Cheap
+description: Use this domain for words related to a cheap price.
+questions:
+  - q: What words refer to a price that seems low?
+    words: cheap, low, inexpensive, great price, bargain, on sale, deal (n)

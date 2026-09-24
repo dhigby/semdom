@@ -1,0 +1,11 @@
+code: "6.4"
+guid: 9E6D7C69-788C-4D40-8584-32F185E91932
+name: Hunt and fish
+description: >-
+  Use this domain for words related to hunting and fishing--catching and killing wild
+  animals.
+ocmCodes: 220 Food Quest; 221 Annual Cycle; 222 Collecting
+louwNidaCodes: 44 Animal Husbandry, Fishing
+questions:
+  - q: What general words refer to hunting wild animals?
+    words: hunt, trap, fish

@@ -1,0 +1,25 @@
+code: "1.6.6"
+guid: 85646774-8145-4553-B8A7-6927CD077908
+name: Animal group
+description: Use this domain for words referring to groups of animals.
+questions:
+  - q: What words refer to a group of mammals?
+    words: >-
+      herd (of cattle), drove (of cattle), kennel (of dogs), pack (of dogs), pride (of
+      lions), pod (of whales)
+  - q: What words refer to a group of birds?
+    words: flock (of birds), bevy, colony, covey, flight, flock, gaggle
+  - q: What words refer to a group of fish?
+    words: school (of fish), shoal
+  - q: What is a group of insects called?
+    words: swarm (of insects), plague of locusts
+  - q: What is a group of small animals called?
+    words: culture
+  - q: What words refer to the leader of a group of animals?
+    words: alpha male
+  - q: What words refer to the followers in a group of animals?
+    words: harem
+  - q: What words refer to a group of baby animals?
+    words: brood, clutch (of eggs), kit, litter (of kittens), farrow (of pigs)
+  - q: What other words relate to groups of animals?
+    words: herd instinct

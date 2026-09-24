@@ -1,0 +1,23 @@
+code: "8.1"
+guid: C6C772AF-7B6B-4393-B0DA-5B4A329D3426
+name: Quantity
+description: Use this domain for general words referring to the amount or quantity of something.
+ocmCodes: 800 Numbers and Measures
+louwNidaCodes: 59 Quantity
+questions:
+  - q: What words refer to the amount of something?
+    words: amount, quantity, level, volume, percentage, proportion, sum, how much, ($100) worth
+  - q: What words refer to the amount of something that can be counted?
+    words: number, how many, numbers, ratio
+  - q: What words refer to the amount of food that someone is given?
+    words: portion, helping, serving, intake, ration, measure
+  - q: What words refer to a measured amount of something?
+    words: quota, load
+  - q: >-
+      What words refer to the amount of something, such as fuel, that is available to be
+      used?
+    words: pool, stock, reserves
+  - q: What words refer to the amount of medicine that a sick person needs?
+    words: dose, dosage
+  - q: What words refer to the amount of a problem such as crime or damage?
+    words: extent, incidence, level, rate

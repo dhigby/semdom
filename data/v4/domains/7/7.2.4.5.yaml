@@ -1,0 +1,19 @@
+code: "7.2.4.5"
+guid: 547F1151-5816-4D89-B0BC-ECE2A86C92EB
+name: Move to a new house
+description: >-
+  Use this domain for words related to permanently leaving your home or country, and for
+  words related to migrating--moving every year to the same places because of the weather
+  and food supplies.
+ocmCodes: 166 Internal Migration
+questions:
+  - q: What words refer to moving to a new house?
+    words: move, move in
+  - q: What words refer to a celebration when moving into a new house?
+    words: housewarming
+  - q: What words refer to leaving home?
+    words: leave, move out, leave home, run away, vacate
+  - q: What words refer to moving to a new country?
+    words: emigrate, immigrate
+  - q: What words refer to migrating?
+    words: migrate

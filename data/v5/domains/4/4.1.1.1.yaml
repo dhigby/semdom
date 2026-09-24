@@ -1,0 +1,7 @@
+code: "4.1.1.1"
+guid: B40637E5-BE76-4A82-96BB-C55306EE293D
+name: Girlfriend, boyfriend
+description: Use this domain for words referring to a girlfriend or boyfriend.
+questions:
+  - q: What words refer to a girlfriend or boyfriend?
+    words: girlfriend, boyfriend, partner, lover, mistress, old flame

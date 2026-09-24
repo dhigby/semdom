@@ -1,0 +1,18 @@
+code: "6.6.5"
+guid: 0BC02285-8E70-442A-8D08-E04D922507C8
+name: Art
+description: Use this domain for words related to art.
+ocmCodes: >-
+  530 Fine Arts; 531 Decorative Art; 5311 Visual Arts; 532 Representative Art; 543
+  Exhibitions
+questions:
+  - q: What words refer to art in general?
+    words: art
+  - q: What types of art are there?
+    words: paint, draw, sculpture, carve, design
+  - q: What words refer to producing art?
+    words: paint, draw, design, composition, brush, painting, medium
+  - q: What words refer to an artist?
+    words: artist, painter
+  - q: What types of paintings are there?
+    words: portrait, landscape, seascape, still life

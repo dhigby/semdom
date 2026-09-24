@@ -1,0 +1,24 @@
+code: "8.2.4.1"
+guid: AA2B547C-2C82-4CE0-A1B3-35FA809D666C
+name: Narrow
+description: Use this domain for words related to being narrow.
+louwNidaCodes: 81D Narrow, Wide
+questions:
+  - q: What words describe something that is narrow?
+    words: narrow, thin
+  - q: What words describe something that is very narrow?
+    words: tight squeeze
+  - q: What words refer to a place where something is narrow?
+    words: narrows, narrowing, waist, neck
+  - q: What words refer to something becoming narrow?
+    words: narrow (v), get narrower, taper, thin (v)
+  - q: What words refer to making something narrow?
+    words: narrow (v), taper, thin (v), constrict
+  - q: What words refer to the process of becoming narrow?
+    words: constriction, restriction
+  - q: What words describe something that has been made narrow?
+    words: tapered, thinned, constricted, restricted
+  - q: What words refer to being narrower than another thing?
+    words: narrower, narrowest, thinner, thinnest
+  - q: What words indicate how narrow something is?
+    words: how narrow, be only (one inch) wide, be (two inches) (too) narrow

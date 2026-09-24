@@ -1,0 +1,29 @@
+code: "3.4.2.4.2"
+guid: 64E3D6B1-1D61-454C-97AB-E1D7CB0A8917
+name: Nervous
+description: >-
+  Use this domain for words related to feeling nervous--to be worried and frightened that
+  something bad may happen, so that you are unable to relax.
+questions:
+  - q: What words refer to feeling nervous?
+    words: be nervous, be on edge, have butterflies (in your stomach), be on pins and needles
+  - q: What words refer to the feeling of being nervous?
+    words: nerves, nervousness, tension, unease, stage fright
+  - q: What words describe someone who feels nervous?
+    words: >-
+      nervous, apprehensive, edgy, fidgety, flustered, ill at ease, jittery, restless,
+      tense, uneasy, uneasily, uptight
+  - q: What words refer to feeling very nervous?
+    words: >-
+      agitated, be a bundle of nerves, excited, have the jitters, be jittery, jumpy, nervous
+      wreck, panicky, be in a state
+  - q: What words describe someone who is often nervous?
+    words: nervous, high-strung, of a nervous disposition
+  - q: What words refer to causing someone to feel nervous?
+    words: make someone nervous, fluster, unsettle, unnerve, psych out, put someone on edge
+  - q: What words refer to something that causes someone to feel nervous?
+    words: strain
+  - q: What words describe something that causes someone to feel nervous?
+    words: tense, strained, uneasy, nail biting, charged, nerve-racking
+  - q: What words refer to causing someone to not feel nervous?
+    words: reassure, reassuring, reassurance, reassuringly

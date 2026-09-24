@@ -1,0 +1,15 @@
+code: "7.7.5"
+guid: 709D43DD-CE94-4DF1-91B1-EDB0B12FDAEA
+name: Rub
+description: >-
+  Use this domain for words referring to rubbing--to move something smooth against something
+  else, in order to make it smooth or clean.
+questions:
+  - q: What words refer to rubbing something?
+    words: rub, chafe, rasp
+  - q: What words refer to rubbing something to make it clean?
+    words: wipe
+  - q: What words refer to rubbing something to make it smooth?
+    words: polish
+  - q: What tools and materials are used to rub something?
+    words: polish

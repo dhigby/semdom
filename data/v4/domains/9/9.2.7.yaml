@@ -1,0 +1,7 @@
+code: "9.2.7"
+guid: B34DC5C9-3367-4BFC-B077-CD014250DC5C
+name: Interjections
+description: Use this domain to list all interjections.
+questions:
+  - q: What interjections are in your language?
+    words: Wow! Hold on! Good grief!

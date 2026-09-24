@@ -1,0 +1,11 @@
+code: "8.3.1.6.2"
+guid: 995EE828-2393-462B-BE82-47F5B5439AAF
+name: Convex
+description: >-
+  Use this domain for words describing something that is convex--extending outward in shape
+  toward the viewer.
+questions:
+  - q: What words describe something that is convex?
+    words: convex, bulging, bulbous, billowing out
+  - q: What words refer to making something convex?
+    words: bulge, puff out, balloon out, protrude

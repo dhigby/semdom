@@ -1,0 +1,10 @@
+code: "7.3.3.5"
+guid: BCA1AF45-7621-43c0-9152-FAC0018E5319
+name: Drive along
+description: >-
+  Use this domain for words related to driving people and animals--to cause someone (or an
+  animal) to move with you.
+louwNidaCodes: 15V Drive Along, Carry Along
+questions:
+  - q: What words refer to causing someone to move with you?
+    words: drive, force, goad, prod, propel, ride, spur

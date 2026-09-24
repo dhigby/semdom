@@ -1,0 +1,23 @@
+code: "4.8.4.6"
+guid: 1CA26512-75F6-4A7A-A7CC-07D08AA799D9
+name: Repent
+description: Use this domain for words related to repenting.
+louwNidaCodes: 41E Change Behavior
+related: ["4.3.8"]
+questions:
+  - q: What words indicate that a person recognizes he has done wrong?
+    words: feel convicted, recognize your sin, realize one has done wrong, regret
+  - q: What words indicate that a person has decided to change his behavior?
+    words: repent, have a change of heart, reverse your behavior, reform, go straight
+  - q: What words refer to a decision to change?
+    words: repentance, reformation, reversal, change of heart
+  - q: What words refer to an admission of wrong?
+    words: admit wrong, confess, acknowledge wrong, take something back (that you said)
+  - q: What words refer to a request for forgiveness?
+    words: apologize, apology, apologetic, ask forgiveness
+  - q: What words refer to an effort to make up for doing wrong?
+    words: >-
+      make amends, make up for, set things right, make restitution, pay back what was taken,
+      return stolen goods
+  - q: What do people say when they ask for forgiveness?
+    words: Sorry! Excuse me. I'm sorry. Forgive me.

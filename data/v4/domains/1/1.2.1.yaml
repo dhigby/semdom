@@ -1,0 +1,20 @@
+code: "1.2.1"
+guid: CCE98603-FF8F-4213-945A-BD6746716139
+name: Land
+description: Use this domain for words referring to the ground we stand on, the earth versus the sky.
+ocmCodes: 133 Topography and Geology
+louwNidaCodes: 1 Geographical Objects and Features; 1F The Earth's Surface
+related: ["1.3.1.5"]
+questions:
+  - q: What words refer to the land in contrast to the sea?
+    words: land (and sea), dry land, mainland, continent, inland, interior
+  - q: What is the earth called in distinction to heaven or the sky?
+    words: (heaven and) earth, earth (and sky), (on the) ground
+  - q: What words refer to the ground we stand on?
+    words: ground
+  - q: What general words refer to the type of land in an area?
+    words: geography, topography, feature, landscape, terrain
+  - q: What words refer to how high the land is?
+    words: altitude, sea level
+  - q: What words refer to the surface of the earth?
+    words: surface, crust, lithosphere

@@ -1,0 +1,19 @@
+code: "2.6.3.4"
+guid: 56984B2B-3417-49B4-A082-1A383551A9E9
+name: Labor and birth pains
+description: Use this domain for words related to labor and birth pains.
+questions:
+  - q: What general words refer to the process leading up to birth?
+    words: labor
+  - q: >-
+      What words refer to the feelings a woman has when she thinks she is beginning to go
+      into labor?
+    words: false labor, early labor
+  - q: What are the signs that a woman is going into labor?
+    words: break the waters
+  - q: What words refer to the contractions of the muscles of the uterus?
+    words: contraction, push, bear down
+  - q: What words refer to labor pains?
+    words: labor pains, birth pain, birth pangs, throe
+  - q: What do women do while suffering birth pains?
+    words: groan, cry out

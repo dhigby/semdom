@@ -1,0 +1,20 @@
+code: "4.1.2"
+guid: 995751EF-D71B-429C-A4EE-032F5B309BD7
+name: Types of people
+description: Use this domain for words referring to different types of people.
+related: ["2.6.5", "2.6.4", "4.1.9.9", "4.1.4.1"]
+questions:
+  - q: What words refer to male and female people?
+    words: man, woman, boy, girl
+  - q: What words refer to people of different ages?
+    words: baby, child, youth, adult, elder
+  - q: What words refer to people of different races?
+    words: yellow, brown, Asian, black, African, white, Caucasian, red, American Indian, Indian
+  - q: What words refer to a person whose parents are from two different races?
+    words: half-breed
+  - q: What words refer to a person whose parents are from the same race?
+    words: full-blooded
+  - q: What words refer to a person who belongs to your group?
+    words: one of us, one of our own, one of ours, insider, friend
+  - q: What words refer to a person who does not belong to your group?
+    words: foreigner, stranger, enemy, foe

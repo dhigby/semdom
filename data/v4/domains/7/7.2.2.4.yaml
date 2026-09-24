@@ -1,0 +1,32 @@
+code: "7.2.2.4"
+guid: 9D6CBE74-93D6-41FB-B7E2-CC30ADB28187
+name: Move up
+description: >-
+  Use this domain for words referring to moving in an upward direction or to moving to a
+  higher place.
+louwNidaCodes: 15I Come/Go Onto; 15J Come/Go Up, Ascend
+questions:
+  - q: What words refer to moving up?
+    words: >-
+      move up, go up, arise, hop up, lift yourself up, pull yourself up, jump, surge, go
+      higher, get higher, levitate
+  - q: What words refer to moving up through the air?
+    words: rise, ascend, gain height
+  - q: What words refer to moving up into the air quickly?
+    words: fly up, soar, shoot up
+  - q: What words refer to climbing?
+    words: climb, scale, clamber, shin up, shinny up
+  - q: What words refer to moving onto something?
+    words: climb onto, get on, mount, embark, hop onto, jump onto
+  - q: What words refer to climbing over something?
+    words: climb over
+  - q: What words refer to the sun or moon moving up in the sky?
+    words: come up, rise
+  - q: What words refer to an airplane moving up?
+    words: leave the ground, take off, lift off, blast-off, launch
+  - q: What words refer to the act of moving up?
+    words: rise (n), ascension, ascent
+  - q: What words refer to someone who moves up?
+    words: climber, mountaineer, mountain climber, rock-climber
+  - q: What words refer to the sport of climbing?
+    words: climbing, mountaineering, go climbing, rock-climbing

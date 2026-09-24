@@ -1,0 +1,26 @@
+code: "4.7.5.1"
+guid: E10B9449-08A3-4C13-AFF2-31486749B62F
+name: Investigate a crime
+description: >-
+  Use this domain for words referring to investigating a crime, accident, or criminal--to
+  try to learn something about something bad that has happened because you want to know who
+  did it, or to try to learn something about someone because you think they did something
+  bad.
+louwNidaCodes: 27C Learn Something Against Someone
+questions:
+  - q: What words refer to investigating a crime or accident?
+    words: >-
+      investigate, look into, inquire, hold an inquiry, conduct an inquiry, make inquiries,
+      go into, probe, delve into, be under investigation, examine, obtain evidence
+  - q: What words refer to investigating someone to know if they have done something wrong?
+    words: obtain evidence, poke around, snoop, surprise, try, question
+  - q: What words refer to the process of investigation?
+    words: investigation, inquiry, inquest, inquiries, probe, inquisition, post-mortem, autopsy
+  - q: What words refer to knowledge about a crime?
+    words: evidence, facts, proof
+  - q: What words refer to finding out that someone committed a crime?
+    words: catch, detect, entrap, catch red-handed, trap, trip up, find out, prove
+  - q: What words refer to a person who investigates a crime?
+    words: >-
+      investigator, private investigator, detective, private detective, inquisitor, private
+      eye

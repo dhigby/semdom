@@ -1,0 +1,16 @@
+code: "4.4.4.5"
+guid: 0A42FD83-3B30-4C85-BB68-F5132E9FFEEE
+name: Protect
+description: Use this domain for words related to protecting someone from danger or being hurt.
+related: ["4.8.3.7"]
+questions:
+  - q: What words refer to protecting someone?
+    words: >-
+      protect, protection, protective, guard, safeguard, fortify, secure, watch, keep safe,
+      keep, insulate, encircle, defend, defense
+  - q: What is a person called who protects someone?
+    words: protector, guard, watchman, defender, advocate, sentry, bodyguard, defensive force
+  - q: What words are used for a place where someone is protected?
+    words: fortress, fort, castle, battlement, moat, fortification
+  - q: What words refer to something used to protect someone?
+    words: armor, shield, guard

@@ -1,0 +1,8 @@
+code: "7.4.2"
+guid: C96AC1EB-12F2-47AF-9E96-9D99FCE7E8F5
+name: Receive
+description: Use this domain for words related to receiving something from someone.
+louwNidaCodes: 57I Receive
+questions:
+  - q: What words refer to receiving something from someone?
+    words: receive, take, accept, pick up, get, obtain, gain

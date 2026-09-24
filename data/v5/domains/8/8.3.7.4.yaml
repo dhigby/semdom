@@ -1,0 +1,7 @@
+code: "8.3.7.4"
+guid: B59F6FC4-629D-4E62-8673-CF62F8AD8197
+name: Mediocre
+description: Use this domain for words describing something that is mediocre.
+questions:
+  - q: What words describe something that is neither good nor bad?
+    words: mediocre, average, undistinguished

@@ -1,0 +1,20 @@
+code: "2.5.6.5"
+guid: 81E03DF2-33A8-4735-AA23-80EF1C63679E
+name: Dazed, confused
+description: >-
+  Use this domain for words that describe the state of the mind when a person's mind is not
+  working well or when he is not thinking very well.
+related: ["3.4.2.1.7"]
+questions:
+  - q: What words refer to being dazed or confused?
+    words: >-
+      be dazed, confused, disoriented, unsure, out of it, befuddled, bewildered, spaced out,
+      incoherent, dull (minded), stupor
+  - q: What words are used to express a slight case of these conditions?
+    words: slightly disoriented, a bit confused, a little out of it
+  - q: What words are used to express an extreme case of these conditions?
+    words: really confused, totally out of it, shocked
+  - q: What words describe a person's mind is working well?
+    words: think clearly, be clear headed, be sharp (mentally)
+  - q: What words refer to causing someone to be dazed or confused?
+    words: daze, confuse, disorient, befuddle, shock, stupefy

@@ -1,0 +1,10 @@
+code: "4.3.5.1"
+guid: 5658AE3D-EA15-44DB-BAE4-47DF792DA12E
+name: Dishonest
+description: Use this domain for words related to being dishonest.
+related: ["6.8.9"]
+questions:
+  - q: What words describe someone who does not tell the truth?
+    words: >-
+      dishonest, lying, devious, sly, untrustworthy, sneaky, unscrupulous, have no scruples,
+      corrupt, crooked

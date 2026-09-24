@@ -1,0 +1,15 @@
+code: "3.1.2.1"
+guid: E9EF98D9-8844-4804-88A5-614493D150F5
+name: Alert
+description: Use this domain for words referring to a mental state when the mind is working hard.
+louwNidaCodes: 27F Be Ready To Learn, Pay Attention
+related: ["3.1.2.4"]
+questions:
+  - q: What words refer to an alert mental state?
+    words: be on your guard, beware, take heed, be on the lookout, watch
+  - q: What words describe someone who is alert?
+    words: >-
+      alert, watchful, vigilant, keep your eyes peeled, aware, clear headed, coherent, wary,
+      mindful, responsive, sensitive
+  - q: What words describe someone who is not alert?
+    words: unaware, mindless, unmindful, bored, disregard, flighty, heedless, oblivious

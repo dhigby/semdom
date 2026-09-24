@@ -1,0 +1,18 @@
+code: "9.1.2.5"
+guid: 2D5D634E-75B5-4921-922E-573A809A49F8
+name: Make
+description: >-
+  Use this domain for words referring to making something--joining things together to create
+  something to be that did not exist before.
+louwNidaCodes: 42C Make, Create
+questions:
+  - q: What words refer to making something?
+    words: >-
+      make, build, construct, create, fabricate, fashion, form, generate, manufacture,
+      prepare, produce, shape, bring into being
+  - q: What words refer to something that has been made?
+    words: artifact, building, construction, manufactured goods, product, production
+  - q: What words refer to a person who makes something?
+    words: builder, maker, producer, manufacturer
+  - q: What words describe something that was made?
+    words: man-made, hand-made, manufactured, artificial, synthetic

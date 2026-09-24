@@ -1,0 +1,18 @@
+code: "2.6.3.3"
+guid: DBEBC3BD-2D01-4D62-A009-866C18EE3527
+name: Miscarriage
+description: >-
+  Use this domain for words related to the prevention or termination of a pregnancy, and for
+  words related to killing babies.
+ocmCodes: 847 Abortion and Infanticide; 168 Population Policy
+questions:
+  - q: What words refer to preventing pregnancy?
+    words: birth control, family planning, contraception, sterilize, sterilization, vasectomy
+  - q: What things are used to prevent pregnancy?
+    words: contraceptive, condom, the pill
+  - q: What words refer to a baby dying before birth?
+    words: lose the baby, miscarry, have a miscarriage, stillborn, stillbirth
+  - q: What words refer to killing a baby before birth?
+    words: abortion, abort, have an abortion, terminate a pregnancy
+  - q: What words refer to killing a baby after birth?
+    words: infanticide

@@ -1,0 +1,12 @@
+code: "4.5.6.1"
+guid: A977C4B6-1004-448F-B6B0-DAF5CE87D76D
+name: High status
+description: Use this domain for words related to high social status.
+louwNidaCodes: 87C High Status or Rank
+questions:
+  - q: What words describe high status?
+    words: >-
+      high status, high rank, privilege, promote, raise in status, raise in rank, important
+      person, aristocracy, prominent, grand, great
+  - q: What titles of address are used to refer to or speak to a person of high status?
+    words: sir, my lord, gentleman, lady

@@ -1,0 +1,13 @@
+code: "8.4.5.3.5"
+guid: DAEFD275-98E3-4534-A991-C7D396B54C69
+name: Postpone
+description: >-
+  Use this domain for words referring to postponing something--to decide to do something
+  later.
+questions:
+  - q: What words refer to postponing something?
+    words: postpone, put off, delay, reschedule, be put back, defer, table (v)
+  - q: What words refer to postponing something because you are lazy?
+    words: put off, procrastinate
+  - q: What do people say when they postpone doing something?
+    sentence: I'll get around to it someday.; I'll do it later.

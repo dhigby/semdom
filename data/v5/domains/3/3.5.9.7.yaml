@@ -1,0 +1,19 @@
+code: "3.5.9.7"
+guid: 46D2D9B9-5CB0-57D3-0190-009748E42F13
+name: Internet
+description: >-
+  Use this domain for words related to the internet — connecting to it, finding things on
+  it, and communicating through it.
+questions:
+  - q: What words refer to the internet?
+    words: internet, the net, the web, world wide web, cyberspace
+  - q: What words refer to connecting to the internet?
+    words: go online, offline, connect, wifi, network, data, hotspot
+  - q: What words refer to a place or page on the internet?
+    words: website, web page, site, link, address, URL
+  - q: What words refer to finding information on the internet?
+    words: search, look up, browse, search engine, download, upload
+  - q: What words refer to sending messages over the internet?
+    words: email, e-mail, send, receive, inbox, attachment
+  - q: What words refer to controlling who can use an account or device?
+    words: password, PIN, log in, log out, account, username

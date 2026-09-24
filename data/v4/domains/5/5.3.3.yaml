@@ -1,0 +1,9 @@
+code: "5.3.3"
+guid: 5B41C1ED-95BB-4CCA-8CFF-87361ACB5683
+name: Traditional clothing
+description: Use this domain for words related to traditional clothing.
+questions:
+  - q: What general words refer to traditional clothing?
+    words: old fashioned, period costume
+  - q: What words refer to different kinds of traditional clothing?
+    words: top hat, cravat, bustle, turban, headdress

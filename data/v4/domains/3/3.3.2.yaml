@@ -1,0 +1,26 @@
+code: "3.3.2"
+guid: 45F7B003-ADE3-4EFC-8DEE-259DCBF80A4A
+name: Request
+description: >-
+  Use this domain for words related to requesting something--to ask for something, or ask
+  someone to do something.
+louwNidaCodes: 33L Ask For, Request
+questions:
+  - q: >-
+      What words refer to saying something in order to acquire something from the other
+      person?
+    words: >-
+      request, make a request, ask for something, ask somebody to do something, appeal, make
+      an appeal, petition, requisition, solicit, apply, consult
+  - q: What words refer to what is said when someone makes a request?
+    words: appeal (n), petition (n), request (n), solicitation, question
+  - q: What words refer to a person who makes a request?
+    words: petitioner, suppliant
+  - q: What special words do people use when they want to make a polite request?
+    words: please, if you wouldn't mind, would you mind?
+  - q: What words refer to asking for something when you are desperate to get it?
+    words: implore, plead, beseech, entreat, importune
+  - q: What words refer to what is said when a person pleads?
+    words: plea, entreaty
+  - q: What words describe a person who pleads?
+    words: importunate

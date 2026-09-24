@@ -1,0 +1,19 @@
+code: "4.8.3.6"
+guid: F595DEAB-1838-4DDB-9EBE-55FB3007B309
+name: Military organization
+description: Use this domain for words related to military organizations.
+ocmCodes: >-
+  700 Armed Forces; 701 Military Organization; 702 Recruitment and Training; 703 Discipline
+  and Morale; 704 Ground Combat Forces; 705 Supply and Commissariat; 708 Auxiliary Corps
+louwNidaCodes: 55C Army
+questions:
+  - q: What words refer to all of the soldiers of a country?
+    words: the military, the armed forces
+  - q: What words refer to a military organization?
+    words: military organization, branch of the military, the services
+  - q: What words refer to a group of soldiers?
+    words: troops, force, unit
+  - q: What types of military units are there?
+    words: battery, cavalry, cohort, detachment, detail, guard, host, legion, palace guard
+  - q: What words describe something belonging to the military?
+    words: military

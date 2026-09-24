@@ -1,0 +1,7 @@
+code: "8.3.5.3"
+guid: 06A44085-CBCF-4217-AE5E-56C51899C99A
+name: Common
+description: Use this domain for words describing something that is common.
+questions:
+  - q: What words describe something that is common?
+    words: common, widespread

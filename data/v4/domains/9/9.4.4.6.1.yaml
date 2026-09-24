@@ -1,0 +1,30 @@
+code: "9.4.4.6.1"
+guid: 13E67CC9-055B-4F9B-9217-A16B18DB0329
+name: Think so
+description: >-
+  Use this domain for words indicating that you think something is true, but you are not
+  completely sure about it.
+louwNidaCodes: 31E Suppose, Think Possible
+questions:
+  - q: >-
+      What words indicate that you think something is true, but you are not completely sure
+      about it?
+    words: >-
+      think, think it is possible, believe, bet, would gamble, would wager, guess, reckon,
+      speculate, surmise, suspect, get the impression, have the impression, be under the
+      impression, get the idea, feel, have the feeling, get the feeling
+  - q: What words indicate that you think something is true, but you have no proof of it?
+    words: >-
+      assume, assumption, presume, suppose, imagine, take it for granted, presumably, I take
+      it
+    sentence: >-
+      <I suppose> X is true.; <It is my conjecture that> X is true.; <I would wager that> X
+      is true.; <If my suspicions are true,> X is true.; X <may> be true.; <It's possible> X
+      is true.
+  - q: What do you say when you think something is true, but you are not sure?
+    words: >-
+      I think so, I guess so, as far as I know, to the best of my knowledge, as far as I'm
+      aware
+    sentence: >-
+      "Is X true?" "<I think so>."; X is true, <as far as I know>.; <To the best of my
+      knowledge>, X is true.; <As far as I'm aware>, X is true.

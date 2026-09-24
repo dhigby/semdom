@@ -1,0 +1,11 @@
+code: "4.2.1.5"
+guid: 54B6DFF4-A21D-490D-8279-69F36A179C93
+name: Meeting, assembly
+description: Use this domain for words referring to a meeting.
+questions:
+  - q: What words refer to a meeting?
+    words: >-
+      meeting, assembly, gathering, convocation, assemblage, congregation, council, caucus,
+      conclave, congress, convention, symposium, panel, posse
+  - q: What words refer to the place where people meet?
+    words: meeting place, venue, rendezvous, center, haunt

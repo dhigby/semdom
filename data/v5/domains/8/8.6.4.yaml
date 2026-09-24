@@ -1,0 +1,9 @@
+code: "8.6.4"
+guid: 4D2A247E-4925-4750-8C39-E2D78665D33C
+name: Inner part
+description: Use this domain for words related to the inside part of something.
+questions:
+  - q: What words refer to the inside part of something?
+    words: inside (n), interior, innards, lining, framework
+  - q: What words describe something that is on the inside?
+    words: inside (adj), interior, inner

@@ -1,0 +1,19 @@
+code: "3.5.1.2.6"
+guid: 0539DE86-F407-4B3D-B1B8-028822FB9F26
+name: Repeat
+description: Use this domain for words related to repeating something--saying something a second time.
+questions:
+  - q: What words refer to saying something a second time?
+    words: repeat, repeat yourself, say again, iterate, recapitulate, reiterate, reaffirm
+  - q: What words refer to saying something many times?
+    words: say it over and over, keep saying
+  - q: What words refer to repeating an important part of a speech?
+    words: go over, recap, review
+  - q: What words refer to repeating what someone else said?
+    words: repeat, quote, echo, parrot, regurgitate
+  - q: What words refer to what is said a second time?
+    words: repetition, recapitulation
+  - q: What do you say when you want someone to repeat something?
+    sentence: >-
+      Sorry? Pardon? Excuse me? What? What did you say? Would you mind repeating that? Could
+      you say that again? Repeat after me.

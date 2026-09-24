@@ -1,0 +1,24 @@
+code: "9.6.3.3"
+guid: C103D339-24F2-45C6-8539-D3C445E15C49
+name: Prompters of attention
+description: >-
+  Use this domain for words that are used to get someone's attention or direct the
+  listener's attention to something. These may use a verb meaning 'look' or 'listen'. Some
+  may be a word specifically referring to attention. Others may be a greeting. Others may be
+  words that refer to non-verbal communication such as clearing your throat.
+louwNidaCodes: 91C Prompters of Attention
+questions:
+  - q: What words are used to get someone's attention?
+    words: >-
+      you, you there, hey you, hello, excuse me, attention, attention please, may I have
+      your attention please, pay attention, listen up everybody, now hear this, and now for
+      an important announcement, and now for a word from our sponsor, just a moment, wait a
+      minute, lend me your ears, look here, ahem
+  - q: What words are used to direct someone's attention to something?
+    words: behold, look, will you look at that, get a load of this, (point)
+  - q: What words are used to warn someone of danger?
+    words: >-
+      watch out, look out, heads up, hit the dirt, get out of the way, here it comes, oh no,
+      (scream)
+  - q: What non-verbal means are used to get someone's attention
+    words: clear throat, whistle, raise hand

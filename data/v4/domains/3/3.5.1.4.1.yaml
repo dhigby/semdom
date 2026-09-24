@@ -1,0 +1,12 @@
+code: "3.5.1.4.1"
+guid: 14A32765-81B0-411E-89FA-91E092A70818
+name: Call
+description: >-
+  Use this domain for words related to calling someone--to say something loud because you
+  want someone who is far away to listen to you.
+louwNidaCodes: 33C' Call
+questions:
+  - q: What words refer to calling someone?
+    words: call, holler at, yell to, yell at, get someone's attention
+  - q: What words refer to calling someone on the telephone?
+    words: call, phone (v)

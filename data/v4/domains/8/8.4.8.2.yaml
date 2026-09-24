@@ -1,0 +1,17 @@
+code: "8.4.8.2"
+guid: AF399519-5D7C-4100-9C79-8162CB4641CB
+name: Slow
+description: Use this domain for words referring to doing something at a slow speed.
+questions:
+  - q: What words describe an action that is done slowly?
+    words: slow, slowly, leisurely
+  - q: What words describe an action that is done extremely slowly?
+    words: >-
+      excruciatingly slow, move at a snail's pace, gradual, gradually, little by little,
+      bit-by-bit, glacial
+  - q: What words refer to doing something slowly?
+    words: go slow, slowness, take your time (over)
+  - q: What words refer to causing someone to do something slowly?
+    words: slow (someone) down, hold back, restrain, delay, hold up
+  - q: What do you say to someone when you want him to do something slowly?
+    words: Slow down! Take it easy! Take your time! Whoa! (horse)

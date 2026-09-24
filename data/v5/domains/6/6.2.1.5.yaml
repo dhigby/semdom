@@ -1,0 +1,12 @@
+code: "6.2.1.5"
+guid: 198436AE-C3C6-4F3C-8FE0-EA10C867F1C6
+name: Growing grass
+description: >-
+  Use this domain for words related to growing grass, such as sod, hay, alfalfa, bamboo,
+  papyrus, sugarcane, and tobacco. If one type of grass is cultivated extensively and there
+  are many words related to it, set up a separate domain for it. This has already been done
+  for sugarcane and tobacco, since they are so common around the world.
+ocmCodes: 246 Forage Crops
+questions:
+  - q: What words refer to growing grass?
+    words: sod, hay, alfalfa, mow, haystack, bale

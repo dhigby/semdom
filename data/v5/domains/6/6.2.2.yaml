@@ -1,0 +1,10 @@
+code: "6.2.2"
+guid: D345142F-D51E-4023-A25A-2A4C0F1FBCBF
+name: Land preparation
+description: Use this domain for words related to preparing land for planting crops.
+ocmCodes: 241 Tillage
+questions:
+  - q: What words refer to preparing a field?
+    words: prepare field, clear field
+  - q: What is a prepared field called?
+    words: (no words in English)

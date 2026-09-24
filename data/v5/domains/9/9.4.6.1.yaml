@@ -1,0 +1,17 @@
+code: "9.4.6.1"
+guid: 350667EE-592B-47AF-ADCA-14E820EC58CF
+name: No, not
+description: >-
+  Use this domain for words that negate or deny the truth of something, or that answer a
+  yes/no question in the negative.
+louwNidaCodes: 69B Negation; 69C Negation Combined with Clitics
+questions:
+  - q: What words are used to negate the truth of something?
+    words: >-
+      no, none, not, nay, uh-uh, no one, nothing, never, nowhere, no indeed, by no means,
+      certainly not, most certainly not, absolutely not, shake your head, negative
+  - q: What words are used to refer to the process of denying the truth of something?
+    words: >-
+      deny, denial, negate, negation, disavow, disavowal, contradict, contradiction,
+      repudiate, repudiation
+  - q: What are the noun forms of these words?

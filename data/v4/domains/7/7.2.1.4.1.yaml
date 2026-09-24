@@ -1,0 +1,13 @@
+code: "7.2.1.4.1"
+guid: B5AA5873-4C66-4D2D-935A-18E0AB231DBB
+name: Clumsy
+description: Use this domain for words referring to moving in a clumsy manner.
+questions:
+  - q: What words describe someone who moves in a clumsy way?
+    words: >-
+      uncoordinated, awkward, ungainly, clumsy, gawky, inelegant, klutz, ungraceful,
+      lumbering, have two left feet, gangling
+  - q: What words describe someone who is clumsy and often has accidents?
+    words: >-
+      clumsy, klutz, be all thumbs, accident-prone, ham-fisted, bungling, bumbling, bull in
+      a china shop, butterfingers

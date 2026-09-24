@@ -1,0 +1,31 @@
+code: "3.3.3.5"
+guid: 6FBE39FB-A4CB-4FCF-830B-8875FD4324E0
+name: Compel
+description: >-
+  Use this domain for words related to compelling someone to do something--to cause or force
+  someone to do something that they do not want to do.
+louwNidaCodes: 37B Compel, Force
+related: ["9.6.2.5"]
+questions:
+  - q: What words refer to forcing someone to do something?
+    words: >-
+      compel, blackmail, browbeat, bully (v), coerce, constrain, drive, force someone to do
+      something, use force, force something on, insist, impel, impose your will on, make
+      someone do something, oblige, press, pressure, put pressure on, push, use strong-arm
+      tactics, use strong-arm methods, under duress, be breathing down someone's neck
+  - q: What words refer to a situation forcing someone to do something?
+    words: >-
+      force, make someone do something, drive, compel someone to do something, leave someone
+      with no choice, leave someone with no option, be condemned to
+  - q: What words refer to forcing someone to accept something?
+    words: force something on, impose, inflict something on
+  - q: What words refer to the act of forcing someone to do something?
+    words: compulsion
+  - q: What words describe something that someone is forced to do?
+    words: forcible (eviction), forcibly, compulsory (education)
+  - q: What words refer to something someone does in order to force someone to do something?
+    words: coercion, pressure, high-pressure tactics, strong-arm tactics
+  - q: What words refer to someone who forces people to do things?
+    words: bully
+  - q: What words describe someone who forces people to do things?
+    words: bossy, coercive, pushy

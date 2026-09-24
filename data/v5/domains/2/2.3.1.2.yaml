@@ -1,0 +1,26 @@
+code: "2.3.1.2"
+guid: FDA0C1AC-5728-4ba2-9F8E-827F161B5BB1
+name: Watch
+description: >-
+  Use this domain for words that refer to watching someone or something--to look for some
+  time at something that is happening because you are interested in it and want to know what
+  is happening.
+questions:
+  - q: What words refer to watching something?
+    words: watch, observe, look on, see (a movie)
+  - q: What words refer to watching something continuously?
+    words: not take your eyes off, stand over
+  - q: What words refer to watching something so that nothing bad happens?
+    words: watch, keep an eye on, observation, monitor
+  - q: What words refer to secretly watching something?
+    words: watch, keep a watch on, surveillance, observation
+  - q: What words refer to someone who is watching?
+    words: spectator, viewer, audience, onlooker, observer, lookout
+  - q: >-
+      What words refer to watching something for a long time, but not watching it all the
+      time?
+    words: watch, keep an eye
+  - q: What words refer to always watching to see if anything bad happens?
+    words: >-
+      alert, watchful, vigilant, keep your eyes peeled, keep your eyes open, look out, keep
+      a lookout for

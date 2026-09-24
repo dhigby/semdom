@@ -1,0 +1,21 @@
+code: "1.6.1.1.4"
+guid: A8B9E892-DF3E-44C4-8C68-7A0F7F4468BB
+name: Rodent
+description: >-
+  Use this domain for rodents--gnawing animals (phylum Chordata, class Mammalia, order
+  Rodentia), insect eating animals (phylum Chordata, class Mammalia, order Insectivora),
+  rabbits (phylum Chordata, class Mammalia, order Lagomorpha), and hyraxes (phylum Chordata,
+  class Mammalia, order Hyracoidea).
+questions:
+  - q: What general words refer to rodents?
+    words: rodent
+  - q: What species of rodent are there?
+    words: >-
+      rat, mouse, squirrel, chipmunk, marmot, beaver, porcupine, capybara, cavy, chinchilla,
+      coypu, gerbil, gopher, hamster, lemming, muskrat, vole, woodchuck
+  - q: What species of insect eating animals are there?
+    words: mole, shrew, hedgehog
+  - q: What species of rabbit are there?
+    words: rabbit, cottontail, hare, pika
+  - q: What species of hyrax are there?
+    words: hyrax, coney, dassie

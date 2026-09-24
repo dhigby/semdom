@@ -1,0 +1,10 @@
+code: "5.1.1.2"
+guid: 4FC734F2-A91D-4693-8CAF-E7FE51A2DF8A
+name: Chair
+description: Use this domain for words related to a chair.
+related: ["7.1.2"]
+questions:
+  - q: What kinds of chairs are there?
+    words: chair, armchair, highchair, seat, stool, couch, sofa, swing
+  - q: What are the parts of a chair?
+    words: arm, back, chair leg, seat cushion, footrest

@@ -1,0 +1,24 @@
+code: "2.3.1.8.2"
+guid: 2F151C35-72E1-4665-BC05-6FC70A3ECFF2
+name: Ugly
+description: >-
+  Use this domain for words describing someone or something that is ugly--not pleasing in
+  appearance.
+louwNidaCodes: 79D Beautiful, Ugly
+questions:
+  - q: What words describe someone who is not good looking?
+    words: not good-looking, plain, homely, not much to look at, unattractive
+  - q: What words describe someone who is very ugly?
+    words: ugly, hideous, repulsive, grotesque, unsightly
+  - q: What words describe something that is ugly?
+    words: ugly, hideous, revolting, unattractive, unsightly
+  - q: What words refer to something that is ugly?
+    words: eyesore, monstrosity, blot on the landscape
+  - q: What words indicate that something is done in an ugly way?
+    words: rude, uncomely, uncouth, ungainly, ungraceful, unseemly
+  - q: What words refer to the quality of being ugly?
+    words: ugliness
+  - q: What words refer to making something ugly?
+    words: contort, deface, disfigure, distort, mar, misshape
+  - q: What words describe the face of a person who is bad?
+    words: contorted, cunning, hard-featured, rough

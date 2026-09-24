@@ -1,0 +1,16 @@
+code: "6.6.5.2"
+guid: 6B208FDA-544C-4CBA-B8CC-887B1018837F
+name: Photography
+description: Use this domain for words related to photography.
+ocmCodes: 215 Photography
+questions:
+  - q: What words refer to photography in general?
+    words: photography, picture taking
+  - q: What words are used of taking a picture?
+    words: to photograph, take a picture, to film
+  - q: What words refer to a photograph?
+    words: photograph, photo, picture, shot, mug shot, snap, portrait, landscape
+  - q: What words refer to a camera?
+    words: camera, digital camera, video camera, phone camera, webcam
+  - q: What are the parts of a camera?
+    words: lens, body, shutter, filter, film, film canister, tripod, flash

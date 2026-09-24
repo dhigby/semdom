@@ -1,0 +1,18 @@
+code: "4.1.6.3"
+guid: 4651AEF1-E18F-481E-9C3E-D9DFFF4A6B51
+name: Alone
+description: Use this domain for words related to being alone.
+related: ["3.4.2.1.5", "4.3.3.3"]
+questions:
+  - q: What words describe a person who is alone?
+    words: alone, on your own, by yourself, unaccompanied, marooned, isolated
+  - q: What words refer to doing something alone?
+    words: all by yourself, single-handed, solo, in isolation, self-made
+  - q: What words describe someone who spends a lot of time alone?
+    words: solitary, loner, recluse, keep to yourself
+  - q: What words refer to the state of being alone?
+    words: solitude, isolation, solitary confinement, privacy
+  - q: What words describe someone who is alone and unhappy?
+    words: lonely, lonesome
+  - q: What words refer to feeling lonely because someone you love is not there?
+    words: miss, want to see someone, feel lonesome, long for someone

@@ -1,0 +1,24 @@
+code: "3.5.9.4"
+guid: 4F516445-E044-4D9C-AC9B-A3178F72B405
+name: Movie
+description: Use this domain for words related to movies and the cinema.
+related: ["4.2.5"]
+questions:
+  - q: What words refer to movies?
+    words: movie, show, film
+  - q: What words refer to a place where movies are shown?
+    words: >-
+      theater, cinema, movie house, movie theater, drive-in, box office, ticket office,
+      auditorium, aisle, screen, projector
+  - q: What words refer to showing a movie?
+    words: show, screen, intermission
+  - q: What words refer to watching a movie?
+    words: >-
+      go to the movies, watch a movie, go to the cinema, go to the pictures, audience,
+      moviegoer, ticket
+  - q: What words refer to making movies?
+    words: film, direct
+  - q: What words refer to a person who makes movies?
+    words: director, producer, camera crew
+  - q: What things are used to make movies?
+    words: camera, set, prop, studio

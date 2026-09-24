@@ -1,0 +1,12 @@
+code: "4.5.4.3"
+guid: 430CE279-1464-4D55-8483-5525A3C3094D
+name: Serve
+description: Use this domain for words related to serving someone.
+louwNidaCodes: 35B Serve
+questions:
+  - q: What words refer to serving someone?
+    words: serve, service, attend to, wait on
+  - q: What words refer to a servant?
+    words: servant, manservant, maidservant
+  - q: What words refer to a servant who works in a house?
+    words: butler, maid, chambermaid, housemaid, houseboy

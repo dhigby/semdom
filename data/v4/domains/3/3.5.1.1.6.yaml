@@ -1,0 +1,11 @@
+code: "3.5.1.1.6"
+guid: E482BB5A-5A32-4BC5-A0DE-32CBE0AA7908
+name: Speech style
+description: >-
+  Use this domain for words describing the way a person talks in a particular social
+  situation.
+ocmCodes: 195 Sociolinguistics; Stylistic
+louwNidaCodes: 33D Language Levels
+questions:
+  - q: What words refer to your style of speaking?
+    words: style, register, formal, informal, colloquial, humorously, seriously, pronunciation

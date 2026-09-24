@@ -1,0 +1,10 @@
+code: "1.3.1"
+guid: 79EBB5CE-F0FD-4FB5-9F22-1FA4965A555B
+name: Bodies of water
+description: Use this domain for general words referring to bodies of water.
+louwNidaCodes: 1J Bodies of Water
+questions:
+  - q: What general words refer to a body of water?
+    words: body of water, hydrosphere
+  - q: What words describe something belonging to the water?
+    words: marine, oceanic, riverine

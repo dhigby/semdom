@@ -1,0 +1,17 @@
+code: "5.5.1"
+guid: 1438C623-C4CE-4559-B71B-CFB86A71E6D7
+name: Light a fire
+description: Use this domain for words related to lighting a fire.
+questions:
+  - q: What words are used of a person starting a fire?
+    words: >-
+      light a fire, build a fire, make a fire, start a fire, ignite, light a match, set on
+      fire, set fire to something, blow into flames, kindle
+  - q: What words refer to something beginning to burn?
+    words: catch fire, start burning, burst into flames, spark, smolder
+  - q: What things are used to start fires?
+    words: >-
+      match, matchstick, matchbox, flint and steel, cigarette lighter, lighter fluid,
+      tinderbox
+  - q: What materials are used as kindling?
+    words: kindling, tinder, punk

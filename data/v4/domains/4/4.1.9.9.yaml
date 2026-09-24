@@ -1,0 +1,17 @@
+code: "4.1.9.9"
+guid: 6CBDAF94-8E2C-4B26-936A-D2F86D158250
+name: Race
+description: >-
+  Use this domain for words referring to different races of people--the large groups of
+  people in the world that are different in color and appearance.
+questions:
+  - q: What words refer to a person's race?
+    words: race, color, ethnic group, racial, racially, ethnic, ethnicity
+  - q: What words refer to a person's race on the basis of their color?
+    words: yellow, brown, black, white, red
+  - q: What words refer to a person's race on the basis of where their ancestors were from?
+    words: >-
+      Aborigine, African, Arab, Asian, American Indian, Caucasian, Hispanic, Indian, Latin
+      American, Native American
+  - q: What words refer to mixing the races?
+    words: integration, segregation, multiracial, interracial, cosmopolitan, multicultural, mixed

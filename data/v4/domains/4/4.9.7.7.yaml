@@ -1,0 +1,10 @@
+code: "4.9.7.7"
+guid: F6134BE5-3F96-4750-A03E-FCA381A42DB1
+name: Animism
+description: Use this domain for words used in Animism--the belief in spirits.
+ocmCodes: 774 Animism
+questions:
+  - q: What words are used to talk about Animism?
+    words: Animism, paganism
+  - q: What words refer to someone who believes in Animism?
+    words: Animist, pagan

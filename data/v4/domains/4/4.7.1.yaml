@@ -1,0 +1,16 @@
+code: "4.7.1"
+guid: F51BCAFA-E624-4555-B8F1-B5726D74734D
+name: Laws
+description: Use this domain for words referring to a specific law or set of laws.
+ocmCodes: 671 Legal Norms
+louwNidaCodes: 33G' Law, Regulation, Ordinance
+questions:
+  - q: What words refer to a law?
+    words: >-
+      law, act of law, appointment, bill, command, commandment, constraint, decree, dogma,
+      edict, judgment, legislation, ordinance, prescription, principle, regulation,
+      requirement, rule, ruling, religious law, rubric, standard, statute
+  - q: What words refer to all the laws of a country?
+    words: laws, canon, code of laws, legal code
+  - q: What words refer to the laws that set up a government?
+    words: constitution

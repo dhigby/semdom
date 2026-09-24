@@ -1,0 +1,40 @@
+code: "1.5.4"
+guid: D06DAE77-134A-403F-BA88-52ECD66C0522
+name: Moss, fungus, algae
+description: >-
+  Use this domain for mosses (phylum Bryophyta, class Musci), liverworts (phylum Bryophyta,
+  class Hepaticae), fungi (phylum Thallophyta, subdivision Fungi), algae (phylum
+  Thallophyta, subdivision Algae), and lichens. These plants do not have true roots, stems,
+  or leaves. The mosses are small, green, flowerless plants that grow in moist environments
+  and look like velvety or feathery growths carpeting the ground, tree trunks, and rocks.
+  The liverworts are similar to the mosses with a flat and branching growth pattern. The
+  algae possess green chlorophyll. They vary from one-celled organisms, which sometimes live
+  in colonies such as pond scum, to complex organisms such as seaweed. The fungi do not
+  possess chlorophyll and feed off of other organic material. Lichens consist of a fungus
+  and an algae growing together. They commonly grow on trunks of trees and rocks. Some are
+  flat and leafy, and some are moss like.
+louwNidaCodes: 3C Plants That Are Not Trees
+questions:
+  - q: What general words refer to moss, fungus, and algae?
+    words: phytoplankton, plankton, scum
+  - q: What general words refer to moss?
+    words: moss
+  - q: What species of moss are there?
+  - q: What general words refer to liverworts?
+    words: liverwort
+  - q: What species of liverworts are there?
+  - q: What general words refer to algae?
+    words: algae, gulfweed, seaweed, wrack
+  - q: What species of algae are there?
+    words: diatom, sea lettuce, kelp, rockweed, Sargasso, sargassum
+  - q: What general words refer to fungi?
+    words: fungus, bacteria, mold, mildew, mushroom
+  - q: What species of fungi are there?
+    words: >-
+      apple scab, bloom, bread mold, button mushroom, downy mildew, dry rot, morel,
+      penicillium, puffball, rose mildew, rust fungi, slime mold, smut, toadstool, truffle,
+      yeast
+  - q: What general words refer to lichen?
+    words: lichen
+  - q: What species of lichen are there?
+    words: reindeer moss

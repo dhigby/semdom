@@ -1,0 +1,45 @@
+code: "4.2.8"
+guid: C27B87CF-1211-4DF2-96B1-12C416EDABBE
+name: Humor
+description: Use this domain for words related to humor.
+ocmCodes: 522 Humor
+louwNidaCodes: 25L Laugh, Cry, Groan x
+related: ["3.5.6.4", "3.5.1.8.3"]
+questions:
+  - q: What words refer to humor in general?
+    words: >-
+      humor, comedy, comic relief, fun, caprice, fooling, kidding, joshing, wittiness, salt,
+      whim, drollery, jocularity, levity, mirth
+  - q: What words refer to a person's sense of humor (ability to joke)?
+    words: sense of humor, (have a real) funny bone, (be/have a great) wit
+  - q: What words refer to something said humorously?
+    words: >-
+      joke, pun, play on words, word play, riddle, jest, gag, wisecrack, witticism,
+      pleasantry, banter, badinage, retort, repartee, riposte, ridicule, quip, one-liner,
+      flash of wit, comeback, gag, crack
+  - q: What words refer to something done humorously?
+    words: >-
+      joke, play a joke on, prank, play a prank on, farce, clowning, fooling around,
+      tomfoolery, buffoonery, horseplay, monkey business
+  - q: What words describe something that is humorous?
+    words: >-
+      humorous, funny, hilarious, hysterical, silly, comical, ludicrous, amusing, comic,
+      absurd, facetious, droll, laughable, zany
+  - q: What is a person called who jokes?
+    words: >-
+      comedian, humorist, joker, jokester, wit, wag, comic, clown, jester, buffoon, punster,
+      fool, practical joker, gagman, wisecracker
+  - q: What words are used of joking?
+    words: >-
+      to joke, be witty, jest, crack a joke, make pun, to pun, make fun of, make sport of,
+      retort, banter, kid, wisecrack, come back at, josh, clown
+  - q: What words describe a person's sense of humor?
+    words: >-
+      witty, comic, jocular, droll, smart, dry wit, slapstick, fun, facetious, waggish,
+      comical, salty
+  - q: What words describe a person who jokes?
+    words: >-
+      witty, quick-witted, smart, jocular, droll, funny, waggish, facetious, whimsical,
+      humorous, comic
+  - q: What words indicate the joking manner in which a person acts or speaks?
+    words: humorously, jokingly, jestingly, in jest, in sport, in play, in fun, not seriously

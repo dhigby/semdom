@@ -1,0 +1,25 @@
+code: "2.6.1.4"
+guid: F6E416B3-50B1-4E48-8A39-2998725B1C79
+name: Divorce
+description: Use this domain for words related to divorce--to legally end your marriage.
+ocmCodes: 586 Termination of Marriage
+louwNidaCodes: 34J Marriage, Divorce
+questions:
+  - q: What words refer to divorcing your wife or husband?
+    words: get divorced, divorce (v), get a divorce, end in divorce, dissolution, dissolve
+  - q: What words refer to a divorce?
+    words: divorce (n), divorcement
+  - q: What words refer to a person who has been divorced?
+    words: divorcee, ex-husband, ex-wife, my ex
+  - q: What words describe someone who has been divorced?
+    words: divorced, estranged
+  - q: What words refer to a judge ending a marriage?
+    words: grant a divorce, annul, annulment
+  - q: What words refer to the legal process of divorcing your wife or husband?
+    words: certificate of divorce, writ of divorce, divorce papers, divorce court
+  - q: What words refer to leaving your husband or wife?
+    words: leave (your spouse), walk out on, leave (your spouse) for another man/woman
+  - q: What words refer to when a husband and wife no longer live together?
+    words: separate, separation, estrange, split up, break up (a marriage), live apart
+  - q: What words indicate who keeps the children?
+    words: get custody, alimony

@@ -1,0 +1,21 @@
+code: "5.2.1.1"
+guid: FC0AFB69-A4D4-439A-91CD-ED0CE67677B5
+name: Cooking methods
+description: >-
+  Use this domain for words referring to various ways of cooking food. It is necessary to
+  think through different kinds of food and how they are cooked. An example is given below
+  for cooking eggs.
+questions:
+  - q: What words refer to various ways of cooking food?
+    words: >-
+      cook, bake, baste, boil, boil over, braise, brew, broil, brown (v), fry, deep fat fry,
+      grill, marinate, pan-fry, parboil, pickle, poach, roast, sauté, season, sift, simmer,
+      steam, stew, stir fry
+  - q: What ways can you cook an egg?
+    words: boil, fry, scramble, poach, bake
+  - q: What words describe something that has been cooked?
+    words: >-
+      cooked, boiled, braised, broiled, fried, grilled, marinated, parboiled, pickled,
+      poached, sautéed, stewed
+  - q: What words describe something that is being cooked?
+    words: sizzle

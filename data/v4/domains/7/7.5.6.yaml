@@ -1,0 +1,13 @@
+code: "7.5.6"
+guid: B3FB9960-8F42-43BC-9595-DFB3E04F5BFD
+name: Substitute
+description: >-
+  Use this domain for words referring to substituting something for something else--to move
+  something and put something else in its place.
+louwNidaCodes: 57J Exchange
+related: ["6.8.4.9"]
+questions:
+  - q: What words refer to putting something in the place of something else?
+    words: substitute, supplant, replace
+  - q: What words refer to putting each of two things in the place of the other?
+    words: exchange, switch (places)

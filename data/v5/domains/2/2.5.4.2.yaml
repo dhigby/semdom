@@ -1,0 +1,21 @@
+code: "2.5.4.2"
+guid: 23FB1571-C04E-4850-B499-F170BC45247F
+name: Poor eyesight
+description: Use this domain for words related to having poor eyesight.
+questions:
+  - q: What words describe someone who cannot see well?
+    words: >-
+      near-sighted, far-sighted, as blind as a bat, partially blind, have poor eyesight,
+      astigmatism, color-blind, cross-eyed
+  - q: What words refer to a disease that causes poor eyesight?
+    words: cataracts, glaucoma
+  - q: What words refer to glasses?
+    words: >-
+      glasses, eyeglasses, corrective lenses, contact lens, bifocals, spectacles, specs,
+      monocle
+  - q: What words refer to wearing glasses?
+    words: wear glasses
+  - q: What words refer to a doctor who makes glasses?
+    words: optometrist, optician, eye doctor
+  - q: What words refer to the making of glasses?
+    words: eye exam, prescription, frames, lens

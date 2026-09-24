@@ -1,0 +1,28 @@
+code: "4.3.7.2"
+guid: FC193988-26CA-49E9-849A-B12456D98792
+name: Crazy
+description: Use this domain for words related to being crazy--to act stupid or strange.
+related: ["2.5.8", "4.9.4.2", "3.2.1.4"]
+questions:
+  - q: What words describe someone who is crazy?
+    words: crazy, mad, insane, berserk, barmy, deranged, dotty, batty, flaky
+  - q: What words refer to a crazy person?
+    words: maniac, lunatic, nut, nutcase, loony, madman, madwoman, nutter, wacko, weirdo
+  - q: What words refer to being crazy?
+    words: >-
+      be nuts, be crackers, need your head examined, be out of your mind, be off your
+      rocker, be stark raving mad, be out to lunch
+  - q: What words refer to the quality of being crazy?
+    words: craziness
+  - q: What words refer to something someone does that is crazy?
+    words: craziness, insanity, lunacy, madness
+  - q: What words describe something someone does that is crazy?
+    words: crazy, insane, mad, screwy
+  - q: What words refer to beginning to feel like you are crazy?
+    words: go crazy, go mad, go nuts, go round the bend
+  - q: What words refer to beginning to act crazy?
+    words: go crazy, go berserk, go mad, go nuts
+  - q: What words refer to causing someone to feel or act crazy?
+    words: >-
+      drive someone crazy, drive someone nuts, drive someone mad, drive someone round the
+      bend

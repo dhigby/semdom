@@ -1,0 +1,20 @@
+code: "3.3"
+guid: B50F39CB-3152-4D56-9DDC-4B98F763E76A
+name: Want
+description: Use this domain for words related to wanting something or wanting to do something.
+louwNidaCodes: 25A Desire, Want, Wish
+questions:
+  - q: What words refer to wanting something?
+    words: >-
+      want, desire, wish, long for, yearn, crave, hunger, thirst, be attracted to, fancy,
+      have a fancy for, intent on
+  - q: What words refer to wanting to do something?
+    words: >-
+      want to, wish you could, aspire to, feel like, hope you can, interested in, raring to,
+      have an urge to
+  - q: What words refer to something someone wants?
+    words: want (n), desire (n), wish (n), longing, yearning, craving, mania, obsession
+  - q: What words describe something that people want?
+    words: desirable
+  - q: What words describe something that people don't want?
+    words: unwanted, undesirable

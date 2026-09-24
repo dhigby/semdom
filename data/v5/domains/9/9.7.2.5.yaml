@@ -1,0 +1,13 @@
+code: "9.7.2.5"
+guid: 69D366D2-9735-4A1B-B938-7B212932B568
+name: Names of heavenly bodies
+description: Use this domain for the proper names of the heavenly bodies.
+questions:
+  - q: What are the names of the planets?
+    words: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto
+  - q: What are the names of the constellations?
+    words: Milky Way, Big Dipper, Orion, Pleiades, Southern Cross
+  - q: What are the names of the stars?
+    words: North Star, Morning Star, Betelgeuse, Alpha Centauri
+  - q: What are the names of other heavenly bodies?
+    words: Halley's Comet

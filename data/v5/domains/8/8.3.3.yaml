@@ -1,0 +1,23 @@
+code: "8.3.3"
+guid: 4BF411B7-2B5B-4673-B116-0E6C31FBD08A
+name: Light
+description: Use this domain for words related to light.
+ocmCodes: 373 Light
+louwNidaCodes: 14F Light
+questions:
+  - q: What words refer to light?
+    words: light, sunshine, gleam (n), glare (n), glow (n), radiance
+  - q: What words refer to making light shine in a place?
+    words: light (v), light up, illuminate
+  - q: What words describe something that has light shining on it?
+    words: be light, illuminated, sunlit, moonlit, starlit, lighted, luminous
+  - q: What words refer to a ray of light?
+    words: ray, beam, shaft, sunbeam, moonbeam
+  - q: What words refer to different kinds of light?
+    words: >-
+      daylight, sunlight, moonlight, starlight, firelight, candlelight, electric light,
+      electromagnetic radiation, fluorescence, fluorescent light, incandescent light,
+      infrared, lamplight, luminescence, luminescent, phosphorescence, phosphorescent,
+      photoelectric, ultraviolet
+  - q: What words are used to describe light?
+    words: candlepower, frequency, lumen, radiant, radiation, refract, short-wave, spectrum

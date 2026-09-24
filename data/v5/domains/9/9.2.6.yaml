@@ -1,0 +1,7 @@
+code: "9.2.6"
+guid: A7B32D1B-1BE7-43EC-94A1-FC7BDD826168
+name: Particles
+description: Use this domain to list all particles.
+questions:
+  - q: What particles are in your language?
+    words: He lives <just> across the street.

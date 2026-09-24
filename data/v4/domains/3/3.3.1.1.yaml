@@ -1,0 +1,34 @@
+code: "3.3.1.1"
+guid: B6B73D41-E23F-4F22-B01E-7E75F4115FCE
+name: Purpose, goal
+description: >-
+  Use this domain for words referring to a goal--something that you want to do or something
+  that you want to happen.
+louwNidaCodes: 89I Purpose
+related: ["9.6.2.7", "6.1.2.5"]
+questions:
+  - q: What words refer to the purpose of what you are doing?
+    words: >-
+      purpose, goal, aim (n), design (n), desire (n), destination, end, function, idea,
+      intent, intention, object, objective, plan, the point, proposal, reason, target, use
+      (n)
+  - q: What words refer to the purpose of something someone says?
+    words: point, implication, mean, be driving at, be trying to say
+  - q: What words refer to the purpose of something like a machine or tool?
+    words: function, use
+  - q: What words indicate the purpose of something?
+    words: >-
+      for, be for, for the sake of, serve to, so, so that, to, toward, with a view to, with
+      the aim of
+  - q: What words indicate that something is done or made for a particular purpose?
+    words: >-
+      be meant to do something, supposed to do something, be intended to do something, be
+      designed to do something
+  - q: What words refer to trying to reach a goal?
+    words: to strive toward a goal, press on, aim for, endeavor, head for, try to accomplish
+  - q: What words refer to reaching a goal?
+    words: reach, attain, surpass
+  - q: What words refer to failing to reach a goal?
+    words: fail to reach, miss, fall short of
+  - q: What words refer to not having any purpose?
+    words: purposeless, without purpose, lack a goal, aimless, drifting, no direction

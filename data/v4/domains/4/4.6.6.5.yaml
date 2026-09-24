@@ -1,0 +1,25 @@
+code: "4.6.6.5"
+guid: D8631167-08BD-4571-BC7C-57A4407DA51C
+name: Politics
+description: >-
+  Use this domain for words related to politics--the activities of politicians and political
+  parties.
+ocmCodes: >-
+  660 Political Behavior; 661 Exploitation; 662 Political Intrigue; 663 Public Service; 664
+  Pressure Politics; 665 Political Parties; 667 Political Machines; 668 Political Movements
+louwNidaCodes: 11C Socio-Political
+questions:
+  - q: What words refer to a political party?
+    words: >-
+      party, Democratic party, Republican party, Communist party, Nazi party, political
+      party
+  - q: What words refer to a member of a political party?
+    words: member, card-carrying, Democrat, Republican, Communist, Nazi, Fascist
+  - q: What words refer to a politician?
+    words: >-
+      politician, official, senator, member of parliament, congressman, councilor, deputy,
+      dictator, diplomat, governor, legislator
+  - q: What words refer to a meeting of a political party?
+    words: convention, caucus
+  - q: What words refer to the activity of a political party?
+    words: politics, movement, machine

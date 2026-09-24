@@ -1,0 +1,23 @@
+code: "2.2.5"
+guid: 8C41D2D1-6DA6-4AB8-8B29-7E226192D64E
+name: Bleed, blood
+description: Use this domain for words related to blood and bleeding.
+questions:
+  - q: What words refer to bleeding?
+    words: to bleed, nosebleed, flow (from a wound), ooze, hemorrhage
+  - q: What words refer to bleeding quickly?
+    words: pour, stream from, spurt, gush
+  - q: What words refer to stopping bleeding?
+    words: coagulate, staunch, to stop bleeding, to block bleeding, apply a tourniquet
+  - q: What words refer to blood?
+    words: blood, drop of blood
+  - q: What words refer to blood when it dries?
+    words: clot, scab, blood stain
+  - q: What words describe something that has blood on it?
+    words: bloody, bloodstained, gory, gruesome
+  - q: What words refer to a lot of blood?
+    words: pool of blood
+  - q: What words refer to giving blood to someone?
+    words: give blood, blood transfusion
+  - q: What words refer to the type of blood a person has?
+    words: blood type

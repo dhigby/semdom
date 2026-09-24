@@ -1,0 +1,9 @@
+code: "4.1.7.1"
+guid: 06341E45-C407-49D0-98D8-74ECC303FB02
+name: End a relationship
+description: Use this domain for words related to ending a relationship.
+questions:
+  - q: What words refer to ending a relationship?
+    words: leave, walk out, desert, break up
+  - q: What words describe a friendship that has become bad?
+    words: broken relationship, break up, strained relationship, misunderstanding, co-dependency

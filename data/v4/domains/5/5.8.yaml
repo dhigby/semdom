@@ -1,0 +1,12 @@
+code: "5.8"
+guid: 716B3E9D-9BB9-42A6-BA56-829B1C018B28
+name: Manage a house
+description: Use this domain for words related to managing a house.
+ocmCodes: 356 Housekeeping; 357 Domestic Service
+questions:
+  - q: What words refer to managing a house?
+    words: keep house, housework, housekeeping
+  - q: What words refer to a person who manages a house?
+    words: housewife, housekeeper
+  - q: What words refer to a household servant?
+    words: maid, butler, valet, domestic servant, house help, household staff

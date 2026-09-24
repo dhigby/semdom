@@ -1,0 +1,7 @@
+code: "4.1.9.2.1"
+guid: A4627CA8-F27B-44CE-91F5-CC992332BC86
+name: Husband, wife
+description: Use this domain for words related to your spouse.
+questions:
+  - q: What words are used to refer to the person you are married to?
+    words: spouse, husband, wife, second wife

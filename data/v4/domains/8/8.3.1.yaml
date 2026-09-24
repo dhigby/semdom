@@ -1,0 +1,24 @@
+code: "8.3.1"
+guid: 080BF07B-E58B-4A75-BB97-84D980A143F0
+name: Shape
+description: >-
+  Use this domain for general words referring to the shape of something, and for general
+  words referring to changing the shape of something.
+louwNidaCodes: 79W Shapes; 79R Two-Dimensional and Three-Dimensional Shapes
+questions:
+  - q: What general words refer to the shape of something?
+    words: shape, form, figure, silhouette
+  - q: What words refer to the outside shape of something?
+    words: outline, lines, profile, contour
+  - q: What words refer to having a particular shape?
+    words: shaped, in the shape of, in the form of
+  - q: What words refer to an irregular shape?
+    words: irregular, jagged
+  - q: What words refer to the wrong shape?
+    words: misshapen, deformed, distorted, out of shape, lopsided, lose its shape
+  - q: What words refer to having no clear shape?
+    words: shapeless, formless, amorphous
+  - q: What general words refer to changing the shape of something?
+    words: shape (v), change the shape of, form, mold, transform
+  - q: What words describe something like a branch or road that divides into two parts?
+    words: forked, bifurcate, bifurcated, fork, branch, a Y in the road

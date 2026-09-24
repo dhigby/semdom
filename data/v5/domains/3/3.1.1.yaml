@@ -1,0 +1,16 @@
+code: "3.1.1"
+guid: 6FE11B6A-8D01-4A0B-BDEB-E4E6F420340A
+name: Personality
+description: >-
+  Use this domain for words that describe a person's personality (the way he usually thinks,
+  talks, and how he acts with other people).
+ocmCodes: 150 Behavior Processes and Personality; 156 Social Personality; 157 Personality Traits
+related: ["4.3"]
+questions:
+  - q: What general words refer to a person's personality?
+    words: personality, manner, character
+  - q: What words describe personality traits?
+    words: >-
+      introvert, extrovert, outgoing, shy, quiet, sociable, talkative, vivacious, intense,
+      easy-going, down-to-earth, homespun, melancholic, phlegmatic, choleric, sanguine,
+      logical, emotional, unemotional, impulsive, cool-headed, even keeled, flamboyant

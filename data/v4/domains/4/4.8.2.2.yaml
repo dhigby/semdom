@@ -1,0 +1,16 @@
+code: "4.8.2.2"
+guid: 37E6C8B5-F63C-4F5B-8C16-ECCD727D6618
+name: Fight against something bad
+description: Use this domain for words referring to fighting against something bad.
+louwNidaCodes: 39C Resistance
+questions:
+  - q: What words refer to fighting against something bad?
+    words: fight, fight against, put up a fight, combat, wage war on, campaign, launch a campaign
+  - q: What words refer to fighting against someone who is trying to do something bad?
+    words: >-
+      fight, fight against, fight back, put up a fight, resist, resistance, put up a
+      resistance, meet with resistance, stand up to, make a stand, take a stand, hold out
+      against, hold your ground, not be moved, be unyielding, not give in, defend your
+      ground, oppose, opposing, opposition, react, withstand
+  - q: What words refer to the process of fighting against something bad?
+    words: fight (n) against, struggle against, battle against, campaign against, crusade against

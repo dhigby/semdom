@@ -1,0 +1,12 @@
+code: "6.2.1"
+guid: CB362FC7-B3AA-46F4-B9A8-0F8C97FB16FE
+name: Growing crops
+description: >-
+  Use this domain for general words related to growing crops. If one crop is cultivated
+  extensively and there are many words related to it, set up a separate domain for it.
+ocmCodes: 248 Textile Agriculture; 249 Special Crops
+questions:
+  - q: What words refer to growing crops?
+    words: grow, cultivate, raise, farm (v), garden (v), produce
+  - q: What words refer to something that is grown?
+    words: crop, produce (n)

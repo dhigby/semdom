@@ -1,0 +1,30 @@
+code: "8.2.1"
+guid: B43FAE8E-6B19-42ED-98CD-D363174B9CF8
+name: Small
+description: Use this domain for words referring to being small.
+louwNidaCodes: 79B' Large, Small
+questions:
+  - q: What words describe something that is small?
+    words: small, little, dainty, miniature, compact
+  - q: What words describe something that is very small?
+    words: tiny, minute, minuscule, microscopic, infinitesimal, wee, diminutive
+  - q: What words refer to something that is small?
+    words: dwarf, midget
+  - q: What words refer to something becoming small?
+    words: get smaller, shrink, shrivel, shrivel up, contract, decrease in size, reduce, wither
+  - q: What words refer to making something small?
+    words: shrink, stunt
+  - q: What words refer to the process of becoming small?
+    words: reduction, contraction, decrease (n)
+  - q: What words describe something that has been made small?
+    words: shrunken
+  - q: What words refer to being smaller than another thing?
+    words: smaller, smallest, littler, littlest
+  - q: What words describe something that is much smaller than other things of the same type?
+    words: undersized, dwarf, midget, extra small
+  - q: What words refer to how small something is?
+    words: size
+  - q: What words indicate how small something is?
+    words: how small
+  - q: What words describe something that is made small enough to carry?
+    words: compact, pocket, miniature

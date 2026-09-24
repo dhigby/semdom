@@ -1,0 +1,19 @@
+code: "7.2.1.6"
+guid: 985F099D-F38C-4957-907A-769D1A45CA10
+name: Steady, unsteady
+description: >-
+  Use this domain for words that refer to balancing yourself or something--when someone or
+  something is able stand or move without falling.
+related: ["7.2.7.2"]
+questions:
+  - q: What words describe something that can move?
+    words: movable, mobile, mobility, portable, loose, fluid, free
+  - q: What words describe something that cannot move?
+    words: >-
+      fixed, immovable, stuck, jammed, stiff, won't budge, can't budge something, can't
+      move, immobile, paralyzed, stranded, entangled, caught, bound, permanent, rooted,
+      entrenched, established, settled, set
+  - q: What words describe something that is easy to move?
+    words: unsteady, shaky, easily moved, unstable, unsettled, rickety, tottering, wobbly
+  - q: What words describe something that is difficult to move?
+    words: steady, firm, stable

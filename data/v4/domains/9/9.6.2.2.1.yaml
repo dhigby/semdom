@@ -1,0 +1,9 @@
+code: "9.6.2.2.1"
+guid: 1B4F987D-3EAA-46DD-95EE-E0CB1F30CFBB
+name: In general
+description: >-
+  Use this domain for words indicating that something is generally true, but not true in
+  every case.
+questions:
+  - q: What words indicate that something is generally true?
+    words: in general, generally, mostly, on the whole, in most cases

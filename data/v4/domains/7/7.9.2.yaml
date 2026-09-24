@@ -1,0 +1,7 @@
+code: "7.9.2"
+guid: 1A28D255-8F58-428C-9641-59F17F8B1E08
+name: Tear down
+description: Use this domain for words referring to tearing down buildings and other structures.
+questions:
+  - q: What words refer to tearing something down?
+    words: tear down, demolish, dismantle, take apart, take down

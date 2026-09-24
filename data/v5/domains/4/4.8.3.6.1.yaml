@@ -1,0 +1,17 @@
+code: "4.8.3.6.1"
+guid: D90DB6D4-6C78-4ac8-9764-0CAFA79B8B31
+name: Army
+description: Use this domain for words related to the army.
+ocmCodes: 704 Ground Combat Forces
+louwNidaCodes: 55C Army
+questions:
+  - q: What words refer to the army?
+    words: the army
+  - q: What words refer to a group of soldiers in the army?
+    words: army, band
+  - q: What types of army units are there?
+    words: >-
+      squad, platoon, company, battalion, regiment, brigade, division, corps, army, army
+      group
+  - q: What words describe something belonging to the army?
+    words: army

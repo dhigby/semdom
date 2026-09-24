@@ -1,0 +1,15 @@
+code: "3.5.8.2"
+guid: EDF17F72-7E7A-4F8D-A5EE-F4889492D73A
+name: Meaningless
+description: >-
+  Use this domain for words describing something that is meaningless--something someone says
+  that doesn't mean anything.
+questions:
+  - q: What words describe something that has no meaning?
+    words: >-
+      meaningless, absurd, lack meaning, ridiculous, senseless, nonsensical, without rhyme
+      or reason, unintelligible, inane
+  - q: What words refer to saying something that has no meaning?
+    words: jabber, babble
+  - q: What words refer to something that has no meaning?
+    words: nonsense, gibberish, babble, drivel, hocus-pocus, mumbo jumbo, gobbledygook

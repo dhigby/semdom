@@ -1,0 +1,12 @@
+code: "4.1.9.1.1"
+guid: D1E58469-52E3-4B50-B0DE-00BF9F09F8D4
+name: Grandfather, grandmother
+description: Use this domain for words referring to grandparents and ancestors.
+ocmCodes: 603 Grandparents and Grandchildren
+questions:
+  - q: What words refer to the parents of your parents?
+    words: grandparent, grandfather, grandmother
+  - q: What words refer to your ancestors?
+    words: ancestor, forefather, forebear, patriarch, matriarch, progenitor, background, origins
+  - q: What words describe something having to do with your ancestors?
+    words: ancestral, ancestry

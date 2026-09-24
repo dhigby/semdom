@@ -1,0 +1,25 @@
+code: "4.8.2.6"
+guid: 8594CB26-9F3C-48F5-B00B-F055EB5A5E61
+name: Riot
+description: >-
+  Use this domain for words related to a riot--when lots of people are fighting and breaking
+  the law.
+ocmCodes: 579 Brawls, Riots and Banditry
+louwNidaCodes: 39H Riot
+related: ["3.2.5.4.2"]
+questions:
+  - q: What words refer to rioting?
+    words: >-
+      riot (v), loot, disturb the peace, go on a frenzy, go on a rampage, be in an uproar,
+      run amok
+  - q: What words refer to a riot?
+    words: >-
+      riot (n), civil disobedience, civil disturbance, clash, commotion, confrontation,
+      disorder, disorderly conduct, disturbance, frenzy, furor, melee, outbreak, rampage,
+      tumult, turbulence, turmoil, unrest, upheaval, uproar
+  - q: What words refer to people who are rioting?
+    words: rioter, mob, rabble
+  - q: What words describe people who are rioting?
+    words: frenetic, wild
+  - q: What words describe a situation or actions when people are rioting?
+    words: riotous, convulsive, disorderly, tumultuous, turbulent

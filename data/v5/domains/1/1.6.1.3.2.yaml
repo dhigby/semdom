@@ -1,0 +1,9 @@
+code: "1.6.1.3.2"
+guid: 36B3CFB6-0FEA-4628-AA8D-F9B7AF48F436
+name: Lizard
+description: Use this domain for words related to lizards.
+questions:
+  - q: What general words refer to lizards?
+    words: lizard
+  - q: What species of lizard are there?
+    words: chameleon, agama lizard, skink, gecko, monitor lizard, iguana

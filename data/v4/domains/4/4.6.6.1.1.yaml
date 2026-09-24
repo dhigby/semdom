@@ -1,0 +1,15 @@
+code: "4.6.6.1.1"
+guid: 0448C78B-DBB7-417C-AFC5-B227A1475825
+name: Arrest
+description: Use this domain for words related to arresting a criminal.
+louwNidaCodes: 37F Seize, Take into Custody
+related: ["7.2.6.1"]
+questions:
+  - q: What do police do to suspected criminals?
+    words: pursue, hunt down, look for, post want ads
+  - q: What words refer to the police arresting a criminal?
+    words: >-
+      arrest, apprehend, apprehension, bust, capture, catch, collar, detain, detention, nab,
+      pick up, seize, seizure, take away, take into custody, take prisoner, trap
+  - q: What do the police do to a criminal?
+    words: arraign, book, lock up, imprison, put behind bars, handcuff, chain

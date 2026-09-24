@@ -1,0 +1,19 @@
+code: "2.1.7"
+guid: 49C525B3-2163-48E1-B3BD-57E5CDC486A4
+name: Flesh
+description: Use this domain for words related to the soft tissue of the body.
+questions:
+  - q: What general words refer to the soft tissue?
+    words: flesh, fleshy, tissue, soft tissue
+  - q: What types of soft tissue are there?
+    words: >-
+      connective tissue, fat, cartilage, gland, lymph gland, membrane, fiber, sheath,
+      vesicle
+  - q: What words refer to the muscles?
+    words: >-
+      muscle, meat, muscular, biceps, triceps, extensor, retractor, gluteus, smooth muscle,
+      sphincter, striated muscle
+  - q: What words describe someone's flesh or muscles?
+    words: muscular, firm, flabby, fleshy
+  - q: What words refer to the tendons?
+    words: tendon, ligament, sinew, hamstring

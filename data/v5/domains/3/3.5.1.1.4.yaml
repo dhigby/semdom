@@ -1,0 +1,13 @@
+code: "3.5.1.1.4"
+guid: 78B0AD1B-0766-41BA-B788-D176ADDD5E9F
+name: Speak little
+description: >-
+  Use this domain for words related to speaking a little, either because you do not like to
+  talk, or you think you should not talk.
+questions:
+  - q: What words refer to speaking a little?
+    words: >-
+      speak little, taciturn, shy, man of few words, uncommunicative, reticent, hold your
+      tongue
+  - q: What words refer to saying something in a short time?
+    words: brevity, brief, concise, curt, pithy, succinct, synopsis, synoptic, terse

@@ -1,0 +1,20 @@
+code: "9.4.2.3"
+guid: 47FEEE3E-80E1-469A-911C-0C550B37A2F8
+name: Necessary
+description: >-
+  Use this domain for words that a speaker uses to indicate that he thinks something must
+  happen.
+louwNidaCodes: 71E Necessary, Unnecessary
+questions:
+  - q: What words indicate that something is necessary?
+    words: must, need to, have to, have got to
+  - q: What words describe something that is necessary?
+    words: >-
+      necessary, compulsory, essential, imperative, indispensable, inevitable, mandatory,
+      obligatory, required, unavoidable, urgent, vital
+  - q: What words refer to something that is necessary?
+    words: necessity, need, obligation, prerequisite, requirement
+  - q: What words describe something that is not necessary?
+    words: >-
+      unnecessary, extraneous, incidental, inessential, needless, nonessential,
+      uncalled-for, unessential, unnecessary, unneeded

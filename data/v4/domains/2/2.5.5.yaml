@@ -1,0 +1,18 @@
+code: "2.5.5"
+guid: FA32115E-E389-47bd-91E1-61779172CCF2
+name: Cause of disease
+description: Use this domain for words referring to the cause of disease.
+ocmCodes: 164 Morbidity; 753 Theory of Disease
+questions:
+  - q: What words refer to the cause of a disease?
+    words: cause, source
+  - q: What words refer to causing someone to be sick?
+    words: make someone sick, spread sickness, infect, be infectious, be contagious, communicable
+  - q: What things cause disease?
+    words: >-
+      infection, contagion, curse, spirit, psychosomatic, bacteria, virus, germ, chill,
+      exposure, chemical imbalance, genetic defect
+  - q: What words describe something that can make you sick?
+    words: infectious, contagious, be bad for you, be bad for your health, unsanitary, unhygienic
+  - q: What words refer to finding the cause of a disease?
+    words: diagnose

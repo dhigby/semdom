@@ -1,0 +1,10 @@
+code: "7.2.3.6"
+guid: 5A021F98-2EFB-4BAF-9384-A553DC3DF86C
+name: Return
+description: >-
+  Use this domain for words referring to returning to a place--to go back to a place you
+  earlier left.
+louwNidaCodes: 15G Return
+questions:
+  - q: What words refer to returning to a place?
+    words: return, come back, move back

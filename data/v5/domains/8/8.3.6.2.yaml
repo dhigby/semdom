@@ -1,0 +1,11 @@
+code: "8.3.6.2"
+guid: 16EE1E09-27AD-48C5-AA07-6933ECBBC716
+name: Hard, firm
+description: Use this domain for words that describe something that is hard--not easily cut, or broken.
+questions:
+  - q: What words describe something that is hard?
+    words: hard, adamant, firm, indurate, petrified, concrete, tough
+  - q: What words refer to something becoming hard?
+    words: harden, set, stiffen up
+  - q: What words refer to making something hard?
+    words: harden, firm up, petrify, stiffen, toughen

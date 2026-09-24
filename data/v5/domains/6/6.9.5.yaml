@@ -1,0 +1,26 @@
+code: "6.9.5"
+guid: 73726931-EF12-4D39-A76E-7742F4B7C9CD
+name: Economics
+description: >-
+  Use this domain for words related to economics--the study of the money, trade, and
+  industry of a country.
+ocmCodes: >-
+  179 Economic Planning and Development; 433 Production and Supply; 434 Income and Demand;
+  454 Saving and Investment; 455 Speculation; 458 Business Cycles
+questions:
+  - q: What words refer to the study of money and wealth?
+    words: economics
+  - q: What words refer to the economic system of a country?
+    words: economy
+  - q: What words refer to a person who studies the economy?
+    words: economist
+  - q: What words refer to different kinds of economic systems?
+    words: >-
+      capitalism, capitalist, socialism, socialist, communism, communist, free enterprise,
+      private enterprise, free-market economy
+  - q: What words refer to how much money a country has?
+    words: gross national product
+  - q: What words describe a good economy?
+    words: boom, prosper, prosperous, prosperity, bull market
+  - q: What words describe a bad economy?
+    words: depression, recession, inflation, crash, slump, bear market

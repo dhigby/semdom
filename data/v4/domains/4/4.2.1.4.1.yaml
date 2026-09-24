@@ -1,0 +1,10 @@
+code: "4.2.1.4.1"
+guid: 252886C4-9317-4C6B-A69E-13520EB89736
+name: Welcome, receive
+description: Use this domain for words related to welcoming a visitor.
+louwNidaCodes: 34G Welcome, Receive
+questions:
+  - q: What words refer to welcoming a person who has just arrived?
+    words: welcome, receive, greet, take in, grant asylum, open your door to, admit
+  - q: What greetings are used to welcome a guest?
+    words: Hello. Welcome. Come in.

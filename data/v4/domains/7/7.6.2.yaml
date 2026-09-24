@@ -1,0 +1,10 @@
+code: "7.6.2"
+guid: BD9DE99F-6A92-47EE-B6BC-E9877EA21202
+name: Find
+description: Use this domain for words related to finding something that has been hidden or lost.
+louwNidaCodes: 27B Learn the Location of Something
+questions:
+  - q: What words refer to finding something that has been hidden?
+    words: find, discover, discovery, uncover, eureka, locate
+  - q: What words refer to learning the location of something?
+    words: come upon, discover, discovery, ferret out, find, learn, learn the whereabouts, strike

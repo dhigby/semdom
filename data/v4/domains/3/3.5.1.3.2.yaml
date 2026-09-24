@@ -1,0 +1,11 @@
+code: "3.5.1.3.2"
+guid: 9F0BCAB1-8256-47A1-853C-408F025E04E7
+name: Tell a lie
+description: Use this domain for words related to lying--to say something that is not true.
+questions:
+  - q: What words refer to saying something that is not true?
+    words: lie, tell a lie, pervert truth, deceive, tell tales, perjure, make up
+  - q: What words refer to a lie?
+    words: lie, falsehood, fib, white lie, half-truth, perjury, propaganda
+  - q: What words refer to someone who lies?
+    words: liar

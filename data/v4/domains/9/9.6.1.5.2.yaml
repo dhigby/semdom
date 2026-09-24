@@ -1,0 +1,15 @@
+code: "9.6.1.5.2"
+guid: F94E9041-49B0-4D25-AA54-9446C5AB45F4
+name: Instead
+description: >-
+  Use this domain for words indicating that something is true of one thing (or person)
+  instead of another thing.
+questions:
+  - q: What words indicate that something is true of one thing instead of another thing?
+    words: instead, rather than, in place of, in preference to, in favor of, in lieu
+    sentence: >-
+      I couldn't do that, so I did this <instead>.; I did this <instead of> that.; I want
+      this <rather than> that.
+  - q: What words indicate that something is true of one person instead of another person?
+    words: instead, in someone's place, for, on someone's behalf
+    sentence: I couldn't do this, so he did it <instead>.; I went <instead of> him.

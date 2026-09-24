@@ -1,0 +1,31 @@
+code: "7.1.9"
+guid: 86E5C062-D90F-476C-A363-264ADFAFEDFA
+name: Move a part of the body
+description: Use this domain for words referring to moving various parts of the body.
+related: ["2.1.1.1", "2.1.1.2", "2.1.1.3", "2.1.1.4"]
+questions:
+  - q: What words refer to moving a part of your body forward or out?
+    words: extend, hold out, put out, stick out, stretch
+  - q: What words refer to moving the head?
+    words: shake, nod, throw (head) back, bow, hang, hold high, crane (neck)
+  - q: What words refer to moving parts of the face (other than eyes, ears, nose, and mouth)?
+    words: raise (eyebrows), jut (chin)
+  - q: What words refer to moving your arms and shoulders?
+    words: >-
+      shrug (shoulders), raise (arm), salute, shake (fist), clench (fist), fold (arms),
+      cross (arms), crook (arm/finger), crack (knuckles), spread (arms/fingers), hold up
+      your hands, fold your arms, cross your arms
+  - q: What words refer to moving your legs?
+    words: kick, stamp, bend, shake, twist (ankle), cross (your legs), wiggle (toes)
+  - q: What words refer to moving your torso?
+    words: >-
+      sway (hips), rotate (hips), suck in (stomach), stick out (chest), straighten (back),
+      bend (back), bow (at the waist), double up, twist, curl up
+  - q: What words refer to moving your muscles?
+    words: >-
+      flex (muscles), ripple, contract, tighten, tense, relax, bunch up, cramp, twitch,
+      stretch, tear, pull, bulge, spasm, convulsion
+  - q: What words refer to when your body shakes?
+    words: shake, quiver, tremble, have the chills, quake, shiver
+  - q: What words refer to moving suddenly?
+    words: jerk, twitch

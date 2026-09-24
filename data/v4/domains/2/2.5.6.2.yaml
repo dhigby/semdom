@@ -1,0 +1,19 @@
+code: "2.5.6.2"
+guid: 5238FE9C-4BBE-444C-B5F6-18F946B3D6AA
+name: Fever
+description: Use this domain for words related to having a fever.
+questions:
+  - q: What words refer to having a fever?
+    words: >-
+      fever, feverish, temperature, have a fever/temperature, run a temperature, be hot, be
+      burning up
+  - q: What words refer to a fever increasing?
+    words: rise
+  - q: What words refer to a fever decreasing?
+    words: fall, break
+  - q: What are the symptoms of having a fever?
+    words: shiver, shake, have the shakes, chills
+  - q: What words refer to measuring someone's fever?
+    words: take someone's temperature
+  - q: What instruments are used for measuring a fever?
+    words: thermometer

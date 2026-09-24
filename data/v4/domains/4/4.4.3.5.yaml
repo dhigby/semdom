@@ -1,0 +1,7 @@
+code: "4.4.3.5"
+guid: 05811FBE-2361-4219-A5D3-BE3DC487F6FA
+name: Solve a problem
+description: Use this domain for words related to solving a problem.
+questions:
+  - q: What words refer to solving a problem?
+    words: solve, resolve, put right, find a solution, rectify

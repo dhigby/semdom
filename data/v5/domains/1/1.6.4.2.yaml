@@ -1,0 +1,18 @@
+code: "1.6.4.2"
+guid: 8F68D85F-70F8-4662-9B4B-1DD2900A002A
+name: Animal eating
+description: >-
+  Use this domain for words referring to animals eating. Because animals often eat in very
+  different ways from people, many languages will have words that are specific to the way an
+  animal eats.
+questions:
+  - q: How do mammals eat?
+    words: graze, feed, chew the cud
+  - q: How do carnivores eat?
+    words: devour, gorge, tear (prey)
+  - q: How do birds eat?
+    words: peck
+  - q: How do snakes eat?
+    words: swallow
+  - q: How do insects eat?
+    words: suck blood, bloodsucking, chew (holes in leaves)

@@ -1,0 +1,30 @@
+code: "2.4.4"
+guid: B5700AD7-36A1-4608-8789-8F84007244F8
+name: Tired
+description: Use this domain for words related to being tired.
+louwNidaCodes: 23F Tire, Rest
+related: ["5.7", "6.1.2.4.2"]
+questions:
+  - q: What words describe someone who is tired?
+    words: >-
+      tired, exhausted, tired out, worn out, weary, shattered, drained, beat, dead beat, be
+      dead on your feet, be ready to drop, bushed, pooped, tuckered out, knackered, run
+      down, spent, dog-tired, haggard
+  - q: What words describe someone who is tired and doesn't want to work?
+    words: lethargic, sluggish, languid
+  - q: What words refer to being tired and wanting to sleep?
+    words: sleepy, drowsy, half-asleep, can hardly keep your eyes open
+  - q: What words refer to becoming tired?
+    words: get tired, tire, flag, run out of steam, burn out
+  - q: What words refer to something making someone tired?
+    words: >-
+      tire out, wear out, exhaust, tire, do someone in, it nearly killed me, take it out of,
+      weary, fatigue, drain, tax, wear someone down, work someone to death
+  - q: What words describe something that makes someone tired?
+    words: >-
+      tiring, exhausting, wearing, boring, draining, grueling, taxing, tedious, wearisome,
+      wearying
+  - q: What words refer to the condition of being tired?
+    words: tiredness, exhaustion, fatigue, weariness, lethargy, jet-lag, sluggishness
+  - q: What do people do when they are tired?
+    words: yawn, sigh, drag, droop, drop, faint, flag, pant, puff, stretch, wilt, wind down

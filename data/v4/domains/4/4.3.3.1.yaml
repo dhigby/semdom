@@ -1,0 +1,19 @@
+code: "4.3.3.1"
+guid: 642FF468-E6C8-4FD0-8F52-262EFA8F7774
+name: Hate, ill will
+description: >-
+  Use this domain for words referring to hating someone--to want something bad to happen to
+  someone, or to want to do something bad to someone.
+louwNidaCodes: 88Z Hate, Hateful
+related: ["3.4.2.1.2"]
+questions:
+  - q: What words refer to hating someone?
+    words: hate, wish evil on, wish one ill, want revenge, have it in for
+  - q: What words refer to the wish that something bad would happen to someone?
+    words: >-
+      hate, hatred, animosity, antagonism, antipathy, enmity, hostility, ill will,
+      malevolence, malice, spite
+  - q: What words describe a person who hates?
+    words: hateful, hating, antagonistic, hostile, malicious, spiteful
+  - q: What words describe a person who is hated?
+    words: hated

@@ -1,0 +1,24 @@
+code: "8.2.6.4"
+guid: 6C54F0B0-B056-4090-B3F0-D5EC6710D4AB
+name: Low
+description: >-
+  Use this domain for words indicating that something is low--in the air but not high above
+  the ground.
+louwNidaCodes: 81B High, Low, Deep
+questions:
+  - q: What words describe something that is low?
+    words: low
+  - q: What words describe something that is very low?
+    words: hugging the ground, down low, way down
+  - q: What words indicate that something is low?
+    words: be low, down
+  - q: What words refer to becoming low?
+    words: fall
+  - q: What words refer to making something low?
+    words: lower
+  - q: What words describe something that has been made low?
+    words: lowered
+  - q: What words describe a surface that is lower than the area around it?
+    words: low-lying, depressed, depression
+  - q: What words refer to being lower than another thing?
+    words: lower, lowest

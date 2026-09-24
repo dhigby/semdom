@@ -1,0 +1,14 @@
+code: "5.4.4"
+guid: C81004A7-499E-4E05-84C8-3D74A17E97FD
+name: Care for the teeth
+description: Use this domain for words related to caring for your teeth.
+related: ["2.1.1.5", "2.5.2.4"]
+questions:
+  - q: What words refer to caring for your teeth?
+    words: clean, brush, floss, pick your teeth, gargle
+  - q: What do people use to clean their teeth?
+    words: toothbrush, floss, toothpick, toothpaste, mouthwash
+  - q: What words are used to describe the condition of your teeth?
+    words: >-
+      clean, dirty, yellow, decayed, chipped, loose, worn, bad breath, food stuck between
+      the teeth

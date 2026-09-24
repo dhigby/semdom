@@ -1,0 +1,8 @@
+code: "7.4.6"
+guid: E7119442-3063-422a-A03E-D02E570CCD0F
+name: Not have
+description: Use this domain for words related to having something.
+louwNidaCodes: 57E Need, Lack
+questions:
+  - q: What words refer to not having something?
+    words: not have, haven't go, without, be missing, devoid of, empty-handed, wanting

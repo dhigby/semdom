@@ -1,0 +1,19 @@
+code: "1.3.5"
+guid: E7E5DBF2-6D5B-4869-B357-8A7860C29002
+name: Solutions of water
+description: >-
+  Use this domain for words referring to a mixture of water and a substance (such as salt or
+  sugar) that dissolves in water.
+questions:
+  - q: What words refer to mixing something with water?
+    words: solution, mix with water
+  - q: What words refer to a substance dissolving in water?
+    words: dissolve (in water), produce a solution
+  - q: What words refer to adding more water to a solution?
+    words: dilute, be diluted, add water, water down, thin
+  - q: What words refer to adding more of a substance to the solution?
+    words: concentrate, be concentrated, concentration, thick
+  - q: What words refer to adding air or a gas to water?
+    words: aerate, carbonated, carbonation
+  - q: What words refer to water flowing through something and dissolving something in it?
+    words: leach

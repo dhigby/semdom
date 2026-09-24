@@ -1,0 +1,26 @@
+code: "8.1.2.2"
+guid: 83899B19-8B39-4BF0-B124-4C6188569EC8
+name: Add numbers
+description: Use this domain for words related to adding two numbers together.
+louwNidaCodes: 59H Add, Subtract x
+related: ["7.5.2.3"]
+questions:
+  - q: What words refer to adding two numbers together?
+    words: add, addition
+  - q: What words refer to adding a series of numbers?
+    words: add up, tally (v), total (v)
+  - q: What words are used for addition equations?
+    words: plus, and, added to
+    sentence: Two <plus> two is four.; Two <and> two makes four.; Two <added to> two equals four.
+  - q: What words indicate the answer in an equation?
+    words: makes
+  - q: What words refer to the total?
+    words: >-
+      total (n), total (adj), sum, tally (n), grand total, subtotal, gross, aggregate,
+      amount
+  - q: What words indicate that a particular number is the total?
+    words: altogether, in total, in all, all told
+  - q: What words indicate that the number of a group of things reaches a particular total?
+    words: >-
+      come to, amount to, total (v), reach, add up to, make, bring the number to, bring the
+      total to, number (v)

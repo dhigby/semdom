@@ -1,0 +1,14 @@
+code: "6.8.4.3"
+guid: 0F7C4D2F-ED94-49BA-A91C-FBA36193F35A
+name: Price
+description: >-
+  Use this domain for words related to the price of something--how much money you have to
+  pay to buy something.
+ocmCodes: 435 Price and Value
+questions:
+  - q: What words refer to the price of something?
+    words: cost, price, value, charge, rate, wage, expense
+  - q: What words refer to setting a price for something?
+    words: price, set price, fix price, raise price, lower price, value, charge
+  - q: What words do people use when they ask the price of something?
+    sentence: How much does this cost?

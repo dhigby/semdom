@@ -1,0 +1,18 @@
+code: "8.1.5.2"
+guid: BFBFB9B5-363D-4767-A5CB-1B11B348EFD6
+name: None, nothing
+description: Use this domain for words that nothing, no one, never, and nowhere.
+related: ["9.4.6.1"]
+questions:
+  - q: What words refer to no thing?
+    words: none, not any, no, nothing, not anything, be nil, bugger all
+  - q: What words refer to not any of a number of things?
+    words: none, not any, no, not one, not a, nothing
+  - q: What words refer to no person?
+    words: no one, nobody
+  - q: What words refer to no time?
+    words: never, no time
+  - q: What words refer to no place?
+    words: nowhere, no place
+  - q: What words refer to the number zero?
+    words: zero, nil, naught, o

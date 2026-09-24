@@ -1,0 +1,13 @@
+code: "2.1.2"
+guid: A80F12AA-C30D-4892-978A-B076985742D5
+name: Torso
+description: Use this domain for the parts of the torso.
+questions:
+  - q: What words refer to the torso?
+    words: body, trunk, torso, abdomen, abdominal
+  - q: What are the parts of the torso?
+    words: >-
+      shoulder, chest, breast, bust, nipple, teat, bosom, stomach, belly, tummy, navel,
+      belly button, back, lower back, rear end, buttock, bottom, behind, side, waist,
+      middle, hip, girdle, groin, hollow part of hip, anus, lumbar, midriff, pectoral,
+      pubis, thorax, thoracic

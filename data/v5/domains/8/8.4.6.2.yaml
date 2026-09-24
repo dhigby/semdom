@@ -1,0 +1,13 @@
+code: "8.4.6.2"
+guid: BBC5B3A2-4C6E-4D07-849B-4D616615A794
+name: Past
+description: Use this domain for words referring to the past or to a time in the past.
+questions:
+  - q: What words refer to the past?
+    words: >-
+      past, before, in the past, in years gone by, in the times of our fathers, in our
+      father's/grandparent's/ancestor's time, was (being/doing/happening), lately
+  - q: What words describe something that existed or happened in the past?
+    words: earlier, foregoing
+  - q: What words describe something that existed or happened long ago?
+    words: the distant past, long ago
